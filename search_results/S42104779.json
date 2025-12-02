@@ -1,0 +1,823 @@
+[
+  {
+    "id": "https://openalex.org/W3188896719",
+    "doi": "https://doi.org/10.1093/jnlids/idab018",
+    "title": "Inter-State Communication under ICERD: From ad hoc Conciliation to Collective Enforcement?",
+    "display_name": "Inter-State Communication under ICERD: From ad hoc Conciliation to Collective Enforcement?",
+    "relevance_score": 9.880864,
+    "publication_year": 2021,
+    "publication_date": "2021-06-11",
+    "ids": {
+      "openalex": "https://openalex.org/W3188896719",
+      "doi": "https://doi.org/10.1093/jnlids/idab018",
+      "mag": "3188896719"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1093/jnlids/idab018",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1093/jnlids/idab018",
+      "pdf_url": "https://academic.oup.com/jids/article-pdf/12/3/405/41192049/idab018.pdf",
+      "source": {
+        "id": "https://openalex.org/S42104779",
+        "display_name": "Journal of International Dispute Settlement",
+        "issn_l": "2040-3585",
+        "issn": [
+          "2040-3585",
+          "2040-3593"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310311648",
+        "host_organization_name": "Oxford University Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310311648"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of International Dispute Settlement",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://academic.oup.com/jids/article-pdf/12/3/405/41192049/idab018.pdf",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5001408331",
+          "display_name": "Dai Tamada",
+          "orcid": "https://orcid.org/0000-0002-0214-4388"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I205924995",
+            "display_name": "Japan Society for the Promotion of Science",
+            "ror": "https://ror.org/00hhkn466",
+            "country_code": "JP",
+            "type": "nonprofit",
+            "lineage": [
+              "https://openalex.org/I1319490839",
+              "https://openalex.org/I205924995"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I65837984",
+            "display_name": "Kobe University",
+            "ror": "https://ror.org/03tgsfw79",
+            "country_code": "JP",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I65837984"
+            ]
+          }
+        ],
+        "countries": [
+          "JP"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Dai Tamada",
+        "raw_affiliation_strings": [
+          "Professor of Public International Law, Graduate School of Law, Kobe University, Japan. E-mail: tamada@port.kobe-u.ac.jp This work was supported by Japan Society for the Promotion of Science (JSPS) KAKENHI Grant Number 19K01313"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Professor of Public International Law, Graduate School of Law, Kobe University, Japan. E-mail: tamada@port.kobe-u.ac.jp This work was supported by Japan Society for the Promotion of Science (JSPS) KAKENHI Grant Number 19K01313",
+            "institution_ids": [
+              "https://openalex.org/I205924995",
+              "https://openalex.org/I65837984"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5001408331"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I205924995",
+      "https://openalex.org/I65837984"
+    ],
+    "apc_list": {
+      "value": 4151,
+      "currency": "USD",
+      "value_usd": 4151
+    },
+    "apc_paid": {
+      "value": 4151,
+      "currency": "USD",
+      "value_usd": 4151
+    },
+    "fwci": 18.99323968,
+    "has_fulltext": false,
+    "cited_by_count": 22,
+    "citation_normalized_percentile": {
+      "value": 0.98983559,
+      "is_in_top_1_percent": true,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 96,
+      "max": 100
+    },
+    "biblio": {
+      "volume": null,
+      "issue": null,
+      "first_page": null,
+      "last_page": null
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10749",
+      "display_name": "International Law and Human Rights",
+      "score": 0.9656000137329102,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10749",
+        "display_name": "International Law and Human Rights",
+        "score": 0.9656000137329102,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12040",
+        "display_name": "International Arbitration and Investment Law",
+        "score": 0.9316999912261963,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1408",
+          "display_name": "Strategy and Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/conciliation",
+        "display_name": "Conciliation",
+        "score": 0.9732747673988342
+      },
+      {
+        "id": "https://openalex.org/keywords/enforcement",
+        "display_name": "Enforcement",
+        "score": 0.84659343957901
+      },
+      {
+        "id": "https://openalex.org/keywords/convention",
+        "display_name": "Convention",
+        "score": 0.7883973121643066
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.6070457100868225
+      },
+      {
+        "id": "https://openalex.org/keywords/state",
+        "display_name": "State (computer science)",
+        "score": 0.5982638001441956
+      },
+      {
+        "id": "https://openalex.org/keywords/human-rights",
+        "display_name": "Human rights",
+        "score": 0.544779896736145
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.5397502183914185
+      },
+      {
+        "id": "https://openalex.org/keywords/law-and-economics",
+        "display_name": "Law and economics",
+        "score": 0.37873753905296326
+      },
+      {
+        "id": "https://openalex.org/keywords/mediation",
+        "display_name": "Mediation",
+        "score": 0.22412973642349243
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.22009369730949402
+      },
+      {
+        "id": "https://openalex.org/keywords/computer-science",
+        "display_name": "Computer science",
+        "score": 0.11001604795455933
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C175762713",
+        "wikidata": "https://www.wikidata.org/wiki/Q13479560",
+        "display_name": "Conciliation",
+        "level": 3,
+        "score": 0.9732747673988342
+      },
+      {
+        "id": "https://openalex.org/C2779777834",
+        "wikidata": "https://www.wikidata.org/wiki/Q4202277",
+        "display_name": "Enforcement",
+        "level": 2,
+        "score": 0.84659343957901
+      },
+      {
+        "id": "https://openalex.org/C2780608745",
+        "wikidata": "https://www.wikidata.org/wiki/Q367293",
+        "display_name": "Convention",
+        "level": 2,
+        "score": 0.7883973121643066
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.6070457100868225
+      },
+      {
+        "id": "https://openalex.org/C48103436",
+        "wikidata": "https://www.wikidata.org/wiki/Q599031",
+        "display_name": "State (computer science)",
+        "level": 2,
+        "score": 0.5982638001441956
+      },
+      {
+        "id": "https://openalex.org/C169437150",
+        "wikidata": "https://www.wikidata.org/wiki/Q8458",
+        "display_name": "Human rights",
+        "level": 2,
+        "score": 0.544779896736145
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.5397502183914185
+      },
+      {
+        "id": "https://openalex.org/C190253527",
+        "wikidata": "https://www.wikidata.org/wiki/Q295354",
+        "display_name": "Law and economics",
+        "level": 1,
+        "score": 0.37873753905296326
+      },
+      {
+        "id": "https://openalex.org/C179420905",
+        "wikidata": "https://www.wikidata.org/wiki/Q223871",
+        "display_name": "Mediation",
+        "level": 2,
+        "score": 0.22412973642349243
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.22009369730949402
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.11001604795455933
+      },
+      {
+        "id": "https://openalex.org/C11413529",
+        "wikidata": "https://www.wikidata.org/wiki/Q8366",
+        "display_name": "Algorithm",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "doi:10.1093/jnlids/idab018",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1093/jnlids/idab018",
+        "pdf_url": "https://academic.oup.com/jids/article-pdf/12/3/405/41192049/idab018.pdf",
+        "source": {
+          "id": "https://openalex.org/S42104779",
+          "display_name": "Journal of International Dispute Settlement",
+          "issn_l": "2040-3585",
+          "issn": [
+            "2040-3585",
+            "2040-3593"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310311648",
+          "host_organization_name": "Oxford University Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311648"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of International Dispute Settlement",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:infocom.co.jp:G0000003oai:90009065",
+        "is_oa": false,
+        "landing_page_url": null,
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401034",
+          "display_name": "Josai University Repository of Academia (Josai University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I201389808",
+          "host_organization_name": "Josai University",
+          "host_organization_lineage": [
+            "https://openalex.org/I201389808"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "Journal Article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1093/jnlids/idab018",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1093/jnlids/idab018",
+      "pdf_url": "https://academic.oup.com/jids/article-pdf/12/3/405/41192049/idab018.pdf",
+      "source": {
+        "id": "https://openalex.org/S42104779",
+        "display_name": "Journal of International Dispute Settlement",
+        "issn_l": "2040-3585",
+        "issn": [
+          "2040-3585",
+          "2040-3593"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310311648",
+        "host_organization_name": "Oxford University Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310311648"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of International Dispute Settlement",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [
+      {
+        "id": "https://metadata.un.org/sdg/16",
+        "display_name": "Peace, Justice and strong institutions",
+        "score": 0.5400000214576721
+      },
+      {
+        "id": "https://metadata.un.org/sdg/10",
+        "display_name": "Reduced inequalities",
+        "score": 0.4399999976158142
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": true,
+      "grobid_xml": true
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W2390602501",
+      "https://openalex.org/W2556607937",
+      "https://openalex.org/W2071001950",
+      "https://openalex.org/W2365703731",
+      "https://openalex.org/W2734330901",
+      "https://openalex.org/W1599537356",
+      "https://openalex.org/W3122014024",
+      "https://openalex.org/W2372210886",
+      "https://openalex.org/W3124443392"
+    ],
+    "abstract_inverted_index": {
+      "Abstract": [
+        0
+      ],
+      "The": [
+        1
+      ],
+      "International": [
+        2
+      ],
+      "Convention": [
+        3,
+        84
+      ],
+      "on": [
+        4,
+        23,
+        85
+      ],
+      "the": [
+        5,
+        15,
+        21,
+        24,
+        31,
+        43,
+        65,
+        70,
+        73,
+        82,
+        133
+      ],
+      "Elimination": [
+        6,
+        25
+      ],
+      "of": [
+        7,
+        10,
+        26,
+        72,
+        76,
+        142
+      ],
+      "All": [
+        8
+      ],
+      "Forms": [
+        9
+      ],
+      "Racial": [
+        11,
+        27
+      ],
+      "Discrimination": [
+        12,
+        28
+      ],
+      "(ICERD)": [
+        13
+      ],
+      "contains": [
+        14,
+        98
+      ],
+      "inter-State": [
+        16,
+        66
+      ],
+      "communication": [
+        17
+      ],
+      "procedure": [
+        18,
+        57,
+        68,
+        138
+      ],
+      "within": [
+        19,
+        69
+      ],
+      "which": [
+        20,
+        126
+      ],
+      "Committee": [
+        22
+      ],
+      "(CERD)": [
+        29
+      ],
+      "received": [
+        30
+      ],
+      "following": [
+        32
+      ],
+      "three": [
+        33
+      ],
+      "communications": [
+        34
+      ],
+      "in": [
+        35
+      ],
+      "2018:": [
+        36
+      ],
+      "Qatar": [
+        37,
+        41
+      ],
+      "v": [
+        38,
+        42,
+        49
+      ],
+      "Saudi": [
+        39
+      ],
+      "Arabia,": [
+        40
+      ],
+      "United": [
+        44
+      ],
+      "Arab": [
+        45
+      ],
+      "Emirates,": [
+        46
+      ],
+      "and": [
+        47,
+        124
+      ],
+      "Palestine": [
+        48
+      ],
+      "Israel.": [
+        50
+      ],
+      "In": [
+        51
+      ],
+      "these": [
+        52
+      ],
+      "cases,": [
+        53
+      ],
+      "CERD": [
+        54,
+        134
+      ],
+      "characterized": [
+        55
+      ],
+      "this": [
+        56
+      ],
+      "as": [
+        58,
+        139
+      ],
+      "relating": [
+        59
+      ],
+      "to": [
+        60,
+        64,
+        93,
+        113,
+        121,
+        125,
+        131
+      ],
+      "collective": [
+        61,
+        143
+      ],
+      "enforcement,": [
+        62
+      ],
+      "analogous": [
+        63
+      ],
+      "application": [
+        67
+      ],
+      "order/regime": [
+        71
+      ],
+      "European": [
+        74,
+        83
+      ],
+      "Court": [
+        75
+      ],
+      "Human": [
+        77,
+        86
+      ],
+      "Rights": [
+        78,
+        87
+      ],
+      "(ECtHR).": [
+        79
+      ],
+      "However,": [
+        80
+      ],
+      "unlike": [
+        81
+      ],
+      "(ECHR),": [
+        88
+      ],
+      "ICERD": [
+        89
+      ],
+      "does": [
+        90
+      ],
+      "not": [
+        91
+      ],
+      "refer": [
+        92
+      ],
+      "\u2018collective": [
+        94
+      ],
+      "enforcement\u2019,": [
+        95
+      ],
+      "but": [
+        96
+      ],
+      "merely": [
+        97
+      ],
+      "ad": [
+        99,
+        135
+      ],
+      "hoc": [
+        100,
+        136
+      ],
+      "conciliation,": [
+        101
+      ],
+      "that": [
+        102
+      ],
+      "is": [
+        103,
+        129
+      ],
+      "a": [
+        104,
+        109,
+        114,
+        140
+      ],
+      "bilateral": [
+        105
+      ],
+      "means": [
+        106,
+        141
+      ],
+      "for": [
+        107
+      ],
+      "reaching": [
+        108
+      ],
+      "mutually": [
+        110
+      ],
+      "agreed": [
+        111
+      ],
+      "solution": [
+        112
+      ],
+      "dispute.": [
+        115
+      ],
+      "This": [
+        116
+      ],
+      "article": [
+        117
+      ],
+      "aims,": [
+        118
+      ],
+      "rather": [
+        119
+      ],
+      "critically,": [
+        120
+      ],
+      "assess": [
+        122
+      ],
+      "whether,": [
+        123
+      ],
+      "extent,": [
+        127
+      ],
+      "it": [
+        128
+      ],
+      "justified": [
+        130
+      ],
+      "view": [
+        132
+      ],
+      "conciliation": [
+        137
+      ],
+      "enforcement.": [
+        144
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2024,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 19
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  }
+]

@@ -1,0 +1,4824 @@
+[
+  {
+    "id": "https://openalex.org/W2797477541",
+    "doi": "https://doi.org/10.2307/1339245",
+    "title": "Constitutional Adjudication without a Constitution: The Case of Israel",
+    "display_name": "Constitutional Adjudication without a Constitution: The Case of Israel",
+    "relevance_score": 110.25611,
+    "publication_year": 1969,
+    "publication_date": "1969-04-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2797477541",
+      "doi": "https://doi.org/10.2307/1339245",
+      "mag": "2797477541"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.2307/1339245",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.2307/1339245",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S117766065",
+        "display_name": "Harvard Law Review",
+        "issn_l": "0017-811X",
+        "issn": [
+          "0017-811X",
+          "2161-976X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4322697690",
+        "host_organization_name": "Harvard Law Review Association",
+        "host_organization_lineage": [
+          "https://openalex.org/P4322697690"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Harvard Law Review",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5024750703",
+          "display_name": "Jeffrey M. Albert",
+          "orcid": "https://orcid.org/0000-0003-2245-1745"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Jeffrey M. Albert",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5024750703"
+    ],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 9,
+    "citation_normalized_percentile": {
+      "value": 0.4838848,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 94
+    },
+    "biblio": {
+      "volume": "82",
+      "issue": "6",
+      "first_page": "1245",
+      "last_page": "1245"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10749",
+      "display_name": "International Law and Human Rights",
+      "score": 0.9794999957084656,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10749",
+        "display_name": "International Law and Human Rights",
+        "score": 0.9794999957084656,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10802",
+        "display_name": "Judicial and Constitutional Studies",
+        "score": 0.9745000004768372,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3308",
+          "display_name": "Law"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/adjudication",
+        "display_name": "Adjudication",
+        "score": 0.8804551362991333
+      },
+      {
+        "id": "https://openalex.org/keywords/constitution",
+        "display_name": "Constitution",
+        "score": 0.8202520608901978
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.551270604133606
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.5385440587997437
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C204434341",
+        "wikidata": "https://www.wikidata.org/wiki/Q357789",
+        "display_name": "Adjudication",
+        "level": 2,
+        "score": 0.8804551362991333
+      },
+      {
+        "id": "https://openalex.org/C2776154427",
+        "wikidata": "https://www.wikidata.org/wiki/Q7755",
+        "display_name": "Constitution",
+        "level": 2,
+        "score": 0.8202520608901978
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.551270604133606
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.5385440587997437
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.2307/1339245",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2307/1339245",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S117766065",
+          "display_name": "Harvard Law Review",
+          "issn_l": "0017-811X",
+          "issn": [
+            "0017-811X",
+            "2161-976X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4322697690",
+          "host_organization_name": "Harvard Law Review Association",
+          "host_organization_lineage": [
+            "https://openalex.org/P4322697690"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Harvard Law Review",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W2899084033",
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W2884884929",
+      "https://openalex.org/W2360072188",
+      "https://openalex.org/W864029991",
+      "https://openalex.org/W2130378978",
+      "https://openalex.org/W2373192550",
+      "https://openalex.org/W3123742489",
+      "https://openalex.org/W2119185745",
+      "https://openalex.org/W199376219"
+    ],
+    "abstract_inverted_index": null,
+    "counts_by_year": [
+      {
+        "year": 2014,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2012,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2795745486",
+    "doi": "https://doi.org/10.2307/1337694",
+    "title": "American Precedent in the Supreme Court of Israel",
+    "display_name": "American Precedent in the Supreme Court of Israel",
+    "relevance_score": 106.16181,
+    "publication_year": 1955,
+    "publication_date": "1955-05-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2795745486",
+      "doi": "https://doi.org/10.2307/1337694",
+      "mag": "2795745486"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.2307/1337694",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.2307/1337694",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S117766065",
+        "display_name": "Harvard Law Review",
+        "issn_l": "0017-811X",
+        "issn": [
+          "0017-811X",
+          "2161-976X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4322697690",
+        "host_organization_name": "Harvard Law Review Association",
+        "host_organization_lineage": [
+          "https://openalex.org/P4322697690"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Harvard Law Review",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5089353940",
+          "display_name": "Uriel Gorney",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Uriel Gorney",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5089353940"
+    ],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 7,
+    "citation_normalized_percentile": {
+      "value": 0.40819574,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 90,
+      "max": 94
+    },
+    "biblio": {
+      "volume": "68",
+      "issue": "7",
+      "first_page": "1194",
+      "last_page": "1194"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Jewish and Middle Eastern Studies",
+      "score": 0.9713000059127808,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.9713000059127808,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10749",
+        "display_name": "International Law and Human Rights",
+        "score": 0.9286999702453613,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/supreme-court",
+        "display_name": "Supreme court",
+        "score": 0.8692144155502319
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.6812121272087097
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.6559350490570068
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2778272461",
+        "wikidata": "https://www.wikidata.org/wiki/Q190752",
+        "display_name": "Supreme court",
+        "level": 2,
+        "score": 0.8692144155502319
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.6812121272087097
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.6559350490570068
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.2307/1337694",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2307/1337694",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S117766065",
+          "display_name": "Harvard Law Review",
+          "issn_l": "0017-811X",
+          "issn": [
+            "0017-811X",
+            "2161-976X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4322697690",
+          "host_organization_name": "Harvard Law Review Association",
+          "host_organization_lineage": [
+            "https://openalex.org/P4322697690"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Harvard Law Review",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16",
+        "score": 0.7400000095367432
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W2899084033",
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W2557583602",
+      "https://openalex.org/W1980452762",
+      "https://openalex.org/W3123993492",
+      "https://openalex.org/W2043365553",
+      "https://openalex.org/W1560432242",
+      "https://openalex.org/W2611247913",
+      "https://openalex.org/W4378229060",
+      "https://openalex.org/W4300793527"
+    ],
+    "abstract_inverted_index": null,
+    "counts_by_year": [
+      {
+        "year": 2018,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2292580804",
+    "doi": null,
+    "title": "Zivotofsky II as Precedent in the Executive Branch",
+    "display_name": "Zivotofsky II as Precedent in the Executive Branch",
+    "relevance_score": 11.570332,
+    "publication_year": 2015,
+    "publication_date": "2015-11-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2292580804",
+      "mag": "2292580804"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "mag:2292580804",
+      "is_oa": false,
+      "landing_page_url": "https://dialnet.unirioja.es/servlet/articulo?codigo=5279890",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S117766065",
+        "display_name": "Harvard Law Review",
+        "issn_l": "0017-811X",
+        "issn": [
+          "0017-811X",
+          "2161-976X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4322697690",
+        "host_organization_name": "Harvard Law Review Association",
+        "host_organization_lineage": [
+          "https://openalex.org/P4322697690"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Harvard Law Review",
+      "raw_type": null
+    },
+    "type": "article",
+    "indexed_in": [],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5113930378",
+          "display_name": "Jack L. Goldsmith",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Jack Goldsmith",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5113930378"
+    ],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 1.81423339,
+    "has_fulltext": false,
+    "cited_by_count": 19,
+    "citation_normalized_percentile": {
+      "value": 0.9144569,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 90,
+      "max": 99
+    },
+    "biblio": {
+      "volume": "129",
+      "issue": "1",
+      "first_page": "112",
+      "last_page": "146"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Jewish and Middle Eastern Studies",
+      "score": 0.98089998960495,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.98089998960495,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13445",
+        "display_name": "American Constitutional Law and Politics",
+        "score": 0.9351999759674072,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.6962082982063293
+      },
+      {
+        "id": "https://openalex.org/keywords/sovereignty",
+        "display_name": "Sovereignty",
+        "score": 0.6919782757759094
+      },
+      {
+        "id": "https://openalex.org/keywords/administration",
+        "display_name": "Administration (probate law)",
+        "score": 0.6714440584182739
+      },
+      {
+        "id": "https://openalex.org/keywords/state",
+        "display_name": "State (computer science)",
+        "score": 0.6238218545913696
+      },
+      {
+        "id": "https://openalex.org/keywords/presidential-system",
+        "display_name": "Presidential system",
+        "score": 0.5791770219802856
+      },
+      {
+        "id": "https://openalex.org/keywords/negotiation",
+        "display_name": "Negotiation",
+        "score": 0.5742336511611938
+      },
+      {
+        "id": "https://openalex.org/keywords/legitimacy",
+        "display_name": "Legitimacy",
+        "score": 0.531958818435669
+      },
+      {
+        "id": "https://openalex.org/keywords/population",
+        "display_name": "Population",
+        "score": 0.4980349540710449
+      },
+      {
+        "id": "https://openalex.org/keywords/government",
+        "display_name": "Government (linguistics)",
+        "score": 0.4730093777179718
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.46672192215919495
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.38082125782966614
+      },
+      {
+        "id": "https://openalex.org/keywords/public-administration",
+        "display_name": "Public administration",
+        "score": 0.3303602337837219
+      },
+      {
+        "id": "https://openalex.org/keywords/politics",
+        "display_name": "Politics",
+        "score": 0.21515420079231262
+      },
+      {
+        "id": "https://openalex.org/keywords/philosophy",
+        "display_name": "Philosophy",
+        "score": 0.07447302341461182
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.6962082982063293
+      },
+      {
+        "id": "https://openalex.org/C186229450",
+        "wikidata": "https://www.wikidata.org/wiki/Q42008",
+        "display_name": "Sovereignty",
+        "level": 3,
+        "score": 0.6919782757759094
+      },
+      {
+        "id": "https://openalex.org/C2780765947",
+        "wikidata": "https://www.wikidata.org/wiki/Q12033531",
+        "display_name": "Administration (probate law)",
+        "level": 2,
+        "score": 0.6714440584182739
+      },
+      {
+        "id": "https://openalex.org/C48103436",
+        "wikidata": "https://www.wikidata.org/wiki/Q599031",
+        "display_name": "State (computer science)",
+        "level": 2,
+        "score": 0.6238218545913696
+      },
+      {
+        "id": "https://openalex.org/C197487636",
+        "wikidata": "https://www.wikidata.org/wiki/Q49892",
+        "display_name": "Presidential system",
+        "level": 3,
+        "score": 0.5791770219802856
+      },
+      {
+        "id": "https://openalex.org/C199776023",
+        "wikidata": "https://www.wikidata.org/wiki/Q202875",
+        "display_name": "Negotiation",
+        "level": 2,
+        "score": 0.5742336511611938
+      },
+      {
+        "id": "https://openalex.org/C46295352",
+        "wikidata": "https://www.wikidata.org/wiki/Q207982",
+        "display_name": "Legitimacy",
+        "level": 3,
+        "score": 0.531958818435669
+      },
+      {
+        "id": "https://openalex.org/C2908647359",
+        "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+        "display_name": "Population",
+        "level": 2,
+        "score": 0.4980349540710449
+      },
+      {
+        "id": "https://openalex.org/C2778137410",
+        "wikidata": "https://www.wikidata.org/wiki/Q2732820",
+        "display_name": "Government (linguistics)",
+        "level": 2,
+        "score": 0.4730093777179718
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.46672192215919495
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.38082125782966614
+      },
+      {
+        "id": "https://openalex.org/C3116431",
+        "wikidata": "https://www.wikidata.org/wiki/Q31728",
+        "display_name": "Public administration",
+        "level": 1,
+        "score": 0.3303602337837219
+      },
+      {
+        "id": "https://openalex.org/C94625758",
+        "wikidata": "https://www.wikidata.org/wiki/Q7163",
+        "display_name": "Politics",
+        "level": 2,
+        "score": 0.21515420079231262
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.07447302341461182
+      },
+      {
+        "id": "https://openalex.org/C149923435",
+        "wikidata": "https://www.wikidata.org/wiki/Q37732",
+        "display_name": "Demography",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C41895202",
+        "wikidata": "https://www.wikidata.org/wiki/Q8162",
+        "display_name": "Linguistics",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C11413529",
+        "wikidata": "https://www.wikidata.org/wiki/Q8366",
+        "display_name": "Algorithm",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "mag:2292580804",
+        "is_oa": false,
+        "landing_page_url": "https://dialnet.unirioja.es/servlet/articulo?codigo=5279890",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S117766065",
+          "display_name": "Harvard Law Review",
+          "issn_l": "0017-811X",
+          "issn": [
+            "0017-811X",
+            "2161-976X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4322697690",
+          "host_organization_name": "Harvard Law Review Association",
+          "host_organization_lineage": [
+            "https://openalex.org/P4322697690"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": null,
+        "raw_source_name": "Harvard Law Review",
+        "raw_type": null
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16",
+        "score": 0.6899999976158142
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W2155139280",
+      "https://openalex.org/W2623211047",
+      "https://openalex.org/W348093413",
+      "https://openalex.org/W2523777947",
+      "https://openalex.org/W1548821833",
+      "https://openalex.org/W2752515086",
+      "https://openalex.org/W1672002092",
+      "https://openalex.org/W144673222",
+      "https://openalex.org/W1967673940",
+      "https://openalex.org/W3122318311",
+      "https://openalex.org/W294631157",
+      "https://openalex.org/W3121295029",
+      "https://openalex.org/W2949289438",
+      "https://openalex.org/W2763686537",
+      "https://openalex.org/W2138928068",
+      "https://openalex.org/W2327437461",
+      "https://openalex.org/W3125420163",
+      "https://openalex.org/W2995553300",
+      "https://openalex.org/W2148195395",
+      "https://openalex.org/W2141134167"
+    ],
+    "abstract_inverted_index": {
+      "On": [
+        0
+      ],
+      "May": [
+        1,
+        239
+      ],
+      "14,": [
+        2,
+        240
+      ],
+      "1948,": [
+        3
+      ],
+      "President": [
+        4,
+        71,
+        116,
+        167,
+        171,
+        243,
+        345
+      ],
+      "Harry": [
+        5
+      ],
+      "S.": [
+        6
+      ],
+      "Truman": [
+        7,
+        103,
+        117,
+        244
+      ],
+      "recognized": [
+        8,
+        65,
+        118
+      ],
+      "the": [
+        9,
+        28,
+        61,
+        64,
+        89,
+        96,
+        102,
+        110,
+        152,
+        180,
+        194,
+        200,
+        211,
+        222,
+        227,
+        267,
+        283,
+        302,
+        314,
+        322,
+        328,
+        342,
+        348,
+        361,
+        393,
+        412,
+        420,
+        437,
+        448,
+        455,
+        493,
+        499,
+        515,
+        527,
+        533,
+        541,
+        554,
+        562,
+        567,
+        598,
+        603,
+        616,
+        622
+      ],
+      "State": [
+        10,
+        212,
+        325,
+        534
+      ],
+      "of": [
+        11,
+        15,
+        63,
+        74,
+        113,
+        154,
+        188,
+        224,
+        229,
+        301,
+        324,
+        330,
+        395,
+        440,
+        450,
+        476,
+        535,
+        566,
+        600,
+        610,
+        613,
+        618
+      ],
+      "Israel.": [
+        12
+      ],
+      "(1)": [
+        13
+      ],
+      "Recognition": [
+        14
+      ],
+      "statehood": [
+        16
+      ],
+      "is": [
+        17,
+        418,
+        546,
+        553
+      ],
+      "a": [
+        33,
+        85,
+        189,
+        335,
+        357,
+        505
+      ],
+      "formal": [
+        19
+      ],
+      "acknowledgment": [
+        20
+      ],
+      "by": [
+        21,
+        320
+      ],
+      "another": [
+        22
+      ],
+      "state": [
+        23,
+        66
+      ],
+      "that": [
+        24,
+        80,
+        182,
+        192,
+        199,
+        236,
+        264,
+        285,
+        350,
+        360,
+        379,
+        415,
+        492,
+        518,
+        577
+      ],
+      "an": [
+        25,
+        364,
+        611
+      ],
+      "entity": [
+        26
+      ],
+      "possesses": [
+        27
+      ],
+      "qualifications": [
+        29
+      ],
+      "for": [
+        30,
+        159,
+        540,
+        602
+      ],
+      "statehood,": [
+        31
+      ],
+      "including": [
+        32
+      ],
+      "defined": [
+        34
+      ],
+      "territory,": [
+        35
+      ],
+      "permanent": [
+        36
+      ],
+      "population,": [
+        37
+      ],
+      "government": [
+        38
+      ],
+      "control,": [
+        39
+      ],
+      "and": [
+        40,
+        51,
+        56,
+        59,
+        76,
+        127,
+        129,
+        148,
+        156,
+        174,
+        218,
+        255,
+        537,
+        564,
+        570,
+        585
+      ],
+      "capacity": [
+        41
+      ],
+      "to": [
+        42,
+        144,
+        209,
+        214,
+        270,
+        289,
+        312,
+        326,
+        371,
+        430,
+        434,
+        453,
+        457,
+        531,
+        538,
+        573
+      ],
+      "engage": [
+        43
+      ],
+      "in": [
+        44,
+        95,
+        226,
+        235,
+        282,
+        339,
+        356,
+        400,
+        423,
+        478,
+        498,
+        512,
+        579,
+        597,
+        615,
+        626
+      ],
+      "international": [
+        45,
+        57
+      ],
+      "relations.": [
+        46
+      ],
+      "(2)": [
+        47
+      ],
+      "It": [
+        48
+      ],
+      "enables": [
+        49
+      ],
+      "diplomatic": [
+        50
+      ],
+      "related": [
+        52
+      ],
+      "benefits": [
+        53
+      ],
+      "under": [
+        54
+      ],
+      "domestic": [
+        55
+      ],
+      "law,": [
+        58
+      ],
+      "promotes": [
+        60
+      ],
+      "legitimacy": [
+        62
+      ],
+      "with": [
+        67,
+        252,
+        367,
+        411
+      ],
+      "third": [
+        68
+      ],
+      "parties.": [
+        69
+      ],
+      "(3)": [
+        70
+      ],
+      "Truman's": [
+        72,
+        172
+      ],
+      "recognition": [
+        73
+      ],
+      "Israel,": [
+        75,
+        119
+      ],
+      "his": [
+        77,
+        250,
+        278,
+        368,
+        427,
+        441,
+        461
+      ],
+      "prerecognition": [
+        78
+      ],
+      "maneuvers": [
+        79
+      ],
+      "fostered": [
+        81
+      ],
+      "Israel's": [
+        82,
+        160
+      ],
+      "emergence": [
+        83
+      ],
+      "as": [
+        84,
+        221,
+        332,
+        621
+      ],
+      "nation,": [
+        86
+      ],
+      "were": [
+        87,
+        233
+      ],
+      "among": [
+        88
+      ],
+      "most": [
+        90,
+        555
+      ],
+      "consequential": [
+        91,
+        100
+      ],
+      "unilateral": [
+        92
+      ],
+      "presidential": [
+        93
+      ],
+      "acts": [
+        94
+      ],
+      "twentieth": [
+        97
+      ],
+      "century.": [
+        98
+      ],
+      "Also": [
+        99
+      ],
+      "was": [
+        101,
+        123,
+        276,
+        280,
+        363,
+        398,
+        501,
+        521
+      ],
+      "Administration's": [
+        104
+      ],
+      "later": [
+        105
+      ],
+      "decision": [
+        106,
+        559
+      ],
+      "about": [
+        107
+      ],
+      "sovereignty": [
+        108,
+        161
+      ],
+      "over": [
+        109,
+        121,
+        162,
+        548
+      ],
+      "holy": [
+        111
+      ],
+      "city": [
+        112,
+        237
+      ],
+      "Jerusalem.": [
+        114,
+        163,
+        549
+      ],
+      "When": [
+        115
+      ],
+      "control": [
+        120
+      ],
+      "Jerusalem": [
+        435
+      ],
+      "divided": [
+        124
+      ],
+      "between": [
+        125
+      ],
+      "Israel": [
+        432,
+        459
+      ],
+      "Jordan,": [
+        128
+      ],
+      "fiercely": [
+        130
+      ],
+      "contested.": [
+        131
+      ],
+      "(5)": [
+        132
+      ],
+      "His": [
+        133
+      ],
+      "Administration": [
+        134
+      ],
+      "didn't": [
+        135
+      ],
+      "take": [
+        136
+      ],
+      "sides.": [
+        137
+      ],
+      "Instead,": [
+        138
+      ],
+      "it": [
+        139,
+        178,
+        524
+      ],
+      "supported": [
+        140
+      ],
+      "United": [
+        141,
+        542
+      ],
+      "Nations": [
+        142
+      ],
+      "efforts": [
+        143
+      ],
+      "accord": [
+        145
+      ],
+      "special": [
+        147
+      ],
+      "separate": [
+        149
+      ],
+      "treatment": [
+        150
+      ],
+      "from": [
+        151,
+        170,
+        258
+      ],
+      "rest": [
+        153
+      ],
+      "Palestine": [
+        155
+      ],
+      "disclaimed": [
+        157
+      ],
+      "support": [
+        158
+      ],
+      "(6)": [
+        164
+      ],
+      "No": [
+        165,
+        261
+      ],
+      "subsequent": [
+        166
+      ],
+      "has": [
+        168,
+        203,
+        207,
+        387,
+        466
+      ],
+      "departed": [
+        169
+      ],
+      "policy,": [
+        173
+      ],
+      "several": [
+        175
+      ],
+      "have": [
+        176
+      ],
+      "confirmed": [
+        177
+      ],
+      "on": [
+        179,
+        249,
+        436,
+        460,
+        474,
+        561,
+        594
+      ],
+      "ground": [
+        181
+      ],
+      "Jerusalem's": [
+        183
+      ],
+      "status": [
+        184
+      ],
+      "must": [
+        185
+      ],
+      "be": [
+        186
+      ],
+      "part": [
+        187
+      ],
+      "final": [
+        190
+      ],
+      "negotiation": [
+        191
+      ],
+      "includes": [
+        193
+      ],
+      "Palestinians.": [
+        195
+      ],
+      "(7)": [
+        196
+      ],
+      "One": [
+        197
+      ],
+      "way": [
+        198
+      ],
+      "executive": [
+        201,
+        315
+      ],
+      "branch": [
+        202
+      ],
+      "implemented": [
+        204
+      ],
+      "this": [
+        205
+      ],
+      "policy": [
+        206,
+        319,
+        384
+      ],
+      "been": [
+        208
+      ],
+      "require": [
+        210
+      ],
+      "Department": [
+        213,
+        456
+      ],
+      "record": [
+        327
+      ],
+      "only": [
+        216
+      ],
+      "Jerusalem,": [
+        217
+      ],
+      "no": [
+        219,
+        256
+      ],
+      "state,": [
+        220
+      ],
+      "place": [
+        223,
+        329,
+        431
+      ],
+      "birth": [
+        225,
+        331
+      ],
+      "passports": [
+        228
+      ],
+      "U.S.": [
+        383
+      ],
+      "citizens": [
+        231
+      ],
+      "who": [
+        232
+      ],
+      "born": [
+        234,
+        338,
+        399
+      ],
+      "after": [
+        238,
+        402
+      ],
+      "1948.": [
+        241
+      ],
+      "(8)": [
+        242
+      ],
+      "made": [
+        245,
+        377
+      ],
+      "these": [
+        246,
+        595
+      ],
+      "important": [
+        247,
+        470,
+        556
+      ],
+      "decisions": [
+        248,
+        473
+      ],
+      "own,": [
+        251
+      ],
+      "little": [
+        253
+      ],
+      "input": [
+        254
+      ],
+      "authorization": [
+        257
+      ],
+      "Congress.": [
+        259
+      ],
+      "(9)": [
+        260
+      ],
+      "one": [
+        262
+      ],
+      "doubted": [
+        263
+      ],
+      "he": [
+        265
+      ],
+      "had": [
+        266
+      ],
+      "constitutional": [
+        268,
+        369,
+        494
+      ],
+      "authority": [
+        269,
+        279,
+        370
+      ],
+      "do": [
+        271
+      ],
+      "so.": [
+        272
+      ],
+      "Much": [
+        273
+      ],
+      "less": [
+        274
+      ],
+      "clear": [
+        275,
+        378
+      ],
+      "whether": [
+        277
+      ],
+      "exclusive": [
+        281,
+        529,
+        571
+      ],
+      "sense": [
+        284
+      ],
+      "Congress": [
+        286,
+        297,
+        614
+      ],
+      "lacked": [
+        287
+      ],
+      "power": [
+        288,
+        530
+      ],
+      "legislate": [
+        290
+      ],
+      "otherwise.": [
+        291
+      ],
+      "The": [
+        292,
+        481,
+        589
+      ],
+      "question": [
+        293
+      ],
+      "became": [
+        294
+      ],
+      "salient": [
+        295
+      ],
+      "when": [
+        296,
+        334
+      ],
+      "enacted": [
+        298
+      ],
+      "section": [
+        299,
+        352,
+        362,
+        381,
+        403,
+        416,
+        519
+      ],
+      "214": [
+        300,
+        353
+      ],
+      "2003": [
+        303
+      ],
+      "Foreign": [
+        304
+      ],
+      "Relations": [
+        305
+      ],
+      "Authorization": [
+        306
+      ],
+      "Act.": [
+        307
+      ],
+      "(10)": [
+        308
+      ],
+      "Section": [
+        309
+      ],
+      "214(d)": [
+        310,
+        404,
+        417,
+        520
+      ],
+      "sought": [
+        311
+      ],
+      "countermand": [
+        313
+      ],
+      "branch's": [
+        316
+      ],
+      "passport": [
+        318
+      ],
+      "requiring": [
+        321
+      ],
+      "Secretary": [
+        323,
+        449
+      ],
+      "citizen": [
+        337
+      ],
+      "requested": [
+        341
+      ],
+      "designation.": [
+        343
+      ],
+      "(11)": [
+        344
+      ],
+      "Bush": [
+        346
+      ],
+      "signed": [
+        347
+      ],
+      "bill": [
+        349
+      ],
+      "contained": [
+        351
+      ],
+      "but": [
+        354
+      ],
+      "asserted": [
+        355
+      ],
+      "signing": [
+        358
+      ],
+      "statement": [
+        359
+      ],
+      "unconstitutional": [
+        365,
+        522
+      ],
+      "interference": [
+        366
+      ],
+      "conduct": [
+        372,
+        574
+      ],
+      "foreign": [
+        373,
+        575,
+        619
+      ],
+      "affairs.": [
+        374
+      ],
+      "(12)": [
+        375
+      ],
+      "He": [
+        376
+      ],
+      "despite": [
+        380
+      ],
+      "214,": [
+        382
+      ],
+      "regarding": [
+        385
+      ],
+      "not": [
+        388
+      ],
+      "changed.": [
+        389
+      ],
+      "(13)": [
+        390
+      ],
+      "Menachem": [
+        391
+      ],
+      "Zivotofsky,": [
+        392
+      ],
+      "son": [
+        394
+      ],
+      "citizens,": [
+        397
+      ],
+      "came": [
+        405
+      ],
+      "into": [
+        406
+      ],
+      "force.": [
+        407
+      ],
+      "(14)": [
+        408
+      ],
+      "In": [
+        409
+      ],
+      "accordance": [
+        410
+      ],
+      "President's": [
+        413,
+        528,
+        568,
+        607
+      ],
+      "determination": [
+        414
+      ],
+      "unconstitutional,": [
+        419
+      ],
+      "embassy": [
+        422
+      ],
+      "Tel": [
+        424
+      ],
+      "Aviv": [
+        425
+      ],
+      "refused": [
+        426
+      ],
+      "mother's": [
+        428
+      ],
+      "request": [
+        429
+      ],
+      "next": [
+        433
+      ],
+      "birthplace": [
+        438
+      ],
+      "line": [
+        439
+      ],
+      "passport.": [
+        443,
+        462
+      ],
+      "(15)": [
+        444
+      ],
+      "Menachem's": [
+        445
+      ],
+      "parents": [
+        446
+      ],
+      "sued": [
+        447
+      ],
+      "State,": [
+        451
+      ],
+      "seeking": [
+        452
+      ],
+      "compel": [
+        454
+      ],
+      "(16)": [
+        463
+      ],
+      "This": [
+        464
+      ],
+      "lawsuit": [
+        465,
+        500
+      ],
+      "now": [
+        467
+      ],
+      "generated": [
+        468
+      ],
+      "two": [
+        469
+      ],
+      "Supreme": [
+        471,
+        557
+      ],
+      "Court": [
+        472,
+        516,
+        558,
+        590
+      ],
+      "separation": [
+        475
+      ],
+      "powers": [
+        477,
+        572
+      ],
+      "three": [
+        479
+      ],
+      "years.": [
+        480
+      ],
+      "first,": [
+        482
+      ],
+      "Zivotofsky": [
+        483,
+        486,
+        513,
+        551
+      ],
+      "ex": [
+        484
+      ],
+      "rel.": [
+        485
+      ],
+      "v.": [
+        487
+      ],
+      "Clinton": [
+        488
+      ],
+      "(Zivotofsky": [
+        489
+      ],
+      "I),": [
+        490
+      ],
+      "ruled": [
+        491
+      ],
+      "dispute": [
+        495
+      ],
+      "at": [
+        496
+      ],
+      "stake": [
+        497
+      ],
+      "justiciable": [
+        502
+      ],
+      "rather": [
+        503
+      ],
+      "than": [
+        504
+      ],
+      "political": [
+        506
+      ],
+      "question.": [
+        507
+      ],
+      "(17)": [
+        508
+      ],
+      "Then": [
+        509
+      ],
+      "last": [
+        510
+      ],
+      "Term,": [
+        511
+      ],
+      "II,": [
+        514
+      ],
+      "held": [
+        517
+      ],
+      "because": [
+        523
+      ],
+      "impinged": [
+        525
+      ],
+      "upon": [
+        526
+      ],
+      "recognize": [
+        532
+      ],
+      "determine": [
+        539
+      ],
+      "States": [
+        543
+      ],
+      "which": [
+        544
+      ],
+      "nation": [
+        545
+      ],
+      "sovereign": [
+        547
+      ],
+      "(18)": [
+        550
+      ],
+      "II": [
+        552
+      ],
+      "ever": [
+        560
+      ],
+      "sources": [
+        563
+      ],
+      "scope": [
+        565
+      ],
+      "independent": [
+        569
+      ],
+      "relations--powers": [
+        576
+      ],
+      "fall": [
+        578
+      ],
+      "Justice": [
+        580,
+        624
+      ],
+      "Jackson's": [
+        581
+      ],
+      "Youngstown": [
+        582
+      ],
+      "Categories": [
+        583
+      ],
+      "Two": [
+        584
+      ],
+      "Three,": [
+        586
+      ],
+      "respectively.": [
+        587
+      ],
+      "(19)": [
+        588
+      ],
+      "provided": [
+        591
+      ],
+      "novel": [
+        592
+      ],
+      "guidance": [
+        593
+      ],
+      "issues": [
+        596
+      ],
+      "course": [
+        599
+      ],
+      "upholding": [
+        601
+      ],
+      "first": [
+        604
+      ],
+      "time": [
+        605
+      ],
+      "direct": [
+        608
+      ],
+      "defiance": [
+        609
+      ],
+      "Act": [
+        612
+      ],
+      "field": [
+        617
+      ],
+      "affairs,": [
+        620
+      ],
+      "Chief": [
+        623
+      ],
+      "said": [
+        625
+      ],
+      "dissent.": [
+        627
+      ],
+      "\u2026": [
+        628
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2024,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 15
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-10-10T17:16:08.811792",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W277085147",
+    "doi": "https://doi.org/10.2307/1338074",
+    "title": "Force Majeure and the Denial of an Export License under Soviet Law: A Comment on Jordan Investments LTD. v. Soiuznefteksport",
+    "display_name": "Force Majeure and the Denial of an Export License under Soviet Law: A Comment on Jordan Investments LTD. v. Soiuznefteksport",
+    "relevance_score": 5.7272577,
+    "publication_year": 1960,
+    "publication_date": "1960-04-01",
+    "ids": {
+      "openalex": "https://openalex.org/W277085147",
+      "doi": "https://doi.org/10.2307/1338074",
+      "mag": "277085147"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.2307/1338074",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.2307/1338074",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S117766065",
+        "display_name": "Harvard Law Review",
+        "issn_l": "0017-811X",
+        "issn": [
+          "0017-811X",
+          "2161-976X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4322697690",
+        "host_organization_name": "Harvard Law Review Association",
+        "host_organization_lineage": [
+          "https://openalex.org/P4322697690"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Harvard Law Review",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5037506882",
+          "display_name": "Herold J. Berman",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Herold J. Berman",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5037506882"
+    ],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 10.08391633,
+    "has_fulltext": false,
+    "cited_by_count": 2,
+    "citation_normalized_percentile": {
+      "value": 0.94083969,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "73",
+      "issue": "6",
+      "first_page": "1128",
+      "last_page": "1128"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T12040",
+      "display_name": "International Arbitration and Investment Law",
+      "score": 0.9969000220298767,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1408",
+        "display_name": "Strategy and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T12040",
+        "display_name": "International Arbitration and Investment Law",
+        "score": 0.9969000220298767,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1408",
+          "display_name": "Strategy and Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12156",
+        "display_name": "World Trade Organization Law",
+        "score": 0.9782000184059143,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10749",
+        "display_name": "International Law and Human Rights",
+        "score": 0.977400004863739,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/force-majeure",
+        "display_name": "Force majeure",
+        "score": 0.7764332294464111
+      },
+      {
+        "id": "https://openalex.org/keywords/license",
+        "display_name": "License",
+        "score": 0.7649221420288086
+      },
+      {
+        "id": "https://openalex.org/keywords/denial",
+        "display_name": "Denial",
+        "score": 0.7583802938461304
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.5272378325462341
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.4776659905910492
+      },
+      {
+        "id": "https://openalex.org/keywords/business",
+        "display_name": "Business",
+        "score": 0.3462522029876709
+      },
+      {
+        "id": "https://openalex.org/keywords/international-trade",
+        "display_name": "International trade",
+        "score": 0.3309035003185272
+      },
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.07338646054267883
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2779833808",
+        "wikidata": "https://www.wikidata.org/wiki/Q161398",
+        "display_name": "Force majeure",
+        "level": 2,
+        "score": 0.7764332294464111
+      },
+      {
+        "id": "https://openalex.org/C2780560020",
+        "wikidata": "https://www.wikidata.org/wiki/Q79719",
+        "display_name": "License",
+        "level": 2,
+        "score": 0.7649221420288086
+      },
+      {
+        "id": "https://openalex.org/C2780900520",
+        "wikidata": "https://www.wikidata.org/wiki/Q100268981",
+        "display_name": "Denial",
+        "level": 2,
+        "score": 0.7583802938461304
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.5272378325462341
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.4776659905910492
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.3462522029876709
+      },
+      {
+        "id": "https://openalex.org/C155202549",
+        "wikidata": "https://www.wikidata.org/wiki/Q178803",
+        "display_name": "International trade",
+        "level": 1,
+        "score": 0.3309035003185272
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.07338646054267883
+      },
+      {
+        "id": "https://openalex.org/C11171543",
+        "wikidata": "https://www.wikidata.org/wiki/Q41630",
+        "display_name": "Psychoanalysis",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.2307/1338074",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2307/1338074",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S117766065",
+          "display_name": "Harvard Law Review",
+          "issn_l": "0017-811X",
+          "issn": [
+            "0017-811X",
+            "2161-976X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4322697690",
+          "host_organization_name": "Harvard Law Review Association",
+          "host_organization_lineage": [
+            "https://openalex.org/P4322697690"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Harvard Law Review",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "display_name": "Partnerships for the goals",
+        "id": "https://metadata.un.org/sdg/17",
+        "score": 0.4099999964237213
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W2414358045",
+      "https://openalex.org/W3122022813",
+      "https://openalex.org/W3155618749",
+      "https://openalex.org/W4233302113",
+      "https://openalex.org/W2387005168",
+      "https://openalex.org/W4200606339",
+      "https://openalex.org/W77636743",
+      "https://openalex.org/W3209705459",
+      "https://openalex.org/W3093662400",
+      "https://openalex.org/W2212784748"
+    ],
+    "abstract_inverted_index": {
+      "R": [
+        0
+      ],
+      "ARELY": [
+        1
+      ],
+      "has": [
+        2,
+        15,
+        69
+      ],
+      "the": [
+        3,
+        16,
+        19,
+        26,
+        37,
+        43,
+        57,
+        65,
+        78,
+        83,
+        94,
+        97,
+        107,
+        112,
+        117,
+        124,
+        128,
+        141,
+        144,
+        147,
+        161
+      ],
+      "arbitration": [
+        4
+      ],
+      "of": [
+        5,
+        18,
+        42,
+        46,
+        59,
+        96,
+        111,
+        127,
+        143,
+        146,
+        152,
+        160
+      ],
+      "a": [
+        6
+      ],
+      "commercial": [
+        7
+      ],
+      "dispute": [
+        8
+      ],
+      "attracted": [
+        9
+      ],
+      ")Vas": [
+        10
+      ],
+      "much": [
+        11
+      ],
+      "world-wide": [
+        12
+      ],
+      "attention": [
+        13
+      ],
+      "as": [
+        14,
+        166
+      ],
+      "case": [
+        17
+      ],
+      "Israeli": [
+        20
+      ],
+      "company": [
+        21
+      ],
+      "Jordan": [
+        22
+      ],
+      "Investments": [
+        23
+      ],
+      "Ltd.": [
+        24
+      ],
+      "against": [
+        25
+      ],
+      "Soviet": [
+        27,
+        84,
+        98
+      ],
+      "export-import": [
+        28
+      ],
+      "combine": [
+        29
+      ],
+      "Soiuznefteksport,": [
+        30
+      ],
+      "decided": [
+        31
+      ],
+      "in": [
+        32,
+        34,
+        72,
+        88,
+        104
+      ],
+      "Moscow": [
+        33
+      ],
+      "I958": [
+        35
+      ],
+      "by": [
+        36,
+        52
+      ],
+      "Foreign": [
+        38,
+        99
+      ],
+      "Trade": [
+        39,
+        100
+      ],
+      "Arbitration": [
+        40,
+        101
+      ],
+      "Commission": [
+        41
+      ],
+      "U.S.S.R.": [
+        44
+      ],
+      "Chamber": [
+        45
+      ],
+      "Commerce.": [
+        47
+      ],
+      "The": [
+        48,
+        158
+      ],
+      "intense": [
+        49
+      ],
+      "interest": [
+        50
+      ],
+      "generated": [
+        51
+      ],
+      "this": [
+        53
+      ],
+      "case,": [
+        54,
+        129,
+        162
+      ],
+      "both": [
+        55
+      ],
+      "during": [
+        56
+      ],
+      "course": [
+        58
+      ],
+      "its": [
+        60,
+        75,
+        91,
+        136
+      ],
+      "I3": [
+        61
+      ],
+      "hearings": [
+        62
+      ],
+      "and": [
+        63,
+        86,
+        103,
+        109,
+        139
+      ],
+      "after": [
+        64
+      ],
+      "award": [
+        66
+      ],
+      "was": [
+        67
+      ],
+      "rendered,'": [
+        68
+      ],
+      "been": [
+        70
+      ],
+      "due": [
+        71
+      ],
+      "part": [
+        73,
+        89,
+        105
+      ],
+      "to": [
+        74,
+        90,
+        106,
+        123
+      ],
+      "connection": [
+        76
+      ],
+      "with": [
+        77,
+        135,
+        140
+      ],
+      "strained": [
+        79
+      ],
+      "political": [
+        80,
+        137
+      ],
+      "relations": [
+        81
+      ],
+      "between": [
+        82
+      ],
+      "Union": [
+        85
+      ],
+      "Israel,": [
+        87
+      ],
+      "bearing": [
+        92
+      ],
+      "upon": [
+        93
+      ],
+      "reputation": [
+        95
+      ],
+      "Commission,": [
+        102
+      ],
+      "complexity": [
+        108
+      ],
+      "importance": [
+        110
+      ],
+      "legal": [
+        113,
+        125
+      ],
+      "issues": [
+        114
+      ],
+      "involved.": [
+        115
+      ],
+      "Although": [
+        116
+      ],
+      "present": [
+        118
+      ],
+      "commentary": [
+        119
+      ],
+      "is": [
+        120
+      ],
+      "devoted": [
+        121
+      ],
+      "primarily": [
+        122
+      ],
+      "aspects": [
+        126,
+        138
+      ],
+      "these": [
+        130
+      ],
+      "are": [
+        131,
+        165
+      ],
+      "so": [
+        132
+      ],
+      "closely": [
+        133
+      ],
+      "interwoven": [
+        134
+      ],
+      "question": [
+        142
+      ],
+      "independence": [
+        145
+      ],
+      "tribunal": [
+        148
+      ],
+      "that": [
+        149
+      ],
+      "some": [
+        150
+      ],
+      "discussion": [
+        151
+      ],
+      "those": [
+        153
+      ],
+      "matters": [
+        154
+      ],
+      "cannot": [
+        155
+      ],
+      "be": [
+        156
+      ],
+      "avoided.": [
+        157
+      ],
+      "facts": [
+        159
+      ],
+      "briefly": [
+        163
+      ],
+      "stated,": [
+        164
+      ],
+      "follows.": [
+        167
+      ],
+      "In": [
+        168
+      ],
+      "I954,": [
+        169
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W282809688",
+    "doi": null,
+    "title": "Democracy and Disdain",
+    "display_name": "Democracy and Disdain",
+    "relevance_score": 3.486838,
+    "publication_year": 2012,
+    "publication_date": "2012-11-01",
+    "ids": {
+      "openalex": "https://openalex.org/W282809688",
+      "mag": "282809688"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "mag:282809688",
+      "is_oa": false,
+      "landing_page_url": "http://cdn.harvardlawreview.org/wp-content/uploads/pdfs/vol126_karlan.pdf",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S117766065",
+        "display_name": "Harvard Law Review",
+        "issn_l": "0017-811X",
+        "issn": [
+          "0017-811X",
+          "2161-976X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4322697690",
+        "host_organization_name": "Harvard Law Review Association",
+        "host_organization_lineage": [
+          "https://openalex.org/P4322697690"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Harvard Law Review",
+      "raw_type": null
+    },
+    "type": "article",
+    "indexed_in": [],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5065046100",
+          "display_name": "Pamela S. Karlan",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Pamela S. Karlan",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5065046100"
+    ],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 2.74034597,
+    "has_fulltext": false,
+    "cited_by_count": 11,
+    "citation_normalized_percentile": {
+      "value": 0.91006082,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 96
+    },
+    "biblio": {
+      "volume": "126",
+      "issue": "1",
+      "first_page": "1",
+      "last_page": "71"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T14288",
+      "display_name": "Law, Rights, and Freedoms",
+      "score": 0.9908999800682068,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T14288",
+        "display_name": "Law, Rights, and Freedoms",
+        "score": 0.9908999800682068,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13075",
+        "display_name": "Legal Systems and Judicial Processes",
+        "score": 0.986299991607666,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13138",
+        "display_name": "Legal and Constitutional Studies",
+        "score": 0.9836999773979187,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2002",
+          "display_name": "Economics and Econometrics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/20",
+          "display_name": "Economics, Econometrics and Finance"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/supreme-court",
+        "display_name": "Supreme court",
+        "score": 0.7578762769699097
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.7079294919967651
+      },
+      {
+        "id": "https://openalex.org/keywords/democracy",
+        "display_name": "Democracy",
+        "score": 0.5499401688575745
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.5461791753768921
+      },
+      {
+        "id": "https://openalex.org/keywords/economic-justice",
+        "display_name": "Economic Justice",
+        "score": 0.5153507590293884
+      },
+      {
+        "id": "https://openalex.org/keywords/politics",
+        "display_name": "Politics",
+        "score": 0.48995986580848694
+      },
+      {
+        "id": "https://openalex.org/keywords/argument",
+        "display_name": "Argument (complex analysis)",
+        "score": 0.47230032086372375
+      },
+      {
+        "id": "https://openalex.org/keywords/warren-court",
+        "display_name": "Warren Court",
+        "score": 0.41412049531936646
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.3932289183139801
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2778272461",
+        "wikidata": "https://www.wikidata.org/wiki/Q190752",
+        "display_name": "Supreme court",
+        "level": 2,
+        "score": 0.7578762769699097
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.7079294919967651
+      },
+      {
+        "id": "https://openalex.org/C555826173",
+        "wikidata": "https://www.wikidata.org/wiki/Q7174",
+        "display_name": "Democracy",
+        "level": 3,
+        "score": 0.5499401688575745
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.5461791753768921
+      },
+      {
+        "id": "https://openalex.org/C139621336",
+        "wikidata": "https://www.wikidata.org/wiki/Q3190382",
+        "display_name": "Economic Justice",
+        "level": 2,
+        "score": 0.5153507590293884
+      },
+      {
+        "id": "https://openalex.org/C94625758",
+        "wikidata": "https://www.wikidata.org/wiki/Q7163",
+        "display_name": "Politics",
+        "level": 2,
+        "score": 0.48995986580848694
+      },
+      {
+        "id": "https://openalex.org/C98184364",
+        "wikidata": "https://www.wikidata.org/wiki/Q1780131",
+        "display_name": "Argument (complex analysis)",
+        "level": 2,
+        "score": 0.47230032086372375
+      },
+      {
+        "id": "https://openalex.org/C2779404633",
+        "wikidata": "https://www.wikidata.org/wiki/Q7970144",
+        "display_name": "Warren Court",
+        "level": 3,
+        "score": 0.41412049531936646
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.3932289183139801
+      },
+      {
+        "id": "https://openalex.org/C55493867",
+        "wikidata": "https://www.wikidata.org/wiki/Q7094",
+        "display_name": "Biochemistry",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "wikidata": "https://www.wikidata.org/wiki/Q2329",
+        "display_name": "Chemistry",
+        "level": 0,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "mag:282809688",
+        "is_oa": false,
+        "landing_page_url": "http://cdn.harvardlawreview.org/wp-content/uploads/pdfs/vol126_karlan.pdf",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S117766065",
+          "display_name": "Harvard Law Review",
+          "issn_l": "0017-811X",
+          "issn": [
+            "0017-811X",
+            "2161-976X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4322697690",
+          "host_organization_name": "Harvard Law Review Association",
+          "host_organization_lineage": [
+            "https://openalex.org/P4322697690"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": null,
+        "raw_source_name": "Harvard Law Review",
+        "raw_type": null
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16",
+        "score": 0.8399999737739563
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W3122971711",
+      "https://openalex.org/W3124897456",
+      "https://openalex.org/W2608060671",
+      "https://openalex.org/W1988275993",
+      "https://openalex.org/W569808290",
+      "https://openalex.org/W3121539229",
+      "https://openalex.org/W3125951956",
+      "https://openalex.org/W1528616605",
+      "https://openalex.org/W2599344966",
+      "https://openalex.org/W276889702",
+      "https://openalex.org/W2608329093",
+      "https://openalex.org/W1567596149",
+      "https://openalex.org/W985596690",
+      "https://openalex.org/W344098057",
+      "https://openalex.org/W3122158319",
+      "https://openalex.org/W3121858808",
+      "https://openalex.org/W2315406561",
+      "https://openalex.org/W338937435",
+      "https://openalex.org/W1584653053",
+      "https://openalex.org/W111617741"
+    ],
+    "abstract_inverted_index": {
+      "THE": [
+        0,
+        14,
+        21,
+        24,
+        45,
+        48
+      ],
+      "SUPREME": [
+        1
+      ],
+      "COURT": [
+        2,
+        26,
+        50
+      ],
+      "2011": [
+        3
+      ],
+      "TERM": [
+        4
+      ],
+      "FOREWORD:": [
+        5
+      ],
+      "DEMOCRACY": [
+        6
+      ],
+      "AND": [
+        7
+      ],
+      "DISDAIN": [
+        8
+      ],
+      "Pamela": [
+        9
+      ],
+      "S.": [
+        10
+      ],
+      "Karlan": [
+        11
+      ],
+      "CONTENTS": [
+        12
+      ],
+      "I.": [
+        13
+      ],
+      "VERY": [
+        15
+      ],
+      "WORLD": [
+        16
+      ],
+      "OF": [
+        17,
+        19,
+        23,
+        47
+      ],
+      "ALL": [
+        18
+      ],
+      "US:": [
+        20
+      ],
+      "REVOLUTION": [
+        22
+      ],
+      "WARREN": [
+        25
+      ],
+      "A.Democracy": [
+        27
+      ],
+      "and": [
+        28,
+        53,
+        59,
+        117,
+        159,
+        394,
+        454,
+        476,
+        521,
+        539,
+        545,
+        549,
+        588,
+        634
+      ],
+      "the": [
+        377
+      ],
+      "Electoral": [
+        30
+      ],
+      "Process.": [
+        31,
+        62
+      ],
+      "B.Trusting": [
+        32
+      ],
+      "Congress": [
+        33,
+        65
+      ],
+      "C.The": [
+        34
+      ],
+      "Democratization": [
+        35
+      ],
+      "of": [
+        36,
+        86,
+        115,
+        121,
+        126,
+        130,
+        256,
+        284,
+        294,
+        311,
+        345,
+        371,
+        381,
+        399,
+        426,
+        442,
+        478,
+        502,
+        524,
+        560,
+        570,
+        592
+      ],
+      "Constitutional": [
+        37
+      ],
+      "Enforcement.": [
+        38
+      ],
+      "II.": [
+        39
+      ],
+      "AS": [
+        40
+      ],
+      "ON": [
+        41
+      ],
+      "A": [
+        42
+      ],
+      "DARKLING": [
+        43
+      ],
+      "PLAIN:": [
+        44
+      ],
+      "COUNTERREVOLUTION": [
+        46
+      ],
+      "ROBERTS": [
+        49
+      ],
+      "A.Protecting": [
+        51
+      ],
+      "Spenders": [
+        52
+      ],
+      "Suspecting": [
+        54,
+        64
+      ],
+      "Voters:": [
+        55
+      ],
+      "The": [
+        56,
+        303,
+        342,
+        437,
+        515,
+        530
+      ],
+      "Roberts": [
+        57,
+        231,
+        362
+      ],
+      "Court": [
+        386
+      ],
+      "Political": [
+        61
+      ],
+      "B.": [
+        63,
+        237
+      ],
+      "C.Undermining": [
+        66
+      ],
+      "Enforcement": [
+        67
+      ],
+      "III.": [
+        68
+      ],
+      "SHINE,": [
+        69
+      ],
+      "PERISHING": [
+        70
+      ],
+      "REPUBLIC.": [
+        71
+      ],
+      "Sometimes": [
+        72
+      ],
+      "Justices": [
+        74,
+        304
+      ],
+      "seem": [
+        75
+      ],
+      "barely": [
+        76
+      ],
+      "able": [
+        77,
+        243
+      ],
+      "to": [
+        586
+      ],
+      "hide": [
+        79
+      ],
+      "their": [
+        80
+      ],
+      "disdain": [
+        81
+      ],
+      "for": [
+        82,
+        137,
+        140,
+        360,
+        625
+      ],
+      "other": [
+        84,
+        614
+      ],
+      "branches": [
+        85,
+        270
+      ],
+      "government.": [
+        87
+      ],
+      "Take": [
+        88
+      ],
+      "oral": [
+        90,
+        348
+      ],
+      "argument": [
+        91,
+        218,
+        252,
+        349
+      ],
+      "three": [
+        92
+      ],
+      "Terms": [
+        93
+      ],
+      "ago": [
+        94
+      ],
+      "in": [
+        95,
+        113,
+        156,
+        163,
+        219,
+        253,
+        308,
+        350,
+        420,
+        474,
+        495,
+        510,
+        575,
+        605,
+        627
+      ],
+      "Northwest": [
+        96
+      ],
+      "Austin": [
+        97
+      ],
+      "Municipal": [
+        98
+      ],
+      "Utility": [
+        99
+      ],
+      "District": [
+        100
+      ],
+      "No.": [
+        101
+      ],
+      "One": [
+        102
+      ],
+      "v.": [
+        103,
+        221,
+        259,
+        389,
+        397,
+        413
+      ],
+      "Holder.": [
+        104
+      ],
+      "Justice": [
+        105,
+        230,
+        263,
+        374
+      ],
+      "Scalia": [
+        106
+      ],
+      "pointed": [
+        107
+      ],
+      "overwhelming": [
+        110
+      ],
+      "congressional": [
+        111
+      ],
+      "vote": [
+        112,
+        148,
+        604
+      ],
+      "favor": [
+        114
+      ],
+      "amending": [
+        116
+      ],
+      "extending": [
+        118
+      ],
+      "section": [
+        119
+      ],
+      "5": [
+        120
+      ],
+      "Voting": [
+        123
+      ],
+      "Rights": [
+        124
+      ],
+      "Act": [
+        125,
+        354
+      ],
+      "1965--the": [
+        127
+      ],
+      "crown": [
+        128
+      ],
+      "jewel": [
+        129
+      ],
+      "Second": [
+        132,
+        504
+      ],
+      "Reconstruction--as": [
+        133
+      ],
+      "a": [
+        291
+      ],
+      "reason": [
+        135
+      ],
+      "not": [
+        136,
+        339,
+        395,
+        461
+      ],
+      "deference,": [
+        138
+      ],
+      "but": [
+        139,
+        482
+      ],
+      "suspicion:": [
+        141
+      ],
+      "JUSTICE": [
+        142,
+        178
+      ],
+      "SCALIA:": [
+        143,
+        179
+      ],
+      "...": [
+        144
+      ],
+      "What": [
+        145
+      ],
+      "was": [
+        146,
+        161,
+        172,
+        201,
+        205,
+        242,
+        321,
+        338,
+        448,
+        557,
+        600
+      ],
+      "on": [
+        149,
+        384,
+        472
+      ],
+      "this": [
+        150,
+        216
+      ],
+      "2006": [
+        151
+      ],
+      "extension": [
+        152
+      ],
+      "--98": [
+        153
+      ],
+      "nothing": [
+        155
+      ],
+      "Senate,": [
+        158
+      ],
+      "what": [
+        160,
+        275,
+        372
+      ],
+      "it": [
+        162,
+        204
+      ],
+      "House?": [
+        165
+      ],
+      "Was": [
+        166
+      ],
+      "--": [
+        167
+      ],
+      "MR.": [
+        168
+      ],
+      "ADEGBILE:": [
+        169
+      ],
+      "It": [
+        329
+      ],
+      "was--it": [
+        171
+      ],
+      "33": [
+        173,
+        180
+      ],
+      "390,": [
+        175
+      ],
+      "I": [
+        176,
+        333
+      ],
+      "believe.": [
+        177
+      ],
+      "390.": [
+        182
+      ],
+      "You": [
+        183
+      ],
+      "know,": [
+        184
+      ],
+      "the--the": [
+        185
+      ],
+      "Israeli": [
+        186
+      ],
+      "Supreme": [
+        187
+      ],
+      "Court,": [
+        188
+      ],
+      "Sanhedrin,": [
+        190
+      ],
+      "used": [
+        191
+      ],
+      "have": [
+        280
+      ],
+      "rule": [
+        195
+      ],
+      "that": [
+        196,
+        266,
+        328,
+        580,
+        621
+      ],
+      "if": [
+        197
+      ],
+      "death": [
+        199
+      ],
+      "penalty": [
+        200
+      ],
+      "pronounced": [
+        202
+      ],
+      "unanimously,": [
+        203
+      ],
+      "invalid,": [
+        206
+      ],
+      "because": [
+        207,
+        417
+      ],
+      "there": [
+        208
+      ],
+      "must": [
+        209
+      ],
+      "be": [
+        210,
+        288,
+        367
+      ],
+      "something": [
+        211
+      ],
+      "wrong": [
+        212
+      ],
+      "there.": [
+        213
+      ],
+      "(1)": [
+        214
+      ],
+      "In": [
+        215
+      ],
+      "Term's": [
+        217
+      ],
+      "Arizona": [
+        220
+      ],
+      "United": [
+        222
+      ],
+      "States,": [
+        223
+      ],
+      "(2)": [
+        224
+      ],
+      "an": [
+        225,
+        507
+      ],
+      "important": [
+        226,
+        379,
+        508
+      ],
+      "immigration": [
+        227
+      ],
+      "case,": [
+        228
+      ],
+      "Chief": [
+        229,
+        373
+      ],
+      "cut": [
+        232
+      ],
+      "off": [
+        233
+      ],
+      "Solicitor": [
+        234
+      ],
+      "General": [
+        235
+      ],
+      "Donald": [
+        236
+      ],
+      "Verrilli": [
+        238,
+        241
+      ],
+      "Jr.": [
+        239
+      ],
+      "before": [
+        240
+      ],
+      "utter": [
+        245
+      ],
+      "complete": [
+        247
+      ],
+      "sentence.": [
+        248
+      ],
+      "(3)": [
+        249
+      ],
+      "And": [
+        250
+      ],
+      "during": [
+        251
+      ],
+      "National": [
+        254
+      ],
+      "Federation": [
+        255
+      ],
+      "Independent": [
+        257
+      ],
+      "Business": [
+        258
+      ],
+      "Sebelius": [
+        260
+      ],
+      "(4)": [
+        261
+      ],
+      "(NFIB),": [
+        262
+      ],
+      "Kennedy": [
+        264
+      ],
+      "speculated": [
+        265
+      ],
+      "when": [
+        267,
+        315,
+        622
+      ],
+      "political": [
+        269
+      ],
+      "take": [
+        271
+      ],
+      "step": [
+        273
+      ],
+      "beyond": [
+        274
+      ],
+      "Court's": [
+        277,
+        429,
+        445
+      ],
+      "existing": [
+        278
+      ],
+      "cases": [
+        279
+      ],
+      "allowed,": [
+        281
+      ],
+      "presumption": [
+        283
+      ],
+      "constitutionality": [
+        285
+      ],
+      "disappears,": [
+        286
+      ],
+      "replaced": [
+        289
+      ],
+      "by": [
+        290,
+        463,
+        484,
+        602
+      ],
+      "heavy": [
+        292
+      ],
+      "burden": [
+        293
+      ],
+      "justification": [
+        295
+      ],
+      "show": [
+        297
+      ],
+      "authorization": [
+        298
+      ],
+      "under": [
+        299
+      ],
+      "Constitution.": [
+        301
+      ],
+      "(5)": [
+        302
+      ],
+      "are": [
+        305
+      ],
+      "becoming": [
+        306
+      ],
+      "umpires": [
+        307
+      ],
+      "tradition": [
+        310
+      ],
+      "Bill": [
+        312
+      ],
+      "Klem,": [
+        313
+      ],
+      "who": [
+        314
+      ],
+      "asked": [
+        316
+      ],
+      "whether": [
+        317
+      ],
+      "particular": [
+        319
+      ],
+      "pitch": [
+        320
+      ],
+      "ball": [
+        323
+      ],
+      "or": [
+        324,
+        402,
+        405,
+        408
+      ],
+      "strike,": [
+        326
+      ],
+      "replied": [
+        327
+      ],
+      "ain't": [
+        330
+      ],
+      "nothin'": [
+        331
+      ],
+      "till": [
+        332
+      ],
+      "call": [
+        334
+      ],
+      "it.": [
+        335
+      ],
+      "(6)": [
+        336
+      ],
+      "always": [
+        340
+      ],
+      "so.": [
+        341
+      ],
+      "opening": [
+        343
+      ],
+      "day": [
+        344
+      ],
+      "marathon": [
+        347
+      ],
+      "Affordable": [
+        352
+      ],
+      "Care": [
+        353
+      ],
+      "(7)": [
+        355
+      ],
+      "cases--surely": [
+        356
+      ],
+      "defining": [
+        358
+      ],
+      "decision": [
+        359
+      ],
+      "so": [
+        364
+      ],
+      "far--happened": [
+        365
+      ],
+      "fiftieth": [
+        369
+      ],
+      "anniversary": [
+        370
+      ],
+      "Warren": [
+        375,
+        428,
+        444,
+        516,
+        555,
+        617
+      ],
+      "called": [
+        376
+      ],
+      "most": [
+        378
+      ],
+      "case": [
+        380
+      ],
+      "his": [
+        382,
+        609
+      ],
+      "tenure": [
+        383
+      ],
+      "(8):": [
+        387
+      ],
+      "Baker": [
+        388,
+        418
+      ],
+      "Carr.": [
+        390
+      ],
+      "(9)": [
+        391
+      ],
+      "Why": [
+        392
+      ],
+      "Baker,": [
+        393
+      ],
+      "Brown": [
+        396,
+        496
+      ],
+      "Board": [
+        398
+      ],
+      "Education": [
+        400
+      ],
+      "(10)": [
+        401
+      ],
+      "Miranda": [
+        403
+      ],
+      "(11)": [
+        404
+      ],
+      "Gideon": [
+        406
+      ],
+      "(12)": [
+        407
+      ],
+      "New": [
+        409
+      ],
+      "York": [
+        410
+      ],
+      "Times": [
+        411
+      ],
+      "Co.": [
+        412
+      ],
+      "Sullivan?": [
+        414
+      ],
+      "(13)": [
+        415
+      ],
+      "Well,": [
+        416
+      ],
+      "set": [
+        419
+      ],
+      "motion": [
+        421
+      ],
+      "reapportionment": [
+        423
+      ],
+      "revolution--a": [
+        424
+      ],
+      "centerpiece": [
+        425
+      ],
+      "participation-oriented,": [
+        430
+      ],
+      "representation-reinforcing": [
+        431
+      ],
+      "approach": [
+        432
+      ],
+      "judicial": [
+        434
+      ],
+      "review.": [
+        435
+      ],
+      "(14)": [
+        436
+      ],
+      "animating": [
+        438
+      ],
+      "impulse": [
+        439,
+        458
+      ],
+      "behind": [
+        440
+      ],
+      "many": [
+        441
+      ],
+      "major": [
+        446
+      ],
+      "decisions": [
+        447
+      ],
+      "commitment": [
+        450
+      ],
+      "civic": [
+        452,
+        493
+      ],
+      "inclusion": [
+        453
+      ],
+      "democratic": [
+        455
+      ],
+      "decisionmaking.": [
+        456
+      ],
+      "This": [
+        457
+      ],
+      "is": [
+        459
+      ],
+      "captured": [
+        460
+      ],
+      "only": [
+        462
+      ],
+      "Reapportionment": [
+        465
+      ],
+      "Cases": [
+        466
+      ],
+      "themselves,": [
+        467
+      ],
+      "where": [
+        468
+      ],
+      "focused": [
+        471
+      ],
+      "equality": [
+        473
+      ],
+      "voting": [
+        475
+      ],
+      "problems": [
+        477,
+        520
+      ],
+      "minority": [
+        479
+      ],
+      "entrenchment,": [
+        480
+      ],
+      "(15)": [
+        481
+      ],
+      "also": [
+        483
+      ],
+      "way": [
+        486
+      ],
+      "tied": [
+        489
+      ],
+      "public": [
+        490
+      ],
+      "education": [
+        491
+      ],
+      "participation": [
+        494
+      ],
+      "(16)and": [
+        497
+      ],
+      "treated": [
+        498
+      ],
+      "landmark": [
+        500
+      ],
+      "legislation": [
+        501
+      ],
+      "Reconstruction": [
+        505
+      ],
+      "as": [
+        506,
+        572
+      ],
+      "tool": [
+        509
+      ],
+      "realizing": [
+        511
+      ],
+      "constitutional": [
+        512
+      ],
+      "values.": [
+        513
+      ],
+      "(17)": [
+        514
+      ],
+      "understood": [
+        518
+      ],
+      "promises": [
+        523
+      ],
+      "politics": [
+        525
+      ],
+      "from": [
+        526
+      ],
+      "its": [
+        527,
+        534
+      ],
+      "own": [
+        528
+      ],
+      "experience.": [
+        529
+      ],
+      "numbered": [
+        532
+      ],
+      "among": [
+        533,
+        613
+      ],
+      "members": [
+        535
+      ],
+      "former": [
+        536,
+        543,
+        547,
+        550
+      ],
+      "senators,": [
+        537
+      ],
+      "representatives,": [
+        538
+      ],
+      "state": [
+        540,
+        585
+      ],
+      "legislators,": [
+        541
+      ],
+      "governor": [
+        544
+      ],
+      "mayor,": [
+        548
+      ],
+      "cabinet": [
+        551
+      ],
+      "members.": [
+        552
+      ],
+      "(18)": [
+        553
+      ],
+      "Earl": [
+        554
+      ],
+      "himself": [
+        556
+      ],
+      "politician": [
+        559
+      ],
+      "kind": [
+        562
+      ],
+      "we": [
+        563
+      ],
+      "can": [
+        564
+      ],
+      "scarcely": [
+        565
+      ],
+      "imagine": [
+        566
+      ],
+      "today.": [
+        567
+      ],
+      "Elected": [
+        568
+      ],
+      "Governor": [
+        569
+      ],
+      "California": [
+        571,
+        581
+      ],
+      "Republican": [
+        574,
+        633
+      ],
+      "1942,": [
+        576
+      ],
+      "(19)": [
+        577
+      ],
+      "he": [
+        578,
+        623,
+        629
+      ],
+      "proposed": [
+        579
+      ],
+      "become": [
+        582
+      ],
+      "first": [
+        584
+      ],
+      "create": [
+        587
+      ],
+      "support": [
+        589
+      ],
+      "system": [
+        591
+      ],
+      "compulsory": [
+        593
+      ],
+      "health": [
+        594,
+        610
+      ],
+      "insurance.": [
+        595
+      ],
+      "(20)": [
+        596
+      ],
+      "Although": [
+        597
+      ],
+      "proposal": [
+        599
+      ],
+      "defeated": [
+        601
+      ],
+      "one": [
+        603
+      ],
+      "Assembly,": [
+        607
+      ],
+      "(21)": [
+        608
+      ],
+      "care": [
+        611
+      ],
+      "agenda,": [
+        612
+      ],
+      "things,": [
+        615
+      ],
+      "garnered": [
+        616
+      ],
+      "such": [
+        618
+      ],
+      "widespread": [
+        619
+      ],
+      "admiration": [
+        620
+      ],
+      "ran": [
+        624
+      ],
+      "reelection": [
+        626
+      ],
+      "1946,": [
+        628
+      ],
+      "won": [
+        630
+      ],
+      "both": [
+        631
+      ],
+      "Democratic": [
+        635
+      ],
+      "primaries.": [
+        636
+      ],
+      "\u2026": [
+        637
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2021,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2014,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2013,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-10-10T17:16:08.811792",
+    "created_date": "2025-10-10T00:00:00"
+  }
+]

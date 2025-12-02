@@ -1,0 +1,1581 @@
+[
+  {
+    "id": "https://openalex.org/W2008381534",
+    "doi": "https://doi.org/10.1093/ojls/17.1.101",
+    "title": "What demands are rights? An investigation into the relation between rights and reasons",
+    "display_name": "What demands are rights? An investigation into the relation between rights and reasons",
+    "relevance_score": 8.031324,
+    "publication_year": 1997,
+    "publication_date": "1997-03-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2008381534",
+      "doi": "https://doi.org/10.1093/ojls/17.1.101",
+      "mag": "2008381534"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1093/ojls/17.1.101",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1093/ojls/17.1.101",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S34110867",
+        "display_name": "Oxford Journal of Legal Studies",
+        "issn_l": "0143-6503",
+        "issn": [
+          "0143-6503",
+          "1464-3820"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310311648",
+        "host_organization_name": "Oxford University Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310311648"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Oxford Journal of Legal Studies",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5042407768",
+          "display_name": "A Harel",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I197251160",
+            "display_name": "Hebrew University of Jerusalem",
+            "ror": "https://ror.org/03qxff017",
+            "country_code": "IL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I197251160"
+            ]
+          }
+        ],
+        "countries": [
+          "IL"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "A Harel",
+        "raw_affiliation_strings": [
+          "Hebrew UniversityJerusalem, Israel"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Hebrew UniversityJerusalem, Israel",
+            "institution_ids": [
+              "https://openalex.org/I197251160"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5042407768"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I197251160"
+    ],
+    "apc_list": {
+      "value": 2768,
+      "currency": "GBP",
+      "value_usd": 3395
+    },
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 7,
+    "citation_normalized_percentile": {
+      "value": 0.29675558,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 93
+    },
+    "biblio": {
+      "volume": "17",
+      "issue": "1",
+      "first_page": "101",
+      "last_page": "114"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10802",
+      "display_name": "Judicial and Constitutional Studies",
+      "score": 0.972000002861023,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3308",
+        "display_name": "Law"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10802",
+        "display_name": "Judicial and Constitutional Studies",
+        "score": 0.972000002861023,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3308",
+          "display_name": "Law"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12982",
+        "display_name": "Legal principles and applications",
+        "score": 0.9283999800682068,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3308",
+          "display_name": "Law"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11762",
+        "display_name": "Law, Economics, and Judicial Systems",
+        "score": 0.910099983215332,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2002",
+          "display_name": "Economics and Econometrics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/20",
+          "display_name": "Economics, Econometrics and Finance"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/relation",
+        "display_name": "Relation (database)",
+        "score": 0.8201804757118225
+      },
+      {
+        "id": "https://openalex.org/keywords/hebrew",
+        "display_name": "Hebrew",
+        "score": 0.5345209240913391
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.5121395587921143
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.49254903197288513
+      },
+      {
+        "id": "https://openalex.org/keywords/law-and-economics",
+        "display_name": "Law and economics",
+        "score": 0.3441605567932129
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.33834609389305115
+      },
+      {
+        "id": "https://openalex.org/keywords/history",
+        "display_name": "History",
+        "score": 0.1897321343421936
+      },
+      {
+        "id": "https://openalex.org/keywords/computer-science",
+        "display_name": "Computer science",
+        "score": 0.13645288348197937
+      },
+      {
+        "id": "https://openalex.org/keywords/classics",
+        "display_name": "Classics",
+        "score": 0.1267494559288025
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C25343380",
+        "wikidata": "https://www.wikidata.org/wiki/Q277521",
+        "display_name": "Relation (database)",
+        "level": 2,
+        "score": 0.8201804757118225
+      },
+      {
+        "id": "https://openalex.org/C91304198",
+        "wikidata": "https://www.wikidata.org/wiki/Q9288",
+        "display_name": "Hebrew",
+        "level": 2,
+        "score": 0.5345209240913391
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.5121395587921143
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.49254903197288513
+      },
+      {
+        "id": "https://openalex.org/C190253527",
+        "wikidata": "https://www.wikidata.org/wiki/Q295354",
+        "display_name": "Law and economics",
+        "level": 1,
+        "score": 0.3441605567932129
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.33834609389305115
+      },
+      {
+        "id": "https://openalex.org/C95457728",
+        "wikidata": "https://www.wikidata.org/wiki/Q309",
+        "display_name": "History",
+        "level": 0,
+        "score": 0.1897321343421936
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.13645288348197937
+      },
+      {
+        "id": "https://openalex.org/C74916050",
+        "wikidata": "https://www.wikidata.org/wiki/Q841090",
+        "display_name": "Classics",
+        "level": 1,
+        "score": 0.1267494559288025
+      },
+      {
+        "id": "https://openalex.org/C77088390",
+        "wikidata": "https://www.wikidata.org/wiki/Q8513",
+        "display_name": "Database",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1093/ojls/17.1.101",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1093/ojls/17.1.101",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S34110867",
+          "display_name": "Oxford Journal of Legal Studies",
+          "issn_l": "0143-6503",
+          "issn": [
+            "0143-6503",
+            "1464-3820"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310311648",
+          "host_organization_name": "Oxford University Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311648"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Oxford Journal of Legal Studies",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.8100000023841858,
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W1976009970",
+      "https://openalex.org/W2084800428",
+      "https://openalex.org/W2044179353",
+      "https://openalex.org/W2068961711",
+      "https://openalex.org/W2009267686",
+      "https://openalex.org/W4253949560",
+      "https://openalex.org/W2317694233",
+      "https://openalex.org/W2336151987",
+      "https://openalex.org/W2208262294"
+    ],
+    "abstract_inverted_index": {
+      "What": [
+        0
+      ],
+      "Demands": [
+        1
+      ],
+      "are": [
+        2
+      ],
+      "Rights?": [
+        3
+      ],
+      "An": [
+        4
+      ],
+      "Investigation": [
+        5
+      ],
+      "into": [
+        6
+      ],
+      "the": [
+        7
+      ],
+      "Relation": [
+        8
+      ],
+      "between": [
+        9
+      ],
+      "Rights": [
+        10
+      ],
+      "and": [
+        11
+      ],
+      "Reasons": [
+        12
+      ],
+      "Get": [
+        13
+      ],
+      "access": [
+        14
+      ],
+      "ALON": [
+        15,
+        17
+      ],
+      "HAREL": [
+        16,
+        18
+      ],
+      "Faculty": [
+        19
+      ],
+      "of": [
+        20,
+        39
+      ],
+      "Law": [
+        21
+      ],
+      "Hebrew": [
+        22
+      ],
+      "UniversityJerusalem,": [
+        23
+      ],
+      "Israel": [
+        24
+      ],
+      "Search": [
+        25
+      ],
+      "for": [
+        26
+      ],
+      "other": [
+        27
+      ],
+      "works": [
+        28
+      ],
+      "by": [
+        29
+      ],
+      "this": [
+        30
+      ],
+      "author": [
+        31
+      ],
+      "on:": [
+        32
+      ],
+      "Oxford": [
+        33,
+        37
+      ],
+      "Academic": [
+        34
+      ],
+      "Google": [
+        35
+      ],
+      "Scholar": [
+        36
+      ],
+      "Journal": [
+        38
+      ],
+      "Legal": [
+        40
+      ],
+      "Studies,": [
+        41
+      ],
+      "Volume": [
+        42
+      ],
+      "17,": [
+        43
+      ],
+      "Issue": [
+        44
+      ],
+      "1,": [
+        45
+      ],
+      "Spring": [
+        46
+      ],
+      "1997,": [
+        47
+      ],
+      "Pages": [
+        48
+      ],
+      "101\u2013114,": [
+        49
+      ],
+      "https://doi.org/10.1093/ojls/17.1.101": [
+        50
+      ],
+      "Published:": [
+        51
+      ],
+      "01": [
+        52
+      ],
+      "March": [
+        53
+      ],
+      "1997": [
+        54
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2021,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W4380203930",
+    "doi": "https://doi.org/10.1093/ojls/gqad012",
+    "title": "Unbundling Property in Welfare",
+    "display_name": "Unbundling Property in Welfare",
+    "relevance_score": 1.015518,
+    "publication_year": 2023,
+    "publication_date": "2023-06-08",
+    "ids": {
+      "openalex": "https://openalex.org/W4380203930",
+      "doi": "https://doi.org/10.1093/ojls/gqad012"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1093/ojls/gqad012",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1093/ojls/gqad012",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S34110867",
+        "display_name": "Oxford Journal of Legal Studies",
+        "issn_l": "0143-6503",
+        "issn": [
+          "0143-6503",
+          "1464-3820"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310311648",
+        "host_organization_name": "Oxford University Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310311648"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Oxford Journal of Legal Studies",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5079630802",
+          "display_name": "Yael Cohen\u2010Rimer",
+          "orcid": "https://orcid.org/0000-0001-6696-5428"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Yael Cohen-Rimer",
+        "raw_affiliation_strings": [
+          "Harvard Law School, post-doctorate visiting scholar"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Harvard Law School, post-doctorate visiting scholar",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5035700241",
+          "display_name": "Shai Stern",
+          "orcid": "https://orcid.org/0000-0002-5135-6520"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I13955877",
+            "display_name": "Bar-Ilan University",
+            "ror": "https://ror.org/03kgsv495",
+            "country_code": "IL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I13955877"
+            ]
+          }
+        ],
+        "countries": [
+          "IL"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Shai Stern",
+        "raw_affiliation_strings": [
+          "Bar-Ilan University, Professor of Law"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Bar-Ilan University, Professor of Law",
+            "institution_ids": [
+              "https://openalex.org/I13955877"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 2,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": {
+      "value": 2768,
+      "currency": "GBP",
+      "value_usd": 3395
+    },
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.11524982,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "43",
+      "issue": "3",
+      "first_page": "574",
+      "last_page": "597"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Jewish and Middle Eastern Studies",
+      "score": 0.9247000217437744,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.9247000217437744,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/denial",
+        "display_name": "Denial",
+        "score": 0.6381416320800781
+      },
+      {
+        "id": "https://openalex.org/keywords/welfare",
+        "display_name": "Welfare",
+        "score": 0.6093804836273193
+      },
+      {
+        "id": "https://openalex.org/keywords/property",
+        "display_name": "Property (philosophy)",
+        "score": 0.6026429533958435
+      },
+      {
+        "id": "https://openalex.org/keywords/poverty",
+        "display_name": "Poverty",
+        "score": 0.5543097853660583
+      },
+      {
+        "id": "https://openalex.org/keywords/law-and-economics",
+        "display_name": "Law and economics",
+        "score": 0.5103966593742371
+      },
+      {
+        "id": "https://openalex.org/keywords/public-property",
+        "display_name": "Public property",
+        "score": 0.4577045440673828
+      },
+      {
+        "id": "https://openalex.org/keywords/property-rights",
+        "display_name": "Property rights",
+        "score": 0.43870019912719727
+      },
+      {
+        "id": "https://openalex.org/keywords/unbundling",
+        "display_name": "Unbundling",
+        "score": 0.43508657813072205
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.39511004090309143
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.3728576898574829
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.3687135577201843
+      },
+      {
+        "id": "https://openalex.org/keywords/business",
+        "display_name": "Business",
+        "score": 0.3403121829032898
+      },
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.07824847102165222
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2780900520",
+        "wikidata": "https://www.wikidata.org/wiki/Q100268981",
+        "display_name": "Denial",
+        "level": 2,
+        "score": 0.6381416320800781
+      },
+      {
+        "id": "https://openalex.org/C100243477",
+        "wikidata": "https://www.wikidata.org/wiki/Q12002092",
+        "display_name": "Welfare",
+        "level": 2,
+        "score": 0.6093804836273193
+      },
+      {
+        "id": "https://openalex.org/C189950617",
+        "wikidata": "https://www.wikidata.org/wiki/Q937228",
+        "display_name": "Property (philosophy)",
+        "level": 2,
+        "score": 0.6026429533958435
+      },
+      {
+        "id": "https://openalex.org/C189326681",
+        "wikidata": "https://www.wikidata.org/wiki/Q10294",
+        "display_name": "Poverty",
+        "level": 2,
+        "score": 0.5543097853660583
+      },
+      {
+        "id": "https://openalex.org/C190253527",
+        "wikidata": "https://www.wikidata.org/wiki/Q295354",
+        "display_name": "Law and economics",
+        "level": 1,
+        "score": 0.5103966593742371
+      },
+      {
+        "id": "https://openalex.org/C54028893",
+        "wikidata": "https://www.wikidata.org/wiki/Q702627",
+        "display_name": "Public property",
+        "level": 3,
+        "score": 0.4577045440673828
+      },
+      {
+        "id": "https://openalex.org/C86511162",
+        "wikidata": "https://www.wikidata.org/wiki/Q8799101",
+        "display_name": "Property rights",
+        "level": 2,
+        "score": 0.43870019912719727
+      },
+      {
+        "id": "https://openalex.org/C7668479",
+        "wikidata": "https://www.wikidata.org/wiki/Q7882446",
+        "display_name": "Unbundling",
+        "level": 2,
+        "score": 0.43508657813072205
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.39511004090309143
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.3728576898574829
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.3687135577201843
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.3403121829032898
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.07824847102165222
+      },
+      {
+        "id": "https://openalex.org/C111472728",
+        "wikidata": "https://www.wikidata.org/wiki/Q9471",
+        "display_name": "Epistemology",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C11171543",
+        "wikidata": "https://www.wikidata.org/wiki/Q41630",
+        "display_name": "Psychoanalysis",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C40700",
+        "wikidata": "https://www.wikidata.org/wiki/Q1411783",
+        "display_name": "Industrial organization",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1093/ojls/gqad012",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1093/ojls/gqad012",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S34110867",
+          "display_name": "Oxford Journal of Legal Studies",
+          "issn_l": "0143-6503",
+          "issn": [
+            "0143-6503",
+            "1464-3820"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310311648",
+          "host_organization_name": "Oxford University Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311648"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Oxford Journal of Legal Studies",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.7300000190734863,
+        "display_name": "No poverty",
+        "id": "https://metadata.un.org/sdg/1"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W2370252696",
+      "https://openalex.org/W2373757240",
+      "https://openalex.org/W2361036569",
+      "https://openalex.org/W2393153154",
+      "https://openalex.org/W1660075406",
+      "https://openalex.org/W2386956395",
+      "https://openalex.org/W2367933838",
+      "https://openalex.org/W2353310316",
+      "https://openalex.org/W595977741",
+      "https://openalex.org/W2356460756"
+    ],
+    "abstract_inverted_index": {
+      "Abstract": [
+        0
+      ],
+      "In": [
+        1
+      ],
+      "most": [
+        2,
+        76
+      ],
+      "Western": [
+        3
+      ],
+      "jurisdictions,": [
+        4
+      ],
+      "welfare": [
+        5,
+        17,
+        85,
+        237
+      ],
+      "law": [
+        6,
+        226,
+        238
+      ],
+      "utilises": [
+        7
+      ],
+      "means": [
+        8
+      ],
+      "testing": [
+        9
+      ],
+      "to": [
+        10,
+        47,
+        53,
+        66,
+        188,
+        234
+      ],
+      "determine": [
+        11
+      ],
+      "whether": [
+        12
+      ],
+      "individuals": [
+        13
+      ],
+      "are": [
+        14,
+        44,
+        100
+      ],
+      "eligible": [
+        15
+      ],
+      "for": [
+        16,
+        74,
+        211
+      ],
+      "allowances,": [
+        18
+      ],
+      "often": [
+        19,
+        147,
+        180
+      ],
+      "using": [
+        20
+      ],
+      "property": [
+        21,
+        34,
+        42,
+        120,
+        138
+      ],
+      "ownership": [
+        22,
+        35,
+        121,
+        166
+      ],
+      "as": [
+        23,
+        232
+      ],
+      "one": [
+        24
+      ],
+      "of": [
+        25,
+        33,
+        58,
+        79,
+        165,
+        172,
+        185,
+        215
+      ],
+      "the": [
+        26,
+        30,
+        39,
+        54,
+        80,
+        103,
+        112,
+        159,
+        162,
+        173,
+        183,
+        212
+      ],
+      "eligibility": [
+        27
+      ],
+      "criteria.": [
+        28
+      ],
+      "Crucially,": [
+        29
+      ],
+      "prevailing": [
+        31
+      ],
+      "conception": [
+        32,
+        201
+      ],
+      "is": [
+        36,
+        125
+      ],
+      "premised": [
+        37
+      ],
+      "on": [
+        38
+      ],
+      "notion": [
+        40
+      ],
+      "that": [
+        41,
+        59,
+        119,
+        132,
+        228
+      ],
+      "rights": [
+        43
+      ],
+      "applied": [
+        45
+      ],
+      "equally": [
+        46
+      ],
+      "all": [
+        48
+      ],
+      "owners": [
+        49
+      ],
+      "in": [
+        50,
+        77,
+        95,
+        102,
+        108,
+        122,
+        139,
+        178,
+        182,
+        200,
+        217,
+        252
+      ],
+      "matters": [
+        51
+      ],
+      "relating": [
+        52
+      ],
+      "control": [
+        55
+      ],
+      "and": [
+        56,
+        111,
+        131,
+        136,
+        144,
+        167,
+        175,
+        202,
+        239,
+        244,
+        254
+      ],
+      "management": [
+        57
+      ],
+      "property.": [
+        60
+      ],
+      "When": [
+        61
+      ],
+      "this": [
+        62
+      ],
+      "assumption": [
+        63
+      ],
+      "proves": [
+        64
+      ],
+      "not": [
+        65
+      ],
+      "reflect": [
+        67
+      ],
+      "reality,": [
+        68
+      ],
+      "it": [
+        69,
+        192,
+        221,
+        241,
+        249
+      ],
+      "can": [
+        70,
+        229
+      ],
+      "have": [
+        71
+      ],
+      "devastating": [
+        72
+      ],
+      "consequences": [
+        73,
+        99
+      ],
+      "those": [
+        75,
+        168,
+        189
+      ],
+      "need": [
+        78,
+        191
+      ],
+      "support": [
+        81
+      ],
+      "ostensibly": [
+        82
+      ],
+      "provided": [
+        83
+      ],
+      "by": [
+        84,
+        170
+      ],
+      "law.": [
+        86
+      ],
+      "The": [
+        87,
+        116
+      ],
+      "present": [
+        88
+      ],
+      "qualitative": [
+        89
+      ],
+      "empirical": [
+        90
+      ],
+      "study": [
+        91
+      ],
+      "examines": [
+        92
+      ],
+      "two": [
+        93,
+        104,
+        224
+      ],
+      "cases": [
+        94
+      ],
+      "which": [
+        96
+      ],
+      "such": [
+        97,
+        198
+      ],
+      "adverse": [
+        98
+      ],
+      "felt:": [
+        101
+      ],
+      "largest": [
+        105
+      ],
+      "minority": [
+        106,
+        218
+      ],
+      "communities": [
+        107,
+        124,
+        177
+      ],
+      "Israel\u2014the": [
+        109
+      ],
+      "Palestinians": [
+        110
+      ],
+      "Ultraorthodox": [
+        113
+      ],
+      "Jews": [
+        114
+      ],
+      "(Charedi).": [
+        115
+      ],
+      "findings": [
+        117
+      ],
+      "show": [
+        118
+      ],
+      "these": [
+        123
+      ],
+      "realised": [
+        126
+      ],
+      "hierarchically,": [
+        127
+      ],
+      "along": [
+        128
+      ],
+      "patriarchal": [
+        129
+      ],
+      "lines,": [
+        130
+      ],
+      "family": [
+        133
+      ],
+      "members": [
+        134,
+        171
+      ],
+      "occupy": [
+        135
+      ],
+      "manage": [
+        137
+      ],
+      "accordance": [
+        140
+      ],
+      "with": [
+        141
+      ],
+      "community": [
+        142
+      ],
+      "customs": [
+        143
+      ],
+      "traditional": [
+        145
+      ],
+      "norms,": [
+        146
+      ],
+      "far": [
+        148
+      ],
+      "removed": [
+        149
+      ],
+      "from": [
+        150
+      ],
+      "state": [
+        151
+      ],
+      "laws.": [
+        152
+      ],
+      "Beyond": [
+        153
+      ],
+      "theoretical": [
+        154
+      ],
+      "debates": [
+        155
+      ],
+      "or": [
+        156
+      ],
+      "ethnographic": [
+        157
+      ],
+      "observations,": [
+        158
+      ],
+      "discrepancies": [
+        160
+      ],
+      "between": [
+        161
+      ],
+      "state\u2019s": [
+        163
+      ],
+      "ideas": [
+        164
+      ],
+      "recognised": [
+        169
+      ],
+      "Palestinian": [
+        174
+      ],
+      "Charedi": [
+        176
+      ],
+      "Israel": [
+        179
+      ],
+      "result": [
+        181
+      ],
+      "denial": [
+        184
+      ],
+      "financial": [
+        186
+      ],
+      "aid": [
+        187
+      ],
+      "who": [
+        190
+      ],
+      "most.": [
+        193
+      ],
+      "This": [
+        194
+      ],
+      "article": [
+        195
+      ],
+      "will": [
+        196,
+        203,
+        222
+      ],
+      "identify": [
+        197
+      ],
+      "differences": [
+        199
+      ],
+      "describe": [
+        204
+      ],
+      "how": [
+        205
+      ],
+      "they": [
+        206
+      ],
+      "provide": [
+        207
+      ],
+      "an": [
+        208
+      ],
+      "additional": [
+        209
+      ],
+      "explanation": [
+        210
+      ],
+      "high": [
+        213
+      ],
+      "levels": [
+        214
+      ],
+      "poverty": [
+        216,
+        253
+      ],
+      "communities.": [
+        219
+      ],
+      "Finally,": [
+        220
+      ],
+      "examine": [
+        223
+      ],
+      "private": [
+        225
+      ],
+      "doctrines": [
+        227
+      ],
+      "be": [
+        230
+      ],
+      "used": [
+        231
+      ],
+      "inspiration": [
+        233
+      ],
+      "better": [
+        235
+      ],
+      "interpret": [
+        236
+      ],
+      "make": [
+        240
+      ],
+      "more": [
+        242
+      ],
+      "nuanced": [
+        243
+      ],
+      "culturally": [
+        245
+      ],
+      "sensitive,": [
+        246
+      ],
+      "especially": [
+        247
+      ],
+      "when": [
+        248
+      ],
+      "encounters": [
+        250
+      ],
+      "people": [
+        251
+      ],
+      "marginalised": [
+        255
+      ],
+      "groups.": [
+        256
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  }
+]

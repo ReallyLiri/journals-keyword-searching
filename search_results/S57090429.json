@@ -1,0 +1,5998 @@
+[
+  {
+    "id": "https://openalex.org/W2075484517",
+    "doi": "https://doi.org/10.1177/019145379802400601",
+    "title": "The fact of pluralism and Israeli national identity",
+    "display_name": "The fact of pluralism and Israeli national identity",
+    "relevance_score": 70.189285,
+    "publication_year": 1998,
+    "publication_date": "1998-11-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2075484517",
+      "doi": "https://doi.org/10.1177/019145379802400601",
+      "mag": "2075484517"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/019145379802400601",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/019145379802400601",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S57090429",
+        "display_name": "Philosophy & Social Criticism",
+        "issn_l": "0191-4537",
+        "issn": [
+          "0191-4537",
+          "1461-734X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Philosophy &amp; Social Criticism",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5001045685",
+          "display_name": "Rebecca Kook",
+          "orcid": "https://orcid.org/0000-0002-3379-2185"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I91203450",
+            "display_name": "University of Haifa",
+            "ror": "https://ror.org/02f009v59",
+            "country_code": "IL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I91203450"
+            ]
+          }
+        ],
+        "countries": [
+          "IL"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Rebecca Kook",
+        "raw_affiliation_strings": [
+          "University of Haifa, Department of Political Science, Haifa, Israel"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Haifa, Department of Political Science, Haifa, Israel",
+            "institution_ids": [
+              "https://openalex.org/I91203450"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5001045685"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I91203450"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 2,
+    "citation_normalized_percentile": {
+      "value": 0.26288602,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 90,
+      "max": 94
+    },
+    "biblio": {
+      "volume": "24",
+      "issue": "6",
+      "first_page": "1",
+      "last_page": "24"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Jewish and Middle Eastern Studies",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.9997000098228455,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13103",
+        "display_name": "Middle East Politics and Society",
+        "score": 0.984000027179718,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11783",
+        "display_name": "Turkey's Politics and Society",
+        "score": 0.9574000239372253,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/pluralism",
+        "display_name": "Pluralism (philosophy)",
+        "score": 0.8476625680923462
+      },
+      {
+        "id": "https://openalex.org/keywords/democracy",
+        "display_name": "Democracy",
+        "score": 0.6917222738265991
+      },
+      {
+        "id": "https://openalex.org/keywords/neutrality",
+        "display_name": "Neutrality",
+        "score": 0.5719980001449585
+      },
+      {
+        "id": "https://openalex.org/keywords/politics",
+        "display_name": "Politics",
+        "score": 0.5692005753517151
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.5282796025276184
+      },
+      {
+        "id": "https://openalex.org/keywords/liberalism",
+        "display_name": "Liberalism",
+        "score": 0.5263432264328003
+      },
+      {
+        "id": "https://openalex.org/keywords/liberal-democracy",
+        "display_name": "Liberal democracy",
+        "score": 0.4733726382255554
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.46852773427963257
+      },
+      {
+        "id": "https://openalex.org/keywords/law-and-economics",
+        "display_name": "Law and economics",
+        "score": 0.463159441947937
+      },
+      {
+        "id": "https://openalex.org/keywords/economic-justice",
+        "display_name": "Economic Justice",
+        "score": 0.4316466450691223
+      },
+      {
+        "id": "https://openalex.org/keywords/state",
+        "display_name": "State (computer science)",
+        "score": 0.4191396236419678
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.36355575919151306
+      },
+      {
+        "id": "https://openalex.org/keywords/epistemology",
+        "display_name": "Epistemology",
+        "score": 0.32628756761550903
+      },
+      {
+        "id": "https://openalex.org/keywords/philosophy",
+        "display_name": "Philosophy",
+        "score": 0.12226158380508423
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C49831778",
+        "wikidata": "https://www.wikidata.org/wiki/Q879021",
+        "display_name": "Pluralism (philosophy)",
+        "level": 2,
+        "score": 0.8476625680923462
+      },
+      {
+        "id": "https://openalex.org/C555826173",
+        "wikidata": "https://www.wikidata.org/wiki/Q7174",
+        "display_name": "Democracy",
+        "level": 3,
+        "score": 0.6917222738265991
+      },
+      {
+        "id": "https://openalex.org/C2779581858",
+        "wikidata": "https://www.wikidata.org/wiki/Q9049677",
+        "display_name": "Neutrality",
+        "level": 2,
+        "score": 0.5719980001449585
+      },
+      {
+        "id": "https://openalex.org/C94625758",
+        "wikidata": "https://www.wikidata.org/wiki/Q7163",
+        "display_name": "Politics",
+        "level": 2,
+        "score": 0.5692005753517151
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.5282796025276184
+      },
+      {
+        "id": "https://openalex.org/C547727832",
+        "wikidata": "https://www.wikidata.org/wiki/Q6216",
+        "display_name": "Liberalism",
+        "level": 3,
+        "score": 0.5263432264328003
+      },
+      {
+        "id": "https://openalex.org/C111439079",
+        "wikidata": "https://www.wikidata.org/wiki/Q192125",
+        "display_name": "Liberal democracy",
+        "level": 4,
+        "score": 0.4733726382255554
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.46852773427963257
+      },
+      {
+        "id": "https://openalex.org/C190253527",
+        "wikidata": "https://www.wikidata.org/wiki/Q295354",
+        "display_name": "Law and economics",
+        "level": 1,
+        "score": 0.463159441947937
+      },
+      {
+        "id": "https://openalex.org/C139621336",
+        "wikidata": "https://www.wikidata.org/wiki/Q3190382",
+        "display_name": "Economic Justice",
+        "level": 2,
+        "score": 0.4316466450691223
+      },
+      {
+        "id": "https://openalex.org/C48103436",
+        "wikidata": "https://www.wikidata.org/wiki/Q599031",
+        "display_name": "State (computer science)",
+        "level": 2,
+        "score": 0.4191396236419678
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.36355575919151306
+      },
+      {
+        "id": "https://openalex.org/C111472728",
+        "wikidata": "https://www.wikidata.org/wiki/Q9471",
+        "display_name": "Epistemology",
+        "level": 1,
+        "score": 0.32628756761550903
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.12226158380508423
+      },
+      {
+        "id": "https://openalex.org/C11413529",
+        "wikidata": "https://www.wikidata.org/wiki/Q8366",
+        "display_name": "Algorithm",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/019145379802400601",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/019145379802400601",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S57090429",
+          "display_name": "Philosophy & Social Criticism",
+          "issn_l": "0191-4537",
+          "issn": [
+            "0191-4537",
+            "1461-734X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Philosophy &amp; Social Criticism",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "display_name": "Peace, Justice and strong institutions",
+        "score": 0.8299999833106995,
+        "id": "https://metadata.un.org/sdg/16"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 28,
+    "referenced_works": [
+      "https://openalex.org/W2796529776",
+      "https://openalex.org/W4319781187",
+      "https://openalex.org/W2073748428",
+      "https://openalex.org/W2326693402",
+      "https://openalex.org/W4250130736",
+      "https://openalex.org/W2034176134",
+      "https://openalex.org/W2018724254",
+      "https://openalex.org/W2035707119",
+      "https://openalex.org/W2043624114",
+      "https://openalex.org/W2072627857",
+      "https://openalex.org/W1989529754",
+      "https://openalex.org/W1986758449",
+      "https://openalex.org/W4386911974",
+      "https://openalex.org/W2312637376",
+      "https://openalex.org/W2778199287",
+      "https://openalex.org/W2313581546",
+      "https://openalex.org/W4230906437",
+      "https://openalex.org/W2313131924",
+      "https://openalex.org/W2962975506",
+      "https://openalex.org/W2795975101",
+      "https://openalex.org/W1587479464",
+      "https://openalex.org/W2796947503",
+      "https://openalex.org/W643300919",
+      "https://openalex.org/W592707898",
+      "https://openalex.org/W2094523293",
+      "https://openalex.org/W4301032653",
+      "https://openalex.org/W3127547756",
+      "https://openalex.org/W4230323165"
+    ],
+    "related_works": [
+      "https://openalex.org/W4237373464",
+      "https://openalex.org/W2801478839",
+      "https://openalex.org/W4244115309",
+      "https://openalex.org/W3122884855",
+      "https://openalex.org/W2069762004",
+      "https://openalex.org/W2925475247",
+      "https://openalex.org/W2758630383",
+      "https://openalex.org/W4386650382",
+      "https://openalex.org/W4321479707",
+      "https://openalex.org/W3123342375"
+    ],
+    "abstract_inverted_index": {
+      "Much": [
+        0
+      ],
+      "of": [
+        1,
+        12,
+        19,
+        30,
+        37,
+        84
+      ],
+      "John": [
+        2
+      ],
+      "Rawls'": [
+        3,
+        34
+      ],
+      "later": [
+        4
+      ],
+      "work": [
+        5
+      ],
+      "is": [
+        6,
+        39
+      ],
+      "concerned": [
+        7
+      ],
+      "with": [
+        8,
+        55
+      ],
+      "the": [
+        9,
+        17,
+        26,
+        70,
+        79,
+        82
+      ],
+      "appli": [
+        10
+      ],
+      "cation": [
+        11
+      ],
+      "his": [
+        13
+      ],
+      "philosophical": [
+        14
+      ],
+      "conceptions": [
+        15
+      ],
+      "to": [
+        16,
+        41,
+        48
+      ],
+      "reality": [
+        18,
+        29
+      ],
+      "liberal-democratic": [
+        20
+      ],
+      "polities.": [
+        21
+      ],
+      "I": [
+        22,
+        66
+      ],
+      "suggest": [
+        23
+      ],
+      "that": [
+        24
+      ],
+      "given": [
+        25
+      ],
+      "modern": [
+        27
+      ],
+      "democratic": [
+        28,
+        43
+      ],
+      "ethno": [
+        31
+      ],
+      "national": [
+        32,
+        62,
+        87
+      ],
+      "pluralism,": [
+        33
+      ],
+      "political": [
+        35,
+        95
+      ],
+      "conception": [
+        36
+      ],
+      "justice": [
+        38
+      ],
+      "insufficient": [
+        40
+      ],
+      "ensure": [
+        42
+      ],
+      "stability.": [
+        44
+      ],
+      "Democratic": [
+        45
+      ],
+      "states": [
+        46
+      ],
+      "manage": [
+        47
+      ],
+      "contain": [
+        49
+      ],
+      "ethnic": [
+        50
+      ],
+      "pluralism": [
+        51
+      ],
+      "while": [
+        52
+      ],
+      "remaining": [
+        53
+      ],
+      "compatible": [
+        54
+      ],
+      "liberal": [
+        56
+      ],
+      "principles": [
+        57
+      ],
+      "by": [
+        58,
+        78
+      ],
+      "promoting": [
+        59
+      ],
+      "a": [
+        60,
+        85
+      ],
+      "corporate": [
+        61,
+        86
+      ],
+      "identity.": [
+        63
+      ],
+      "The": [
+        64
+      ],
+      "key,": [
+        65
+      ],
+      "argue,": [
+        67
+      ],
+      "lies": [
+        68
+      ],
+      "in": [
+        69
+      ],
+      "particular": [
+        71
+      ],
+      "member": [
+        72
+      ],
+      "ship": [
+        73
+      ],
+      "criteria": [
+        74
+      ],
+      "devised": [
+        75
+      ],
+      "and": [
+        76
+      ],
+      "implemented": [
+        77
+      ],
+      "state.": [
+        80
+      ],
+      "Hence,": [
+        81
+      ],
+      "promotion": [
+        83
+      ],
+      "identity": [
+        88
+      ],
+      "negates": [
+        89
+      ],
+      "state": [
+        90
+      ],
+      "neutrality,": [
+        91
+      ],
+      "but": [
+        92
+      ],
+      "not": [
+        93
+      ],
+      "necessarily": [
+        94
+      ],
+      "liberalism.": [
+        96
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2016,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2941618542",
+    "doi": "https://doi.org/10.1177/0191453719839448",
+    "title": "Postnational memory: Narrating the Holocaust and the Nakba",
+    "display_name": "Postnational memory: Narrating the Holocaust and the Nakba",
+    "relevance_score": 14.517956,
+    "publication_year": 2019,
+    "publication_date": "2019-04-23",
+    "ids": {
+      "openalex": "https://openalex.org/W2941618542",
+      "doi": "https://doi.org/10.1177/0191453719839448",
+      "mag": "2941618542"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/0191453719839448",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/0191453719839448",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S57090429",
+        "display_name": "Philosophy & Social Criticism",
+        "issn_l": "0191-4537",
+        "issn": [
+          "0191-4537",
+          "1461-734X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Philosophy &amp; Social Criticism",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5058533904",
+          "display_name": "Nadim Khoury",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210128481",
+            "display_name": "Oslo Nye H\u00f8yskole",
+            "ror": "https://ror.org/030xrgd02",
+            "country_code": "NO",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210128481"
+            ]
+          }
+        ],
+        "countries": [
+          "NO"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Nadim Khoury",
+        "raw_affiliation_strings": [
+          "Bj\u00f8rknes University College, Norway"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Bj\u00f8rknes University College, Norway",
+            "institution_ids": [
+              "https://openalex.org/I4210128481"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5058533904"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I4210128481"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 2.75562701,
+    "has_fulltext": false,
+    "cited_by_count": 51,
+    "citation_normalized_percentile": {
+      "value": 0.91136159,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 94,
+      "max": 100
+    },
+    "biblio": {
+      "volume": "46",
+      "issue": "1",
+      "first_page": "91",
+      "last_page": "110"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Jewish and Middle Eastern Studies",
+      "score": 0.9995999932289124,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.9995999932289124,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11104",
+        "display_name": "Memory, Trauma, and Commemoration",
+        "score": 0.9993000030517578,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3207",
+          "display_name": "Social Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11783",
+        "display_name": "Turkey's Politics and Society",
+        "score": 0.9904000163078308,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/the-holocaust",
+        "display_name": "The Holocaust",
+        "score": 0.80706787109375
+      },
+      {
+        "id": "https://openalex.org/keywords/nationalism",
+        "display_name": "Nationalism",
+        "score": 0.7679027318954468
+      },
+      {
+        "id": "https://openalex.org/keywords/typology",
+        "display_name": "Typology",
+        "score": 0.632394552230835
+      },
+      {
+        "id": "https://openalex.org/keywords/narrative",
+        "display_name": "Narrative",
+        "score": 0.6276144981384277
+      },
+      {
+        "id": "https://openalex.org/keywords/collective-memory",
+        "display_name": "Collective memory",
+        "score": 0.6138866543769836
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.598679780960083
+      },
+      {
+        "id": "https://openalex.org/keywords/aesthetics",
+        "display_name": "Aesthetics",
+        "score": 0.40507960319519043
+      },
+      {
+        "id": "https://openalex.org/keywords/anthropology",
+        "display_name": "Anthropology",
+        "score": 0.2207064926624298
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.20253729820251465
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.20056244730949402
+      },
+      {
+        "id": "https://openalex.org/keywords/literature",
+        "display_name": "Literature",
+        "score": 0.17440888285636902
+      },
+      {
+        "id": "https://openalex.org/keywords/philosophy",
+        "display_name": "Philosophy",
+        "score": 0.14645439386367798
+      },
+      {
+        "id": "https://openalex.org/keywords/art",
+        "display_name": "Art",
+        "score": 0.09233739972114563
+      },
+      {
+        "id": "https://openalex.org/keywords/politics",
+        "display_name": "Politics",
+        "score": 0.0778261125087738
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C110361221",
+        "wikidata": "https://www.wikidata.org/wiki/Q2763",
+        "display_name": "The Holocaust",
+        "level": 2,
+        "score": 0.80706787109375
+      },
+      {
+        "id": "https://openalex.org/C521449643",
+        "wikidata": "https://www.wikidata.org/wiki/Q6235",
+        "display_name": "Nationalism",
+        "level": 3,
+        "score": 0.7679027318954468
+      },
+      {
+        "id": "https://openalex.org/C75795011",
+        "wikidata": "https://www.wikidata.org/wiki/Q917904",
+        "display_name": "Typology",
+        "level": 2,
+        "score": 0.632394552230835
+      },
+      {
+        "id": "https://openalex.org/C199033989",
+        "wikidata": "https://www.wikidata.org/wiki/Q1318295",
+        "display_name": "Narrative",
+        "level": 2,
+        "score": 0.6276144981384277
+      },
+      {
+        "id": "https://openalex.org/C67448173",
+        "wikidata": "https://www.wikidata.org/wiki/Q254217",
+        "display_name": "Collective memory",
+        "level": 2,
+        "score": 0.6138866543769836
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.598679780960083
+      },
+      {
+        "id": "https://openalex.org/C107038049",
+        "wikidata": "https://www.wikidata.org/wiki/Q35986",
+        "display_name": "Aesthetics",
+        "level": 1,
+        "score": 0.40507960319519043
+      },
+      {
+        "id": "https://openalex.org/C19165224",
+        "wikidata": "https://www.wikidata.org/wiki/Q23404",
+        "display_name": "Anthropology",
+        "level": 1,
+        "score": 0.2207064926624298
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.20253729820251465
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.20056244730949402
+      },
+      {
+        "id": "https://openalex.org/C124952713",
+        "wikidata": "https://www.wikidata.org/wiki/Q8242",
+        "display_name": "Literature",
+        "level": 1,
+        "score": 0.17440888285636902
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.14645439386367798
+      },
+      {
+        "id": "https://openalex.org/C142362112",
+        "wikidata": "https://www.wikidata.org/wiki/Q735",
+        "display_name": "Art",
+        "level": 0,
+        "score": 0.09233739972114563
+      },
+      {
+        "id": "https://openalex.org/C94625758",
+        "wikidata": "https://www.wikidata.org/wiki/Q7163",
+        "display_name": "Politics",
+        "level": 2,
+        "score": 0.0778261125087738
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/0191453719839448",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/0191453719839448",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S57090429",
+          "display_name": "Philosophy & Social Criticism",
+          "issn_l": "0191-4537",
+          "issn": [
+            "0191-4537",
+            "1461-734X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Philosophy &amp; Social Criticism",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "display_name": "Reduced inequalities",
+        "score": 0.6899999976158142,
+        "id": "https://metadata.un.org/sdg/10"
+      }
+    ],
+    "grants": [
+      {
+        "funder": "https://openalex.org/F4320323299",
+        "funder_display_name": "Norges Forskningsr\u00e5d",
+        "award_id": "NFR 259017"
+      }
+    ],
+    "awards": [],
+    "funders": [
+      {
+        "id": "https://openalex.org/F4320323299",
+        "display_name": "Norges Forskningsr\u00e5d",
+        "ror": "https://ror.org/00epmv149"
+      }
+    ],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 67,
+    "referenced_works": [
+      "https://openalex.org/W1968249606",
+      "https://openalex.org/W2544367781",
+      "https://openalex.org/W2131156899",
+      "https://openalex.org/W4232713959",
+      "https://openalex.org/W4239461120",
+      "https://openalex.org/W4390007989",
+      "https://openalex.org/W2486881578",
+      "https://openalex.org/W3138253029",
+      "https://openalex.org/W2161661921",
+      "https://openalex.org/W1984051428",
+      "https://openalex.org/W1989062604",
+      "https://openalex.org/W4243135070",
+      "https://openalex.org/W2092709967",
+      "https://openalex.org/W2074220923",
+      "https://openalex.org/W2092960936",
+      "https://openalex.org/W2110058636",
+      "https://openalex.org/W2114893980",
+      "https://openalex.org/W2292154302",
+      "https://openalex.org/W2515118945",
+      "https://openalex.org/W4232190310",
+      "https://openalex.org/W2624024337",
+      "https://openalex.org/W2099870911",
+      "https://openalex.org/W1964432385",
+      "https://openalex.org/W2141775222",
+      "https://openalex.org/W4252087492",
+      "https://openalex.org/W2084355215",
+      "https://openalex.org/W2110431154",
+      "https://openalex.org/W832930372",
+      "https://openalex.org/W1694542360",
+      "https://openalex.org/W4241855014",
+      "https://openalex.org/W2013715983",
+      "https://openalex.org/W2157541730",
+      "https://openalex.org/W2018724254",
+      "https://openalex.org/W2531890641",
+      "https://openalex.org/W2167483881",
+      "https://openalex.org/W2005115952",
+      "https://openalex.org/W2321781115",
+      "https://openalex.org/W4249107117",
+      "https://openalex.org/W2079855391",
+      "https://openalex.org/W2026401888",
+      "https://openalex.org/W2081469305",
+      "https://openalex.org/W4233931383",
+      "https://openalex.org/W1965522487",
+      "https://openalex.org/W3125714960",
+      "https://openalex.org/W4381681168",
+      "https://openalex.org/W2072905138",
+      "https://openalex.org/W2000401771",
+      "https://openalex.org/W2018808874",
+      "https://openalex.org/W65672298",
+      "https://openalex.org/W4211246159",
+      "https://openalex.org/W2327571791",
+      "https://openalex.org/W594279760",
+      "https://openalex.org/W3048682234",
+      "https://openalex.org/W1568021011",
+      "https://openalex.org/W3113094689",
+      "https://openalex.org/W1524178561",
+      "https://openalex.org/W2332216056",
+      "https://openalex.org/W3158742718",
+      "https://openalex.org/W4232573923",
+      "https://openalex.org/W1988041281",
+      "https://openalex.org/W4404561856",
+      "https://openalex.org/W1963286690",
+      "https://openalex.org/W2340653218",
+      "https://openalex.org/W2606484505",
+      "https://openalex.org/W1537454071",
+      "https://openalex.org/W4300696238",
+      "https://openalex.org/W621493249"
+    ],
+    "related_works": [
+      "https://openalex.org/W2241143171",
+      "https://openalex.org/W3212604275",
+      "https://openalex.org/W4210715198",
+      "https://openalex.org/W4298181027",
+      "https://openalex.org/W654341863",
+      "https://openalex.org/W3170213355",
+      "https://openalex.org/W1904057732",
+      "https://openalex.org/W2043222821",
+      "https://openalex.org/W894423126",
+      "https://openalex.org/W2116463608"
+    ],
+    "abstract_inverted_index": {
+      "At": [
+        0
+      ],
+      "the": [
+        1,
+        4,
+        14,
+        18,
+        35,
+        62,
+        65,
+        70,
+        79,
+        84,
+        99,
+        109,
+        140,
+        149
+      ],
+      "heart": [
+        2
+      ],
+      "of": [
+        3,
+        34,
+        58,
+        86,
+        102,
+        111,
+        124
+      ],
+      "Israeli-Palestinian": [
+        5
+      ],
+      "conflict": [
+        6
+      ],
+      "rages": [
+        7
+      ],
+      "a": [
+        8,
+        31,
+        55,
+        125,
+        136
+      ],
+      "struggle": [
+        9
+      ],
+      "between": [
+        10
+      ],
+      "two": [
+        11
+      ],
+      "foundational": [
+        12
+      ],
+      "tragedies:": [
+        13
+      ],
+      "Jewish": [
+        15
+      ],
+      "Holocaust": [
+        16,
+        63
+      ],
+      "and": [
+        17,
+        64,
+        75,
+        88,
+        116,
+        134,
+        143
+      ],
+      "Palestinian": [
+        19
+      ],
+      "Nakba.": [
+        20
+      ],
+      "The": [
+        21,
+        128
+      ],
+      "contending": [
+        22
+      ],
+      "ways": [
+        23
+      ],
+      "in": [
+        24,
+        122
+      ],
+      "which": [
+        25
+      ],
+      "both": [
+        26
+      ],
+      "events": [
+        27
+      ],
+      "are": [
+        28,
+        39
+      ],
+      "commemorated": [
+        29
+      ],
+      "is": [
+        30
+      ],
+      "known": [
+        32,
+        38
+      ],
+      "feature": [
+        33
+      ],
+      "conflict.": [
+        36
+      ],
+      "Less": [
+        37
+      ],
+      "marginal": [
+        40
+      ],
+      "attempts": [
+        41,
+        52
+      ],
+      "to": [
+        42,
+        53,
+        78,
+        148
+      ],
+      "jointly": [
+        43
+      ],
+      "deliberate": [
+        44
+      ],
+      "on": [
+        45,
+        50,
+        61
+      ],
+      "them.": [
+        46
+      ],
+      "This": [
+        47
+      ],
+      "article": [
+        48,
+        129
+      ],
+      "draws": [
+        49
+      ],
+      "such": [
+        51
+      ],
+      "theorize": [
+        54
+      ],
+      "postnational": [
+        56
+      ],
+      "conception": [
+        57
+      ],
+      "memory.": [
+        59,
+        127
+      ],
+      "Deliberating": [
+        60
+      ],
+      "Nakba,": [
+        66
+      ],
+      "it": [
+        67
+      ],
+      "argues,": [
+        68
+      ],
+      "challenges": [
+        69,
+        91
+      ],
+      "way": [
+        71,
+        141
+      ],
+      "nationalism": [
+        72,
+        82,
+        142
+      ],
+      "structures": [
+        73
+      ],
+      "\u2018our\u2019": [
+        74
+      ],
+      "\u2018their\u2019": [
+        76
+      ],
+      "relationship": [
+        77,
+        147
+      ],
+      "past.": [
+        80,
+        150
+      ],
+      "While": [
+        81
+      ],
+      "seeks": [
+        83
+      ],
+      "congruence": [
+        85
+      ],
+      "memory": [
+        87,
+        103,
+        112
+      ],
+      "territory,": [
+        89
+      ],
+      "postnationalism": [
+        90,
+        144
+      ],
+      "this": [
+        92
+      ],
+      "congruence.": [
+        93
+      ],
+      "Doing": [
+        94
+      ],
+      "so": [
+        95
+      ],
+      "entails": [
+        96
+      ],
+      "(i)": [
+        97
+      ],
+      "extending": [
+        98
+      ],
+      "communicative": [
+        100
+      ],
+      "bounds": [
+        101
+      ],
+      "beyond": [
+        104
+      ],
+      "national": [
+        105,
+        114,
+        120
+      ],
+      "members,": [
+        106
+      ],
+      "(ii)": [
+        107
+      ],
+      "disrupting": [
+        108
+      ],
+      "territorialization": [
+        110
+      ],
+      "along": [
+        113
+      ],
+      "lines,": [
+        115
+      ],
+      "(iii)": [
+        117
+      ],
+      "critically": [
+        118
+      ],
+      "revising": [
+        119
+      ],
+      "narratives": [
+        121
+      ],
+      "light": [
+        123
+      ],
+      "cosmopolitan": [
+        126
+      ],
+      "explores": [
+        130
+      ],
+      "these": [
+        131
+      ],
+      "three": [
+        132
+      ],
+      "dimensions": [
+        133
+      ],
+      "offers": [
+        135
+      ],
+      "typology": [
+        137
+      ],
+      "that": [
+        138
+      ],
+      "differentiates": [
+        139
+      ],
+      "mediate": [
+        145
+      ],
+      "our": [
+        146
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 12
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 31
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 3
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W1978150864",
+    "doi": "https://doi.org/10.1177/0191453709104452",
+    "title": "Levinas and the Palestinians",
+    "display_name": "Levinas and the Palestinians",
+    "relevance_score": 9.465479,
+    "publication_year": 2009,
+    "publication_date": "2009-06-15",
+    "ids": {
+      "openalex": "https://openalex.org/W1978150864",
+      "doi": "https://doi.org/10.1177/0191453709104452",
+      "mag": "1978150864"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/0191453709104452",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/0191453709104452",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S57090429",
+        "display_name": "Philosophy & Social Criticism",
+        "issn_l": "0191-4537",
+        "issn": [
+          "0191-4537",
+          "1461-734X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Philosophy &amp; Social Criticism",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5075347261",
+          "display_name": "Jason Caro",
+          "orcid": "https://orcid.org/0000-0003-0174-4274"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I16277215",
+            "display_name": "University of Houston - Downtown",
+            "ror": "https://ror.org/05mj6fy81",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I16277215"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Jason Caro",
+        "raw_affiliation_strings": [
+          "Department of Political Science, University of Houston-Downtown, Houston, TX, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Political Science, University of Houston-Downtown, Houston, TX, USA",
+            "institution_ids": [
+              "https://openalex.org/I16277215"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5075347261"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I16277215"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 4.83412848,
+    "has_fulltext": false,
+    "cited_by_count": 17,
+    "citation_normalized_percentile": {
+      "value": 0.94042966,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 98
+    },
+    "biblio": {
+      "volume": "35",
+      "issue": "6",
+      "first_page": "671",
+      "last_page": "684"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T12366",
+      "display_name": "Philosophy, Ethics, and Existentialism",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1211",
+        "display_name": "Philosophy"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T12366",
+        "display_name": "Philosophy, Ethics, and Existentialism",
+        "score": 0.9997000098228455,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1211",
+          "display_name": "Philosophy"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.9951000213623047,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12311",
+        "display_name": "Political Theology and Sovereignty",
+        "score": 0.9297999739646912,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/polity",
+        "display_name": "Polity",
+        "score": 0.746319591999054
+      },
+      {
+        "id": "https://openalex.org/keywords/politics",
+        "display_name": "Politics",
+        "score": 0.7430222034454346
+      },
+      {
+        "id": "https://openalex.org/keywords/zionism",
+        "display_name": "Zionism",
+        "score": 0.7021051645278931
+      },
+      {
+        "id": "https://openalex.org/keywords/political-philosophy",
+        "display_name": "Political philosophy",
+        "score": 0.6362326145172119
+      },
+      {
+        "id": "https://openalex.org/keywords/economic-justice",
+        "display_name": "Economic Justice",
+        "score": 0.6221444010734558
+      },
+      {
+        "id": "https://openalex.org/keywords/democracy",
+        "display_name": "Democracy",
+        "score": 0.5163582563400269
+      },
+      {
+        "id": "https://openalex.org/keywords/postmodernism",
+        "display_name": "Postmodernism",
+        "score": 0.5138587951660156
+      },
+      {
+        "id": "https://openalex.org/keywords/epistemology",
+        "display_name": "Epistemology",
+        "score": 0.488402783870697
+      },
+      {
+        "id": "https://openalex.org/keywords/political-ethics",
+        "display_name": "Political ethics",
+        "score": 0.45169588923454285
+      },
+      {
+        "id": "https://openalex.org/keywords/order",
+        "display_name": "Order (exchange)",
+        "score": 0.4515938460826874
+      },
+      {
+        "id": "https://openalex.org/keywords/relation",
+        "display_name": "Relation (database)",
+        "score": 0.451281875371933
+      },
+      {
+        "id": "https://openalex.org/keywords/philosophy",
+        "display_name": "Philosophy",
+        "score": 0.4499474763870239
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.44725728034973145
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.3960168659687042
+      },
+      {
+        "id": "https://openalex.org/keywords/environmental-ethics",
+        "display_name": "Environmental ethics",
+        "score": 0.32330939173698425
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.1837511956691742
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2779707719",
+        "wikidata": "https://www.wikidata.org/wiki/Q1063239",
+        "display_name": "Polity",
+        "level": 3,
+        "score": 0.746319591999054
+      },
+      {
+        "id": "https://openalex.org/C94625758",
+        "wikidata": "https://www.wikidata.org/wiki/Q7163",
+        "display_name": "Politics",
+        "level": 2,
+        "score": 0.7430222034454346
+      },
+      {
+        "id": "https://openalex.org/C58041660",
+        "wikidata": "https://www.wikidata.org/wiki/Q42388",
+        "display_name": "Zionism",
+        "level": 3,
+        "score": 0.7021051645278931
+      },
+      {
+        "id": "https://openalex.org/C79841651",
+        "wikidata": "https://www.wikidata.org/wiki/Q179805",
+        "display_name": "Political philosophy",
+        "level": 3,
+        "score": 0.6362326145172119
+      },
+      {
+        "id": "https://openalex.org/C139621336",
+        "wikidata": "https://www.wikidata.org/wiki/Q3190382",
+        "display_name": "Economic Justice",
+        "level": 2,
+        "score": 0.6221444010734558
+      },
+      {
+        "id": "https://openalex.org/C555826173",
+        "wikidata": "https://www.wikidata.org/wiki/Q7174",
+        "display_name": "Democracy",
+        "level": 3,
+        "score": 0.5163582563400269
+      },
+      {
+        "id": "https://openalex.org/C509535802",
+        "wikidata": "https://www.wikidata.org/wiki/Q47783",
+        "display_name": "Postmodernism",
+        "level": 2,
+        "score": 0.5138587951660156
+      },
+      {
+        "id": "https://openalex.org/C111472728",
+        "wikidata": "https://www.wikidata.org/wiki/Q9471",
+        "display_name": "Epistemology",
+        "level": 1,
+        "score": 0.488402783870697
+      },
+      {
+        "id": "https://openalex.org/C2780990093",
+        "wikidata": "https://www.wikidata.org/wiki/Q2101492",
+        "display_name": "Political ethics",
+        "level": 3,
+        "score": 0.45169588923454285
+      },
+      {
+        "id": "https://openalex.org/C182306322",
+        "wikidata": "https://www.wikidata.org/wiki/Q1779371",
+        "display_name": "Order (exchange)",
+        "level": 2,
+        "score": 0.4515938460826874
+      },
+      {
+        "id": "https://openalex.org/C25343380",
+        "wikidata": "https://www.wikidata.org/wiki/Q277521",
+        "display_name": "Relation (database)",
+        "level": 2,
+        "score": 0.451281875371933
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.4499474763870239
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.44725728034973145
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.3960168659687042
+      },
+      {
+        "id": "https://openalex.org/C95124753",
+        "wikidata": "https://www.wikidata.org/wiki/Q875686",
+        "display_name": "Environmental ethics",
+        "level": 1,
+        "score": 0.32330939173698425
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.1837511956691742
+      },
+      {
+        "id": "https://openalex.org/C162324750",
+        "wikidata": "https://www.wikidata.org/wiki/Q8134",
+        "display_name": "Economics",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C10138342",
+        "wikidata": "https://www.wikidata.org/wiki/Q43015",
+        "display_name": "Finance",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C77088390",
+        "wikidata": "https://www.wikidata.org/wiki/Q8513",
+        "display_name": "Database",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/0191453709104452",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/0191453709104452",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S57090429",
+          "display_name": "Philosophy & Social Criticism",
+          "issn_l": "0191-4537",
+          "issn": [
+            "0191-4537",
+            "1461-734X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Philosophy &amp; Social Criticism",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "display_name": "Peace, Justice and strong institutions",
+        "score": 0.800000011920929,
+        "id": "https://metadata.un.org/sdg/16"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 27,
+    "referenced_works": [
+      "https://openalex.org/W2141373104",
+      "https://openalex.org/W2476463798",
+      "https://openalex.org/W2026266910",
+      "https://openalex.org/W2529481932",
+      "https://openalex.org/W2529454154",
+      "https://openalex.org/W182294198",
+      "https://openalex.org/W2057749595",
+      "https://openalex.org/W4207005372",
+      "https://openalex.org/W4250688917",
+      "https://openalex.org/W2528345057",
+      "https://openalex.org/W2013452185",
+      "https://openalex.org/W644445992",
+      "https://openalex.org/W139646433",
+      "https://openalex.org/W7029946787",
+      "https://openalex.org/W1976089314",
+      "https://openalex.org/W4240244236",
+      "https://openalex.org/W2029082893",
+      "https://openalex.org/W4285719527",
+      "https://openalex.org/W1970315398",
+      "https://openalex.org/W1527587547",
+      "https://openalex.org/W2619460522",
+      "https://openalex.org/W877320214",
+      "https://openalex.org/W2328909125",
+      "https://openalex.org/W1562944635",
+      "https://openalex.org/W608747249",
+      "https://openalex.org/W1990942568",
+      "https://openalex.org/W1480602531"
+    ],
+    "related_works": [
+      "https://openalex.org/W2385474510",
+      "https://openalex.org/W4365148112",
+      "https://openalex.org/W2922317186",
+      "https://openalex.org/W585170988",
+      "https://openalex.org/W3199333699",
+      "https://openalex.org/W2336961940",
+      "https://openalex.org/W2392137551",
+      "https://openalex.org/W577896747",
+      "https://openalex.org/W4361290445",
+      "https://openalex.org/W2073562966"
+    ],
+    "abstract_inverted_index": {
+      "Levinas": [
+        0,
+        48
+      ],
+      "is": [
+        1,
+        52,
+        104,
+        109,
+        126,
+        133
+      ],
+      "often": [
+        2
+      ],
+      "credited": [
+        3
+      ],
+      "with": [
+        4,
+        74
+      ],
+      "introducing": [
+        5
+      ],
+      "a": [
+        6,
+        113,
+        116
+      ],
+      "strong": [
+        7
+      ],
+      "notion": [
+        8
+      ],
+      "of": [
+        9,
+        29,
+        36,
+        61,
+        96
+      ],
+      "ethics": [
+        10,
+        62,
+        122
+      ],
+      "into": [
+        11
+      ],
+      "postmodern": [
+        12
+      ],
+      "thought.": [
+        13
+      ],
+      "But": [
+        14
+      ],
+      "his": [
+        15,
+        19,
+        26,
+        37,
+        59,
+        97,
+        134
+      ],
+      "commitment": [
+        16
+      ],
+      "to": [
+        17,
+        56
+      ],
+      "Zionism,": [
+        18
+      ],
+      "views": [
+        20
+      ],
+      "on": [
+        21,
+        100
+      ],
+      "the": [
+        22,
+        34,
+        44,
+        50,
+        70,
+        75,
+        80,
+        82,
+        88,
+        92
+      ],
+      "Palestinian": [
+        23
+      ],
+      "people,": [
+        24
+      ],
+      "and": [
+        25,
+        49,
+        79,
+        87
+      ],
+      "underformulated": [
+        27
+      ],
+      "theory": [
+        28
+      ],
+      "justice": [
+        30,
+        108
+      ],
+      "raise": [
+        31
+      ],
+      "questions": [
+        32
+      ],
+      "about": [
+        33
+      ],
+      "desirability": [
+        35
+      ],
+      "thinking": [
+        38
+      ],
+      "for": [
+        39,
+        66,
+        115
+      ],
+      "politics.": [
+        40
+      ],
+      "In": [
+        41
+      ],
+      "this": [
+        42,
+        101
+      ],
+      "study,": [
+        43
+      ],
+      "well-known": [
+        45
+      ],
+      "encounter": [
+        46
+      ],
+      "between": [
+        47,
+        77,
+        84
+      ],
+      "Palestinians": [
+        51,
+        89
+      ],
+      "addressed": [
+        53
+      ],
+      "in": [
+        54
+      ],
+      "order": [
+        55
+      ],
+      "determine": [
+        57
+      ],
+      "how": [
+        58
+      ],
+      "philosophy": [
+        60,
+        125
+      ],
+      "can": [
+        63
+      ],
+      "be": [
+        64
+      ],
+      "deployed": [
+        65
+      ],
+      "political": [
+        67,
+        94,
+        117
+      ],
+      "ends.": [
+        68
+      ],
+      "As": [
+        69
+      ],
+      "philosopher": [
+        71
+      ],
+      "famously": [
+        72
+      ],
+      "concerned": [
+        73
+      ],
+      "connection": [
+        76
+      ],
+      "self": [
+        78
+      ],
+      "Other,": [
+        81
+      ],
+      "relation": [
+        83
+      ],
+      "Levinas,": [
+        85
+      ],
+      "Israel": [
+        86
+      ],
+      "stands": [
+        90
+      ],
+      "as": [
+        91,
+        112,
+        123,
+        130
+      ],
+      "natural": [
+        93
+      ],
+      "test": [
+        95
+      ],
+      "ethics.": [
+        98
+      ],
+      "Based": [
+        99
+      ],
+      "encounter,": [
+        102
+      ],
+      "it": [
+        103
+      ],
+      "demonstrated": [
+        105
+      ],
+      "that": [
+        106
+      ],
+      "Levinasian": [
+        107
+      ],
+      "too": [
+        110
+      ],
+      "unsafe": [
+        111
+      ],
+      "prescription": [
+        114
+      ],
+      "order.": [
+        118
+      ],
+      "Only": [
+        119
+      ],
+      "when": [
+        120
+      ],
+      "Levinas'": [
+        121
+      ],
+      "first": [
+        124,
+        131
+      ],
+      "supported": [
+        127
+      ],
+      "by": [
+        128
+      ],
+      "love": [
+        129
+      ],
+      "politics": [
+        132
+      ],
+      "Messianic": [
+        135
+      ],
+      "polity": [
+        136
+      ],
+      "acceptable.": [
+        137
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2014,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2013,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2012,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2034779471",
+    "doi": "https://doi.org/10.1177/019145370102700403",
+    "title": "Israel's \u2018constitutional revolution\u2019",
+    "display_name": "Israel's \u2018constitutional revolution\u2019",
+    "relevance_score": 7.328659,
+    "publication_year": 2001,
+    "publication_date": "2001-07-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2034779471",
+      "doi": "https://doi.org/10.1177/019145370102700403",
+      "mag": "2034779471"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/019145370102700403",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/019145370102700403",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S57090429",
+        "display_name": "Philosophy & Social Criticism",
+        "issn_l": "0191-4537",
+        "issn": [
+          "0191-4537",
+          "1461-734X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Philosophy &amp; Social Criticism",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5059885872",
+          "display_name": "Yossi Yonah",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I124227911",
+            "display_name": "Ben-Gurion University of the Negev",
+            "ror": "https://ror.org/05tkyf982",
+            "country_code": "IL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I124227911"
+            ]
+          }
+        ],
+        "countries": [
+          "IL"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Yossi Yonah",
+        "raw_affiliation_strings": [
+          "Department of Education, Ben Gurion University of the Negev, Beer Sheva, Israel"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Education, Ben Gurion University of the Negev, Beer Sheva, Israel",
+            "institution_ids": [
+              "https://openalex.org/I124227911"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5059885872"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I124227911"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 3,
+    "citation_normalized_percentile": {
+      "value": 0.2263078,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 90,
+      "max": 94
+    },
+    "biblio": {
+      "volume": "27",
+      "issue": "4",
+      "first_page": "41",
+      "last_page": "74"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Jewish and Middle Eastern Studies",
+      "score": 0.9991999864578247,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.9991999864578247,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11783",
+        "display_name": "Turkey's Politics and Society",
+        "score": 0.9882000088691711,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12311",
+        "display_name": "Political Theology and Sovereignty",
+        "score": 0.9840999841690063,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/liberal-democracy",
+        "display_name": "Liberal democracy",
+        "score": 0.7350092530250549
+      },
+      {
+        "id": "https://openalex.org/keywords/democracy",
+        "display_name": "Democracy",
+        "score": 0.6744396686553955
+      },
+      {
+        "id": "https://openalex.org/keywords/legitimacy",
+        "display_name": "Legitimacy",
+        "score": 0.665826141834259
+      },
+      {
+        "id": "https://openalex.org/keywords/constitution",
+        "display_name": "Constitution",
+        "score": 0.6218903660774231
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.5702974200248718
+      },
+      {
+        "id": "https://openalex.org/keywords/politics",
+        "display_name": "Politics",
+        "score": 0.549742579460144
+      },
+      {
+        "id": "https://openalex.org/keywords/liberalism",
+        "display_name": "Liberalism",
+        "score": 0.5110977292060852
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.5046643018722534
+      },
+      {
+        "id": "https://openalex.org/keywords/constitutional-economics",
+        "display_name": "Constitutional economics",
+        "score": 0.42437633872032166
+      },
+      {
+        "id": "https://openalex.org/keywords/legislation",
+        "display_name": "Legislation",
+        "score": 0.4147493243217468
+      },
+      {
+        "id": "https://openalex.org/keywords/classical-liberalism",
+        "display_name": "Classical liberalism",
+        "score": 0.4144722521305084
+      },
+      {
+        "id": "https://openalex.org/keywords/law-and-economics",
+        "display_name": "Law and economics",
+        "score": 0.39382070302963257
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.36861252784729004
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C111439079",
+        "wikidata": "https://www.wikidata.org/wiki/Q192125",
+        "display_name": "Liberal democracy",
+        "level": 4,
+        "score": 0.7350092530250549
+      },
+      {
+        "id": "https://openalex.org/C555826173",
+        "wikidata": "https://www.wikidata.org/wiki/Q7174",
+        "display_name": "Democracy",
+        "level": 3,
+        "score": 0.6744396686553955
+      },
+      {
+        "id": "https://openalex.org/C46295352",
+        "wikidata": "https://www.wikidata.org/wiki/Q207982",
+        "display_name": "Legitimacy",
+        "level": 3,
+        "score": 0.665826141834259
+      },
+      {
+        "id": "https://openalex.org/C2776154427",
+        "wikidata": "https://www.wikidata.org/wiki/Q7755",
+        "display_name": "Constitution",
+        "level": 2,
+        "score": 0.6218903660774231
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.5702974200248718
+      },
+      {
+        "id": "https://openalex.org/C94625758",
+        "wikidata": "https://www.wikidata.org/wiki/Q7163",
+        "display_name": "Politics",
+        "level": 2,
+        "score": 0.549742579460144
+      },
+      {
+        "id": "https://openalex.org/C547727832",
+        "wikidata": "https://www.wikidata.org/wiki/Q6216",
+        "display_name": "Liberalism",
+        "level": 3,
+        "score": 0.5110977292060852
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.5046643018722534
+      },
+      {
+        "id": "https://openalex.org/C56720970",
+        "wikidata": "https://www.wikidata.org/wiki/Q1489796",
+        "display_name": "Constitutional economics",
+        "level": 3,
+        "score": 0.42437633872032166
+      },
+      {
+        "id": "https://openalex.org/C2777351106",
+        "wikidata": "https://www.wikidata.org/wiki/Q49371",
+        "display_name": "Legislation",
+        "level": 2,
+        "score": 0.4147493243217468
+      },
+      {
+        "id": "https://openalex.org/C15997828",
+        "wikidata": "https://www.wikidata.org/wiki/Q794394",
+        "display_name": "Classical liberalism",
+        "level": 4,
+        "score": 0.4144722521305084
+      },
+      {
+        "id": "https://openalex.org/C190253527",
+        "wikidata": "https://www.wikidata.org/wiki/Q295354",
+        "display_name": "Law and economics",
+        "level": 1,
+        "score": 0.39382070302963257
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.36861252784729004
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/019145370102700403",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/019145370102700403",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S57090429",
+          "display_name": "Philosophy & Social Criticism",
+          "issn_l": "0191-4537",
+          "issn": [
+            "0191-4537",
+            "1461-734X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Philosophy &amp; Social Criticism",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "display_name": "Peace, Justice and strong institutions",
+        "score": 0.800000011920929,
+        "id": "https://metadata.un.org/sdg/16"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 27,
+    "referenced_works": [
+      "https://openalex.org/W2014889212",
+      "https://openalex.org/W2128049627",
+      "https://openalex.org/W2096657149",
+      "https://openalex.org/W2031172501",
+      "https://openalex.org/W2260612481",
+      "https://openalex.org/W2050201806",
+      "https://openalex.org/W2154315892",
+      "https://openalex.org/W2945061955",
+      "https://openalex.org/W1985129982",
+      "https://openalex.org/W2978428716",
+      "https://openalex.org/W1963748183",
+      "https://openalex.org/W2026569056",
+      "https://openalex.org/W4236512342",
+      "https://openalex.org/W2112356891",
+      "https://openalex.org/W2313539759",
+      "https://openalex.org/W4213439731",
+      "https://openalex.org/W2013903796",
+      "https://openalex.org/W2074258649",
+      "https://openalex.org/W2016105888",
+      "https://openalex.org/W4232107086",
+      "https://openalex.org/W2131087954",
+      "https://openalex.org/W2086050009",
+      "https://openalex.org/W4256661569",
+      "https://openalex.org/W4240889692",
+      "https://openalex.org/W336540956",
+      "https://openalex.org/W3180127109",
+      "https://openalex.org/W4301082958"
+    ],
+    "related_works": [
+      "https://openalex.org/W4255069179",
+      "https://openalex.org/W2374695010",
+      "https://openalex.org/W2471310253",
+      "https://openalex.org/W2751133734",
+      "https://openalex.org/W2356296095",
+      "https://openalex.org/W2268906356",
+      "https://openalex.org/W2891001502",
+      "https://openalex.org/W3048366627",
+      "https://openalex.org/W2758630383",
+      "https://openalex.org/W3122884855"
+    ],
+    "abstract_inverted_index": {
+      "In": [
+        0
+      ],
+      "the": [
+        1,
+        12,
+        45,
+        54,
+        81,
+        89,
+        109,
+        120,
+        136,
+        176,
+        179,
+        212,
+        264,
+        281,
+        295
+      ],
+      "early": [
+        2
+      ],
+      "1990s": [
+        3
+      ],
+      "Israel": [
+        4,
+        17,
+        65,
+        87,
+        201
+      ],
+      "underwent": [
+        5
+      ],
+      "a": [
+        6,
+        22,
+        28,
+        69,
+        97,
+        161,
+        248,
+        273
+      ],
+      "so-called": [
+        7
+      ],
+      "constitutional": [
+        8,
+        29,
+        71,
+        99
+      ],
+      "revolution.": [
+        9
+      ],
+      "According": [
+        10
+      ],
+      "to": [
+        11,
+        118,
+        139,
+        164,
+        168,
+        183,
+        221,
+        247,
+        251,
+        293,
+        301
+      ],
+      "champions": [
+        13
+      ],
+      "of": [
+        14,
+        24,
+        41,
+        60,
+        123,
+        178,
+        181,
+        189,
+        216,
+        266,
+        276,
+        283,
+        297
+      ],
+      "this": [
+        15,
+        25,
+        78,
+        105,
+        152,
+        223
+      ],
+      "revolution,": [
+        16
+      ],
+      "has": [
+        18
+      ],
+      "essentially": [
+        19
+      ],
+      "become,": [
+        20
+      ],
+      "as": [
+        21,
+        68,
+        96
+      ],
+      "result": [
+        23
+      ],
+      "momentous": [
+        26
+      ],
+      "event,": [
+        27
+      ],
+      "democracy,": [
+        30
+      ],
+      "upholding": [
+        31
+      ],
+      "individual": [
+        32
+      ],
+      "freedom": [
+        33
+      ],
+      "and": [
+        34,
+        36,
+        143,
+        214,
+        254,
+        262,
+        278,
+        305
+      ],
+      "liberties": [
+        35
+      ],
+      "allowing": [
+        37
+      ],
+      "for": [
+        38
+      ],
+      "judicial": [
+        39
+      ],
+      "review": [
+        40
+      ],
+      "parliamentary": [
+        42
+      ],
+      "legislation.": [
+        43
+      ],
+      "Despite": [
+        44
+      ],
+      "congratulatory": [
+        46
+      ],
+      "rhetoric,": [
+        47
+      ],
+      "it": [
+        48,
+        84,
+        95,
+        209,
+        225
+      ],
+      "is": [
+        49,
+        56,
+        80,
+        83,
+        174,
+        269,
+        290
+      ],
+      "generally": [
+        50
+      ],
+      "agreed": [
+        51
+      ],
+      "upon": [
+        52
+      ],
+      "that": [
+        53,
+        86,
+        93,
+        112,
+        185,
+        208,
+        268
+      ],
+      "constitution": [
+        55
+      ],
+      "still": [
+        57
+      ],
+      "in": [
+        58,
+        77,
+        104
+      ],
+      "need": [
+        59,
+        296
+      ],
+      "some": [
+        61,
+        204
+      ],
+      "essential": [
+        62
+      ],
+      "supplements": [
+        63
+      ],
+      "before": [
+        64
+      ],
+      "can": [
+        66,
+        210
+      ],
+      "qualify": [
+        67,
+        94
+      ],
+      "fully": [
+        70,
+        98
+      ],
+      "democracy.": [
+        72,
+        125,
+        232,
+        285
+      ],
+      "The": [
+        73,
+        101
+      ],
+      "main": [
+        74
+      ],
+      "question": [
+        75
+      ],
+      "addressed": [
+        76
+      ],
+      "paper": [
+        79
+      ],
+      "following:": [
+        82
+      ],
+      "\u2018reasonable\u2019": [
+        85
+      ],
+      "take": [
+        88
+      ],
+      "further": [
+        90
+      ],
+      "necessary": [
+        91
+      ],
+      "steps": [
+        92
+      ],
+      "democracy?": [
+        100
+      ],
+      "doubts": [
+        102
+      ],
+      "raised": [
+        103
+      ],
+      "regard": [
+        106
+      ],
+      "stem": [
+        107
+      ],
+      "from": [
+        108,
+        199
+      ],
+      "very": [
+        110
+      ],
+      "concerns": [
+        111
+      ],
+      "lead": [
+        113
+      ],
+      "political": [
+        114,
+        144,
+        147,
+        156,
+        242
+      ],
+      "philosophers": [
+        115
+      ],
+      "(mainly": [
+        116
+      ],
+      "Rawls)": [
+        117
+      ],
+      "stress": [
+        119
+      ],
+      "unique": [
+        121
+      ],
+      "value": [
+        122
+      ],
+      "liberal": [
+        124,
+        129,
+        171,
+        231,
+        239,
+        260,
+        274
+      ],
+      "As": [
+        126,
+        233
+      ],
+      "they": [
+        127
+      ],
+      "argue,": [
+        128,
+        150,
+        230,
+        289
+      ],
+      "democracy": [
+        130,
+        261
+      ],
+      "provides": [
+        131
+      ],
+      "deeply": [
+        132,
+        298
+      ],
+      "divided": [
+        133,
+        299
+      ],
+      "societies": [
+        134,
+        300
+      ],
+      "with": [
+        135,
+        272
+      ],
+      "best": [
+        137
+      ],
+      "means": [
+        138
+      ],
+      "secure": [
+        140,
+        302
+      ],
+      "their": [
+        141,
+        303
+      ],
+      "legitimacy": [
+        142,
+        253,
+        304
+      ],
+      "stability.": [
+        145,
+        255,
+        306
+      ],
+      "Israel's": [
+        146,
+        155,
+        186,
+        241
+      ],
+      "realities,": [
+        148
+      ],
+      "I": [
+        149,
+        228,
+        288
+      ],
+      "defy": [
+        151
+      ],
+      "claim.": [
+        153
+      ],
+      "Moreover,": [
+        154
+      ],
+      "realities": [
+        157
+      ],
+      "may": [
+        158,
+        244
+      ],
+      "also": [
+        159
+      ],
+      "carry": [
+        160
+      ],
+      "valuable": [
+        162
+      ],
+      "lesson": [
+        163
+      ],
+      "other": [
+        165,
+        195
+      ],
+      "states,": [
+        166
+      ],
+      "even": [
+        167
+      ],
+      "seemingly": [
+        169
+      ],
+      "robust": [
+        170
+      ],
+      "democracies.": [
+        172
+      ],
+      "It": [
+        173,
+        256
+      ],
+      "not": [
+        175
+      ],
+      "purpose": [
+        177
+      ],
+      "paper,": [
+        180
+      ],
+      "course,": [
+        182
+      ],
+      "argue": [
+        184
+      ],
+      "existing": [
+        187
+      ],
+      "rule": [
+        188,
+        275
+      ],
+      "government": [
+        190,
+        277
+      ],
+      "should": [
+        191,
+        202,
+        226
+      ],
+      "be": [
+        192,
+        245
+      ],
+      "embraced": [
+        193
+      ],
+      "by": [
+        194
+      ],
+      "states": [
+        196
+      ],
+      "\u2013": [
+        197
+      ],
+      "far": [
+        198
+      ],
+      "that.": [
+        200
+      ],
+      "undergo": [
+        203
+      ],
+      "radical": [
+        205
+      ],
+      "changes": [
+        206
+      ],
+      "so": [
+        207
+      ],
+      "protect": [
+        211
+      ],
+      "rights": [
+        213
+      ],
+      "interests": [
+        215
+      ],
+      "all": [
+        217
+      ],
+      "its": [
+        218,
+        238,
+        252
+      ],
+      "citizens.": [
+        219
+      ],
+      "Yet,": [
+        220
+      ],
+      "achieve": [
+        222
+      ],
+      "purpose,": [
+        224
+      ],
+      "transcend,": [
+        227
+      ],
+      "will": [
+        229
+      ],
+      "matters": [
+        234
+      ],
+      "stand,": [
+        235
+      ],
+      "simply": [
+        236
+      ],
+      "strengthening": [
+        237
+      ],
+      "character,": [
+        240
+      ],
+      "system": [
+        243
+      ],
+      "exposed": [
+        246
+      ],
+      "growing": [
+        249
+      ],
+      "challenge": [
+        250
+      ],
+      "should,": [
+        257
+      ],
+      "therefore,": [
+        258
+      ],
+      "reject": [
+        259
+      ],
+      "especially": [
+        263
+      ],
+      "principle": [
+        265
+      ],
+      "neutrality": [
+        267
+      ],
+      "intimately": [
+        270
+      ],
+      "connected": [
+        271
+      ],
+      "embrace,": [
+        279
+      ],
+      "instead,": [
+        280
+      ],
+      "ideal": [
+        282
+      ],
+      "multicultural": [
+        284
+      ],
+      "This": [
+        286
+      ],
+      "ideal,": [
+        287
+      ],
+      "better": [
+        291
+      ],
+      "equipped": [
+        292
+      ],
+      "answer": [
+        294
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2018,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W3000473627",
+    "doi": "https://doi.org/10.1177/0191453719893556",
+    "title": "<i>Exile, Statelessness, and Migration</i>: Response to my critics",
+    "display_name": "<i>Exile, Statelessness, and Migration</i>: Response to my critics",
+    "relevance_score": 3.007546,
+    "publication_year": 2020,
+    "publication_date": "2020-01-01",
+    "ids": {
+      "openalex": "https://openalex.org/W3000473627",
+      "doi": "https://doi.org/10.1177/0191453719893556",
+      "mag": "3000473627"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/0191453719893556",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/0191453719893556",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S57090429",
+        "display_name": "Philosophy & Social Criticism",
+        "issn_l": "0191-4537",
+        "issn": [
+          "0191-4537",
+          "1461-734X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Philosophy &amp; Social Criticism",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5008414458",
+          "display_name": "Seyla Benhabib",
+          "orcid": "https://orcid.org/0000-0002-7318-028X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I32971472",
+            "display_name": "Yale University",
+            "ror": "https://ror.org/03v76x132",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I32971472"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Seyla Benhabib",
+        "raw_affiliation_strings": [
+          "Yale University, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Yale University, USA",
+            "institution_ids": [
+              "https://openalex.org/I32971472"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5008414458"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I32971472"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.36872289,
+    "has_fulltext": false,
+    "cited_by_count": 1,
+    "citation_normalized_percentile": {
+      "value": 0.69400188,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 94
+    },
+    "biblio": {
+      "volume": "46",
+      "issue": "1",
+      "first_page": "34",
+      "last_page": "44"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Jewish and Middle Eastern Studies",
+      "score": 0.9771999716758728,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.9771999716758728,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12723",
+        "display_name": "Hannah Arendt's Political Philosophy",
+        "score": 0.9096999764442444,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12397",
+        "display_name": "Critical Theory and Philosophy",
+        "score": 0.9081000089645386,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/statelessness",
+        "display_name": "Statelessness",
+        "score": 0.831112265586853
+      },
+      {
+        "id": "https://openalex.org/keywords/judaism",
+        "display_name": "Judaism",
+        "score": 0.6724318861961365
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.5859498381614685
+      },
+      {
+        "id": "https://openalex.org/keywords/politics",
+        "display_name": "Politics",
+        "score": 0.5350210666656494
+      },
+      {
+        "id": "https://openalex.org/keywords/jewish-question",
+        "display_name": "Jewish question",
+        "score": 0.533362090587616
+      },
+      {
+        "id": "https://openalex.org/keywords/citizenship",
+        "display_name": "Citizenship",
+        "score": 0.44634953141212463
+      },
+      {
+        "id": "https://openalex.org/keywords/gender-studies",
+        "display_name": "Gender studies",
+        "score": 0.3712737560272217
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.36469823122024536
+      },
+      {
+        "id": "https://openalex.org/keywords/religious-studies",
+        "display_name": "Religious studies",
+        "score": 0.32559674978256226
+      },
+      {
+        "id": "https://openalex.org/keywords/philosophy",
+        "display_name": "Philosophy",
+        "score": 0.28406718373298645
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.2461358606815338
+      },
+      {
+        "id": "https://openalex.org/keywords/theology",
+        "display_name": "Theology",
+        "score": 0.1847425401210785
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2779873939",
+        "wikidata": "https://www.wikidata.org/wiki/Q223050",
+        "display_name": "Statelessness",
+        "level": 4,
+        "score": 0.831112265586853
+      },
+      {
+        "id": "https://openalex.org/C150152722",
+        "wikidata": "https://www.wikidata.org/wiki/Q9268",
+        "display_name": "Judaism",
+        "level": 2,
+        "score": 0.6724318861961365
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.5859498381614685
+      },
+      {
+        "id": "https://openalex.org/C94625758",
+        "wikidata": "https://www.wikidata.org/wiki/Q7163",
+        "display_name": "Politics",
+        "level": 2,
+        "score": 0.5350210666656494
+      },
+      {
+        "id": "https://openalex.org/C2778681481",
+        "wikidata": "https://www.wikidata.org/wiki/Q708764",
+        "display_name": "Jewish question",
+        "level": 3,
+        "score": 0.533362090587616
+      },
+      {
+        "id": "https://openalex.org/C2780781376",
+        "wikidata": "https://www.wikidata.org/wiki/Q42138",
+        "display_name": "Citizenship",
+        "level": 3,
+        "score": 0.44634953141212463
+      },
+      {
+        "id": "https://openalex.org/C107993555",
+        "wikidata": "https://www.wikidata.org/wiki/Q1662673",
+        "display_name": "Gender studies",
+        "level": 1,
+        "score": 0.3712737560272217
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.36469823122024536
+      },
+      {
+        "id": "https://openalex.org/C24667770",
+        "wikidata": "https://www.wikidata.org/wiki/Q34187",
+        "display_name": "Religious studies",
+        "level": 1,
+        "score": 0.32559674978256226
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.28406718373298645
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.2461358606815338
+      },
+      {
+        "id": "https://openalex.org/C27206212",
+        "wikidata": "https://www.wikidata.org/wiki/Q34178",
+        "display_name": "Theology",
+        "level": 1,
+        "score": 0.1847425401210785
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/0191453719893556",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/0191453719893556",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S57090429",
+          "display_name": "Philosophy & Social Criticism",
+          "issn_l": "0191-4537",
+          "issn": [
+            "0191-4537",
+            "1461-734X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Philosophy &amp; Social Criticism",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "display_name": "Reduced inequalities",
+        "score": 0.8199999928474426,
+        "id": "https://metadata.un.org/sdg/10"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 7,
+    "referenced_works": [
+      "https://openalex.org/W4254889079",
+      "https://openalex.org/W2598234470",
+      "https://openalex.org/W4233526989",
+      "https://openalex.org/W2345860570",
+      "https://openalex.org/W2775248479",
+      "https://openalex.org/W2990030551",
+      "https://openalex.org/W2804286620"
+    ],
+    "related_works": [
+      "https://openalex.org/W3211330274",
+      "https://openalex.org/W625868634",
+      "https://openalex.org/W2734545498",
+      "https://openalex.org/W2607489531",
+      "https://openalex.org/W2891448263",
+      "https://openalex.org/W604177952",
+      "https://openalex.org/W1577147454",
+      "https://openalex.org/W2050704459",
+      "https://openalex.org/W2315331455",
+      "https://openalex.org/W2795826758"
+    ],
+    "abstract_inverted_index": {
+      "My": [
+        0
+      ],
+      "new": [
+        1,
+        35
+      ],
+      "book,": [
+        2
+      ],
+      "Exile,": [
+        3
+      ],
+      "Statelessness,": [
+        4
+      ],
+      "and": [
+        5,
+        21,
+        54,
+        68,
+        84,
+        106,
+        111,
+        119,
+        173
+      ],
+      "Migration.": [
+        6
+      ],
+      "Playing": [
+        7
+      ],
+      "Chess": [
+        8
+      ],
+      "With": [
+        9
+      ],
+      "History": [
+        10
+      ],
+      "From": [
+        11
+      ],
+      "Hannah": [
+        12,
+        44
+      ],
+      "Arendt": [
+        13
+      ],
+      "to": [
+        14,
+        93
+      ],
+      "Isaiah": [
+        15,
+        55
+      ],
+      "Berlin,": [
+        16,
+        56
+      ],
+      "considers": [
+        17
+      ],
+      "the": [
+        18,
+        38,
+        82,
+        91,
+        100,
+        129,
+        138,
+        141,
+        162,
+        169,
+        181,
+        184,
+        193,
+        201
+      ],
+      "intertwined": [
+        19
+      ],
+      "lives": [
+        20,
+        75
+      ],
+      "work": [
+        22
+      ],
+      "of": [
+        23,
+        64,
+        81,
+        114,
+        131,
+        140,
+        143,
+        164,
+        171,
+        183,
+        186,
+        195,
+        206
+      ],
+      "Jewish": [
+        24,
+        132,
+        144,
+        166
+      ],
+      "intellectuals": [
+        25,
+        167
+      ],
+      "as": [
+        26,
+        61,
+        99,
+        155
+      ],
+      "they": [
+        27
+      ],
+      "make": [
+        28
+      ],
+      "their": [
+        29,
+        65,
+        74,
+        156
+      ],
+      "escape": [
+        30
+      ],
+      "from": [
+        31
+      ],
+      "war-torn": [
+        32
+      ],
+      "Europe": [
+        33
+      ],
+      "into": [
+        34
+      ],
+      "countries.": [
+        36
+      ],
+      "Although": [
+        37
+      ],
+      "group": [
+        39
+      ],
+      "which": [
+        40
+      ],
+      "I": [
+        41,
+        71,
+        95
+      ],
+      "consider,": [
+        42
+      ],
+      "including": [
+        43
+      ],
+      "Arendt,": [
+        45
+      ],
+      "Theodor": [
+        46
+      ],
+      "Adorno,": [
+        47
+      ],
+      "Walter": [
+        48
+      ],
+      "Benjamin,": [
+        49,
+        104
+      ],
+      "Judith": [
+        50
+      ],
+      "Shklar,": [
+        51
+      ],
+      "Albert": [
+        52
+      ],
+      "Hirschman": [
+        53
+      ],
+      "have": [
+        57
+      ],
+      "a": [
+        58
+      ],
+      "unique": [
+        59
+      ],
+      "profile": [
+        60
+      ],
+      "migrants": [
+        62
+      ],
+      "because": [
+        63
+      ],
+      "formidable": [
+        66
+      ],
+      "education": [
+        67
+      ],
+      "intellectual": [
+        69,
+        101
+      ],
+      "capital,": [
+        70
+      ],
+      "argue": [
+        72
+      ],
+      "that": [
+        73
+      ],
+      "are": [
+        76
+      ],
+      "still": [
+        77
+      ],
+      "exemplary": [
+        78
+      ],
+      "for": [
+        79,
+        200
+      ],
+      "many": [
+        80
+      ],
+      "dilemmas": [
+        83
+      ],
+      "risks": [
+        85
+      ],
+      "faced": [
+        86
+      ],
+      "by": [
+        87,
+        189
+      ],
+      "all": [
+        88
+      ],
+      "migrants.": [
+        89
+      ],
+      "In": [
+        90
+      ],
+      "reply": [
+        92
+      ],
+      "critics,": [
+        94
+      ],
+      "consider": [
+        96
+      ],
+      "such": [
+        97,
+        124
+      ],
+      "issues": [
+        98
+      ],
+      "relations": [
+        102
+      ],
+      "between": [
+        103,
+        109
+      ],
+      "Adorno": [
+        105
+      ],
+      "Horkheimer;": [
+        107
+      ],
+      "differences": [
+        108
+      ],
+      "Arendt\u2019s": [
+        110
+      ],
+      "Adorno\u2019s": [
+        112
+      ],
+      "views": [
+        113
+      ],
+      "an": [
+        115,
+        125
+      ],
+      "interpretive": [
+        116
+      ],
+      "social": [
+        117
+      ],
+      "science;": [
+        118
+      ],
+      "why": [
+        120
+      ],
+      "international": [
+        121
+      ],
+      "law": [
+        122
+      ],
+      "played": [
+        123
+      ],
+      "important": [
+        126
+      ],
+      "role": [
+        127
+      ],
+      "in": [
+        128,
+        146,
+        176
+      ],
+      "imagination": [
+        130
+      ],
+      "intellectuals.": [
+        133
+      ],
+      "A": [
+        134
+      ],
+      "further": [
+        135
+      ],
+      "question": [
+        136
+      ],
+      "involves": [
+        137
+      ],
+      "generalizability": [
+        139
+      ],
+      "experience": [
+        142,
+        163
+      ],
+      "otherness": [
+        145
+      ],
+      "European": [
+        147
+      ],
+      "culture.": [
+        148
+      ],
+      "Liberal": [
+        149
+      ],
+      "societies": [
+        150
+      ],
+      "always": [
+        151
+      ],
+      "designate": [
+        152
+      ],
+      "some": [
+        153
+      ],
+      "others": [
+        154
+      ],
+      "constitutive": [
+        157
+      ],
+      "exterior.": [
+        158
+      ],
+      "How": [
+        159
+      ],
+      "continuous": [
+        160
+      ],
+      "is": [
+        161
+      ],
+      "emigr\u00e9": [
+        165
+      ],
+      "with": [
+        168
+      ],
+      "exclusion": [
+        170
+      ],
+      "ethnic": [
+        172
+      ],
+      "racial": [
+        174
+      ],
+      "minorities": [
+        175
+      ],
+      "our": [
+        177
+      ],
+      "societies?": [
+        178
+      ],
+      "Finally,": [
+        179
+      ],
+      "if": [
+        180
+      ],
+      "founding": [
+        182
+      ],
+      "State": [
+        185
+      ],
+      "Israel": [
+        187
+      ],
+      "has": [
+        188
+      ],
+      "no": [
+        190
+      ],
+      "means": [
+        191
+      ],
+      "resolved": [
+        192
+      ],
+      "problems": [
+        194
+      ],
+      "statelessness": [
+        196
+      ],
+      "but": [
+        197
+      ],
+      "re-created": [
+        198
+      ],
+      "it": [
+        199
+      ],
+      "Palestinian": [
+        202
+      ],
+      "population,": [
+        203
+      ],
+      "what": [
+        204
+      ],
+      "kind": [
+        205
+      ],
+      "political": [
+        207
+      ],
+      "stance": [
+        208
+      ],
+      "should": [
+        209
+      ],
+      "we": [
+        210
+      ],
+      "assume": [
+        211
+      ],
+      "vis-\u00e0-vis": [
+        212
+      ],
+      "this": [
+        213
+      ],
+      "reality": [
+        214
+      ],
+      "today?": [
+        215
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2022,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2986843638",
+    "doi": "https://doi.org/10.1177/0191453719886100",
+    "title": "Exit, voice, loyalty: The case of the BDS",
+    "display_name": "Exit, voice, loyalty: The case of the BDS",
+    "relevance_score": 1.1552849,
+    "publication_year": 2019,
+    "publication_date": "2019-11-14",
+    "ids": {
+      "openalex": "https://openalex.org/W2986843638",
+      "doi": "https://doi.org/10.1177/0191453719886100",
+      "mag": "2986843638"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/0191453719886100",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/0191453719886100",
+      "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/0191453719886100",
+      "source": {
+        "id": "https://openalex.org/S57090429",
+        "display_name": "Philosophy & Social Criticism",
+        "issn_l": "0191-4537",
+        "issn": [
+          "0191-4537",
+          "1461-734X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Philosophy &amp; Social Criticism",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/0191453719886100",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5091899947",
+          "display_name": "Adi Ophir",
+          "orcid": "https://orcid.org/0000-0001-6518-4865"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I175594653",
+            "display_name": "John Brown University",
+            "ror": "https://ror.org/02ct41q97",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I175594653"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Adi Ophir",
+        "raw_affiliation_strings": [
+          "Brown University, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Brown University, USA",
+            "institution_ids": [
+              "https://openalex.org/I175594653"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5091899947"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I175594653"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.23863367,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "46",
+      "issue": "1",
+      "first_page": "25",
+      "last_page": "33"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Jewish and Middle Eastern Studies",
+      "score": 0.9898999929428101,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.9898999929428101,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.9886999726295471,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13634",
+        "display_name": "Middle East and Rwanda Conflicts",
+        "score": 0.9779999852180481,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/boycott",
+        "display_name": "Boycott",
+        "score": 0.9304748773574829
+      },
+      {
+        "id": "https://openalex.org/keywords/loyalty",
+        "display_name": "Loyalty",
+        "score": 0.7811360359191895
+      },
+      {
+        "id": "https://openalex.org/keywords/divestment",
+        "display_name": "Divestment",
+        "score": 0.7127383351325989
+      },
+      {
+        "id": "https://openalex.org/keywords/alliance",
+        "display_name": "Alliance",
+        "score": 0.661106288433075
+      },
+      {
+        "id": "https://openalex.org/keywords/incitement",
+        "display_name": "Incitement",
+        "score": 0.5657411217689514
+      },
+      {
+        "id": "https://openalex.org/keywords/law-and-economics",
+        "display_name": "Law and economics",
+        "score": 0.5362229943275452
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.4979557991027832
+      },
+      {
+        "id": "https://openalex.org/keywords/sanctions",
+        "display_name": "Sanctions",
+        "score": 0.49549901485443115
+      },
+      {
+        "id": "https://openalex.org/keywords/hypocrisy",
+        "display_name": "Hypocrisy",
+        "score": 0.4187602996826172
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.40614137053489685
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.3682335317134857
+      },
+      {
+        "id": "https://openalex.org/keywords/political-economy",
+        "display_name": "Political economy",
+        "score": 0.3430119752883911
+      },
+      {
+        "id": "https://openalex.org/keywords/politics",
+        "display_name": "Politics",
+        "score": 0.18786504864692688
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2780105190",
+        "wikidata": "https://www.wikidata.org/wiki/Q179366",
+        "display_name": "Boycott",
+        "level": 3,
+        "score": 0.9304748773574829
+      },
+      {
+        "id": "https://openalex.org/C2776967331",
+        "wikidata": "https://www.wikidata.org/wiki/Q1132131",
+        "display_name": "Loyalty",
+        "level": 2,
+        "score": 0.7811360359191895
+      },
+      {
+        "id": "https://openalex.org/C181190989",
+        "wikidata": "https://www.wikidata.org/wiki/Q1200733",
+        "display_name": "Divestment",
+        "level": 2,
+        "score": 0.7127383351325989
+      },
+      {
+        "id": "https://openalex.org/C2778431023",
+        "wikidata": "https://www.wikidata.org/wiki/Q878249",
+        "display_name": "Alliance",
+        "level": 2,
+        "score": 0.661106288433075
+      },
+      {
+        "id": "https://openalex.org/C2780132132",
+        "wikidata": "https://www.wikidata.org/wiki/Q570354",
+        "display_name": "Incitement",
+        "level": 2,
+        "score": 0.5657411217689514
+      },
+      {
+        "id": "https://openalex.org/C190253527",
+        "wikidata": "https://www.wikidata.org/wiki/Q295354",
+        "display_name": "Law and economics",
+        "level": 1,
+        "score": 0.5362229943275452
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.4979557991027832
+      },
+      {
+        "id": "https://openalex.org/C2778069335",
+        "wikidata": "https://www.wikidata.org/wiki/Q32098",
+        "display_name": "Sanctions",
+        "level": 2,
+        "score": 0.49549901485443115
+      },
+      {
+        "id": "https://openalex.org/C2775874189",
+        "wikidata": "https://www.wikidata.org/wiki/Q201650",
+        "display_name": "Hypocrisy",
+        "level": 2,
+        "score": 0.4187602996826172
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.40614137053489685
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.3682335317134857
+      },
+      {
+        "id": "https://openalex.org/C138921699",
+        "wikidata": "https://www.wikidata.org/wiki/Q47555",
+        "display_name": "Political economy",
+        "level": 1,
+        "score": 0.3430119752883911
+      },
+      {
+        "id": "https://openalex.org/C94625758",
+        "wikidata": "https://www.wikidata.org/wiki/Q7163",
+        "display_name": "Politics",
+        "level": 2,
+        "score": 0.18786504864692688
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/0191453719886100",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1177/0191453719886100",
+        "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/0191453719886100",
+        "source": {
+          "id": "https://openalex.org/S57090429",
+          "display_name": "Philosophy & Social Criticism",
+          "issn_l": "0191-4537",
+          "issn": [
+            "0191-4537",
+            "1461-734X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Philosophy &amp; Social Criticism",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1177/0191453719886100",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/0191453719886100",
+      "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/0191453719886100",
+      "source": {
+        "id": "https://openalex.org/S57090429",
+        "display_name": "Philosophy & Social Criticism",
+        "issn_l": "0191-4537",
+        "issn": [
+          "0191-4537",
+          "1461-734X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Philosophy &amp; Social Criticism",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [
+      {
+        "display_name": "Peace, Justice and strong institutions",
+        "score": 0.4099999964237213,
+        "id": "https://metadata.un.org/sdg/16"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": true,
+      "pdf": true
+    },
+    "referenced_works_count": 5,
+    "referenced_works": [
+      "https://openalex.org/W2604221090",
+      "https://openalex.org/W1968548375",
+      "https://openalex.org/W2128165990",
+      "https://openalex.org/W962182577",
+      "https://openalex.org/W2316509913"
+    ],
+    "related_works": [
+      "https://openalex.org/W2770169320",
+      "https://openalex.org/W1990423677",
+      "https://openalex.org/W3123738205",
+      "https://openalex.org/W2215603398",
+      "https://openalex.org/W2388718102",
+      "https://openalex.org/W1493199021",
+      "https://openalex.org/W91882718",
+      "https://openalex.org/W3121186066",
+      "https://openalex.org/W1413755299",
+      "https://openalex.org/W2171347557"
+    ],
+    "abstract_inverted_index": {
+      "The": [
+        0
+      ],
+      "essay": [
+        1
+      ],
+      "proposes": [
+        2
+      ],
+      "an": [
+        3
+      ],
+      "unexpected": [
+        4
+      ],
+      "alliance": [
+        5
+      ],
+      "between": [
+        6
+      ],
+      "two": [
+        7
+      ],
+      "of": [
+        8,
+        31
+      ],
+      "the": [
+        9,
+        13,
+        41
+      ],
+      "figures": [
+        10
+      ],
+      "assembled": [
+        11
+      ],
+      "in": [
+        12,
+        19
+      ],
+      "impressive": [
+        14
+      ],
+      "intellectual": [
+        15
+      ],
+      "constellation": [
+        16
+      ],
+      "Benhabib": [
+        17
+      ],
+      "presents": [
+        18
+      ],
+      "her": [
+        20
+      ],
+      "new": [
+        21
+      ],
+      "book:": [
+        22
+      ],
+      "Albert": [
+        23
+      ],
+      "O.": [
+        24
+      ],
+      "Hirschman": [
+        25
+      ],
+      "and": [
+        26,
+        39,
+        47
+      ],
+      "Judith": [
+        27
+      ],
+      "Butler.": [
+        28
+      ],
+      "Hirschman\u2019s": [
+        29
+      ],
+      "model": [
+        30
+      ],
+      "\u2018exit,": [
+        32
+      ],
+      "voice,": [
+        33
+      ],
+      "loyalty\u2019": [
+        34
+      ],
+      "is": [
+        35
+      ],
+      "used": [
+        36
+      ],
+      "to": [
+        37
+      ],
+      "interpret": [
+        38
+      ],
+      "justify": [
+        40
+      ],
+      "Palestinian": [
+        42
+      ],
+      "call": [
+        43
+      ],
+      "for": [
+        44
+      ],
+      "Boycott,": [
+        45
+      ],
+      "Divestment": [
+        46
+      ],
+      "Sanctions": [
+        48
+      ],
+      "against": [
+        49
+      ],
+      "Israel.": [
+        50
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W4410320614",
+    "doi": "https://doi.org/10.1177/01914537251340425",
+    "title": "Book Review: Reviving militant democracy: A reply to Niesen",
+    "display_name": "Book Review: Reviving militant democracy: A reply to Niesen",
+    "relevance_score": 0.73223627,
+    "publication_year": 2025,
+    "publication_date": "2025-05-13",
+    "ids": {
+      "openalex": "https://openalex.org/W4410320614",
+      "doi": "https://doi.org/10.1177/01914537251340425"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/01914537251340425",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/01914537251340425",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S57090429",
+        "display_name": "Philosophy & Social Criticism",
+        "issn_l": "0191-4537",
+        "issn": [
+          "0191-4537",
+          "1461-734X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Philosophy &amp; Social Criticism",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5075980770",
+          "display_name": "Benjamin A. Schupmann",
+          "orcid": "https://orcid.org/0000-0001-7686-150X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I3089745140",
+            "display_name": "Yale-NUS College",
+            "ror": "https://ror.org/04g9wch13",
+            "country_code": "SG",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I3089745140"
+            ]
+          }
+        ],
+        "countries": [
+          "SG"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Benjamin A. Schupmann",
+        "raw_affiliation_strings": [
+          "Yale-NUS College, Singapore"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Yale-NUS College, Singapore",
+            "institution_ids": [
+              "https://openalex.org/I3089745140"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5075980770"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I3089745140"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.21955043,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "51",
+      "issue": "6",
+      "first_page": "1016",
+      "last_page": "1025"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T13135",
+      "display_name": "Communism, Protests, Social Movements",
+      "score": 0.8166999816894531,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T13135",
+        "display_name": "Communism, Protests, Social Movements",
+        "score": 0.8166999816894531,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/militant",
+        "display_name": "Militant",
+        "score": 0.9305346012115479
+      },
+      {
+        "id": "https://openalex.org/keywords/democracy",
+        "display_name": "Democracy",
+        "score": 0.7215795516967773
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.5641920566558838
+      },
+      {
+        "id": "https://openalex.org/keywords/law-and-economics",
+        "display_name": "Law and economics",
+        "score": 0.35896992683410645
+      },
+      {
+        "id": "https://openalex.org/keywords/philosophy",
+        "display_name": "Philosophy",
+        "score": 0.32745760679244995
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.30876678228378296
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.23808416724205017
+      },
+      {
+        "id": "https://openalex.org/keywords/politics",
+        "display_name": "Politics",
+        "score": 0.20549839735031128
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2779808665",
+        "wikidata": "https://www.wikidata.org/wiki/Q17010072",
+        "display_name": "Militant",
+        "level": 3,
+        "score": 0.9305346012115479
+      },
+      {
+        "id": "https://openalex.org/C555826173",
+        "wikidata": "https://www.wikidata.org/wiki/Q7174",
+        "display_name": "Democracy",
+        "level": 3,
+        "score": 0.7215795516967773
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.5641920566558838
+      },
+      {
+        "id": "https://openalex.org/C190253527",
+        "wikidata": "https://www.wikidata.org/wiki/Q295354",
+        "display_name": "Law and economics",
+        "level": 1,
+        "score": 0.35896992683410645
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.32745760679244995
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.30876678228378296
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.23808416724205017
+      },
+      {
+        "id": "https://openalex.org/C94625758",
+        "wikidata": "https://www.wikidata.org/wiki/Q7163",
+        "display_name": "Politics",
+        "level": 2,
+        "score": 0.20549839735031128
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/01914537251340425",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/01914537251340425",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S57090429",
+          "display_name": "Philosophy & Social Criticism",
+          "issn_l": "0191-4537",
+          "issn": [
+            "0191-4537",
+            "1461-734X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Philosophy &amp; Social Criticism",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 11,
+    "referenced_works": [
+      "https://openalex.org/W6943336980",
+      "https://openalex.org/W1606400132",
+      "https://openalex.org/W1776182051",
+      "https://openalex.org/W4410114925",
+      "https://openalex.org/W4236818996",
+      "https://openalex.org/W4396216061",
+      "https://openalex.org/W565602825",
+      "https://openalex.org/W658057013",
+      "https://openalex.org/W1525697956",
+      "https://openalex.org/W1966340639",
+      "https://openalex.org/W4231016000"
+    ],
+    "related_works": [
+      "https://openalex.org/W4391375266",
+      "https://openalex.org/W2899084033",
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W2074730445",
+      "https://openalex.org/W2000290136",
+      "https://openalex.org/W4254585090",
+      "https://openalex.org/W4308592083",
+      "https://openalex.org/W2152610254",
+      "https://openalex.org/W2626404377",
+      "https://openalex.org/W4318952656"
+    ],
+    "abstract_inverted_index": {
+      "Democracy\u2019s": [
+        0
+      ],
+      "enemies": [
+        1
+      ],
+      "do": [
+        2
+      ],
+      "not": [
+        3,
+        60,
+        173
+      ],
+      "sit": [
+        4
+      ],
+      "idle": [
+        5
+      ],
+      "\u2013": [
+        6,
+        73,
+        85
+      ],
+      "so": [
+        7
+      ],
+      "why": [
+        8
+      ],
+      "should": [
+        9,
+        29
+      ],
+      "its": [
+        10
+      ],
+      "defences?": [
+        11
+      ],
+      "With": [
+        12
+      ],
+      "Democracy": [
+        13,
+        119
+      ],
+      "despite": [
+        14,
+        120
+      ],
+      "Itself": [
+        15,
+        121
+      ],
+      ",": [
+        16
+      ],
+      "I": [
+        17
+      ],
+      "aim": [
+        18,
+        43
+      ],
+      "to": [
+        19,
+        36,
+        44,
+        98,
+        126,
+        163
+      ],
+      "revive": [
+        20
+      ],
+      "\u2018militant": [
+        21
+      ],
+      "democracy\u2019,": [
+        22
+      ],
+      "the": [
+        23,
+        71,
+        79,
+        114,
+        146,
+        194
+      ],
+      "idea": [
+        24
+      ],
+      "that": [
+        25,
+        128,
+        134,
+        154,
+        169
+      ],
+      "a": [
+        26,
+        54,
+        149,
+        161,
+        184
+      ],
+      "democratic": [
+        27,
+        49,
+        100,
+        166
+      ],
+      "state": [
+        28
+      ],
+      "adopt": [
+        30
+      ],
+      "strong": [
+        31,
+        185
+      ],
+      "mechanisms": [
+        32
+      ],
+      "of": [
+        33,
+        53,
+        68,
+        106,
+        118,
+        148
+      ],
+      "constitutional": [
+        34
+      ],
+      "entrenchment": [
+        35,
+        147
+      ],
+      "defend": [
+        37
+      ],
+      "itself": [
+        38
+      ],
+      "against": [
+        39,
+        177
+      ],
+      "internal": [
+        40
+      ],
+      "antidemocrats": [
+        41,
+        91
+      ],
+      "who": [
+        42,
+        92
+      ],
+      "subvert": [
+        45
+      ],
+      "it": [
+        46,
+        155
+      ],
+      "using": [
+        47
+      ],
+      "legal": [
+        48,
+        96
+      ],
+      "means.": [
+        50
+      ],
+      "The": [
+        51
+      ],
+      "threat": [
+        52
+      ],
+      "legalistic": [
+        55
+      ],
+      "attack": [
+        56
+      ],
+      "on": [
+        57,
+        183
+      ],
+      "democracy": [
+        58,
+        171
+      ],
+      "is": [
+        59,
+        64
+      ],
+      "hypothetical:": [
+        61
+      ],
+      "recent": [
+        62
+      ],
+      "history": [
+        63
+      ],
+      "rife": [
+        65
+      ],
+      "with": [
+        66
+      ],
+      "examples": [
+        67
+      ],
+      "democracies": [
+        69
+      ],
+      "around": [
+        70
+      ],
+      "world": [
+        72
+      ],
+      "such": [
+        74,
+        192
+      ],
+      "as": [
+        75,
+        193
+      ],
+      "Turkey,": [
+        76
+      ],
+      "Hungary,": [
+        77
+      ],
+      "India,": [
+        78
+      ],
+      "United": [
+        80
+      ],
+      "States,": [
+        81
+      ],
+      "Israel": [
+        82
+      ],
+      "and": [
+        83,
+        102,
+        116
+      ],
+      "Venezuela": [
+        84
+      ],
+      "being": [
+        86
+      ],
+      "subverted": [
+        87
+      ],
+      "by": [
+        88,
+        189
+      ],
+      "popularly": [
+        89
+      ],
+      "elected": [
+        90
+      ],
+      "subsequently": [
+        93
+      ],
+      "used": [
+        94
+      ],
+      "their": [
+        95
+      ],
+      "powers": [
+        97
+      ],
+      "dismantle": [
+        99
+      ],
+      "norms": [
+        101
+      ],
+      "institutions": [
+        103
+      ],
+      "in": [
+        104,
+        131
+      ],
+      "pursuit": [
+        105
+      ],
+      "so-called": [
+        107
+      ],
+      "\u2018illiberal": [
+        108
+      ],
+      "democracy\u2019.": [
+        109
+      ],
+      "My": [
+        110
+      ],
+      "reply": [
+        111
+      ],
+      "first": [
+        112
+      ],
+      "reconstructs": [
+        113
+      ],
+      "motivation": [
+        115
+      ],
+      "structure": [
+        117
+      ],
+      ".": [
+        122
+      ],
+      "It": [
+        123
+      ],
+      "then": [
+        124
+      ],
+      "responds": [
+        125
+      ],
+      "concerns": [
+        127
+      ],
+      "Niesen": [
+        129
+      ],
+      "raises": [
+        130
+      ],
+      "his": [
+        132
+      ],
+      "review:": [
+        133
+      ],
+      "this": [
+        135
+      ],
+      "model": [
+        136
+      ],
+      "overprotects": [
+        137
+      ],
+      "basic": [
+        138
+      ],
+      "liberal": [
+        139
+      ],
+      "rights,": [
+        140,
+        143,
+        158
+      ],
+      "particularly": [
+        141
+      ],
+      "property": [
+        142
+      ],
+      "thereby": [
+        144,
+        159
+      ],
+      "risking": [
+        145
+      ],
+      "capitalist": [
+        150
+      ],
+      "market": [
+        151
+      ],
+      "order.": [
+        152
+      ],
+      "Second,": [
+        153
+      ],
+      "underprotects": [
+        156
+      ],
+      "political": [
+        157
+      ],
+      "allowing": [
+        160
+      ],
+      "majority": [
+        162
+      ],
+      "abrogate": [
+        164
+      ],
+      "formal": [
+        165
+      ],
+      "procedures.": [
+        167
+      ],
+      "Third,": [
+        168
+      ],
+      "militant": [
+        170
+      ],
+      "may": [
+        172
+      ],
+      "be": [
+        174
+      ],
+      "practically": [
+        175
+      ],
+      "effective": [
+        176
+      ],
+      "antidemocratic": [
+        178
+      ],
+      "parties": [
+        179
+      ],
+      "whose": [
+        180
+      ],
+      "power": [
+        181
+      ],
+      "rests": [
+        182
+      ],
+      "base": [
+        186
+      ],
+      "oriented": [
+        187
+      ],
+      "primarily": [
+        188
+      ],
+      "unspecific": [
+        190
+      ],
+      "resentment,": [
+        191
+      ],
+      "authoritarian-populist": [
+        195
+      ],
+      "party": [
+        196
+      ],
+      "Alternative": [
+        197
+      ],
+      "f\u00fcr": [
+        198
+      ],
+      "Deutschland": [
+        199
+      ],
+      "(AfD).": [
+        200
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-05-14T00:00:00"
+  }
+]

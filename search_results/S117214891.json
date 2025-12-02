@@ -1,0 +1,5955 @@
+[
+  {
+    "id": "https://openalex.org/W2009247597",
+    "doi": "https://doi.org/10.1177/1057567713500789",
+    "title": "Ethiopian Males Account for the Double Acts of Murder and Suicide Committed by Males in Ethiopian Families Postmigration to Israel",
+    "display_name": "Ethiopian Males Account for the Double Acts of Murder and Suicide Committed by Males in Ethiopian Families Postmigration to Israel",
+    "relevance_score": 86.27068,
+    "publication_year": 2013,
+    "publication_date": "2013-08-27",
+    "ids": {
+      "openalex": "https://openalex.org/W2009247597",
+      "doi": "https://doi.org/10.1177/1057567713500789",
+      "mag": "2009247597"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/1057567713500789",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/1057567713500789",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S117214891",
+        "display_name": "International Criminal Justice Review",
+        "issn_l": "1057-5677",
+        "issn": [
+          "1057-5677",
+          "1556-3855"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "International Criminal Justice Review",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5062041452",
+          "display_name": "Brenda Geiger",
+          "orcid": "https://orcid.org/0000-0001-5378-381X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I13955877",
+            "display_name": "Bar-Ilan University",
+            "ror": "https://ror.org/03kgsv495",
+            "country_code": "IL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I13955877"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I23973178",
+            "display_name": "Western Galilee College",
+            "ror": "https://ror.org/00ajd9b21",
+            "country_code": "IL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I23973178"
+            ]
+          }
+        ],
+        "countries": [
+          "IL"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Brenda Geiger",
+        "raw_affiliation_strings": [
+          "Western Galilee College of Bar Ilan University, Acre, Israel"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Western Galilee College of Bar Ilan University, Acre, Israel",
+            "institution_ids": [
+              "https://openalex.org/I13955877",
+              "https://openalex.org/I23973178"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5062041452"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I13955877",
+      "https://openalex.org/I23973178"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 2.79426508,
+    "has_fulltext": false,
+    "cited_by_count": 8,
+    "citation_normalized_percentile": {
+      "value": 0.92343524,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 96
+    },
+    "biblio": {
+      "volume": "23",
+      "issue": "3",
+      "first_page": "233",
+      "last_page": "251"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Jewish and Middle Eastern Studies",
+      "score": 0.9980999827384949,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.9980999827384949,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10216",
+        "display_name": "Migration, Refugees, and Integration",
+        "score": 0.9918000102043152,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13103",
+        "display_name": "Middle East Politics and Society",
+        "score": 0.9894000291824341,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/oppression",
+        "display_name": "Oppression",
+        "score": 0.7853323221206665
+      },
+      {
+        "id": "https://openalex.org/keywords/dignity",
+        "display_name": "Dignity",
+        "score": 0.614534318447113
+      },
+      {
+        "id": "https://openalex.org/keywords/criminology",
+        "display_name": "Criminology",
+        "score": 0.5651260018348694
+      },
+      {
+        "id": "https://openalex.org/keywords/imprisonment",
+        "display_name": "Imprisonment",
+        "score": 0.5447576642036438
+      },
+      {
+        "id": "https://openalex.org/keywords/gender-studies",
+        "display_name": "Gender studies",
+        "score": 0.4972536861896515
+      },
+      {
+        "id": "https://openalex.org/keywords/feeling",
+        "display_name": "Feeling",
+        "score": 0.47496864199638367
+      },
+      {
+        "id": "https://openalex.org/keywords/spouse",
+        "display_name": "Spouse",
+        "score": 0.4552033543586731
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.4514755308628082
+      },
+      {
+        "id": "https://openalex.org/keywords/democracy",
+        "display_name": "Democracy",
+        "score": 0.451095312833786
+      },
+      {
+        "id": "https://openalex.org/keywords/forced-marriage",
+        "display_name": "Forced marriage",
+        "score": 0.4190504848957062
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.3078741729259491
+      },
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.29897207021713257
+      },
+      {
+        "id": "https://openalex.org/keywords/social-psychology",
+        "display_name": "Social psychology",
+        "score": 0.257055401802063
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.22761431336402893
+      },
+      {
+        "id": "https://openalex.org/keywords/anthropology",
+        "display_name": "Anthropology",
+        "score": 0.11965855956077576
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2776526686",
+        "wikidata": "https://www.wikidata.org/wiki/Q252000",
+        "display_name": "Oppression",
+        "level": 3,
+        "score": 0.7853323221206665
+      },
+      {
+        "id": "https://openalex.org/C2778745096",
+        "wikidata": "https://www.wikidata.org/wiki/Q274782",
+        "display_name": "Dignity",
+        "level": 2,
+        "score": 0.614534318447113
+      },
+      {
+        "id": "https://openalex.org/C73484699",
+        "wikidata": "https://www.wikidata.org/wiki/Q161733",
+        "display_name": "Criminology",
+        "level": 1,
+        "score": 0.5651260018348694
+      },
+      {
+        "id": "https://openalex.org/C2778770431",
+        "wikidata": "https://www.wikidata.org/wiki/Q841236",
+        "display_name": "Imprisonment",
+        "level": 2,
+        "score": 0.5447576642036438
+      },
+      {
+        "id": "https://openalex.org/C107993555",
+        "wikidata": "https://www.wikidata.org/wiki/Q1662673",
+        "display_name": "Gender studies",
+        "level": 1,
+        "score": 0.4972536861896515
+      },
+      {
+        "id": "https://openalex.org/C122980154",
+        "wikidata": "https://www.wikidata.org/wiki/Q205555",
+        "display_name": "Feeling",
+        "level": 2,
+        "score": 0.47496864199638367
+      },
+      {
+        "id": "https://openalex.org/C2777495918",
+        "wikidata": "https://www.wikidata.org/wiki/Q1196129",
+        "display_name": "Spouse",
+        "level": 2,
+        "score": 0.4552033543586731
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.4514755308628082
+      },
+      {
+        "id": "https://openalex.org/C555826173",
+        "wikidata": "https://www.wikidata.org/wiki/Q7174",
+        "display_name": "Democracy",
+        "level": 3,
+        "score": 0.451095312833786
+      },
+      {
+        "id": "https://openalex.org/C2778354389",
+        "wikidata": "https://www.wikidata.org/wiki/Q231632",
+        "display_name": "Forced marriage",
+        "level": 2,
+        "score": 0.4190504848957062
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.3078741729259491
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.29897207021713257
+      },
+      {
+        "id": "https://openalex.org/C77805123",
+        "wikidata": "https://www.wikidata.org/wiki/Q161272",
+        "display_name": "Social psychology",
+        "level": 1,
+        "score": 0.257055401802063
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.22761431336402893
+      },
+      {
+        "id": "https://openalex.org/C19165224",
+        "wikidata": "https://www.wikidata.org/wiki/Q23404",
+        "display_name": "Anthropology",
+        "level": 1,
+        "score": 0.11965855956077576
+      },
+      {
+        "id": "https://openalex.org/C94625758",
+        "wikidata": "https://www.wikidata.org/wiki/Q7163",
+        "display_name": "Politics",
+        "level": 2,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/1057567713500789",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/1057567713500789",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S117214891",
+          "display_name": "International Criminal Justice Review",
+          "issn_l": "1057-5677",
+          "issn": [
+            "1057-5677",
+            "1556-3855"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Criminal Justice Review",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.5899999737739563,
+        "display_name": "Reduced inequalities",
+        "id": "https://metadata.un.org/sdg/10"
+      },
+      {
+        "score": 0.41999998688697815,
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [
+      {
+        "id": "https://openalex.org/F4320323944",
+        "display_name": "Ministry of Health, State of Israel",
+        "ror": "https://ror.org/016n0q862"
+      }
+    ],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 45,
+    "referenced_works": [
+      "https://openalex.org/W2060316932",
+      "https://openalex.org/W2065814600",
+      "https://openalex.org/W2170118558",
+      "https://openalex.org/W2045596630",
+      "https://openalex.org/W2065466656",
+      "https://openalex.org/W2615469392",
+      "https://openalex.org/W255213330",
+      "https://openalex.org/W2000540104",
+      "https://openalex.org/W2005625276",
+      "https://openalex.org/W2120517851",
+      "https://openalex.org/W2004130302",
+      "https://openalex.org/W2153780529",
+      "https://openalex.org/W2010551543",
+      "https://openalex.org/W2005755603",
+      "https://openalex.org/W2085081981",
+      "https://openalex.org/W1980261217",
+      "https://openalex.org/W3123444312",
+      "https://openalex.org/W1977629140",
+      "https://openalex.org/W1991556914",
+      "https://openalex.org/W2901424200",
+      "https://openalex.org/W3164549185",
+      "https://openalex.org/W2754121486",
+      "https://openalex.org/W2790841064",
+      "https://openalex.org/W1981822199",
+      "https://openalex.org/W2319125080",
+      "https://openalex.org/W2344573080",
+      "https://openalex.org/W1597750586",
+      "https://openalex.org/W2254482431",
+      "https://openalex.org/W1505172952",
+      "https://openalex.org/W1509103231",
+      "https://openalex.org/W4285719527",
+      "https://openalex.org/W1974901230",
+      "https://openalex.org/W2001498083",
+      "https://openalex.org/W1518792569",
+      "https://openalex.org/W2140918013",
+      "https://openalex.org/W115394847",
+      "https://openalex.org/W1751769270",
+      "https://openalex.org/W1573837287",
+      "https://openalex.org/W2039074601",
+      "https://openalex.org/W1573903967",
+      "https://openalex.org/W4243160567",
+      "https://openalex.org/W581151462",
+      "https://openalex.org/W578283929",
+      "https://openalex.org/W103964020",
+      "https://openalex.org/W601915505"
+    ],
+    "related_works": [
+      "https://openalex.org/W4236595221",
+      "https://openalex.org/W2591711150",
+      "https://openalex.org/W2167534440",
+      "https://openalex.org/W3205553192",
+      "https://openalex.org/W3094108260",
+      "https://openalex.org/W2104993825",
+      "https://openalex.org/W2409415119",
+      "https://openalex.org/W4238869303",
+      "https://openalex.org/W2559803485",
+      "https://openalex.org/W4255696170"
+    ],
+    "abstract_inverted_index": {
+      "This": [
+        0
+      ],
+      "qualitative": [
+        1
+      ],
+      "research": [
+        2
+      ],
+      "turns": [
+        3
+      ],
+      "to": [
+        4,
+        16,
+        28,
+        77,
+        98,
+        130,
+        178
+      ],
+      "24": [
+        5
+      ],
+      "male": [
+        6
+      ],
+      "members": [
+        7
+      ],
+      "of": [
+        8,
+        89,
+        112,
+        126,
+        157,
+        187,
+        191
+      ],
+      "the": [
+        9,
+        23,
+        38,
+        59,
+        62,
+        85,
+        108,
+        123,
+        127,
+        155,
+        185,
+        188
+      ],
+      "Ethiopian": [
+        10,
+        74,
+        124,
+        163,
+        209
+      ],
+      "Jewish": [
+        11
+      ],
+      "community": [
+        12,
+        32,
+        125,
+        171
+      ],
+      "living": [
+        13
+      ],
+      "in": [
+        14,
+        41,
+        50,
+        57,
+        154
+      ],
+      "Israel": [
+        15
+      ],
+      "probe": [
+        17
+      ],
+      "their": [
+        18,
+        29,
+        51,
+        96,
+        100,
+        180,
+        207,
+        212
+      ],
+      "feelings": [
+        19
+      ],
+      "and": [
+        20,
+        31,
+        34,
+        44,
+        68,
+        87,
+        93,
+        95,
+        102,
+        114,
+        120,
+        135,
+        140,
+        152,
+        160,
+        167,
+        193,
+        200,
+        214
+      ],
+      "thoughts": [
+        21
+      ],
+      "concerning": [
+        22
+      ],
+      "changes": [
+        24
+      ],
+      "that": [
+        25,
+        65,
+        196,
+        204
+      ],
+      "have": [
+        26
+      ],
+      "occurred": [
+        27
+      ],
+      "traditions": [
+        30,
+        134
+      ],
+      "postmigration,": [
+        33
+      ],
+      "gain": [
+        35
+      ],
+      "insight": [
+        36
+      ],
+      "into": [
+        37
+      ],
+      "disproportionate": [
+        39
+      ],
+      "rise": [
+        40
+      ],
+      "domestic": [
+        42
+      ],
+      "murder": [
+        43,
+        67
+      ],
+      "subsequent": [
+        45
+      ],
+      "suicide": [
+        46,
+        69
+      ],
+      "committed": [
+        47,
+        215
+      ],
+      "by": [
+        48
+      ],
+      "males": [
+        49,
+        164,
+        210
+      ],
+      "community.": [
+        52,
+        103
+      ],
+      "During": [
+        53
+      ],
+      "semistructured": [
+        54
+      ],
+      "interviews": [
+        55
+      ],
+      "conducted": [
+        56
+      ],
+      "Amharit,": [
+        58
+      ],
+      "interviewees": [
+        60
+      ],
+      "opposed": [
+        61
+      ],
+      "dominant": [
+        63,
+        202
+      ],
+      "discourse": [
+        64
+      ],
+      "cast": [
+        66
+      ],
+      "as": [
+        70,
+        116,
+        121
+      ],
+      "pathologies": [
+        71
+      ],
+      "resulting": [
+        72
+      ],
+      "from": [
+        73
+      ],
+      "males\u2019": [
+        75
+      ],
+      "failure": [
+        76
+      ],
+      "assimilate.": [
+        78
+      ],
+      "In": [
+        79,
+        173
+      ],
+      "a": [
+        80,
+        90,
+        158,
+        174,
+        201
+      ],
+      "resistant": [
+        81,
+        176
+      ],
+      "discourse,": [
+        82
+      ],
+      "they": [
+        83
+      ],
+      "revealed": [
+        84
+      ],
+      "oppression": [
+        86,
+        186
+      ],
+      "destruction": [
+        88
+      ],
+      "cultural": [
+        91,
+        159
+      ],
+      "heritage": [
+        92
+      ],
+      "identity": [
+        94
+      ],
+      "struggles": [
+        97
+      ],
+      "regain": [
+        99,
+        179
+      ],
+      "family": [
+        101
+      ],
+      "Paradoxically,": [
+        104
+      ],
+      "these": [
+        105
+      ],
+      "men": [
+        106,
+        199
+      ],
+      "perceived": [
+        107
+      ],
+      "Israeli": [
+        109,
+        189
+      ],
+      "democratic": [
+        110
+      ],
+      "system": [
+        111,
+        190
+      ],
+      "law": [
+        113,
+        192
+      ],
+      "order": [
+        115,
+        195
+      ],
+      "discriminating": [
+        117
+      ],
+      "against": [
+        118,
+        184,
+        198
+      ],
+      "men,": [
+        119
+      ],
+      "depriving": [
+        122
+      ],
+      "basic": [
+        128
+      ],
+      "right": [
+        129
+      ],
+      "choose": [
+        131
+      ],
+      "its": [
+        132
+      ],
+      "own": [
+        133
+      ],
+      "spiritual": [
+        136
+      ],
+      "leaders": [
+        137
+      ],
+      "(": [
+        138
+      ],
+      "Kessim": [
+        139
+      ],
+      "Shmagaleh)": [
+        141
+      ],
+      "who": [
+        142
+      ],
+      "helped": [
+        143
+      ],
+      "resolving": [
+        144
+      ],
+      "marital": [
+        145
+      ],
+      "disputes.": [
+        146
+      ],
+      "Fearing": [
+        147
+      ],
+      "court": [
+        148
+      ],
+      "restraining": [
+        149
+      ],
+      "orders,": [
+        150
+      ],
+      "arrest,": [
+        151
+      ],
+      "imprisonment": [
+        153
+      ],
+      "midst": [
+        156
+      ],
+      "social": [
+        161,
+        194
+      ],
+      "void,": [
+        162
+      ],
+      "felt": [
+        165
+      ],
+      "isolated": [
+        166
+      ],
+      "alienated": [
+        168
+      ],
+      "with": [
+        169
+      ],
+      "no": [
+        170
+      ],
+      "support.": [
+        172
+      ],
+      "last": [
+        175
+      ],
+      "effort": [
+        177
+      ],
+      "dignity": [
+        181
+      ],
+      "while": [
+        182
+      ],
+      "protesting": [
+        183
+      ],
+      "discriminated": [
+        197
+      ],
+      "culture": [
+        203
+      ],
+      "had": [
+        205
+      ],
+      "destroyed": [
+        206
+      ],
+      "community,": [
+        208
+      ],
+      "killed": [
+        211
+      ],
+      "spouse": [
+        213
+      ],
+      "suicide.": [
+        216
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2014,
+        "cited_by_count": 2
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W3096923086",
+    "doi": "https://doi.org/10.1177/1057567720967074",
+    "title": "Evidence Map of School-Based Violence Prevention Programs in Israel",
+    "display_name": "Evidence Map of School-Based Violence Prevention Programs in Israel",
+    "relevance_score": 75.053215,
+    "publication_year": 2020,
+    "publication_date": "2020-10-28",
+    "ids": {
+      "openalex": "https://openalex.org/W3096923086",
+      "doi": "https://doi.org/10.1177/1057567720967074",
+      "mag": "3096923086"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/1057567720967074",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/1057567720967074",
+      "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/1057567720967074",
+      "source": {
+        "id": "https://openalex.org/S117214891",
+        "display_name": "International Criminal Justice Review",
+        "issn_l": "1057-5677",
+        "issn": [
+          "1057-5677",
+          "1556-3855"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "International Criminal Justice Review",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/1057567720967074",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5089880034",
+          "display_name": "Hagit Sabo Brants",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I197251160",
+            "display_name": "Hebrew University of Jerusalem",
+            "ror": "https://ror.org/03qxff017",
+            "country_code": "IL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I197251160"
+            ]
+          }
+        ],
+        "countries": [
+          "IL"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Hagit Sabo Brants",
+        "raw_affiliation_strings": [
+          "Faculty of Law, Institute of Criminology, Hebrew University, Mount Scopus, Jerusalem, Israel"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Faculty of Law, Institute of Criminology, Hebrew University, Mount Scopus, Jerusalem, Israel",
+            "institution_ids": [
+              "https://openalex.org/I197251160"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5050863219",
+          "display_name": "Barak Ariel",
+          "orcid": "https://orcid.org/0000-0002-6912-2546"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I241749",
+            "display_name": "University of Cambridge",
+            "ror": "https://ror.org/013meh722",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I241749"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I197251160",
+            "display_name": "Hebrew University of Jerusalem",
+            "ror": "https://ror.org/03qxff017",
+            "country_code": "IL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I197251160"
+            ]
+          }
+        ],
+        "countries": [
+          "GB",
+          "IL"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Barak Ariel",
+        "raw_affiliation_strings": [
+          "Faculty of Law, Institute of Criminology, Hebrew University, Mount Scopus, Jerusalem, Israel",
+          "Reader in Experimental Criminology, Institute of Criminology, University of Cambridge, United Kingdom"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Faculty of Law, Institute of Criminology, Hebrew University, Mount Scopus, Jerusalem, Israel",
+            "institution_ids": [
+              "https://openalex.org/I197251160"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Reader in Experimental Criminology, Institute of Criminology, University of Cambridge, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I241749"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 2,
+    "institutions_distinct_count": 2,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5089880034"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I197251160"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.47569685,
+    "has_fulltext": false,
+    "cited_by_count": 3,
+    "citation_normalized_percentile": {
+      "value": 0.6928113,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 90,
+      "max": 96
+    },
+    "biblio": {
+      "volume": "33",
+      "issue": "1",
+      "first_page": "50",
+      "last_page": "65"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10485",
+      "display_name": "Bullying, Victimization, and Aggression",
+      "score": 0.9966999888420105,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3207",
+        "display_name": "Social Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10485",
+        "display_name": "Bullying, Victimization, and Aggression",
+        "score": 0.9966999888420105,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3207",
+          "display_name": "Social Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12196",
+        "display_name": "Community Health and Development",
+        "score": 0.994700014591217,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3600",
+          "display_name": "General Health Professions"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/36",
+          "display_name": "Health Professions"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11998",
+        "display_name": "Youth Development and Social Support",
+        "score": 0.9939000010490417,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3311",
+          "display_name": "Safety Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/psychological-intervention",
+        "display_name": "Psychological intervention",
+        "score": 0.6533107161521912
+      },
+      {
+        "id": "https://openalex.org/keywords/intervention",
+        "display_name": "Intervention (counseling)",
+        "score": 0.6003491878509521
+      },
+      {
+        "id": "https://openalex.org/keywords/state",
+        "display_name": "State (computer science)",
+        "score": 0.5124295353889465
+      },
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.49922966957092285
+      },
+      {
+        "id": "https://openalex.org/keywords/medical-education",
+        "display_name": "Medical education",
+        "score": 0.4136221706867218
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.3511061668395996
+      },
+      {
+        "id": "https://openalex.org/keywords/medicine",
+        "display_name": "Medicine",
+        "score": 0.30780529975891113
+      },
+      {
+        "id": "https://openalex.org/keywords/psychiatry",
+        "display_name": "Psychiatry",
+        "score": 0.2059888243675232
+      },
+      {
+        "id": "https://openalex.org/keywords/computer-science",
+        "display_name": "Computer science",
+        "score": 0.09697595238685608
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C27415008",
+        "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+        "display_name": "Psychological intervention",
+        "level": 2,
+        "score": 0.6533107161521912
+      },
+      {
+        "id": "https://openalex.org/C2780665704",
+        "wikidata": "https://www.wikidata.org/wiki/Q959298",
+        "display_name": "Intervention (counseling)",
+        "level": 2,
+        "score": 0.6003491878509521
+      },
+      {
+        "id": "https://openalex.org/C48103436",
+        "wikidata": "https://www.wikidata.org/wiki/Q599031",
+        "display_name": "State (computer science)",
+        "level": 2,
+        "score": 0.5124295353889465
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.49922966957092285
+      },
+      {
+        "id": "https://openalex.org/C509550671",
+        "wikidata": "https://www.wikidata.org/wiki/Q126945",
+        "display_name": "Medical education",
+        "level": 1,
+        "score": 0.4136221706867218
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.3511061668395996
+      },
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.30780529975891113
+      },
+      {
+        "id": "https://openalex.org/C118552586",
+        "wikidata": "https://www.wikidata.org/wiki/Q7867",
+        "display_name": "Psychiatry",
+        "level": 1,
+        "score": 0.2059888243675232
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.09697595238685608
+      },
+      {
+        "id": "https://openalex.org/C11413529",
+        "wikidata": "https://www.wikidata.org/wiki/Q8366",
+        "display_name": "Algorithm",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "doi:10.1177/1057567720967074",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1177/1057567720967074",
+        "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/1057567720967074",
+        "source": {
+          "id": "https://openalex.org/S117214891",
+          "display_name": "International Criminal Justice Review",
+          "issn_l": "1057-5677",
+          "issn": [
+            "1057-5677",
+            "1556-3855"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Criminal Justice Review",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:zenodo.org:4242998",
+        "is_oa": true,
+        "landing_page_url": "https://zenodo.org/record/4242998",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400562",
+          "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I67311998",
+          "host_organization_name": "European Organization for Nuclear Research",
+          "host_organization_lineage": [
+            "https://openalex.org/I67311998"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "info:eu-repo/semantics/article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1177/1057567720967074",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/1057567720967074",
+      "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/1057567720967074",
+      "source": {
+        "id": "https://openalex.org/S117214891",
+        "display_name": "International Criminal Justice Review",
+        "issn_l": "1057-5677",
+        "issn": [
+          "1057-5677",
+          "1556-3855"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "International Criminal Justice Review",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [
+      {
+        "score": 0.46000000834465027,
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16"
+      },
+      {
+        "score": 0.4099999964237213,
+        "display_name": "Gender equality",
+        "id": "https://metadata.un.org/sdg/5"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": true,
+      "grobid_xml": true
+    },
+    "referenced_works_count": 87,
+    "referenced_works": [
+      "https://openalex.org/W2786210915",
+      "https://openalex.org/W4396971721",
+      "https://openalex.org/W2106794720",
+      "https://openalex.org/W2022845425",
+      "https://openalex.org/W1969640736",
+      "https://openalex.org/W2494217238",
+      "https://openalex.org/W2266520506",
+      "https://openalex.org/W2031173932",
+      "https://openalex.org/W2148681306",
+      "https://openalex.org/W2125928349",
+      "https://openalex.org/W2126837276",
+      "https://openalex.org/W2152017211",
+      "https://openalex.org/W2069074198",
+      "https://openalex.org/W2265934404",
+      "https://openalex.org/W2787383954",
+      "https://openalex.org/W2123930025",
+      "https://openalex.org/W1995224016",
+      "https://openalex.org/W2066817954",
+      "https://openalex.org/W2467757135",
+      "https://openalex.org/W2116483327",
+      "https://openalex.org/W2282690821",
+      "https://openalex.org/W2519536999",
+      "https://openalex.org/W2552446944",
+      "https://openalex.org/W4252505031",
+      "https://openalex.org/W2132801014",
+      "https://openalex.org/W2013520450",
+      "https://openalex.org/W1899592592",
+      "https://openalex.org/W608611484",
+      "https://openalex.org/W2278830721",
+      "https://openalex.org/W4234109853",
+      "https://openalex.org/W2064258062",
+      "https://openalex.org/W2900651128",
+      "https://openalex.org/W2582257475",
+      "https://openalex.org/W2518776272",
+      "https://openalex.org/W2109631588",
+      "https://openalex.org/W2809104492",
+      "https://openalex.org/W2939899643",
+      "https://openalex.org/W2153142165",
+      "https://openalex.org/W2112897415",
+      "https://openalex.org/W2182006549",
+      "https://openalex.org/W2579927528",
+      "https://openalex.org/W2091552216",
+      "https://openalex.org/W2765790738",
+      "https://openalex.org/W2312572318",
+      "https://openalex.org/W2590968081",
+      "https://openalex.org/W2604269961",
+      "https://openalex.org/W1964128870",
+      "https://openalex.org/W2114233263",
+      "https://openalex.org/W2253148421",
+      "https://openalex.org/W2091995245",
+      "https://openalex.org/W2154613187",
+      "https://openalex.org/W2604090325",
+      "https://openalex.org/W2557794262",
+      "https://openalex.org/W2148107550",
+      "https://openalex.org/W2132148304",
+      "https://openalex.org/W2888123127",
+      "https://openalex.org/W1969259288",
+      "https://openalex.org/W2963993928",
+      "https://openalex.org/W2150216719",
+      "https://openalex.org/W2008961057",
+      "https://openalex.org/W2400384003",
+      "https://openalex.org/W2029028597",
+      "https://openalex.org/W2046633836",
+      "https://openalex.org/W1984210267",
+      "https://openalex.org/W2166307078",
+      "https://openalex.org/W2079736715",
+      "https://openalex.org/W2761224230",
+      "https://openalex.org/W2026267776",
+      "https://openalex.org/W2316645068",
+      "https://openalex.org/W2115726033",
+      "https://openalex.org/W2005736971",
+      "https://openalex.org/W2169567109",
+      "https://openalex.org/W2799632171",
+      "https://openalex.org/W2018680716",
+      "https://openalex.org/W2792821272",
+      "https://openalex.org/W26006178",
+      "https://openalex.org/W2154600365",
+      "https://openalex.org/W2098338500",
+      "https://openalex.org/W2019649055",
+      "https://openalex.org/W2549880357",
+      "https://openalex.org/W1730782591",
+      "https://openalex.org/W2476484678",
+      "https://openalex.org/W4243714145",
+      "https://openalex.org/W1950506483",
+      "https://openalex.org/W2276722250",
+      "https://openalex.org/W2007857703",
+      "https://openalex.org/W4235035170"
+    ],
+    "related_works": [
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W2931662336",
+      "https://openalex.org/W2077865380",
+      "https://openalex.org/W2900068172",
+      "https://openalex.org/W2134894512",
+      "https://openalex.org/W2238030311",
+      "https://openalex.org/W2053487507",
+      "https://openalex.org/W2765597752",
+      "https://openalex.org/W2083375246",
+      "https://openalex.org/W2067108088"
+    ],
+    "abstract_inverted_index": {
+      "School-based": [
+        0
+      ],
+      "youth": [
+        1
+      ],
+      "violence": [
+        2,
+        90,
+        113
+      ],
+      "is": [
+        3,
+        15,
+        27,
+        69
+      ],
+      "a": [
+        4,
+        28,
+        50
+      ],
+      "worldwide": [
+        5
+      ],
+      "concern.": [
+        6
+      ],
+      "One": [
+        7
+      ],
+      "common": [
+        8
+      ],
+      "approach": [
+        9,
+        63
+      ],
+      "to": [
+        10,
+        64,
+        71,
+        112,
+        167,
+        174
+      ],
+      "dealing": [
+        11
+      ],
+      "with": [
+        12,
+        103
+      ],
+      "this": [
+        13
+      ],
+      "problem": [
+        14
+      ],
+      "implementing": [
+        16,
+        65
+      ],
+      "state-sponsored": [
+        17
+      ],
+      "intervention": [
+        18
+      ],
+      "programs": [
+        19,
+        115,
+        122,
+        144
+      ],
+      "for": [
+        20
+      ],
+      "large": [
+        21
+      ],
+      "populations": [
+        22
+      ],
+      "of": [
+        23,
+        41,
+        100,
+        120,
+        134,
+        160,
+        171
+      ],
+      "pupils.": [
+        24
+      ],
+      "However,": [
+        25
+      ],
+      "there": [
+        26
+      ],
+      "growing": [
+        29
+      ],
+      "concern": [
+        30
+      ],
+      "that": [
+        31,
+        155
+      ],
+      "school-based": [
+        32
+      ],
+      "interventions": [
+        33
+      ],
+      "(SBIs)": [
+        34
+      ],
+      "are": [
+        35,
+        76
+      ],
+      "being": [
+        36,
+        172
+      ],
+      "implemented": [
+        37
+      ],
+      "without": [
+        38,
+        156
+      ],
+      "sufficient": [
+        39
+      ],
+      "evaluations": [
+        40,
+        101
+      ],
+      "their": [
+        42
+      ],
+      "efficacy": [
+        43
+      ],
+      "and": [
+        44,
+        96,
+        129,
+        176
+      ],
+      "cost-effectiveness.": [
+        45
+      ],
+      "We": [
+        46,
+        81,
+        153
+      ],
+      "take": [
+        47
+      ],
+      "Israel": [
+        48
+      ],
+      "as": [
+        49
+      ],
+      "national": [
+        51
+      ],
+      "case": [
+        52
+      ],
+      "study.": [
+        53
+      ],
+      "Although": [
+        54
+      ],
+      "its": [
+        55
+      ],
+      "state": [
+        56,
+        93
+      ],
+      "education": [
+        57,
+        94
+      ],
+      "system": [
+        58,
+        95
+      ],
+      "strongly": [
+        59
+      ],
+      "advocates": [
+        60
+      ],
+      "an": [
+        61
+      ],
+      "evidence-based": [
+        62
+      ],
+      "\u201cbest-practice\u201d": [
+        66
+      ],
+      "SBIs,": [
+        67,
+        108
+      ],
+      "it": [
+        68
+      ],
+      "unclear": [
+        70
+      ],
+      "what": [
+        72
+      ],
+      "extent": [
+        73
+      ],
+      "Israeli": [
+        74,
+        163
+      ],
+      "SBIs": [
+        75,
+        86,
+        135
+      ],
+      "informed": [
+        77
+      ],
+      "by": [
+        78
+      ],
+      "impact": [
+        79
+      ],
+      "evaluations.": [
+        80
+      ],
+      "coded": [
+        82
+      ],
+      "information": [
+        83
+      ],
+      "on": [
+        84
+      ],
+      "all": [
+        85
+      ],
+      "aimed": [
+        87
+      ],
+      "at": [
+        88,
+        169
+      ],
+      "reducing": [
+        89
+      ],
+      "in": [
+        91,
+        116,
+        145
+      ],
+      "the": [
+        92,
+        98
+      ],
+      "reviewed": [
+        97
+      ],
+      "quality": [
+        99
+      ],
+      "associated": [
+        102
+      ],
+      "each": [
+        104
+      ],
+      "SBI.": [
+        105
+      ],
+      "Of": [
+        106
+      ],
+      "1,510": [
+        107
+      ],
+      "113": [
+        109
+      ],
+      "were": [
+        110,
+        136,
+        147
+      ],
+      "dedicated": [
+        111
+      ],
+      "prevention": [
+        114
+      ],
+      "schools.": [
+        117
+      ],
+      "Only": [
+        118
+      ],
+      "15": [
+        119
+      ],
+      "these": [
+        121
+      ],
+      "(13%),": [
+        123
+      ],
+      "however,": [
+        124
+      ],
+      "had": [
+        125
+      ],
+      "any": [
+        126
+      ],
+      "quantitative": [
+        127
+      ],
+      "appraisal,": [
+        128
+      ],
+      "only": [
+        130
+      ],
+      "two": [
+        131
+      ],
+      "completed": [
+        132
+      ],
+      "tests": [
+        133
+      ],
+      "assessed": [
+        137
+      ],
+      "using": [
+        138
+      ],
+      "randomized": [
+        139
+      ],
+      "controlled": [
+        140
+      ],
+      "trial": [
+        141
+      ],
+      "designs;": [
+        142
+      ],
+      "five": [
+        143
+      ],
+      "total": [
+        146
+      ],
+      "evaluated": [
+        148
+      ],
+      "under": [
+        149
+      ],
+      "sufficiently": [
+        150
+      ],
+      "rigorous": [
+        151
+      ],
+      "conditions.": [
+        152
+      ],
+      "conclude": [
+        154
+      ],
+      "valid": [
+        157
+      ],
+      "causal": [
+        158
+      ],
+      "estimates": [
+        159
+      ],
+      "treatment": [
+        161
+      ],
+      "effects,": [
+        162
+      ],
+      "pupils": [
+        164
+      ],
+      "will": [
+        165
+      ],
+      "continue": [
+        166
+      ],
+      "be": [
+        168
+      ],
+      "risk": [
+        170
+      ],
+      "exposed": [
+        173
+      ],
+      "unhelpful": [
+        175
+      ],
+      "potentially": [
+        177
+      ],
+      "damaging": [
+        178
+      ],
+      "SBIs.": [
+        179
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2024,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 2
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2128548229",
+    "doi": "https://doi.org/10.1177/105756779800800103",
+    "title": "Prisoner Release and Conflict Resolution: International Lessons for Northern Ireland",
+    "display_name": "Prisoner Release and Conflict Resolution: International Lessons for Northern Ireland",
+    "relevance_score": 18.357225,
+    "publication_year": 1998,
+    "publication_date": "1998-05-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2128548229",
+      "doi": "https://doi.org/10.1177/105756779800800103",
+      "mag": "2128548229"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/105756779800800103",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/105756779800800103",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S117214891",
+        "display_name": "International Criminal Justice Review",
+        "issn_l": "1057-5677",
+        "issn": [
+          "1057-5677",
+          "1556-3855"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "International Criminal Justice Review",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5029947258",
+          "display_name": "Kieran McEvoy",
+          "orcid": "https://orcid.org/0000-0003-1437-3388"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Kieran McEvoy",
+        "raw_affiliation_strings": [
+          "School of Law"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Law",
+            "institution_ids": []
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5029947258"
+    ],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 61,
+    "citation_normalized_percentile": {
+      "value": 0.28705255,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 94,
+      "max": 100
+    },
+    "biblio": {
+      "volume": "8",
+      "issue": "1",
+      "first_page": "33",
+      "last_page": "60"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11776",
+      "display_name": "Irish and British Studies",
+      "score": 0.996399998664856,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11776",
+        "display_name": "Irish and British Studies",
+        "score": 0.996399998664856,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10216",
+        "display_name": "Migration, Refugees, and Integration",
+        "score": 0.9797999858856201,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12263",
+        "display_name": "Peacebuilding and International Security",
+        "score": 0.9621999859809875,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/northern-ireland",
+        "display_name": "Northern ireland",
+        "score": 0.8861452341079712
+      },
+      {
+        "id": "https://openalex.org/keywords/irish",
+        "display_name": "Irish",
+        "score": 0.7997270822525024
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.5201594829559326
+      },
+      {
+        "id": "https://openalex.org/keywords/palestine",
+        "display_name": "Palestine",
+        "score": 0.43979811668395996
+      },
+      {
+        "id": "https://openalex.org/keywords/conflict-resolution",
+        "display_name": "Conflict resolution",
+        "score": 0.41971415281295776
+      },
+      {
+        "id": "https://openalex.org/keywords/criminology",
+        "display_name": "Criminology",
+        "score": 0.3932368755340576
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.3190242052078247
+      },
+      {
+        "id": "https://openalex.org/keywords/ethnology",
+        "display_name": "Ethnology",
+        "score": 0.3144558370113373
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.266449898481369
+      },
+      {
+        "id": "https://openalex.org/keywords/history",
+        "display_name": "History",
+        "score": 0.21026211977005005
+      },
+      {
+        "id": "https://openalex.org/keywords/ancient-history",
+        "display_name": "Ancient history",
+        "score": 0.07383254170417786
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C3019011928",
+        "wikidata": "https://www.wikidata.org/wiki/Q26",
+        "display_name": "Northern ireland",
+        "level": 2,
+        "score": 0.8861452341079712
+      },
+      {
+        "id": "https://openalex.org/C2780623531",
+        "wikidata": "https://www.wikidata.org/wiki/Q9142",
+        "display_name": "Irish",
+        "level": 2,
+        "score": 0.7997270822525024
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.5201594829559326
+      },
+      {
+        "id": "https://openalex.org/C114362828",
+        "wikidata": "https://www.wikidata.org/wiki/Q23792",
+        "display_name": "Palestine",
+        "level": 2,
+        "score": 0.43979811668395996
+      },
+      {
+        "id": "https://openalex.org/C21711469",
+        "wikidata": "https://www.wikidata.org/wiki/Q1194317",
+        "display_name": "Conflict resolution",
+        "level": 2,
+        "score": 0.41971415281295776
+      },
+      {
+        "id": "https://openalex.org/C73484699",
+        "wikidata": "https://www.wikidata.org/wiki/Q161733",
+        "display_name": "Criminology",
+        "level": 1,
+        "score": 0.3932368755340576
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.3190242052078247
+      },
+      {
+        "id": "https://openalex.org/C2549261",
+        "wikidata": "https://www.wikidata.org/wiki/Q43455",
+        "display_name": "Ethnology",
+        "level": 1,
+        "score": 0.3144558370113373
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.266449898481369
+      },
+      {
+        "id": "https://openalex.org/C95457728",
+        "wikidata": "https://www.wikidata.org/wiki/Q309",
+        "display_name": "History",
+        "level": 0,
+        "score": 0.21026211977005005
+      },
+      {
+        "id": "https://openalex.org/C195244886",
+        "wikidata": "https://www.wikidata.org/wiki/Q41493",
+        "display_name": "Ancient history",
+        "level": 1,
+        "score": 0.07383254170417786
+      },
+      {
+        "id": "https://openalex.org/C41895202",
+        "wikidata": "https://www.wikidata.org/wiki/Q8162",
+        "display_name": "Linguistics",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/105756779800800103",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/105756779800800103",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S117214891",
+          "display_name": "International Criminal Justice Review",
+          "issn_l": "1057-5677",
+          "issn": [
+            "1057-5677",
+            "1556-3855"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Criminal Justice Review",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.7900000214576721,
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 61,
+    "referenced_works": [
+      "https://openalex.org/W2045371085",
+      "https://openalex.org/W4239904125",
+      "https://openalex.org/W4244677478",
+      "https://openalex.org/W2325114484",
+      "https://openalex.org/W2790275968",
+      "https://openalex.org/W2105421406",
+      "https://openalex.org/W2479915282",
+      "https://openalex.org/W2334578846",
+      "https://openalex.org/W2317886590",
+      "https://openalex.org/W2082442227",
+      "https://openalex.org/W2325768794",
+      "https://openalex.org/W97019814",
+      "https://openalex.org/W2056301039",
+      "https://openalex.org/W4234910303",
+      "https://openalex.org/W4298039575",
+      "https://openalex.org/W2022321827",
+      "https://openalex.org/W4236117381",
+      "https://openalex.org/W2154998091",
+      "https://openalex.org/W2795798830",
+      "https://openalex.org/W1986477101",
+      "https://openalex.org/W2068998108",
+      "https://openalex.org/W1543166941",
+      "https://openalex.org/W2738319541",
+      "https://openalex.org/W2949484978",
+      "https://openalex.org/W637714391",
+      "https://openalex.org/W2797978728",
+      "https://openalex.org/W1557110505",
+      "https://openalex.org/W633331344",
+      "https://openalex.org/W1976266808",
+      "https://openalex.org/W617810720",
+      "https://openalex.org/W613175844",
+      "https://openalex.org/W2801928777",
+      "https://openalex.org/W1974315973",
+      "https://openalex.org/W1964601677",
+      "https://openalex.org/W2962975506",
+      "https://openalex.org/W2108662333",
+      "https://openalex.org/W2797405623",
+      "https://openalex.org/W3126889742",
+      "https://openalex.org/W604737974",
+      "https://openalex.org/W2607255999",
+      "https://openalex.org/W414107870",
+      "https://openalex.org/W581607047",
+      "https://openalex.org/W2032424396",
+      "https://openalex.org/W573779750",
+      "https://openalex.org/W1988722601",
+      "https://openalex.org/W4230987914",
+      "https://openalex.org/W1488662616",
+      "https://openalex.org/W640595134",
+      "https://openalex.org/W1509620873",
+      "https://openalex.org/W2328217940",
+      "https://openalex.org/W3211024627",
+      "https://openalex.org/W578565243",
+      "https://openalex.org/W4294638338",
+      "https://openalex.org/W1540293742",
+      "https://openalex.org/W1985975425",
+      "https://openalex.org/W2003359101",
+      "https://openalex.org/W1510907707",
+      "https://openalex.org/W3122718576",
+      "https://openalex.org/W4255053089",
+      "https://openalex.org/W651060554",
+      "https://openalex.org/W2330307344"
+    ],
+    "related_works": [
+      "https://openalex.org/W4230257923",
+      "https://openalex.org/W2487369564",
+      "https://openalex.org/W2041625401",
+      "https://openalex.org/W3187790117",
+      "https://openalex.org/W4234481033",
+      "https://openalex.org/W579276689",
+      "https://openalex.org/W2416760710",
+      "https://openalex.org/W2123137480",
+      "https://openalex.org/W4207017225",
+      "https://openalex.org/W2981681971"
+    ],
+    "abstract_inverted_index": {
+      "This": [
+        0
+      ],
+      "article": [
+        1
+      ],
+      "is": [
+        2
+      ],
+      "drawn": [
+        3
+      ],
+      "from": [
+        4
+      ],
+      "a": [
+        5
+      ],
+      "major": [
+        6
+      ],
+      "piece": [
+        7
+      ],
+      "of": [
+        8,
+        17,
+        50,
+        54,
+        60,
+        65
+      ],
+      "international": [
+        9,
+        73
+      ],
+      "comparative": [
+        10
+      ],
+      "research": [
+        11,
+        36
+      ],
+      "on": [
+        12
+      ],
+      "the": [
+        13,
+        29,
+        41,
+        48,
+        55,
+        63,
+        66,
+        72,
+        75,
+        81,
+        88
+      ],
+      "release": [
+        14,
+        49
+      ],
+      "and": [
+        15,
+        25,
+        32,
+        57,
+        62
+      ],
+      "reintegration": [
+        16
+      ],
+      "politically": [
+        18
+      ],
+      "motivated": [
+        19
+      ],
+      "prisoners": [
+        20,
+        51
+      ],
+      "in": [
+        21,
+        44,
+        52,
+        69,
+        91
+      ],
+      "South": [
+        22
+      ],
+      "Africa,": [
+        23
+      ],
+      "Israel": [
+        24
+      ],
+      "Palestine,": [
+        26
+      ],
+      "Italy,": [
+        27
+      ],
+      "Spain,": [
+        28
+      ],
+      "Irish": [
+        30
+      ],
+      "Republic,": [
+        31
+      ],
+      "Northern": [
+        33,
+        45,
+        92
+      ],
+      "Ireland.": [
+        34,
+        93
+      ],
+      "The": [
+        35
+      ],
+      "was": [
+        37
+      ],
+      "designed": [
+        38
+      ],
+      "to": [
+        39,
+        78,
+        87
+      ],
+      "inform": [
+        40
+      ],
+      "ongoing": [
+        42
+      ],
+      "debate": [
+        43
+      ],
+      "Ireland": [
+        46
+      ],
+      "regarding": [
+        47
+      ],
+      "light": [
+        53
+      ],
+      "IRA": [
+        56,
+        67
+      ],
+      "Loyalist": [
+        58
+      ],
+      "cease-fires": [
+        59
+      ],
+      "1994": [
+        61
+      ],
+      "renewal": [
+        64
+      ],
+      "cease-fire": [
+        68
+      ],
+      "1997.": [
+        70
+      ],
+      "Using": [
+        71
+      ],
+      "experience,": [
+        74
+      ],
+      "author": [
+        76
+      ],
+      "seeks": [
+        77
+      ],
+      "draw": [
+        79
+      ],
+      "out": [
+        80
+      ],
+      "key": [
+        82
+      ],
+      "themes": [
+        83
+      ],
+      "that": [
+        84
+      ],
+      "are": [
+        85
+      ],
+      "relevant": [
+        86
+      ],
+      "prisoner": [
+        89
+      ],
+      "issue": [
+        90
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2024,
+        "cited_by_count": 18
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2013,
+        "cited_by_count": 2
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W1999075463",
+    "doi": "https://doi.org/10.1177/105756770201200125",
+    "title": "Book Review: Justice for All? Jews and Arabs in the Israeli Criminal Justice System",
+    "display_name": "Book Review: Justice for All? Jews and Arabs in the Israeli Criminal Justice System",
+    "relevance_score": 11.428556,
+    "publication_year": 2002,
+    "publication_date": "2002-05-01",
+    "ids": {
+      "openalex": "https://openalex.org/W1999075463",
+      "doi": "https://doi.org/10.1177/105756770201200125",
+      "mag": "1999075463"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/105756770201200125",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/105756770201200125",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S117214891",
+        "display_name": "International Criminal Justice Review",
+        "issn_l": "1057-5677",
+        "issn": [
+          "1057-5677",
+          "1556-3855"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "International Criminal Justice Review",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5000160047",
+          "display_name": "Elia Zureik",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I204722609",
+            "display_name": "Queen's University",
+            "ror": "https://ror.org/02y72wh86",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I204722609"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Elia Zureik",
+        "raw_affiliation_strings": [
+          "Queen's University, Canada"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Queen's University, Canada",
+            "institution_ids": [
+              "https://openalex.org/I204722609"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5000160047"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I204722609"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.20478695,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "12",
+      "issue": "1",
+      "first_page": "137",
+      "last_page": "138"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Jewish and Middle Eastern Studies",
+      "score": 0.9803000092506409,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.9803000092506409,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13076",
+        "display_name": "Torture, Ethics, and Law",
+        "score": 0.9162999987602234,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12965",
+        "display_name": "Wildlife Conservation and Criminology Analyses",
+        "score": 0.9139000177383423,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2309",
+          "display_name": "Nature and Landscape Conservation"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/criminology",
+        "display_name": "Criminology",
+        "score": 0.7642650604248047
+      },
+      {
+        "id": "https://openalex.org/keywords/criminal-justice",
+        "display_name": "Criminal justice",
+        "score": 0.7431365251541138
+      },
+      {
+        "id": "https://openalex.org/keywords/economic-justice",
+        "display_name": "Economic Justice",
+        "score": 0.7026115655899048
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.5068431496620178
+      },
+      {
+        "id": "https://openalex.org/keywords/theory-of-criminal-justice",
+        "display_name": "Theory of criminal justice",
+        "score": 0.4398152530193329
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.33161672949790955
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.29320406913757324
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C73484699",
+        "wikidata": "https://www.wikidata.org/wiki/Q161733",
+        "display_name": "Criminology",
+        "level": 1,
+        "score": 0.7642650604248047
+      },
+      {
+        "id": "https://openalex.org/C102587632",
+        "wikidata": "https://www.wikidata.org/wiki/Q117488",
+        "display_name": "Criminal justice",
+        "level": 2,
+        "score": 0.7431365251541138
+      },
+      {
+        "id": "https://openalex.org/C139621336",
+        "wikidata": "https://www.wikidata.org/wiki/Q3190382",
+        "display_name": "Economic Justice",
+        "level": 2,
+        "score": 0.7026115655899048
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.5068431496620178
+      },
+      {
+        "id": "https://openalex.org/C185052227",
+        "wikidata": "https://www.wikidata.org/wiki/Q2352967",
+        "display_name": "Theory of criminal justice",
+        "level": 3,
+        "score": 0.4398152530193329
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.33161672949790955
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.29320406913757324
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/105756770201200125",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/105756770201200125",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S117214891",
+          "display_name": "International Criminal Justice Review",
+          "issn_l": "1057-5677",
+          "issn": [
+            "1057-5677",
+            "1556-3855"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Criminal Justice Review",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.7099999785423279,
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W4226225858",
+      "https://openalex.org/W2146057528",
+      "https://openalex.org/W2043527794",
+      "https://openalex.org/W3093286484",
+      "https://openalex.org/W2089396529",
+      "https://openalex.org/W2440215553",
+      "https://openalex.org/W2093410162",
+      "https://openalex.org/W561289425",
+      "https://openalex.org/W52776281",
+      "https://openalex.org/W1988779933"
+    ],
+    "abstract_inverted_index": null,
+    "counts_by_year": [],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2087364366",
+    "doi": "https://doi.org/10.1177/105756770201200124",
+    "title": "Book Review: Crime and Criminal Justice in Israel: Assessing the Knowledge Base Toward the Twenty-First Century.",
+    "display_name": "Book Review: Crime and Criminal Justice in Israel: Assessing the Knowledge Base Toward the Twenty-First Century.",
+    "relevance_score": 10.063004,
+    "publication_year": 2002,
+    "publication_date": "2002-05-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2087364366",
+      "doi": "https://doi.org/10.1177/105756770201200124",
+      "mag": "2087364366"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/105756770201200124",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/105756770201200124",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S117214891",
+        "display_name": "International Criminal Justice Review",
+        "issn_l": "1057-5677",
+        "issn": [
+          "1057-5677",
+          "1556-3855"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "International Criminal Justice Review",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5023388579",
+          "display_name": "Simon Dinitz",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I52357470",
+            "display_name": "The Ohio State University",
+            "ror": "https://ror.org/00rs6vg23",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I52357470"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Simon Dinitz",
+        "raw_affiliation_strings": [
+          "Ohio State University"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Ohio State University",
+            "institution_ids": [
+              "https://openalex.org/I52357470"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5023388579"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I52357470"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.12188413,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "12",
+      "issue": "1",
+      "first_page": "135",
+      "last_page": "137"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T12965",
+      "display_name": "Wildlife Conservation and Criminology Analyses",
+      "score": 0.9210000038146973,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2309",
+        "display_name": "Nature and Landscape Conservation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T12965",
+        "display_name": "Wildlife Conservation and Criminology Analyses",
+        "score": 0.9210000038146973,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2309",
+          "display_name": "Nature and Landscape Conservation"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10994",
+        "display_name": "Terrorism, Counterterrorism, and Political Violence",
+        "score": 0.909500002861023,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/criminology",
+        "display_name": "Criminology",
+        "score": 0.785953164100647
+      },
+      {
+        "id": "https://openalex.org/keywords/criminal-justice",
+        "display_name": "Criminal justice",
+        "score": 0.6783385872840881
+      },
+      {
+        "id": "https://openalex.org/keywords/economic-justice",
+        "display_name": "Economic Justice",
+        "score": 0.5128105282783508
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.4534478485584259
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.4194110631942749
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.3839854896068573
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C73484699",
+        "wikidata": "https://www.wikidata.org/wiki/Q161733",
+        "display_name": "Criminology",
+        "level": 1,
+        "score": 0.785953164100647
+      },
+      {
+        "id": "https://openalex.org/C102587632",
+        "wikidata": "https://www.wikidata.org/wiki/Q117488",
+        "display_name": "Criminal justice",
+        "level": 2,
+        "score": 0.6783385872840881
+      },
+      {
+        "id": "https://openalex.org/C139621336",
+        "wikidata": "https://www.wikidata.org/wiki/Q3190382",
+        "display_name": "Economic Justice",
+        "level": 2,
+        "score": 0.5128105282783508
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.4534478485584259
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.4194110631942749
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.3839854896068573
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/105756770201200124",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/105756770201200124",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S117214891",
+          "display_name": "International Criminal Justice Review",
+          "issn_l": "1057-5677",
+          "issn": [
+            "1057-5677",
+            "1556-3855"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Criminal Justice Review",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.699999988079071,
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W4226225858",
+      "https://openalex.org/W2043527794",
+      "https://openalex.org/W3093286484",
+      "https://openalex.org/W2089396529",
+      "https://openalex.org/W2440215553",
+      "https://openalex.org/W2093410162",
+      "https://openalex.org/W2076009676",
+      "https://openalex.org/W2033004322",
+      "https://openalex.org/W2063170606",
+      "https://openalex.org/W2145777110"
+    ],
+    "abstract_inverted_index": null,
+    "counts_by_year": [],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W1976330544",
+    "doi": "https://doi.org/10.1177/1057567714536033",
+    "title": "The Role of Social Distress, Political Affiliation, and Education in Measuring Punitive Attitudes",
+    "display_name": "The Role of Social Distress, Political Affiliation, and Education in Measuring Punitive Attitudes",
+    "relevance_score": 9.488777,
+    "publication_year": 2014,
+    "publication_date": "2014-05-23",
+    "ids": {
+      "openalex": "https://openalex.org/W1976330544",
+      "doi": "https://doi.org/10.1177/1057567714536033",
+      "mag": "1976330544"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/1057567714536033",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/1057567714536033",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S117214891",
+        "display_name": "International Criminal Justice Review",
+        "issn_l": "1057-5677",
+        "issn": [
+          "1057-5677",
+          "1556-3855"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "International Criminal Justice Review",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5074993856",
+          "display_name": "Lior Gideon",
+          "orcid": "https://orcid.org/0009-0002-3875-7052"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I92507152",
+            "display_name": "John Jay College of Criminal Justice",
+            "ror": "https://ror.org/01p9rc392",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I92507152"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Lior Gideon",
+        "raw_affiliation_strings": [
+          "#N#1John Jay College of Criminal Justice, New York, NY, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "#N#1John Jay College of Criminal Justice, New York, NY, USA",
+            "institution_ids": [
+              "https://openalex.org/I92507152"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5058997965",
+          "display_name": "Ayala Sherman-Oren",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210120805",
+            "display_name": "Faculty of 1000 (United States)",
+            "ror": "https://ror.org/02x5wxx17",
+            "country_code": "US",
+            "type": "company",
+            "lineage": [
+              "https://openalex.org/I4210101920",
+              "https://openalex.org/I4210120805"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Ayala Sherman-Oren",
+        "raw_affiliation_strings": [
+          "#N# 2CUNY, New York, NY, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "#N# 2CUNY, New York, NY, USA",
+            "institution_ids": [
+              "https://openalex.org/I4210120805"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 2,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 1.00650716,
+    "has_fulltext": false,
+    "cited_by_count": 5,
+    "citation_normalized_percentile": {
+      "value": 0.84300121,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 95
+    },
+    "biblio": {
+      "volume": "24",
+      "issue": "2",
+      "first_page": "151",
+      "last_page": "171"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10318",
+      "display_name": "Criminal Justice and Corrections Analysis",
+      "score": 0.9995999932289124,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10318",
+        "display_name": "Criminal Justice and Corrections Analysis",
+        "score": 0.9995999932289124,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10574",
+        "display_name": "Crime Patterns and Interventions",
+        "score": 0.9987000226974487,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10994",
+        "display_name": "Terrorism, Counterterrorism, and Political Violence",
+        "score": 0.9944000244140625,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/punitive-damages",
+        "display_name": "Punitive damages",
+        "score": 0.946365475654602
+      },
+      {
+        "id": "https://openalex.org/keywords/religiosity",
+        "display_name": "Religiosity",
+        "score": 0.6842302083969116
+      },
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.5829334855079651
+      },
+      {
+        "id": "https://openalex.org/keywords/social-psychology",
+        "display_name": "Social psychology",
+        "score": 0.5785905122756958
+      },
+      {
+        "id": "https://openalex.org/keywords/politics",
+        "display_name": "Politics",
+        "score": 0.5692971348762512
+      },
+      {
+        "id": "https://openalex.org/keywords/context",
+        "display_name": "Context (archaeology)",
+        "score": 0.5440601110458374
+      },
+      {
+        "id": "https://openalex.org/keywords/punishment",
+        "display_name": "Punishment (psychology)",
+        "score": 0.4981224536895752
+      },
+      {
+        "id": "https://openalex.org/keywords/distress",
+        "display_name": "Distress",
+        "score": 0.4556787610054016
+      },
+      {
+        "id": "https://openalex.org/keywords/affect",
+        "display_name": "Affect (linguistics)",
+        "score": 0.44080987572669983
+      },
+      {
+        "id": "https://openalex.org/keywords/criminology",
+        "display_name": "Criminology",
+        "score": 0.3674006164073944
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.27937132120132446
+      },
+      {
+        "id": "https://openalex.org/keywords/clinical-psychology",
+        "display_name": "Clinical psychology",
+        "score": 0.16052493453025818
+      },
+      {
+        "id": "https://openalex.org/keywords/geography",
+        "display_name": "Geography",
+        "score": 0.1304384171962738
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C83645499",
+        "wikidata": "https://www.wikidata.org/wiki/Q285466",
+        "display_name": "Punitive damages",
+        "level": 2,
+        "score": 0.946365475654602
+      },
+      {
+        "id": "https://openalex.org/C2779793952",
+        "wikidata": "https://www.wikidata.org/wiki/Q1553701",
+        "display_name": "Religiosity",
+        "level": 2,
+        "score": 0.6842302083969116
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.5829334855079651
+      },
+      {
+        "id": "https://openalex.org/C77805123",
+        "wikidata": "https://www.wikidata.org/wiki/Q161272",
+        "display_name": "Social psychology",
+        "level": 1,
+        "score": 0.5785905122756958
+      },
+      {
+        "id": "https://openalex.org/C94625758",
+        "wikidata": "https://www.wikidata.org/wiki/Q7163",
+        "display_name": "Politics",
+        "level": 2,
+        "score": 0.5692971348762512
+      },
+      {
+        "id": "https://openalex.org/C2779343474",
+        "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+        "display_name": "Context (archaeology)",
+        "level": 2,
+        "score": 0.5440601110458374
+      },
+      {
+        "id": "https://openalex.org/C2779295839",
+        "wikidata": "https://www.wikidata.org/wiki/Q3544090",
+        "display_name": "Punishment (psychology)",
+        "level": 2,
+        "score": 0.4981224536895752
+      },
+      {
+        "id": "https://openalex.org/C139265228",
+        "wikidata": "https://www.wikidata.org/wiki/Q5283089",
+        "display_name": "Distress",
+        "level": 2,
+        "score": 0.4556787610054016
+      },
+      {
+        "id": "https://openalex.org/C2776035688",
+        "wikidata": "https://www.wikidata.org/wiki/Q1606558",
+        "display_name": "Affect (linguistics)",
+        "level": 2,
+        "score": 0.44080987572669983
+      },
+      {
+        "id": "https://openalex.org/C73484699",
+        "wikidata": "https://www.wikidata.org/wiki/Q161733",
+        "display_name": "Criminology",
+        "level": 1,
+        "score": 0.3674006164073944
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.27937132120132446
+      },
+      {
+        "id": "https://openalex.org/C70410870",
+        "wikidata": "https://www.wikidata.org/wiki/Q199906",
+        "display_name": "Clinical psychology",
+        "level": 1,
+        "score": 0.16052493453025818
+      },
+      {
+        "id": "https://openalex.org/C205649164",
+        "wikidata": "https://www.wikidata.org/wiki/Q1071",
+        "display_name": "Geography",
+        "level": 0,
+        "score": 0.1304384171962738
+      },
+      {
+        "id": "https://openalex.org/C46312422",
+        "wikidata": "https://www.wikidata.org/wiki/Q11024",
+        "display_name": "Communication",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C166957645",
+        "wikidata": "https://www.wikidata.org/wiki/Q23498",
+        "display_name": "Archaeology",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/1057567714536033",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/1057567714536033",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S117214891",
+          "display_name": "International Criminal Justice Review",
+          "issn_l": "1057-5677",
+          "issn": [
+            "1057-5677",
+            "1556-3855"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Criminal Justice Review",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 69,
+    "referenced_works": [
+      "https://openalex.org/W1575405477",
+      "https://openalex.org/W2096047369",
+      "https://openalex.org/W4388066492",
+      "https://openalex.org/W2073035209",
+      "https://openalex.org/W2005601670",
+      "https://openalex.org/W2062325760",
+      "https://openalex.org/W2167178309",
+      "https://openalex.org/W2034676475",
+      "https://openalex.org/W2129648411",
+      "https://openalex.org/W2053228933",
+      "https://openalex.org/W2109155044",
+      "https://openalex.org/W2488154066",
+      "https://openalex.org/W2001052577",
+      "https://openalex.org/W2073085931",
+      "https://openalex.org/W2111485773",
+      "https://openalex.org/W2166374881",
+      "https://openalex.org/W12133728",
+      "https://openalex.org/W1969586883",
+      "https://openalex.org/W2042378753",
+      "https://openalex.org/W2135684787",
+      "https://openalex.org/W2094034472",
+      "https://openalex.org/W1991069315",
+      "https://openalex.org/W2075514839",
+      "https://openalex.org/W2132511337",
+      "https://openalex.org/W1994848717",
+      "https://openalex.org/W2105359752",
+      "https://openalex.org/W1995738873",
+      "https://openalex.org/W2315563721",
+      "https://openalex.org/W2317118887",
+      "https://openalex.org/W2126757596",
+      "https://openalex.org/W1574895420",
+      "https://openalex.org/W72590501",
+      "https://openalex.org/W2143072144",
+      "https://openalex.org/W1965517326",
+      "https://openalex.org/W2123882742",
+      "https://openalex.org/W1599058455",
+      "https://openalex.org/W4380742534",
+      "https://openalex.org/W2975881249",
+      "https://openalex.org/W1540280745",
+      "https://openalex.org/W2094137313",
+      "https://openalex.org/W2154567516",
+      "https://openalex.org/W2013576389",
+      "https://openalex.org/W2089237831",
+      "https://openalex.org/W2168286490",
+      "https://openalex.org/W2089323081",
+      "https://openalex.org/W2020670991",
+      "https://openalex.org/W2116891486",
+      "https://openalex.org/W1979586617",
+      "https://openalex.org/W2037538442",
+      "https://openalex.org/W2472770426",
+      "https://openalex.org/W2006397568",
+      "https://openalex.org/W3124783218",
+      "https://openalex.org/W2021832735",
+      "https://openalex.org/W4285719527",
+      "https://openalex.org/W2086628818",
+      "https://openalex.org/W2311639559",
+      "https://openalex.org/W2327531698",
+      "https://openalex.org/W4206417788",
+      "https://openalex.org/W3127065312",
+      "https://openalex.org/W620433128",
+      "https://openalex.org/W600396937",
+      "https://openalex.org/W1605350998",
+      "https://openalex.org/W639923865",
+      "https://openalex.org/W2319914913",
+      "https://openalex.org/W1970277244",
+      "https://openalex.org/W3202029750",
+      "https://openalex.org/W643144981",
+      "https://openalex.org/W2292850854",
+      "https://openalex.org/W1978505782"
+    ],
+    "related_works": [
+      "https://openalex.org/W2505007397",
+      "https://openalex.org/W2737135738",
+      "https://openalex.org/W42814586",
+      "https://openalex.org/W3121214628",
+      "https://openalex.org/W2765157596",
+      "https://openalex.org/W2559845629",
+      "https://openalex.org/W2186968057",
+      "https://openalex.org/W2360544378",
+      "https://openalex.org/W3123966781",
+      "https://openalex.org/W349053002"
+    ],
+    "abstract_inverted_index": {
+      "The": [
+        0
+      ],
+      "purpose": [
+        1
+      ],
+      "of": [
+        2,
+        36,
+        39,
+        55,
+        66,
+        78,
+        97,
+        115
+      ],
+      "this": [
+        3
+      ],
+      "study": [
+        4,
+        100,
+        123
+      ],
+      "is": [
+        5
+      ],
+      "to": [
+        6,
+        26,
+        51,
+        62,
+        112,
+        145
+      ],
+      "examine": [
+        7,
+        63
+      ],
+      "the": [
+        8,
+        52,
+        56,
+        64,
+        98,
+        113,
+        122,
+        125,
+        137
+      ],
+      "different": [
+        9,
+        86,
+        126
+      ],
+      "factors": [
+        10,
+        127
+      ],
+      "that": [
+        11,
+        102,
+        128
+      ],
+      "shape": [
+        12
+      ],
+      "and": [
+        13,
+        29,
+        43,
+        92,
+        120,
+        134,
+        147
+      ],
+      "facilitate": [
+        14
+      ],
+      "punitive": [
+        15,
+        116
+      ],
+      "attitudes": [
+        16,
+        21,
+        117,
+        131
+      ],
+      "among": [
+        17,
+        118
+      ],
+      "Israeli": [
+        18,
+        80,
+        138
+      ],
+      "public.": [
+        19
+      ],
+      "Punitive": [
+        20
+      ],
+      "were": [
+        22
+      ],
+      "examined": [
+        23,
+        83
+      ],
+      "in": [
+        24,
+        49,
+        136,
+        143
+      ],
+      "respect": [
+        25,
+        50
+      ],
+      "several": [
+        27
+      ],
+      "demographic": [
+        28,
+        103
+      ],
+      "environmental": [
+        30
+      ],
+      "variables": [
+        31
+      ],
+      "such": [
+        32
+      ],
+      "as": [
+        33,
+        105,
+        107
+      ],
+      "gender,": [
+        34
+      ],
+      "level": [
+        35,
+        38
+      ],
+      "religiosity,": [
+        37
+      ],
+      "education,": [
+        40
+      ],
+      "political": [
+        41,
+        53
+      ],
+      "affiliation,": [
+        42
+      ],
+      "victimization.": [
+        44
+      ],
+      "In": [
+        45
+      ],
+      "addition,": [
+        46
+      ],
+      "social": [
+        47,
+        108
+      ],
+      "distress": [
+        48,
+        109
+      ],
+      "climate": [
+        54
+      ],
+      "country": [
+        57
+      ],
+      "was": [
+        58,
+        82
+      ],
+      "taken": [
+        59
+      ],
+      "into": [
+        60
+      ],
+      "consideration": [
+        61
+      ],
+      "effect": [
+        65
+      ],
+      "\u201chistorical\u201d": [
+        67
+      ],
+      "events": [
+        68
+      ],
+      "on": [
+        69
+      ],
+      "results": [
+        70
+      ],
+      "reliability.": [
+        71
+      ],
+      "Using": [
+        72
+      ],
+      "a": [
+        73,
+        76
+      ],
+      "random": [
+        74
+      ],
+      "selection,": [
+        75
+      ],
+      "sample": [
+        77
+      ],
+      "471": [
+        79
+      ],
+      "respondents": [
+        81
+      ],
+      "at": [
+        84
+      ],
+      "two": [
+        85
+      ],
+      "time": [
+        87
+      ],
+      "periods": [
+        88
+      ],
+      "(Wave": [
+        89
+      ],
+      "I:": [
+        90
+      ],
+      "2008\u20132009": [
+        91
+      ],
+      "Wave": [
+        93
+      ],
+      "II:": [
+        94
+      ],
+      "2011).": [
+        95
+      ],
+      "Results": [
+        96,
+        140
+      ],
+      "current": [
+        99
+      ],
+      "indicate": [
+        101
+      ],
+      "characteristics": [
+        104
+      ],
+      "well": [
+        106
+      ],
+      "are": [
+        110,
+        141,
+        149
+      ],
+      "related": [
+        111
+      ],
+      "manifestation": [
+        114
+      ],
+      "Israelis,": [
+        119
+      ],
+      "thus": [
+        121
+      ],
+      "demonstrates": [
+        124
+      ],
+      "affect": [
+        129
+      ],
+      "public": [
+        130
+      ],
+      "toward": [
+        132
+      ],
+      "crime": [
+        133
+      ],
+      "punishment": [
+        135
+      ],
+      "context.": [
+        139
+      ],
+      "discussed": [
+        142
+      ],
+      "regard": [
+        144
+      ],
+      "policy,": [
+        146
+      ],
+      "recommendations": [
+        148
+      ],
+      "made": [
+        150
+      ],
+      "for": [
+        151
+      ],
+      "future": [
+        152
+      ],
+      "studies.": [
+        153
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2114020552",
+    "doi": "https://doi.org/10.1177/1057567710368358",
+    "title": "Collective Memory, International Law, and Restorative Social Processes After Conflagration: The Holocaust",
+    "display_name": "Collective Memory, International Law, and Restorative Social Processes After Conflagration: The Holocaust",
+    "relevance_score": 5.6214066,
+    "publication_year": 2010,
+    "publication_date": "2010-04-28",
+    "ids": {
+      "openalex": "https://openalex.org/W2114020552",
+      "doi": "https://doi.org/10.1177/1057567710368358",
+      "mag": "2114020552"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/1057567710368358",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/1057567710368358",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S117214891",
+        "display_name": "International Criminal Justice Review",
+        "issn_l": "1057-5677",
+        "issn": [
+          "1057-5677",
+          "1556-3855"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "International Criminal Justice Review",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5013564745",
+          "display_name": "Mary J. Gallant",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I44265643",
+            "display_name": "Rowan University",
+            "ror": "https://ror.org/049v69k10",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I44265643"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Mary J. Gallant",
+        "raw_affiliation_strings": [
+          "Sociology Department, Rowan University, Glassboro, NJ, USA,"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Sociology Department, Rowan University, Glassboro, NJ, USA,",
+            "institution_ids": [
+              "https://openalex.org/I44265643"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5062115016",
+          "display_name": "Harry M. Rhea",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I24010308",
+            "display_name": "Stockton University",
+            "ror": "https://ror.org/0442n1j98",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I24010308"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Harry M. Rhea",
+        "raw_affiliation_strings": [
+          "School of Social and Behavioral Sciences, The Richard Stockton College of New Jersey, Pomona, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Social and Behavioral Sciences, The Richard Stockton College of New Jersey, Pomona, USA",
+            "institution_ids": [
+              "https://openalex.org/I24010308"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 2,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 5,
+    "citation_normalized_percentile": {
+      "value": 0.19479627,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 94
+    },
+    "biblio": {
+      "volume": "20",
+      "issue": "3",
+      "first_page": "265",
+      "last_page": "279"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11104",
+      "display_name": "Memory, Trauma, and Commemoration",
+      "score": 0.9987000226974487,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3207",
+        "display_name": "Social Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11104",
+        "display_name": "Memory, Trauma, and Commemoration",
+        "score": 0.9987000226974487,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3207",
+          "display_name": "Social Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13634",
+        "display_name": "Middle East and Rwanda Conflicts",
+        "score": 0.995199978351593,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13525",
+        "display_name": "Cambodian History and Society",
+        "score": 0.9902999997138977,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/genocide",
+        "display_name": "Genocide",
+        "score": 0.8706735372543335
+      },
+      {
+        "id": "https://openalex.org/keywords/the-holocaust",
+        "display_name": "The Holocaust",
+        "score": 0.8685550689697266
+      },
+      {
+        "id": "https://openalex.org/keywords/cruelty",
+        "display_name": "Cruelty",
+        "score": 0.802119255065918
+      },
+      {
+        "id": "https://openalex.org/keywords/collective-memory",
+        "display_name": "Collective memory",
+        "score": 0.7817680835723877
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.5114432573318481
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.47480809688568115
+      },
+      {
+        "id": "https://openalex.org/keywords/collective-responsibility",
+        "display_name": "Collective responsibility",
+        "score": 0.44766801595687866
+      },
+      {
+        "id": "https://openalex.org/keywords/international-law",
+        "display_name": "International law",
+        "score": 0.44653525948524475
+      },
+      {
+        "id": "https://openalex.org/keywords/criminology",
+        "display_name": "Criminology",
+        "score": 0.4426482617855072
+      },
+      {
+        "id": "https://openalex.org/keywords/tragedy",
+        "display_name": "Tragedy (event)",
+        "score": 0.43631404638290405
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.33036571741104126
+      },
+      {
+        "id": "https://openalex.org/keywords/social-science",
+        "display_name": "Social science",
+        "score": 0.17855089902877808
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C204342414",
+        "wikidata": "https://www.wikidata.org/wiki/Q41397",
+        "display_name": "Genocide",
+        "level": 2,
+        "score": 0.8706735372543335
+      },
+      {
+        "id": "https://openalex.org/C110361221",
+        "wikidata": "https://www.wikidata.org/wiki/Q2763",
+        "display_name": "The Holocaust",
+        "level": 2,
+        "score": 0.8685550689697266
+      },
+      {
+        "id": "https://openalex.org/C2780226355",
+        "wikidata": "https://www.wikidata.org/wiki/Q1936750",
+        "display_name": "Cruelty",
+        "level": 2,
+        "score": 0.802119255065918
+      },
+      {
+        "id": "https://openalex.org/C67448173",
+        "wikidata": "https://www.wikidata.org/wiki/Q254217",
+        "display_name": "Collective memory",
+        "level": 2,
+        "score": 0.7817680835723877
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.5114432573318481
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.47480809688568115
+      },
+      {
+        "id": "https://openalex.org/C51351910",
+        "wikidata": "https://www.wikidata.org/wiki/Q1046415",
+        "display_name": "Collective responsibility",
+        "level": 2,
+        "score": 0.44766801595687866
+      },
+      {
+        "id": "https://openalex.org/C55447825",
+        "wikidata": "https://www.wikidata.org/wiki/Q4394526",
+        "display_name": "International law",
+        "level": 2,
+        "score": 0.44653525948524475
+      },
+      {
+        "id": "https://openalex.org/C73484699",
+        "wikidata": "https://www.wikidata.org/wiki/Q161733",
+        "display_name": "Criminology",
+        "level": 1,
+        "score": 0.4426482617855072
+      },
+      {
+        "id": "https://openalex.org/C2780027720",
+        "wikidata": "https://www.wikidata.org/wiki/Q7832608",
+        "display_name": "Tragedy (event)",
+        "level": 2,
+        "score": 0.43631404638290405
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.33036571741104126
+      },
+      {
+        "id": "https://openalex.org/C36289849",
+        "wikidata": "https://www.wikidata.org/wiki/Q34749",
+        "display_name": "Social science",
+        "level": 1,
+        "score": 0.17855089902877808
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/1057567710368358",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/1057567710368358",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S117214891",
+          "display_name": "International Criminal Justice Review",
+          "issn_l": "1057-5677",
+          "issn": [
+            "1057-5677",
+            "1556-3855"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Criminal Justice Review",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.8199999928474426,
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 110,
+    "referenced_works": [
+      "https://openalex.org/W2319742968",
+      "https://openalex.org/W2050296070",
+      "https://openalex.org/W2086044641",
+      "https://openalex.org/W4231229036",
+      "https://openalex.org/W1555129427",
+      "https://openalex.org/W2103582612",
+      "https://openalex.org/W2500748295",
+      "https://openalex.org/W4206911563",
+      "https://openalex.org/W2149033614",
+      "https://openalex.org/W2044254413",
+      "https://openalex.org/W1994790619",
+      "https://openalex.org/W4237417362",
+      "https://openalex.org/W2315969715",
+      "https://openalex.org/W3123872031",
+      "https://openalex.org/W2014668808",
+      "https://openalex.org/W2009003631",
+      "https://openalex.org/W2482750707",
+      "https://openalex.org/W2797957397",
+      "https://openalex.org/W4405344908",
+      "https://openalex.org/W4399224521",
+      "https://openalex.org/W2161271765",
+      "https://openalex.org/W4256709935",
+      "https://openalex.org/W2117954987",
+      "https://openalex.org/W4405344639",
+      "https://openalex.org/W238363674",
+      "https://openalex.org/W4299795862",
+      "https://openalex.org/W2891153300",
+      "https://openalex.org/W2119381272",
+      "https://openalex.org/W2042682118",
+      "https://openalex.org/W2095634590",
+      "https://openalex.org/W591025649",
+      "https://openalex.org/W4388175442",
+      "https://openalex.org/W4243742229",
+      "https://openalex.org/W2080794289",
+      "https://openalex.org/W2085754712",
+      "https://openalex.org/W2795490206",
+      "https://openalex.org/W2890308144",
+      "https://openalex.org/W1559956607",
+      "https://openalex.org/W4300071916",
+      "https://openalex.org/W2023938553",
+      "https://openalex.org/W2796853505",
+      "https://openalex.org/W2796502613",
+      "https://openalex.org/W566041384",
+      "https://openalex.org/W413719968",
+      "https://openalex.org/W1564761980",
+      "https://openalex.org/W216756370",
+      "https://openalex.org/W2169887092",
+      "https://openalex.org/W4295989861",
+      "https://openalex.org/W4390494910",
+      "https://openalex.org/W2504141472",
+      "https://openalex.org/W4214755621",
+      "https://openalex.org/W2082807219",
+      "https://openalex.org/W2767613767",
+      "https://openalex.org/W2312845736",
+      "https://openalex.org/W1520473499",
+      "https://openalex.org/W1704903455",
+      "https://openalex.org/W2128478561",
+      "https://openalex.org/W1487279857",
+      "https://openalex.org/W1977406520",
+      "https://openalex.org/W2098785060",
+      "https://openalex.org/W2734704858",
+      "https://openalex.org/W646253302",
+      "https://openalex.org/W3140908215",
+      "https://openalex.org/W651347945",
+      "https://openalex.org/W2592020205",
+      "https://openalex.org/W2483199343",
+      "https://openalex.org/W2113160183",
+      "https://openalex.org/W2316241393",
+      "https://openalex.org/W1573699228",
+      "https://openalex.org/W2326415965",
+      "https://openalex.org/W2153702457",
+      "https://openalex.org/W2092643908",
+      "https://openalex.org/W2921202159",
+      "https://openalex.org/W4291432910",
+      "https://openalex.org/W2095953199",
+      "https://openalex.org/W2606223433",
+      "https://openalex.org/W2031209855",
+      "https://openalex.org/W3201526537",
+      "https://openalex.org/W2016108600",
+      "https://openalex.org/W2795533244",
+      "https://openalex.org/W174493725",
+      "https://openalex.org/W3127454035",
+      "https://openalex.org/W1486771025",
+      "https://openalex.org/W1518464779",
+      "https://openalex.org/W578483549",
+      "https://openalex.org/W1976460644",
+      "https://openalex.org/W78022858",
+      "https://openalex.org/W2038704336",
+      "https://openalex.org/W210619702",
+      "https://openalex.org/W2001864769",
+      "https://openalex.org/W2496647049",
+      "https://openalex.org/W2795432062",
+      "https://openalex.org/W1489372978",
+      "https://openalex.org/W603103914",
+      "https://openalex.org/W2033025952",
+      "https://openalex.org/W343526821",
+      "https://openalex.org/W658901974",
+      "https://openalex.org/W1602406319",
+      "https://openalex.org/W1967288024",
+      "https://openalex.org/W2801381151",
+      "https://openalex.org/W2002878897",
+      "https://openalex.org/W852950198",
+      "https://openalex.org/W574920388",
+      "https://openalex.org/W2916251865",
+      "https://openalex.org/W2335157529",
+      "https://openalex.org/W2025258179",
+      "https://openalex.org/W1550009101",
+      "https://openalex.org/W2970511408",
+      "https://openalex.org/W2100639077",
+      "https://openalex.org/W1546980218"
+    ],
+    "related_works": [
+      "https://openalex.org/W2552155513",
+      "https://openalex.org/W4376569888",
+      "https://openalex.org/W4376489816",
+      "https://openalex.org/W4376585646",
+      "https://openalex.org/W4376544742",
+      "https://openalex.org/W4376534719",
+      "https://openalex.org/W2416556826",
+      "https://openalex.org/W4234643817",
+      "https://openalex.org/W4376548710",
+      "https://openalex.org/W4246383618"
+    ],
+    "abstract_inverted_index": {
+      "Collective": [
+        0
+      ],
+      "memory": [
+        1,
+        28,
+        157
+      ],
+      "after": [
+        2,
+        96
+      ],
+      "war,": [
+        3
+      ],
+      "atrocity,": [
+        4
+      ],
+      "and": [
+        5,
+        64,
+        75,
+        83,
+        98,
+        118,
+        123,
+        134,
+        143,
+        158,
+        166
+      ],
+      "genocide": [
+        6,
+        57,
+        97
+      ],
+      "may": [
+        7,
+        102
+      ],
+      "continue": [
+        8
+      ],
+      "to": [
+        9,
+        43,
+        91
+      ],
+      "bind": [
+        10
+      ],
+      "surviving": [
+        11
+      ],
+      "generations": [
+        12,
+        80
+      ],
+      "in": [
+        13,
+        70,
+        81,
+        113,
+        145
+      ],
+      "a": [
+        14,
+        44,
+        54,
+        68,
+        92,
+        110
+      ],
+      "vortex": [
+        15
+      ],
+      "of": [
+        16,
+        20,
+        46,
+        48,
+        56,
+        94,
+        121,
+        132,
+        137,
+        148
+      ],
+      "violence": [
+        17
+      ],
+      "because": [
+        18
+      ],
+      "remembrance": [
+        19
+      ],
+      "the": [
+        21,
+        71,
+        129,
+        135,
+        146,
+        153,
+        167
+      ],
+      "cruelty": [
+        22
+      ],
+      "is": [
+        23,
+        34
+      ],
+      "so": [
+        24
+      ],
+      "vivid.": [
+        25
+      ],
+      "Yet,": [
+        26
+      ],
+      "collective": [
+        27,
+        76,
+        156
+      ],
+      "as": [
+        29,
+        40,
+        53
+      ],
+      "it": [
+        30
+      ],
+      "was": [
+        31
+      ],
+      "conceptualized": [
+        32
+      ],
+      "originally": [
+        33
+      ],
+      "associated": [
+        35,
+        161
+      ],
+      "with": [
+        36,
+        162
+      ],
+      "constructive": [
+        37
+      ],
+      "social": [
+        38,
+        138
+      ],
+      "change": [
+        39
+      ],
+      "society": [
+        41,
+        74
+      ],
+      "adjusts": [
+        42
+      ],
+      "variety": [
+        45
+      ],
+      "kinds": [
+        47
+      ],
+      "forces.": [
+        49
+      ],
+      "The": [
+        50
+      ],
+      "Holocaust": [
+        51,
+        78
+      ],
+      "(1933\u20141945)": [
+        52
+      ],
+      "model": [
+        55
+      ],
+      "represents": [
+        58
+      ],
+      "both": [
+        59
+      ],
+      "an": [
+        60
+      ],
+      "immense": [
+        61
+      ],
+      "human": [
+        62,
+        115
+      ],
+      "tragedy": [
+        63
+      ],
+      "what": [
+        65
+      ],
+      "happens": [
+        66
+      ],
+      "at": [
+        67,
+        128
+      ],
+      "breakpoint": [
+        69
+      ],
+      "values": [
+        72
+      ],
+      "sustaining": [
+        73
+      ],
+      "memory.": [
+        77
+      ],
+      "survivor": [
+        79
+      ],
+      "Israel": [
+        82
+      ],
+      "Germany": [
+        84
+      ],
+      "or": [
+        85
+      ],
+      "elsewhere,": [
+        86
+      ],
+      "however,": [
+        87
+      ],
+      "have": [
+        88,
+        103
+      ],
+      "not": [
+        89
+      ],
+      "succumbed": [
+        90
+      ],
+      "cycle": [
+        93
+      ],
+      "vengeance": [
+        95
+      ],
+      "atrocity.": [
+        99
+      ],
+      "International": [
+        100
+      ],
+      "law": [
+        101,
+        160
+      ],
+      "influenced": [
+        104
+      ],
+      "this": [
+        105,
+        150
+      ],
+      "outcome.": [
+        106
+      ],
+      "It": [
+        107
+      ],
+      "has": [
+        108
+      ],
+      "played": [
+        109
+      ],
+      "major": [
+        111
+      ],
+      "role": [
+        112
+      ],
+      "addressing": [
+        114
+      ],
+      "rights": [
+        116
+      ],
+      "abuse": [
+        117
+      ],
+      "good": [
+        119
+      ],
+      "governance": [
+        120
+      ],
+      "peoples": [
+        122
+      ],
+      "trade": [
+        124
+      ],
+      "since": [
+        125
+      ],
+      "1945.": [
+        126
+      ],
+      "Looking": [
+        127
+      ],
+      "lived": [
+        130
+      ],
+      "experience": [
+        131
+      ],
+      "atrocity": [
+        133
+      ],
+      "importance": [
+        136
+      ],
+      "processes": [
+        139
+      ],
+      "that": [
+        140
+      ],
+      "restore": [
+        141
+      ],
+      "lives": [
+        142
+      ],
+      "community": [
+        144
+      ],
+      "aftermath": [
+        147
+      ],
+      "conflagration,": [
+        149
+      ],
+      "article": [
+        151
+      ],
+      "explores": [
+        152
+      ],
+      "interplay": [
+        154
+      ],
+      "between": [
+        155
+      ],
+      "international": [
+        159
+      ],
+      "World": [
+        163
+      ],
+      "War": [
+        164
+      ],
+      "II": [
+        165
+      ],
+      "Holocaust.": [
+        168
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2024,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2803599811",
+    "doi": "https://doi.org/10.1177/1057567718763249",
+    "title": "International Counterterrorism Laws and Practices",
+    "display_name": "International Counterterrorism Laws and Practices",
+    "relevance_score": 1.3335366,
+    "publication_year": 2018,
+    "publication_date": "2018-04-09",
+    "ids": {
+      "openalex": "https://openalex.org/W2803599811",
+      "doi": "https://doi.org/10.1177/1057567718763249",
+      "mag": "2803599811"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/1057567718763249",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/1057567718763249",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S117214891",
+        "display_name": "International Criminal Justice Review",
+        "issn_l": "1057-5677",
+        "issn": [
+          "1057-5677",
+          "1556-3855"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "International Criminal Justice Review",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5025567748",
+          "display_name": "Nadav Morag",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I191429286",
+            "display_name": "Sam Houston State University",
+            "ror": "https://ror.org/00yh3cz06",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I191429286"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Nadav Morag",
+        "raw_affiliation_strings": [
+          "College of Criminal Justice, Sam Houston State University, Huntsville, TX, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "College of Criminal Justice, Sam Houston State University, Huntsville, TX, USA",
+            "institution_ids": [
+              "https://openalex.org/I191429286"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5025567748"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I191429286"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.07645691,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "28",
+      "issue": "2",
+      "first_page": "162",
+      "last_page": "176"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10070",
+      "display_name": "Political Conflict and Governance",
+      "score": 0.9775999784469604,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.9775999784469604,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13055",
+        "display_name": "Global Security and Public Health",
+        "score": 0.9682999849319458,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10994",
+        "display_name": "Terrorism, Counterterrorism, and Political Violence",
+        "score": 0.9641000032424927,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/terrorism",
+        "display_name": "Terrorism",
+        "score": 0.6993608474731445
+      },
+      {
+        "id": "https://openalex.org/keywords/context",
+        "display_name": "Context (archaeology)",
+        "score": 0.661363959312439
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.6550822257995605
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.6134626865386963
+      },
+      {
+        "id": "https://openalex.org/keywords/criminology",
+        "display_name": "Criminology",
+        "score": 0.3785051107406616
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.3460838198661804
+      },
+      {
+        "id": "https://openalex.org/keywords/history",
+        "display_name": "History",
+        "score": 0.08741846680641174
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C203133693",
+        "wikidata": "https://www.wikidata.org/wiki/Q7283",
+        "display_name": "Terrorism",
+        "level": 2,
+        "score": 0.6993608474731445
+      },
+      {
+        "id": "https://openalex.org/C2779343474",
+        "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+        "display_name": "Context (archaeology)",
+        "level": 2,
+        "score": 0.661363959312439
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.6550822257995605
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.6134626865386963
+      },
+      {
+        "id": "https://openalex.org/C73484699",
+        "wikidata": "https://www.wikidata.org/wiki/Q161733",
+        "display_name": "Criminology",
+        "level": 1,
+        "score": 0.3785051107406616
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.3460838198661804
+      },
+      {
+        "id": "https://openalex.org/C95457728",
+        "wikidata": "https://www.wikidata.org/wiki/Q309",
+        "display_name": "History",
+        "level": 0,
+        "score": 0.08741846680641174
+      },
+      {
+        "id": "https://openalex.org/C166957645",
+        "wikidata": "https://www.wikidata.org/wiki/Q23498",
+        "display_name": "Archaeology",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/1057567718763249",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/1057567718763249",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S117214891",
+          "display_name": "International Criminal Justice Review",
+          "issn_l": "1057-5677",
+          "issn": [
+            "1057-5677",
+            "1556-3855"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Criminal Justice Review",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.800000011920929,
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 22,
+    "referenced_works": [
+      "https://openalex.org/W4246582545",
+      "https://openalex.org/W2596884248",
+      "https://openalex.org/W2054213827",
+      "https://openalex.org/W2048310850",
+      "https://openalex.org/W1565784576",
+      "https://openalex.org/W1915858863",
+      "https://openalex.org/W2391386583",
+      "https://openalex.org/W1560808803",
+      "https://openalex.org/W2077556346",
+      "https://openalex.org/W2546010795",
+      "https://openalex.org/W4250424522",
+      "https://openalex.org/W4234943535",
+      "https://openalex.org/W2411233394",
+      "https://openalex.org/W571431034",
+      "https://openalex.org/W2497869267",
+      "https://openalex.org/W364885859",
+      "https://openalex.org/W573680442",
+      "https://openalex.org/W2313273867",
+      "https://openalex.org/W3125883265",
+      "https://openalex.org/W2972012136",
+      "https://openalex.org/W2901283385",
+      "https://openalex.org/W1545605033"
+    ],
+    "related_works": [
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W569815712",
+      "https://openalex.org/W2572815910",
+      "https://openalex.org/W1487740203",
+      "https://openalex.org/W4235672678",
+      "https://openalex.org/W1590627964",
+      "https://openalex.org/W1965931042",
+      "https://openalex.org/W1982644550",
+      "https://openalex.org/W1973338178",
+      "https://openalex.org/W2103198501"
+    ],
+    "abstract_inverted_index": {
+      "This": [
+        0,
+        69
+      ],
+      "article": [
+        1,
+        25,
+        70
+      ],
+      "focuses": [
+        2
+      ],
+      "on": [
+        3
+      ],
+      "the": [
+        4,
+        31,
+        60,
+        80
+      ],
+      "varying": [
+        5
+      ],
+      "approaches": [
+        6,
+        37,
+        81
+      ],
+      "to": [
+        7
+      ],
+      "counterterrorism": [
+        8
+      ],
+      "(CT)": [
+        9
+      ],
+      "laws": [
+        10
+      ],
+      "and": [
+        11,
+        15,
+        17,
+        50,
+        56,
+        77,
+        85,
+        87
+      ],
+      "practices": [
+        12
+      ],
+      "in": [
+        13,
+        30
+      ],
+      "Israel": [
+        14,
+        84
+      ],
+      "France": [
+        16,
+        86
+      ],
+      "draws": [
+        18,
+        72
+      ],
+      "some": [
+        19,
+        73,
+        89
+      ],
+      "lessons": [
+        20
+      ],
+      "from": [
+        21
+      ],
+      "these": [
+        22
+      ],
+      "practices.": [
+        23
+      ],
+      "The": [
+        24
+      ],
+      "looks": [
+        26
+      ],
+      "at": [
+        27
+      ],
+      "each": [
+        28
+      ],
+      "country": [
+        29
+      ],
+      "context": [
+        32
+      ],
+      "of": [
+        33,
+        62
+      ],
+      "their": [
+        34,
+        41,
+        48,
+        53
+      ],
+      "respective": [
+        35
+      ],
+      "legal": [
+        36
+      ],
+      "toward": [
+        38
+      ],
+      "terrorism": [
+        39
+      ],
+      "offenses,": [
+        40
+      ],
+      "various": [
+        42
+      ],
+      "precharge": [
+        43
+      ],
+      "and/or": [
+        44
+      ],
+      "preventive": [
+        45
+      ],
+      "detention": [
+        46
+      ],
+      "practices,": [
+        47
+      ],
+      "investigatory": [
+        49
+      ],
+      "prosecutory": [
+        51
+      ],
+      "approaches,": [
+        52
+      ],
+      "judicial": [
+        54
+      ],
+      "institutions": [
+        55
+      ],
+      "frameworks,": [
+        57
+      ],
+      "and,": [
+        58
+      ],
+      "finally,": [
+        59
+      ],
+      "range": [
+        61
+      ],
+      "national": [
+        63
+      ],
+      "agencies": [
+        64
+      ],
+      "tasked": [
+        65
+      ],
+      "with": [
+        66
+      ],
+      "CT": [
+        67
+      ],
+      "duties.": [
+        68
+      ],
+      "then": [
+        71
+      ],
+      "conclusions": [
+        74
+      ],
+      "regarding": [
+        75
+      ],
+      "similarities": [
+        76
+      ],
+      "differences": [
+        78
+      ],
+      "between": [
+        79
+      ],
+      "employed": [
+        82
+      ],
+      "by": [
+        83
+      ],
+      "suggests": [
+        88
+      ],
+      "questions": [
+        90
+      ],
+      "for": [
+        91
+      ],
+      "future": [
+        92
+      ],
+      "research.": [
+        93
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  }
+]

@@ -1,0 +1,3034 @@
+[
+  {
+    "id": "https://openalex.org/W4414178848",
+    "doi": "https://doi.org/10.64590/wtu",
+    "title": "On the Israeli-Arab War",
+    "display_name": "On the Israeli-Arab War",
+    "relevance_score": 16.488272,
+    "publication_year": 1967,
+    "publication_date": "1967-07-31",
+    "ids": {
+      "openalex": "https://openalex.org/W4414178848",
+      "doi": "https://doi.org/10.64590/wtu"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.64590/wtu",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.64590/wtu",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S83938913",
+        "display_name": "New left review",
+        "issn_l": "0028-6060",
+        "issn": [
+          "0028-6060"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310319847",
+        "host_organization_name": "Routledge",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319847"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "New Left Review",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5079001051",
+          "display_name": "Isaac Deutscher",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Isaac Deutscher",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5079001051"
+    ],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.71561716,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": null,
+      "issue": null,
+      "first_page": "30",
+      "last_page": "45"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Jewish and Middle Eastern Studies",
+      "score": 0.8727999925613403,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.8727999925613403,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [],
+    "concepts": [],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.64590/wtu",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.64590/wtu",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S83938913",
+          "display_name": "New left review",
+          "issn_l": "0028-6060",
+          "issn": [
+            "0028-6060"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310319847",
+          "host_organization_name": "Routledge",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319847"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "New Left Review",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [],
+    "abstract_inverted_index": null,
+    "counts_by_year": [],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W4414174472",
+    "doi": "https://doi.org/10.64590/sbo",
+    "title": "Israel after Fordow",
+    "display_name": "Israel after Fordow",
+    "relevance_score": 16.394016,
+    "publication_year": 2025,
+    "publication_date": "2025-07-31",
+    "ids": {
+      "openalex": "https://openalex.org/W4414174472",
+      "doi": "https://doi.org/10.64590/sbo"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.64590/sbo",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.64590/sbo",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S83938913",
+        "display_name": "New left review",
+        "issn_l": "0028-6060",
+        "issn": [
+          "0028-6060"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310319847",
+        "host_organization_name": "Routledge",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319847"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "New Left Review",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5119612749",
+          "display_name": "Susan Watkins",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Susan Watkins",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5119612749"
+    ],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.53128257,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": null,
+      "issue": null,
+      "first_page": "5",
+      "last_page": "14"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Jewish and Middle Eastern Studies",
+      "score": 0.9412999749183655,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.9412999749183655,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [],
+    "concepts": [],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.64590/sbo",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.64590/sbo",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S83938913",
+          "display_name": "New left review",
+          "issn_l": "0028-6060",
+          "issn": [
+            "0028-6060"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310319847",
+          "host_organization_name": "Routledge",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319847"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "New Left Review",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [],
+    "abstract_inverted_index": null,
+    "counts_by_year": [],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W4414178517",
+    "doi": "https://doi.org/10.64590/hag",
+    "title": "The Class Nature of Israeli Society",
+    "display_name": "The Class Nature of Israeli Society",
+    "relevance_score": 15.461399,
+    "publication_year": 1971,
+    "publication_date": "1971-01-31",
+    "ids": {
+      "openalex": "https://openalex.org/W4414178517",
+      "doi": "https://doi.org/10.64590/hag"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.64590/hag",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.64590/hag",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S83938913",
+        "display_name": "New left review",
+        "issn_l": "0028-6060",
+        "issn": [
+          "0028-6060"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310319847",
+        "host_organization_name": "Routledge",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319847"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "New Left Review",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5119612505",
+          "display_name": "Haim Haneghi",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Haim Haneghi",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5108606455",
+          "display_name": "Mosh\u00e9 Machover",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Moshe Machover",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5083666316",
+          "display_name": "Akiva Orr",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Akiva Orr",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 3,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.71279361,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": null,
+      "issue": null,
+      "first_page": "3",
+      "last_page": "26"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Jewish and Middle Eastern Studies",
+      "score": 0.6381000280380249,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.6381000280380249,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [],
+    "concepts": [],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.64590/hag",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.64590/hag",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S83938913",
+          "display_name": "New left review",
+          "issn_l": "0028-6060",
+          "issn": [
+            "0028-6060"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310319847",
+          "host_organization_name": "Routledge",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319847"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "New Left Review",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [],
+    "abstract_inverted_index": null,
+    "counts_by_year": [],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W4414176110",
+    "doi": "https://doi.org/10.64590/eof",
+    "title": "Zionist Realities: Debating Israel\u2013Palestine",
+    "display_name": "Zionist Realities: Debating Israel\u2013Palestine",
+    "relevance_score": 14.572053,
+    "publication_year": 2006,
+    "publication_date": "2006-03-31",
+    "ids": {
+      "openalex": "https://openalex.org/W4414176110",
+      "doi": "https://doi.org/10.64590/eof"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.64590/eof",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.64590/eof",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S83938913",
+        "display_name": "New left review",
+        "issn_l": "0028-6060",
+        "issn": [
+          "0028-6060"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310319847",
+        "host_organization_name": "Routledge",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319847"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "New Left Review",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5070897214",
+          "display_name": "Yoav Peled",
+          "orcid": "https://orcid.org/0000-0002-0346-1318"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Yoav Peled",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5070897214"
+    ],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.70647609,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": null,
+      "issue": null,
+      "first_page": "21",
+      "last_page": "36"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Jewish and Middle Eastern Studies",
+      "score": 0.9854999780654907,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.9854999780654907,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [],
+    "concepts": [],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.64590/eof",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.64590/eof",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S83938913",
+          "display_name": "New left review",
+          "issn_l": "0028-6060",
+          "issn": [
+            "0028-6060"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310319847",
+          "host_organization_name": "Routledge",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319847"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "New Left Review",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [],
+    "abstract_inverted_index": null,
+    "counts_by_year": [],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W4414177193",
+    "doi": "https://doi.org/10.64590/lwu",
+    "title": "The Secular Solution: Debating Israel\u2013Palestine",
+    "display_name": "The Secular Solution: Debating Israel\u2013Palestine",
+    "relevance_score": 14.534909,
+    "publication_year": 2006,
+    "publication_date": "2006-03-31",
+    "ids": {
+      "openalex": "https://openalex.org/W4414177193",
+      "doi": "https://doi.org/10.64590/lwu"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.64590/lwu",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.64590/lwu",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S83938913",
+        "display_name": "New left review",
+        "issn_l": "0028-6060",
+        "issn": [
+          "0028-6060"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310319847",
+        "host_organization_name": "Routledge",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319847"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "New Left Review",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5057517414",
+          "display_name": "Virginia Tilley",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Virginia Tilley",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5057517414"
+    ],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.7065009,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": null,
+      "issue": null,
+      "first_page": "37",
+      "last_page": "57"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Jewish and Middle Eastern Studies",
+      "score": 0.9891999959945679,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.9891999959945679,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13634",
+        "display_name": "Middle East and Rwanda Conflicts",
+        "score": 0.9129999876022339,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13103",
+        "display_name": "Middle East Politics and Society",
+        "score": 0.9075999855995178,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [],
+    "concepts": [],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.64590/lwu",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.64590/lwu",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S83938913",
+          "display_name": "New left review",
+          "issn_l": "0028-6060",
+          "issn": [
+            "0028-6060"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310319847",
+          "host_organization_name": "Routledge",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319847"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "New Left Review",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [],
+    "abstract_inverted_index": null,
+    "counts_by_year": [],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W457520",
+    "doi": "https://doi.org/10.1152/jappl.1979.46.1.152",
+    "title": "La soluci\u00f3n laica para Palestina e Israel",
+    "display_name": "La soluci\u00f3n laica para Palestina e Israel",
+    "relevance_score": 13.18488,
+    "publication_year": 2006,
+    "publication_date": "2006-01-01",
+    "ids": {
+      "openalex": "https://openalex.org/W457520",
+      "mag": "457520"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "mag:457520",
+      "is_oa": false,
+      "landing_page_url": "https://dialnet.unirioja.es/servlet/articulo?codigo=2923288",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S83938913",
+        "display_name": "New left review",
+        "issn_l": "0028-6060",
+        "issn": [
+          "0028-6060"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310319847",
+        "host_organization_name": "Routledge",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319847"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "New left review",
+      "raw_type": null
+    },
+    "type": "article",
+    "indexed_in": [],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5057517414",
+          "display_name": "Virginia Tilley",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Virginia Tilley",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5057517414"
+    ],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.0,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "46",
+      "issue": "38",
+      "first_page": "33",
+      "last_page": "52"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T14226",
+      "display_name": "Migration, Racism, and Human Rights",
+      "score": 0.6316999793052673,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3306",
+        "display_name": "Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T14226",
+        "display_name": "Migration, Racism, and Human Rights",
+        "score": 0.6316999793052673,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3306",
+          "display_name": "Health"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13178",
+        "display_name": "Theology and Canon Law Studies",
+        "score": 0.6122999787330627,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1212",
+          "display_name": "Religious studies"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13823",
+        "display_name": "Religious and Theological Studies",
+        "score": 0.6054999828338623,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.4831785261631012
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.4831785261631012
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "mag:457520",
+        "is_oa": false,
+        "landing_page_url": "https://dialnet.unirioja.es/servlet/articulo?codigo=2923288",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S83938913",
+          "display_name": "New left review",
+          "issn_l": "0028-6060",
+          "issn": [
+            "0028-6060"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310319847",
+          "host_organization_name": "Routledge",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319847"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "New left review",
+        "raw_type": null
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "display_name": "Reduced inequalities",
+        "id": "https://metadata.un.org/sdg/10",
+        "score": 0.5600000023841858
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [],
+    "abstract_inverted_index": {
+      "The": [
+        0,
+        13,
+        32,
+        52
+      ],
+      "inspiratory": [
+        1,
+        125
+      ],
+      "diaphragmatic": [
+        2
+      ],
+      "EMG": [
+        3,
+        14,
+        33,
+        74,
+        100
+      ],
+      "was": [
+        4,
+        35,
+        55,
+        78,
+        105,
+        110,
+        117
+      ],
+      "recorded": [
+        5
+      ],
+      "via": [
+        6
+      ],
+      "esophageal": [
+        7
+      ],
+      "electrodes": [
+        8
+      ],
+      "in": [
+        9,
+        37,
+        81
+      ],
+      "six": [
+        10
+      ],
+      "normal": [
+        11
+      ],
+      "subjects.": [
+        12
+      ],
+      "and": [
+        15,
+        26,
+        93,
+        113,
+        116
+      ],
+      "ECG": [
+        16,
+        53
+      ],
+      "signals": [
+        17
+      ],
+      "were": [
+        18
+      ],
+      "analyzed": [
+        19
+      ],
+      "by": [
+        20,
+        120
+      ],
+      "power": [
+        21,
+        63,
+        92
+      ],
+      "density": [
+        22
+      ],
+      "spectral": [
+        23
+      ],
+      "analysis,": [
+        24
+      ],
+      "before": [
+        25
+      ],
+      "after": [
+        27
+      ],
+      "band-pass": [
+        28
+      ],
+      "filtering": [
+        29,
+        77
+      ],
+      "(20--1,600": [
+        30
+      ],
+      "Hz).": [
+        31
+      ],
+      "spectrum": [
+        34,
+        54
+      ],
+      "concentrated": [
+        36,
+        57
+      ],
+      "the": [
+        38,
+        65,
+        73,
+        83,
+        87,
+        90,
+        99,
+        102,
+        106
+      ],
+      "bandwidth": [
+        39
+      ],
+      "25--250": [
+        40
+      ],
+      "Hz.": [
+        41
+      ],
+      "Electrode": [
+        42
+      ],
+      "motion": [
+        43
+      ],
+      "introduced": [
+        44
+      ],
+      "a": [
+        45
+      ],
+      "significant": [
+        46
+      ],
+      "artifact": [
+        47
+      ],
+      "only": [
+        48
+      ],
+      "at": [
+        49,
+        58
+      ],
+      "low": [
+        50
+      ],
+      "frequencies.": [
+        51
+      ],
+      "also": [
+        56
+      ],
+      "lower": [
+        59
+      ],
+      "frequencies,": [
+        60
+      ],
+      "but": [
+        61,
+        85
+      ],
+      "substantial": [
+        62
+      ],
+      "from": [
+        64
+      ],
+      "cardiac": [
+        66
+      ],
+      "signal": [
+        67
+      ],
+      "spilled": [
+        68
+      ],
+      "over": [
+        69
+      ],
+      "across": [
+        70
+      ],
+      "most": [
+        71,
+        103
+      ],
+      "of": [
+        72
+      ],
+      "spectrum.": [
+        75
+      ],
+      "Band-pass": [
+        76
+      ],
+      "therefore": [
+        79
+      ],
+      "effective": [
+        80
+      ],
+      "minimizing": [
+        82
+      ],
+      "former": [
+        84
+      ],
+      "not": [
+        86,
+        118
+      ],
+      "latter.": [
+        88
+      ],
+      "Of": [
+        89
+      ],
+      "various": [
+        91
+      ],
+      "frequency": [
+        94
+      ],
+      "parameters": [
+        95
+      ],
+      "used": [
+        96
+      ],
+      "to": [
+        97
+      ],
+      "quantitate": [
+        98
+      ],
+      "spectrum,": [
+        101
+      ],
+      "stable": [
+        104
+      ],
+      "centroid": [
+        107
+      ],
+      "frequency.": [
+        108
+      ],
+      "This": [
+        109
+      ],
+      "reproducible": [
+        111
+      ],
+      "within": [
+        112
+      ],
+      "between": [
+        114
+      ],
+      "subjects,": [
+        115
+      ],
+      "affected": [
+        119
+      ],
+      "changing": [
+        121
+      ],
+      "tidal": [
+        122
+      ],
+      "volume": [
+        123
+      ],
+      "or": [
+        124
+      ],
+      "flow": [
+        126
+      ],
+      "rate.": [
+        127
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2025-07-23T06:50:53.294964",
+    "created_date": "2016-06-24T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W120731322",
+    "doi": null,
+    "title": "El \u00faltimo tab\u00fa estadounidense",
+    "display_name": "El \u00faltimo tab\u00fa estadounidense",
+    "relevance_score": 1.2042313,
+    "publication_year": 2001,
+    "publication_date": "2001-01-01",
+    "ids": {
+      "openalex": "https://openalex.org/W120731322",
+      "mag": "120731322"
+    },
+    "language": "es",
+    "primary_location": {
+      "id": "mag:120731322",
+      "is_oa": false,
+      "landing_page_url": "https://dialnet.unirioja.es/servlet/articulo?codigo=837692",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S83938913",
+        "display_name": "New left review",
+        "issn_l": "0028-6060",
+        "issn": [
+          "0028-6060"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310319847",
+        "host_organization_name": "Routledge",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319847"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "New left review",
+      "raw_type": null
+    },
+    "type": "article",
+    "indexed_in": [],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5113448205",
+          "display_name": "Edward W. Said",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Edward Said",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5113448205"
+    ],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.03685171,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": null,
+      "issue": "6",
+      "first_page": "15",
+      "last_page": "23"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Jewish and Middle Eastern Studies",
+      "score": 0.881600022315979,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.881600022315979,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13103",
+        "display_name": "Middle East Politics and Society",
+        "score": 0.8784999847412109,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10994",
+        "display_name": "Terrorism, Counterterrorism, and Political Violence",
+        "score": 0.8331999778747559,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/humanities",
+        "display_name": "Humanities",
+        "score": 0.725993812084198
+      },
+      {
+        "id": "https://openalex.org/keywords/philosophy",
+        "display_name": "Philosophy",
+        "score": 0.4188823997974396
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C15708023",
+        "wikidata": "https://www.wikidata.org/wiki/Q80083",
+        "display_name": "Humanities",
+        "level": 1,
+        "score": 0.725993812084198
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.4188823997974396
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "mag:120731322",
+        "is_oa": false,
+        "landing_page_url": "https://dialnet.unirioja.es/servlet/articulo?codigo=837692",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S83938913",
+          "display_name": "New left review",
+          "issn_l": "0028-6060",
+          "issn": [
+            "0028-6060"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310319847",
+          "host_organization_name": "Routledge",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319847"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": null,
+        "raw_source_name": "New left review",
+        "raw_type": null
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16",
+        "score": 0.7300000190734863
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [],
+    "abstract_inverted_index": {
+      "Los": [
+        0
+      ],
+      "acontecimientos": [
+        1
+      ],
+      "de": [
+        2,
+        41,
+        72,
+        81,
+        107,
+        113,
+        124,
+        130,
+        138,
+        176,
+        181,
+        202,
+        239
+      ],
+      "las": [
+        3,
+        159,
+        187
+      ],
+      "ultimas": [
+        4
+      ],
+      "semanas": [
+        5
+      ],
+      "en": [
+        6,
+        17,
+        31,
+        58,
+        75,
+        96,
+        119,
+        127,
+        172,
+        198,
+        213,
+        227
+      ],
+      "Palestina": [
+        7
+      ],
+      "han": [
+        8,
+        44,
+        52,
+        93
+      ],
+      "supuesto": [
+        9
+      ],
+      "un": [
+        10,
+        206
+      ],
+      "triunfo": [
+        11
+      ],
+      "practicamente": [
+        12
+      ],
+      "total": [
+        13
+      ],
+      "para": [
+        14,
+        157,
+        162
+      ],
+      "el": [
+        15,
+        65,
+        128,
+        154,
+        191,
+        200
+      ],
+      "sionismo": [
+        16
+      ],
+      "Estados": [
+        18
+      ],
+      "Unidos.": [
+        19
+      ],
+      "El": [
+        20
+      ],
+      "discurso": [
+        21
+      ],
+      "politico": [
+        22
+      ],
+      "y": [
+        23,
+        50,
+        68,
+        101,
+        141,
+        151,
+        215,
+        231
+      ],
+      "publico": [
+        24
+      ],
+      "ha": [
+        25,
+        63,
+        170
+      ],
+      "transformado": [
+        26
+      ],
+      "tan": [
+        27
+      ],
+      "rotundamente": [
+        28
+      ],
+      "a": [
+        29,
+        39,
+        209,
+        221,
+        229
+      ],
+      "Israel": [
+        30,
+        177
+      ],
+      "la": [
+        32,
+        60,
+        99,
+        102,
+        142,
+        167,
+        174,
+        193,
+        218,
+        237
+      ],
+      "victima": [
+        33
+      ],
+      "durante": [
+        34
+      ],
+      "los": [
+        35,
+        97,
+        139,
+        210,
+        222
+      ],
+      "ultimos": [
+        36
+      ],
+      "enfrentamientos": [
+        37
+      ],
+      "que,": [
+        38
+      ],
+      "pesar": [
+        40
+      ],
+      "que": [
+        42,
+        59,
+        83,
+        122,
+        188,
+        235
+      ],
+      "se": [
+        43,
+        51
+      ],
+      "perdido": [
+        45
+      ],
+      "aproximadamente": [
+        46
+      ],
+      "200": [
+        47
+      ],
+      "vidas": [
+        48
+      ],
+      "palestinas": [
+        49
+      ],
+      "registrado": [
+        53
+      ],
+      "6000": [
+        54
+      ],
+      "heridos,": [
+        55
+      ],
+      "hay": [
+        56
+      ],
+      "unanimidad": [
+        57
+      ],
+      "\u00abviolencia": [
+        61
+      ],
+      "palestina\u00bb": [
+        62
+      ],
+      "desbaratado": [
+        64
+      ],
+      "curso": [
+        66
+      ],
+      "tranquilo": [
+        67
+      ],
+      "ordenado": [
+        69
+      ],
+      "del": [
+        70
+      ],
+      "\u00abproceso": [
+        71
+      ],
+      "paz\u00bb.": [
+        73
+      ],
+      "Hay": [
+        74
+      ],
+      "estos": [
+        76,
+        225
+      ],
+      "dias": [
+        77
+      ],
+      "una": [
+        78,
+        105
+      ],
+      "breve": [
+        79
+      ],
+      "letania": [
+        80
+      ],
+      "frases": [
+        82
+      ],
+      "todo": [
+        84,
+        179
+      ],
+      "editorialista": [
+        85
+      ],
+      "repite": [
+        86
+      ],
+      "literalmente": [
+        87
+      ],
+      "o": [
+        88
+      ],
+      "asume": [
+        89
+      ],
+      "como": [
+        90,
+        104,
+        204
+      ],
+      "presupuesto": [
+        91
+      ],
+      "implicito:": [
+        92
+      ],
+      "sido": [
+        94
+      ],
+      "grabadas": [
+        95
+      ],
+      "oidos,": [
+        98
+      ],
+      "mente": [
+        100
+      ],
+      "memoria": [
+        103
+      ],
+      "guia": [
+        106
+      ],
+      "perplejos.": [
+        108
+      ],
+      "Puedo": [
+        109
+      ],
+      "recitarlas": [
+        110
+      ],
+      "casi": [
+        111
+      ],
+      "todas": [
+        112
+      ],
+      "memoria:": [
+        114
+      ],
+      "Barak": [
+        115
+      ],
+      "ofrecia": [
+        116
+      ],
+      "mas": [
+        117
+      ],
+      "concesiones": [
+        118
+      ],
+      "Camp": [
+        120
+      ],
+      "David": [
+        121
+      ],
+      "cualquiera": [
+        123
+      ],
+      "sus": [
+        125
+      ],
+      "predecesores": [
+        126
+      ],
+      "cargo": [
+        129
+      ],
+      "primer": [
+        131
+      ],
+      "ministro": [
+        132
+      ],
+      "israeli": [
+        133
+      ],
+      "(el": [
+        134
+      ],
+      "90": [
+        135
+      ],
+      "por": [
+        136,
+        196
+      ],
+      "100": [
+        137
+      ],
+      "territorios": [
+        140
+      ],
+      "soberania": [
+        143
+      ],
+      "parcial": [
+        144
+      ],
+      "sobre": [
+        145,
+        183
+      ],
+      "Jerusalen": [
+        146
+      ],
+      "oriental);": [
+        147
+      ],
+      "Arafat": [
+        148
+      ],
+      "fue": [
+        149
+      ],
+      "cobarde": [
+        150
+      ],
+      "no": [
+        152,
+        189
+      ],
+      "tuvo": [
+        153
+      ],
+      "valor": [
+        155
+      ],
+      "necesario": [
+        156
+      ],
+      "aceptar": [
+        158
+      ],
+      "ofertas": [
+        160
+      ],
+      "israelies": [
+        161
+      ],
+      "poner": [
+        163
+      ],
+      "fin": [
+        164
+      ],
+      "al": [
+        165
+      ],
+      "conflicto;": [
+        166
+      ],
+      "violencia": [
+        168
+      ],
+      "palestina": [
+        169
+      ],
+      "puesto": [
+        171
+      ],
+      "peligro": [
+        173
+      ],
+      "existencia": [
+        175,
+        238
+      ],
+      "-con": [
+        178
+      ],
+      "tipo": [
+        180
+      ],
+      "variaciones": [
+        182
+      ],
+      "este": [
+        184
+      ],
+      "tema,": [
+        185
+      ],
+      "entre": [
+        186
+      ],
+      "faltan": [
+        190
+      ],
+      "antisemitismo,": [
+        192
+      ],
+      "furia": [
+        194
+      ],
+      "suicida": [
+        195
+      ],
+      "aparecer": [
+        197
+      ],
+      "television,": [
+        199
+      ],
+      "sacrificio": [
+        201
+      ],
+      "ninos": [
+        203
+      ],
+      "martires;": [
+        205
+      ],
+      "viejo": [
+        207
+      ],
+      "\u00abodio\u00bb": [
+        208
+      ],
+      "judios": [
+        211
+      ],
+      "arde": [
+        212
+      ],
+      "Cisjordania": [
+        214
+      ],
+      "Gaza,": [
+        216
+      ],
+      "donde": [
+        217
+      ],
+      "OLP": [
+        219
+      ],
+      "incita": [
+        220
+      ],
+      "ataques": [
+        223
+      ],
+      "contra": [
+        224
+      ],
+      "poniendo": [
+        226
+      ],
+      "libertad": [
+        228
+      ],
+      "terroristas": [
+        230
+      ],
+      "publicando": [
+        232
+      ],
+      "manuales": [
+        233
+      ],
+      "escolares": [
+        234
+      ],
+      "niegan": [
+        236
+      ],
+      "Israel.": [
+        240
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2025-10-10T17:16:08.811792",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W122427402",
+    "doi": null,
+    "title": "De Barak a la Hoja de Ruta",
+    "display_name": "De Barak a la Hoja de Ruta",
+    "relevance_score": 1.1820247,
+    "publication_year": 2003,
+    "publication_date": "2003-01-01",
+    "ids": {
+      "openalex": "https://openalex.org/W122427402",
+      "mag": "122427402"
+    },
+    "language": "es",
+    "primary_location": {
+      "id": "mag:122427402",
+      "is_oa": false,
+      "landing_page_url": "https://dialnet.unirioja.es/servlet/articulo?codigo=892003",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S83938913",
+        "display_name": "New left review",
+        "issn_l": "0028-6060",
+        "issn": [
+          "0028-6060"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310319847",
+        "host_organization_name": "Routledge",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319847"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "New left review",
+      "raw_type": null
+    },
+    "type": "article",
+    "indexed_in": [],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5076987395",
+          "display_name": "Baruch Kimmerling",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Baruch Kimmerling",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5076987395"
+    ],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.03802621,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": null,
+      "issue": "23",
+      "first_page": "127",
+      "last_page": "138"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Jewish and Middle Eastern Studies",
+      "score": 0.9261999726295471,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.9261999726295471,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/humanities",
+        "display_name": "Humanities",
+        "score": 0.6875846982002258
+      },
+      {
+        "id": "https://openalex.org/keywords/art",
+        "display_name": "Art",
+        "score": 0.4143676459789276
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C15708023",
+        "wikidata": "https://www.wikidata.org/wiki/Q80083",
+        "display_name": "Humanities",
+        "level": 1,
+        "score": 0.6875846982002258
+      },
+      {
+        "id": "https://openalex.org/C142362112",
+        "wikidata": "https://www.wikidata.org/wiki/Q735",
+        "display_name": "Art",
+        "level": 0,
+        "score": 0.4143676459789276
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "mag:122427402",
+        "is_oa": false,
+        "landing_page_url": "https://dialnet.unirioja.es/servlet/articulo?codigo=892003",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S83938913",
+          "display_name": "New left review",
+          "issn_l": "0028-6060",
+          "issn": [
+            "0028-6060"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310319847",
+          "host_organization_name": "Routledge",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319847"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": null,
+        "raw_source_name": "New left review",
+        "raw_type": null
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [],
+    "abstract_inverted_index": {
+      "Baruch": [
+        0
+      ],
+      "Kimmerling": [
+        1
+      ],
+      "resena": [
+        2
+      ],
+      "el": [
+        3
+      ],
+      "libro": [
+        4
+      ],
+      "de": [
+        5,
+        22,
+        33
+      ],
+      "Ran": [
+        6
+      ],
+      "Edelist": [
+        7
+      ],
+      "Eduk": [
+        8
+      ],
+      "Barak:": [
+        9
+      ],
+      "combatir": [
+        10
+      ],
+      "los": [
+        11
+      ],
+      "demonios.": [
+        12
+      ],
+      "El": [
+        13
+      ],
+      "general": [
+        14
+      ],
+      "israeli": [
+        15
+      ],
+      "asesino": [
+        16
+      ],
+      "y": [
+        17
+      ],
+      "su": [
+        18
+      ],
+      "legado": [
+        19
+      ],
+      "a": [
+        20
+      ],
+      "contraluz": [
+        21
+      ],
+      "la": [
+        23,
+        31
+      ],
+      "metamorfosis": [
+        24
+      ],
+      "que": [
+        25
+      ],
+      "ha": [
+        26
+      ],
+      "convertido": [
+        27
+      ],
+      "Camp": [
+        28
+      ],
+      "David": [
+        29
+      ],
+      "en": [
+        30
+      ],
+      "Hoja": [
+        32
+      ],
+      "Ruta.": [
+        34
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2025-10-10T17:16:08.811792",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W12336108",
+    "doi": null,
+    "title": "Sobre la limpieza \u00e9tnica en Palestina",
+    "display_name": "Sobre la limpieza \u00e9tnica en Palestina",
+    "relevance_score": 1.112164,
+    "publication_year": 2004,
+    "publication_date": "2004-01-01",
+    "ids": {
+      "openalex": "https://openalex.org/W12336108",
+      "mag": "12336108"
+    },
+    "language": "es",
+    "primary_location": {
+      "id": "mag:12336108",
+      "is_oa": false,
+      "landing_page_url": "https://dialnet.unirioja.es/servlet/articulo?codigo=951392",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S83938913",
+        "display_name": "New left review",
+        "issn_l": "0028-6060",
+        "issn": [
+          "0028-6060"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310319847",
+        "host_organization_name": "Routledge",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319847"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "New left review",
+      "raw_type": null
+    },
+    "type": "article",
+    "indexed_in": [],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5005033758",
+          "display_name": "Benny Morris",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Benny Morris",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5005033758"
+    ],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.00369591,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": null,
+      "issue": "26",
+      "first_page": "81",
+      "last_page": "94"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Jewish and Middle Eastern Studies",
+      "score": 0.9829999804496765,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.9829999804496765,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13103",
+        "display_name": "Middle East Politics and Society",
+        "score": 0.9491999745368958,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/humanities",
+        "display_name": "Humanities",
+        "score": 0.6212252378463745
+      },
+      {
+        "id": "https://openalex.org/keywords/art",
+        "display_name": "Art",
+        "score": 0.5148798227310181
+      },
+      {
+        "id": "https://openalex.org/keywords/philosophy",
+        "display_name": "Philosophy",
+        "score": 0.36507683992385864
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C15708023",
+        "wikidata": "https://www.wikidata.org/wiki/Q80083",
+        "display_name": "Humanities",
+        "level": 1,
+        "score": 0.6212252378463745
+      },
+      {
+        "id": "https://openalex.org/C142362112",
+        "wikidata": "https://www.wikidata.org/wiki/Q735",
+        "display_name": "Art",
+        "level": 0,
+        "score": 0.5148798227310181
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.36507683992385864
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "mag:12336108",
+        "is_oa": false,
+        "landing_page_url": "https://dialnet.unirioja.es/servlet/articulo?codigo=951392",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S83938913",
+          "display_name": "New left review",
+          "issn_l": "0028-6060",
+          "issn": [
+            "0028-6060"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310319847",
+          "host_organization_name": "Routledge",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319847"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": null,
+        "raw_source_name": "New left review",
+        "raw_type": null
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "display_name": "Sustainable cities and communities",
+        "id": "https://metadata.un.org/sdg/11",
+        "score": 0.46000000834465027
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [],
+    "abstract_inverted_index": {
+      "Entrevista": [
+        0
+      ],
+      "con": [
+        1,
+        37
+      ],
+      "el": [
+        2,
+        19
+      ],
+      "historiador": [
+        3
+      ],
+      "pionero": [
+        4
+      ],
+      "de": [
+        5,
+        14,
+        30,
+        35,
+        44
+      ],
+      "la": [
+        6,
+        12,
+        15,
+        40
+      ],
+      "Nakba": [
+        7
+      ],
+      "palestina,": [
+        8
+      ],
+      "que": [
+        9
+      ],
+      "defiende": [
+        10
+      ],
+      "asperamente": [
+        11
+      ],
+      "centralidad": [
+        13
+      ],
+      "limpieza": [
+        16
+      ],
+      "etnica": [
+        17
+      ],
+      "en": [
+        18
+      ],
+      "proyecto": [
+        20
+      ],
+      "sionista.": [
+        21
+      ],
+      "Una": [
+        22
+      ],
+      "esclarecedora": [
+        23
+      ],
+      "luz": [
+        24
+      ],
+      "sobre": [
+        25
+      ],
+      "las": [
+        26
+      ],
+      "realidades": [
+        27
+      ],
+      "del": [
+        28,
+        33,
+        42
+      ],
+      "proceso": [
+        29,
+        43
+      ],
+      "construccion": [
+        31
+      ],
+      "nacional": [
+        32
+      ],
+      "Estado": [
+        34
+      ],
+      "Israel": [
+        36
+      ],
+      "o": [
+        38
+      ],
+      "sin": [
+        39
+      ],
+      "mascara": [
+        41
+      ],
+      "paz.": [
+        45
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2025-10-10T17:16:08.811792",
+    "created_date": "2025-10-10T00:00:00"
+  }
+]

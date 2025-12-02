@@ -1,0 +1,6709 @@
+[
+  {
+    "id": "https://openalex.org/W2601805476",
+    "doi": "https://doi.org/10.1080/09658211.2017.1307991",
+    "title": "Earliest memories in Israeli kibbutz upbringing: it is parental engagement that makes a difference",
+    "display_name": "Earliest memories in Israeli kibbutz upbringing: it is parental engagement that makes a difference",
+    "relevance_score": 69.26158,
+    "publication_year": 2017,
+    "publication_date": "2017-03-30",
+    "ids": {
+      "openalex": "https://openalex.org/W2601805476",
+      "doi": "https://doi.org/10.1080/09658211.2017.1307991",
+      "mag": "2601805476",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/28357891"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1080/09658211.2017.1307991",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1080/09658211.2017.1307991",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S47258695",
+        "display_name": "Memory",
+        "issn_l": "0965-8211",
+        "issn": [
+          "0965-8211",
+          "1464-0686"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320547",
+        "host_organization_name": "Taylor & Francis",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320547"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Memory",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5062741091",
+          "display_name": "Ora Aviezer",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I107326029",
+            "display_name": "Oranim Academic College of Education",
+            "ror": "https://ror.org/01539v588",
+            "country_code": "IL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I107326029"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I91203450",
+            "display_name": "University of Haifa",
+            "ror": "https://ror.org/02f009v59",
+            "country_code": "IL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I91203450"
+            ]
+          }
+        ],
+        "countries": [
+          "IL"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Ora Aviezer",
+        "raw_affiliation_strings": [
+          "Center for the Study of Child Development, University of Haifa, Haifa, Israel",
+          "Department of Educational Consulting, Oranim Academic College of Education, Tivon, Israel"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Center for the Study of Child Development, University of Haifa, Haifa, Israel",
+            "institution_ids": [
+              "https://openalex.org/I91203450"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Educational Consulting, Oranim Academic College of Education, Tivon, Israel",
+            "institution_ids": [
+              "https://openalex.org/I107326029"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5052975942",
+          "display_name": "Efrat Sher\u2010Censor",
+          "orcid": "https://orcid.org/0000-0003-2961-3129"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I91203450",
+            "display_name": "University of Haifa",
+            "ror": "https://ror.org/02f009v59",
+            "country_code": "IL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I91203450"
+            ]
+          }
+        ],
+        "countries": [
+          "IL"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Efrat Sher-Censor",
+        "raw_affiliation_strings": [
+          "Center for the Study of Child Development, University of Haifa, Haifa, Israel"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Center for the Study of Child Development, University of Haifa, Haifa, Israel",
+            "institution_ids": [
+              "https://openalex.org/I91203450"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5066660039",
+          "display_name": "Tahel Stein-Lahad",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I91203450",
+            "display_name": "University of Haifa",
+            "ror": "https://ror.org/02f009v59",
+            "country_code": "IL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I91203450"
+            ]
+          }
+        ],
+        "countries": [
+          "IL"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Tahel Stein-Lahad",
+        "raw_affiliation_strings": [
+          "Center for the Study of Child Development, University of Haifa, Haifa, Israel"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Center for the Study of Child Development, University of Haifa, Haifa, Israel",
+            "institution_ids": [
+              "https://openalex.org/I91203450"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 3,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5062741091"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I107326029",
+      "https://openalex.org/I91203450"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.34799569,
+    "has_fulltext": false,
+    "cited_by_count": 3,
+    "citation_normalized_percentile": {
+      "value": 0.6079918,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 90,
+      "max": 97
+    },
+    "biblio": {
+      "volume": "25",
+      "issue": "10",
+      "first_page": "1375",
+      "last_page": "1389"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11983",
+      "display_name": "Identity, Memory, and Therapy",
+      "score": 0.998199999332428,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11983",
+        "display_name": "Identity, Memory, and Therapy",
+        "score": 0.998199999332428,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3204",
+          "display_name": "Developmental and Educational Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13574",
+        "display_name": "Family Support in Illness",
+        "score": 0.9958999752998352,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13784",
+        "display_name": "Jewish Identity and Society",
+        "score": 0.9833999872207642,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3317",
+          "display_name": "Demography"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.886132001876831
+      },
+      {
+        "id": "https://openalex.org/keywords/developmental-psychology",
+        "display_name": "Developmental psychology",
+        "score": 0.571329653263092
+      },
+      {
+        "id": "https://openalex.org/keywords/social-psychology",
+        "display_name": "Social psychology",
+        "score": 0.5302607417106628
+      },
+      {
+        "id": "https://openalex.org/keywords/cognitive-psychology",
+        "display_name": "Cognitive psychology",
+        "score": 0.35439905524253845
+      },
+      {
+        "id": "https://openalex.org/keywords/psychoanalysis",
+        "display_name": "Psychoanalysis",
+        "score": 0.340264230966568
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.886132001876831
+      },
+      {
+        "id": "https://openalex.org/C138496976",
+        "wikidata": "https://www.wikidata.org/wiki/Q175002",
+        "display_name": "Developmental psychology",
+        "level": 1,
+        "score": 0.571329653263092
+      },
+      {
+        "id": "https://openalex.org/C77805123",
+        "wikidata": "https://www.wikidata.org/wiki/Q161272",
+        "display_name": "Social psychology",
+        "level": 1,
+        "score": 0.5302607417106628
+      },
+      {
+        "id": "https://openalex.org/C180747234",
+        "wikidata": "https://www.wikidata.org/wiki/Q23373",
+        "display_name": "Cognitive psychology",
+        "level": 1,
+        "score": 0.35439905524253845
+      },
+      {
+        "id": "https://openalex.org/C11171543",
+        "wikidata": "https://www.wikidata.org/wiki/Q41630",
+        "display_name": "Psychoanalysis",
+        "level": 1,
+        "score": 0.340264230966568
+      }
+    ],
+    "mesh": [
+      {
+        "descriptor_ui": "D000328",
+        "descriptor_name": "Adult",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D003469",
+        "descriptor_name": "Culture",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D005260",
+        "descriptor_name": "Female",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D006801",
+        "descriptor_name": "Humans",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D007557",
+        "descriptor_name": "Israel",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008297",
+        "descriptor_name": "Male",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D061212",
+        "descriptor_name": "Memory, Episodic",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D011939",
+        "descriptor_name": "Mental Recall",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D010287",
+        "descriptor_name": "Parent-Child Relations",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D016487",
+        "descriptor_name": "Parenting",
+        "qualifier_ui": "Q000523",
+        "qualifier_name": "psychology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D012189",
+        "descriptor_name": "Retrospective Studies",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D013997",
+        "descriptor_name": "Time Factors",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D055815",
+        "descriptor_name": "Young Adult",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D000328",
+        "descriptor_name": "Adult",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D003469",
+        "descriptor_name": "Culture",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D005260",
+        "descriptor_name": "Female",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D006801",
+        "descriptor_name": "Humans",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D007557",
+        "descriptor_name": "Israel",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008297",
+        "descriptor_name": "Male",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D061212",
+        "descriptor_name": "Memory, Episodic",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D011939",
+        "descriptor_name": "Mental Recall",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D010287",
+        "descriptor_name": "Parent-Child Relations",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D016487",
+        "descriptor_name": "Parenting",
+        "qualifier_ui": "Q000523",
+        "qualifier_name": "psychology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D012189",
+        "descriptor_name": "Retrospective Studies",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D013997",
+        "descriptor_name": "Time Factors",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D055815",
+        "descriptor_name": "Young Adult",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      }
+    ],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "doi:10.1080/09658211.2017.1307991",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1080/09658211.2017.1307991",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S47258695",
+          "display_name": "Memory",
+          "issn_l": "0965-8211",
+          "issn": [
+            "0965-8211",
+            "1464-0686"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320547",
+          "host_organization_name": "Taylor & Francis",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320547"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Memory",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmid:28357891",
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/28357891",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Memory (Hove, England)",
+        "raw_type": null
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.5600000023841858,
+        "display_name": "Gender equality",
+        "id": "https://metadata.un.org/sdg/5"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 55,
+    "referenced_works": [
+      "https://openalex.org/W2136432990",
+      "https://openalex.org/W2043748737",
+      "https://openalex.org/W4238080856",
+      "https://openalex.org/W1997883830",
+      "https://openalex.org/W2168307141",
+      "https://openalex.org/W2012292507",
+      "https://openalex.org/W4255064380",
+      "https://openalex.org/W2035525135",
+      "https://openalex.org/W2002883433",
+      "https://openalex.org/W2161695224",
+      "https://openalex.org/W2143068456",
+      "https://openalex.org/W2163265086",
+      "https://openalex.org/W2152178585",
+      "https://openalex.org/W1993867953",
+      "https://openalex.org/W2171576685",
+      "https://openalex.org/W2006208555",
+      "https://openalex.org/W4237097067",
+      "https://openalex.org/W1799601487",
+      "https://openalex.org/W2330747263",
+      "https://openalex.org/W1989537794",
+      "https://openalex.org/W2093636912",
+      "https://openalex.org/W2099659235",
+      "https://openalex.org/W2078965693",
+      "https://openalex.org/W2116273328",
+      "https://openalex.org/W1979248255",
+      "https://openalex.org/W2097233750",
+      "https://openalex.org/W2122801086",
+      "https://openalex.org/W2166747609",
+      "https://openalex.org/W2065005740",
+      "https://openalex.org/W1995397231",
+      "https://openalex.org/W2111275601",
+      "https://openalex.org/W1999801291",
+      "https://openalex.org/W2034721587",
+      "https://openalex.org/W2021280494",
+      "https://openalex.org/W1701030195",
+      "https://openalex.org/W2033356107",
+      "https://openalex.org/W1996121126",
+      "https://openalex.org/W1965986622",
+      "https://openalex.org/W4238565055",
+      "https://openalex.org/W2056775433",
+      "https://openalex.org/W2067935813",
+      "https://openalex.org/W2160671405",
+      "https://openalex.org/W2047599750",
+      "https://openalex.org/W2094647610",
+      "https://openalex.org/W2168907003",
+      "https://openalex.org/W2142449003",
+      "https://openalex.org/W4243241773",
+      "https://openalex.org/W2064904358",
+      "https://openalex.org/W3159180684",
+      "https://openalex.org/W2083560761",
+      "https://openalex.org/W2800856423",
+      "https://openalex.org/W1560013720",
+      "https://openalex.org/W2085870343",
+      "https://openalex.org/W2087058009",
+      "https://openalex.org/W2438593170"
+    ],
+    "related_works": [
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W2931662336",
+      "https://openalex.org/W2077865380",
+      "https://openalex.org/W2765597752",
+      "https://openalex.org/W2134894512",
+      "https://openalex.org/W2083375246",
+      "https://openalex.org/W2067108088",
+      "https://openalex.org/W2085372204",
+      "https://openalex.org/W2010073985",
+      "https://openalex.org/W4328122045"
+    ],
+    "abstract_inverted_index": {
+      "Culture": [
+        0
+      ],
+      "and": [
+        1,
+        24,
+        29,
+        36,
+        49,
+        52,
+        76,
+        95
+      ],
+      "parenting": [
+        2
+      ],
+      "shape": [
+        3
+      ],
+      "the": [
+        4,
+        15,
+        21,
+        84,
+        99,
+        113,
+        185,
+        190
+      ],
+      "ability": [
+        5
+      ],
+      "to": [
+        6,
+        71,
+        126,
+        150,
+        172,
+        197
+      ],
+      "recall": [
+        7
+      ],
+      "early": [
+        8
+      ],
+      "childhood": [
+        9,
+        159
+      ],
+      "experiences.": [
+        10
+      ],
+      "This": [
+        11
+      ],
+      "research": [
+        12
+      ],
+      "focused": [
+        13
+      ],
+      "on": [
+        14
+      ],
+      "unique": [
+        16
+      ],
+      "context": [
+        17
+      ],
+      "of": [
+        18,
+        31,
+        86,
+        101,
+        115,
+        119,
+        133,
+        153,
+        167,
+        175,
+        192
+      ],
+      "upbringing": [
+        19,
+        62,
+        136
+      ],
+      "in": [
+        20,
+        34,
+        59,
+        64,
+        90,
+        107,
+        112,
+        141
+      ],
+      "Israeli": [
+        22
+      ],
+      "kibbutz": [
+        23,
+        61,
+        135
+      ],
+      "examined": [
+        25
+      ],
+      "how": [
+        26
+      ],
+      "cultural": [
+        27,
+        108
+      ],
+      "orientation": [
+        28,
+        109
+      ],
+      "experiences": [
+        30
+      ],
+      "parental": [
+        32,
+        154
+      ],
+      "engagement": [
+        33
+      ],
+      "Kibbutz": [
+        35
+      ],
+      "non-Kibbutz": [
+        37
+      ],
+      "settings": [
+        38
+      ],
+      "shaped": [
+        39
+      ],
+      "adults'": [
+        40
+      ],
+      "earliest": [
+        41,
+        74,
+        79,
+        102,
+        123,
+        146,
+        170
+      ],
+      "memories.": [
+        42,
+        116
+      ],
+      "Participants": [
+        43
+      ],
+      "were": [
+        44,
+        57,
+        110
+      ],
+      "108": [
+        45
+      ],
+      "women": [
+        46,
+        51
+      ],
+      "(study": [
+        47,
+        54
+      ],
+      "1)": [
+        48
+      ],
+      "75": [
+        50
+      ],
+      "men": [
+        53
+      ],
+      "2)": [
+        55
+      ],
+      "who": [
+        56
+      ],
+      "raised": [
+        58
+      ],
+      "traditional": [
+        60,
+        134
+      ],
+      "or": [
+        63
+      ],
+      "a": [
+        65,
+        165
+      ],
+      "non-kibbutz": [
+        66
+      ],
+      "family": [
+        67
+      ],
+      "setting.": [
+        68
+      ],
+      "In": [
+        69
+      ],
+      "addition": [
+        70
+      ],
+      "reporting": [
+        72
+      ],
+      "their": [
+        73
+      ],
+      "memory": [
+        75,
+        124,
+        147,
+        171
+      ],
+      "age": [
+        77,
+        121,
+        144,
+        168
+      ],
+      "at": [
+        78,
+        122,
+        145,
+        169
+      ],
+      "memory,": [
+        80
+      ],
+      "participants": [
+        81
+      ],
+      "estimated": [
+        82
+      ],
+      "retrospectively": [
+        83
+      ],
+      "amount": [
+        85
+      ],
+      "daily": [
+        87
+      ],
+      "time": [
+        88,
+        100
+      ],
+      "spent": [
+        89
+      ],
+      "interaction": [
+        91,
+        131,
+        193
+      ],
+      "with": [
+        92,
+        177,
+        184,
+        194
+      ],
+      "parents,": [
+        93
+      ],
+      "caregivers,": [
+        94
+      ],
+      "other": [
+        96
+      ],
+      "children": [
+        97
+      ],
+      "during": [
+        98
+      ],
+      "memory.": [
+        103
+      ],
+      "Overall,": [
+        104
+      ],
+      "upbringing-related": [
+        105
+      ],
+      "variations": [
+        106
+      ],
+      "evident": [
+        111
+      ],
+      "content": [
+        114
+      ],
+      "A": [
+        117
+      ],
+      "prediction": [
+        118
+      ],
+      "later": [
+        120
+      ],
+      "due": [
+        125
+      ],
+      "limited": [
+        127
+      ],
+      "opportunities": [
+        128
+      ],
+      "for": [
+        129,
+        158
+      ],
+      "parent-child": [
+        130
+      ],
+      "characteristic": [
+        132
+      ],
+      "was": [
+        137,
+        148
+      ],
+      "not": [
+        138
+      ],
+      "supported.": [
+        139
+      ],
+      "Rather,": [
+        140
+      ],
+      "both": [
+        142
+      ],
+      "studies,": [
+        143
+      ],
+      "linked": [
+        149
+      ],
+      "retrospective": [
+        151,
+        173
+      ],
+      "estimation": [
+        152,
+        174
+      ],
+      "engagement,": [
+        155
+      ],
+      "after": [
+        156
+      ],
+      "controlling": [
+        157
+      ],
+      "ecology.": [
+        160
+      ],
+      "Study": [
+        161
+      ],
+      "2": [
+        162
+      ],
+      "revealed": [
+        163
+      ],
+      "also": [
+        164
+      ],
+      "link": [
+        166
+      ],
+      "involvement": [
+        176
+      ],
+      "non-parental": [
+        178
+      ],
+      "caregivers.": [
+        179
+      ],
+      "These": [
+        180
+      ],
+      "findings": [
+        181
+      ],
+      "are": [
+        182
+      ],
+      "congruent": [
+        183
+      ],
+      "social-interaction": [
+        186
+      ],
+      "model's": [
+        187
+      ],
+      "claims": [
+        188
+      ],
+      "about": [
+        189
+      ],
+      "importance": [
+        191
+      ],
+      "caregiving": [
+        195
+      ],
+      "adults": [
+        196
+      ],
+      "autobiographical": [
+        198
+      ],
+      "memory's": [
+        199
+      ],
+      "development.": [
+        200
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2039167704",
+    "doi": "https://doi.org/10.1080/09658210600624564",
+    "title": "The distinctiveness heuristic in false recognition and false recall",
+    "display_name": "The distinctiveness heuristic in false recognition and false recall",
+    "relevance_score": 13.502611,
+    "publication_year": 2006,
+    "publication_date": "2006-05-04",
+    "ids": {
+      "openalex": "https://openalex.org/W2039167704",
+      "doi": "https://doi.org/10.1080/09658210600624564",
+      "mag": "2039167704",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/16754242"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1080/09658210600624564",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1080/09658210600624564",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S47258695",
+        "display_name": "Memory",
+        "issn_l": "0965-8211",
+        "issn": [
+          "0965-8211",
+          "1464-0686"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320547",
+        "host_organization_name": "Taylor & Francis",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320547"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Memory",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5053289058",
+          "display_name": "David P. McCabe",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I204465549",
+            "display_name": "Washington University in St. Louis",
+            "ror": "https://ror.org/01yc7t268",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I204465549"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "David P. McCabe",
+        "raw_affiliation_strings": [
+          "Washington University in St. Louis  MO USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Washington University in St. Louis  MO USA",
+            "institution_ids": [
+              "https://openalex.org/I204465549"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5102085078",
+          "display_name": "Anderson D. Smith",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I130701444",
+            "display_name": "Georgia Institute of Technology",
+            "ror": "https://ror.org/01zkghx44",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I130701444"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Anderson D. Smith",
+        "raw_affiliation_strings": [
+          "Georgia Institute of Technology Atlanta, GA, USA."
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Georgia Institute of Technology Atlanta, GA, USA.",
+            "institution_ids": [
+              "https://openalex.org/I130701444"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 2,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 1.46400575,
+    "has_fulltext": false,
+    "cited_by_count": 49,
+    "citation_normalized_percentile": {
+      "value": 0.77550489,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 99
+    },
+    "biblio": {
+      "volume": "14",
+      "issue": "5",
+      "first_page": "570",
+      "last_page": "583"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10918",
+      "display_name": "Memory Processes and Influences",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10918",
+        "display_name": "Memory Processes and Influences",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2805",
+          "display_name": "Cognitive Neuroscience"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/28",
+          "display_name": "Neuroscience"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12268",
+        "display_name": "Deception detection and forensic psychology",
+        "score": 0.9824000000953674,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3207",
+          "display_name": "Social Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12151",
+        "display_name": "Interpreting and Communication in Healthcare",
+        "score": 0.9645000100135803,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3600",
+          "display_name": "General Health Professions"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/36",
+          "display_name": "Health Professions"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/false-memory",
+        "display_name": "False memory",
+        "score": 0.8930255174636841
+      },
+      {
+        "id": "https://openalex.org/keywords/optimal-distinctiveness-theory",
+        "display_name": "Optimal distinctiveness theory",
+        "score": 0.8824434280395508
+      },
+      {
+        "id": "https://openalex.org/keywords/recall",
+        "display_name": "Recall",
+        "score": 0.7319091558456421
+      },
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.6469805240631104
+      },
+      {
+        "id": "https://openalex.org/keywords/anagrams",
+        "display_name": "Anagrams",
+        "score": 0.597323477268219
+      },
+      {
+        "id": "https://openalex.org/keywords/cognitive-psychology",
+        "display_name": "Cognitive psychology",
+        "score": 0.5120745301246643
+      },
+      {
+        "id": "https://openalex.org/keywords/recognition-memory",
+        "display_name": "Recognition memory",
+        "score": 0.5063883066177368
+      },
+      {
+        "id": "https://openalex.org/keywords/experimental-psychology",
+        "display_name": "Experimental psychology",
+        "score": 0.4196435511112213
+      },
+      {
+        "id": "https://openalex.org/keywords/heuristic",
+        "display_name": "Heuristic",
+        "score": 0.41449791193008423
+      },
+      {
+        "id": "https://openalex.org/keywords/cognition",
+        "display_name": "Cognition",
+        "score": 0.36455219984054565
+      },
+      {
+        "id": "https://openalex.org/keywords/computer-science",
+        "display_name": "Computer science",
+        "score": 0.3212859630584717
+      },
+      {
+        "id": "https://openalex.org/keywords/artificial-intelligence",
+        "display_name": "Artificial intelligence",
+        "score": 0.32115763425827026
+      },
+      {
+        "id": "https://openalex.org/keywords/social-psychology",
+        "display_name": "Social psychology",
+        "score": 0.2602689862251282
+      },
+      {
+        "id": "https://openalex.org/keywords/task",
+        "display_name": "Task (project management)",
+        "score": 0.12193039059638977
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2779086471",
+        "wikidata": "https://www.wikidata.org/wiki/Q2051704",
+        "display_name": "False memory",
+        "level": 3,
+        "score": 0.8930255174636841
+      },
+      {
+        "id": "https://openalex.org/C47385372",
+        "wikidata": "https://www.wikidata.org/wiki/Q7098943",
+        "display_name": "Optimal distinctiveness theory",
+        "level": 2,
+        "score": 0.8824434280395508
+      },
+      {
+        "id": "https://openalex.org/C100660578",
+        "wikidata": "https://www.wikidata.org/wiki/Q18733",
+        "display_name": "Recall",
+        "level": 2,
+        "score": 0.7319091558456421
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.6469805240631104
+      },
+      {
+        "id": "https://openalex.org/C2780282618",
+        "wikidata": "https://www.wikidata.org/wiki/Q122981",
+        "display_name": "Anagrams",
+        "level": 3,
+        "score": 0.597323477268219
+      },
+      {
+        "id": "https://openalex.org/C180747234",
+        "wikidata": "https://www.wikidata.org/wiki/Q23373",
+        "display_name": "Cognitive psychology",
+        "level": 1,
+        "score": 0.5120745301246643
+      },
+      {
+        "id": "https://openalex.org/C90269970",
+        "wikidata": "https://www.wikidata.org/wiki/Q7302606",
+        "display_name": "Recognition memory",
+        "level": 3,
+        "score": 0.5063883066177368
+      },
+      {
+        "id": "https://openalex.org/C101068787",
+        "wikidata": "https://www.wikidata.org/wiki/Q475042",
+        "display_name": "Experimental psychology",
+        "level": 3,
+        "score": 0.4196435511112213
+      },
+      {
+        "id": "https://openalex.org/C173801870",
+        "wikidata": "https://www.wikidata.org/wiki/Q201413",
+        "display_name": "Heuristic",
+        "level": 2,
+        "score": 0.41449791193008423
+      },
+      {
+        "id": "https://openalex.org/C169900460",
+        "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+        "display_name": "Cognition",
+        "level": 2,
+        "score": 0.36455219984054565
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.3212859630584717
+      },
+      {
+        "id": "https://openalex.org/C154945302",
+        "wikidata": "https://www.wikidata.org/wiki/Q11660",
+        "display_name": "Artificial intelligence",
+        "level": 1,
+        "score": 0.32115763425827026
+      },
+      {
+        "id": "https://openalex.org/C77805123",
+        "wikidata": "https://www.wikidata.org/wiki/Q161272",
+        "display_name": "Social psychology",
+        "level": 1,
+        "score": 0.2602689862251282
+      },
+      {
+        "id": "https://openalex.org/C2780451532",
+        "wikidata": "https://www.wikidata.org/wiki/Q759676",
+        "display_name": "Task (project management)",
+        "level": 2,
+        "score": 0.12193039059638977
+      },
+      {
+        "id": "https://openalex.org/C187736073",
+        "wikidata": "https://www.wikidata.org/wiki/Q2920921",
+        "display_name": "Management",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C162324750",
+        "wikidata": "https://www.wikidata.org/wiki/Q8134",
+        "display_name": "Economics",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C169760540",
+        "wikidata": "https://www.wikidata.org/wiki/Q207011",
+        "display_name": "Neuroscience",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [
+      {
+        "descriptor_ui": "D003071",
+        "descriptor_name": "Cognition",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D006801",
+        "descriptor_name": "Humans",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D007807",
+        "descriptor_name": "Language Tests",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D011939",
+        "descriptor_name": "Mental Recall",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D008960",
+        "descriptor_name": "Models, Psychological",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D010364",
+        "descriptor_name": "Pattern Recognition, Visual",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D011581",
+        "descriptor_name": "Psychological Tests",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D021641",
+        "descriptor_name": "Recognition, Psychology",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D014706",
+        "descriptor_name": "Verbal Learning",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D003071",
+        "descriptor_name": "Cognition",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D006801",
+        "descriptor_name": "Humans",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D007807",
+        "descriptor_name": "Language Tests",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D011939",
+        "descriptor_name": "Mental Recall",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D008960",
+        "descriptor_name": "Models, Psychological",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D010364",
+        "descriptor_name": "Pattern Recognition, Visual",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D011581",
+        "descriptor_name": "Psychological Tests",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D021641",
+        "descriptor_name": "Recognition, Psychology",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D014706",
+        "descriptor_name": "Verbal Learning",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      }
+    ],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "doi:10.1080/09658210600624564",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1080/09658210600624564",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S47258695",
+          "display_name": "Memory",
+          "issn_l": "0965-8211",
+          "issn": [
+            "0965-8211",
+            "1464-0686"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320547",
+          "host_organization_name": "Taylor & Francis",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320547"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Memory",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmid:16754242",
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/16754242",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Memory (Hove, England)",
+        "raw_type": null
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.7900000214576721,
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 56,
+    "referenced_works": [
+      "https://openalex.org/W2086371127",
+      "https://openalex.org/W2097384125",
+      "https://openalex.org/W2102858622",
+      "https://openalex.org/W2025298490",
+      "https://openalex.org/W1979298736",
+      "https://openalex.org/W4246255552",
+      "https://openalex.org/W2025230562",
+      "https://openalex.org/W2037634808",
+      "https://openalex.org/W2021360735",
+      "https://openalex.org/W2054783379",
+      "https://openalex.org/W2155616013",
+      "https://openalex.org/W4234477066",
+      "https://openalex.org/W2320374269",
+      "https://openalex.org/W2037814140",
+      "https://openalex.org/W2070622799",
+      "https://openalex.org/W2068126272",
+      "https://openalex.org/W2072045216",
+      "https://openalex.org/W2096891499",
+      "https://openalex.org/W2133550707",
+      "https://openalex.org/W2097868335",
+      "https://openalex.org/W1978397362",
+      "https://openalex.org/W2166245738",
+      "https://openalex.org/W2035538927",
+      "https://openalex.org/W2004805246",
+      "https://openalex.org/W2002786667",
+      "https://openalex.org/W2000372346",
+      "https://openalex.org/W4247424590",
+      "https://openalex.org/W2055063222",
+      "https://openalex.org/W2025584957",
+      "https://openalex.org/W4243472229",
+      "https://openalex.org/W2006021384",
+      "https://openalex.org/W2033621082",
+      "https://openalex.org/W2082531061",
+      "https://openalex.org/W2055994349",
+      "https://openalex.org/W2002160302",
+      "https://openalex.org/W2063649043",
+      "https://openalex.org/W2041299677",
+      "https://openalex.org/W4298028598",
+      "https://openalex.org/W2132682750",
+      "https://openalex.org/W2020058458",
+      "https://openalex.org/W204501593",
+      "https://openalex.org/W2007780422",
+      "https://openalex.org/W2071461639",
+      "https://openalex.org/W2064332540",
+      "https://openalex.org/W2158386658",
+      "https://openalex.org/W2044130834",
+      "https://openalex.org/W2042393860",
+      "https://openalex.org/W2167688842",
+      "https://openalex.org/W2017505471",
+      "https://openalex.org/W2009332548",
+      "https://openalex.org/W2129460093",
+      "https://openalex.org/W2061708265",
+      "https://openalex.org/W1985758866",
+      "https://openalex.org/W2123135030",
+      "https://openalex.org/W2030059632",
+      "https://openalex.org/W2143926746"
+    ],
+    "related_works": [
+      "https://openalex.org/W2071461639",
+      "https://openalex.org/W1987066395",
+      "https://openalex.org/W2071786691",
+      "https://openalex.org/W2024667514",
+      "https://openalex.org/W2050189743",
+      "https://openalex.org/W2026080270",
+      "https://openalex.org/W2918593961",
+      "https://openalex.org/W2136370808",
+      "https://openalex.org/W1979298736",
+      "https://openalex.org/W1970565396"
+    ],
+    "abstract_inverted_index": {
+      "The": [
+        0
+      ],
+      "effects": [
+        1
+      ],
+      "of": [
+        2,
+        59,
+        104,
+        130
+      ],
+      "generative": [
+        3
+      ],
+      "processing": [
+        4
+      ],
+      "on": [
+        5
+      ],
+      "false": [
+        6,
+        18,
+        60,
+        63,
+        131,
+        146,
+        149
+      ],
+      "recognition": [
+        7,
+        61,
+        90,
+        147
+      ],
+      "and": [
+        8,
+        62,
+        89,
+        96,
+        148
+      ],
+      "recall": [
+        9,
+        64,
+        88
+      ],
+      "were": [
+        10,
+        65,
+        99
+      ],
+      "examined": [
+        11
+      ],
+      "in": [
+        12,
+        33,
+        48,
+        84,
+        124,
+        140,
+        144
+      ],
+      "four": [
+        13
+      ],
+      "experiments": [
+        14
+      ],
+      "using": [
+        15
+      ],
+      "the": [
+        16,
+        109
+      ],
+      "Deese-Roediger-McDermott": [
+        17
+      ],
+      "memory": [
+        19
+      ],
+      "paradigm": [
+        20
+      ],
+      "(Deese,": [
+        21
+      ],
+      "1959;": [
+        22
+      ],
+      "Roediger": [
+        23
+      ],
+      "&": [
+        24,
+        114
+      ],
+      "McDermott,": [
+        25
+      ],
+      "1995).": [
+        26
+      ],
+      "In": [
+        27
+      ],
+      "each": [
+        28
+      ],
+      "experiment,": [
+        29
+      ],
+      "a": [
+        30,
+        45,
+        117,
+        141
+      ],
+      "Generate": [
+        31
+      ],
+      "condition": [
+        32,
+        47
+      ],
+      "which": [
+        34,
+        49
+      ],
+      "subjects": [
+        35,
+        50
+      ],
+      "generated": [
+        36,
+        72
+      ],
+      "studied": [
+        37,
+        54
+      ],
+      "words": [
+        38,
+        55
+      ],
+      "from": [
+        39
+      ],
+      "audio": [
+        40
+      ],
+      "anagrams": [
+        41
+      ],
+      "was": [
+        42
+      ],
+      "compared": [
+        43
+      ],
+      "to": [
+        44,
+        53,
+        128,
+        138
+      ],
+      "Control": [
+        46
+      ],
+      "simply": [
+        51
+      ],
+      "listened": [
+        52
+      ],
+      "presented": [
+        56
+      ],
+      "normally.": [
+        57
+      ],
+      "Rates": [
+        58
+      ],
+      "lower": [
+        66
+      ],
+      "for": [
+        67,
+        75
+      ],
+      "critical": [
+        68,
+        76
+      ],
+      "lures": [
+        69,
+        77
+      ],
+      "associated": [
+        70,
+        78
+      ],
+      "with": [
+        71,
+        79,
+        108
+      ],
+      "lists,": [
+        73,
+        81
+      ],
+      "than": [
+        74
+      ],
+      "control": [
+        80,
+        97
+      ],
+      "but": [
+        82
+      ],
+      "only": [
+        83
+      ],
+      "between-subjects": [
+        85
+      ],
+      "designs.": [
+        86
+      ],
+      "False": [
+        87
+      ],
+      "did": [
+        91
+      ],
+      "not": [
+        92
+      ],
+      "differ": [
+        93
+      ],
+      "when": [
+        94
+      ],
+      "generate": [
+        95
+      ],
+      "conditions": [
+        98
+      ],
+      "manipulated": [
+        100
+      ],
+      "within-subjects.": [
+        101
+      ],
+      "This": [
+        102,
+        133
+      ],
+      "pattern": [
+        103
+      ],
+      "results": [
+        105
+      ],
+      "is": [
+        106
+      ],
+      "consistent": [
+        107
+      ],
+      "distinctiveness": [
+        110
+      ],
+      "heuristic": [
+        111
+      ],
+      "(Schacter,": [
+        112
+      ],
+      "Israel,": [
+        113
+      ],
+      "Racine,": [
+        115
+      ],
+      "1999),": [
+        116
+      ],
+      "metamemorial": [
+        118
+      ],
+      "decision-based": [
+        119
+      ],
+      "strategy": [
+        120
+      ],
+      "whereby": [
+        121
+      ],
+      "global": [
+        122
+      ],
+      "changes": [
+        123
+      ],
+      "decision": [
+        125
+      ],
+      "criteria": [
+        126
+      ],
+      "lead": [
+        127
+      ],
+      "reductions": [
+        129
+      ],
+      "memories.": [
+        132
+      ],
+      "retrieval-based": [
+        134
+      ],
+      "monitoring": [
+        135
+      ],
+      "mechanism": [
+        136
+      ],
+      "appears": [
+        137
+      ],
+      "operate": [
+        139
+      ],
+      "similar": [
+        142
+      ],
+      "fashion": [
+        143
+      ],
+      "reducing": [
+        145
+      ],
+      "recall.": [
+        150
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2024,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 9
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2014,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2013,
+        "cited_by_count": 3
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2092613823",
+    "doi": "https://doi.org/10.1080/09658210244000432",
+    "title": "Distinctiveness in flashbulb memory: Comparative analysis of five terrorist attacks",
+    "display_name": "Distinctiveness in flashbulb memory: Comparative analysis of five terrorist attacks",
+    "relevance_score": 11.552935,
+    "publication_year": 2004,
+    "publication_date": "2004-02-09",
+    "ids": {
+      "openalex": "https://openalex.org/W2092613823",
+      "doi": "https://doi.org/10.1080/09658210244000432",
+      "mag": "2092613823",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/15250180"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1080/09658210244000432",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1080/09658210244000432",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S47258695",
+        "display_name": "Memory",
+        "issn_l": "0965-8211",
+        "issn": [
+          "0965-8211",
+          "1464-0686"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320547",
+        "host_organization_name": "Taylor & Francis",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320547"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Memory",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5084216595",
+          "display_name": "Galit Edery\u2010Halpern",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I13955877",
+            "display_name": "Bar-Ilan University",
+            "ror": "https://ror.org/03kgsv495",
+            "country_code": "IL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I13955877"
+            ]
+          }
+        ],
+        "countries": [
+          "IL"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Galit Edery\u2010Halpern",
+        "raw_affiliation_strings": [
+          "Bar\u2010Ilan University, Ramat\u2010Gan, Israel"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Bar\u2010Ilan University, Ramat\u2010Gan, Israel",
+            "institution_ids": [
+              "https://openalex.org/I13955877"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5030318175",
+          "display_name": "Israel Nachson",
+          "orcid": "https://orcid.org/0000-0003-3928-9254"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I13955877",
+            "display_name": "Bar-Ilan University",
+            "ror": "https://ror.org/03kgsv495",
+            "country_code": "IL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I13955877"
+            ]
+          }
+        ],
+        "countries": [
+          "IL"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Israel Nachson",
+        "raw_affiliation_strings": [
+          "Bar\u2010Ilan University, Ramat\u2010Gan, Israel"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Bar\u2010Ilan University, Ramat\u2010Gan, Israel",
+            "institution_ids": [
+              "https://openalex.org/I13955877"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 2,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.76806028,
+    "has_fulltext": false,
+    "cited_by_count": 30,
+    "citation_normalized_percentile": {
+      "value": 0.6705285,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 96
+    },
+    "biblio": {
+      "volume": "12",
+      "issue": "2",
+      "first_page": "147",
+      "last_page": "157"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10918",
+      "display_name": "Memory Processes and Influences",
+      "score": 0.996999979019165,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10918",
+        "display_name": "Memory Processes and Influences",
+        "score": 0.996999979019165,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2805",
+          "display_name": "Cognitive Neuroscience"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/28",
+          "display_name": "Neuroscience"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11983",
+        "display_name": "Identity, Memory, and Therapy",
+        "score": 0.9947999715805054,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3204",
+          "display_name": "Developmental and Educational Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10448",
+        "display_name": "Memory and Neural Mechanisms",
+        "score": 0.9678999781608582,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2805",
+          "display_name": "Cognitive Neuroscience"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/28",
+          "display_name": "Neuroscience"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/optimal-distinctiveness-theory",
+        "display_name": "Optimal distinctiveness theory",
+        "score": 0.9675482511520386
+      },
+      {
+        "id": "https://openalex.org/keywords/surprise",
+        "display_name": "Surprise",
+        "score": 0.7925763726234436
+      },
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.7716962099075317
+      },
+      {
+        "id": "https://openalex.org/keywords/novelty",
+        "display_name": "Novelty",
+        "score": 0.7525773048400879
+      },
+      {
+        "id": "https://openalex.org/keywords/terrorism",
+        "display_name": "Terrorism",
+        "score": 0.6730000972747803
+      },
+      {
+        "id": "https://openalex.org/keywords/event",
+        "display_name": "Event (particle physics)",
+        "score": 0.4572666585445404
+      },
+      {
+        "id": "https://openalex.org/keywords/social-psychology",
+        "display_name": "Social psychology",
+        "score": 0.4419378340244293
+      },
+      {
+        "id": "https://openalex.org/keywords/cognitive-psychology",
+        "display_name": "Cognitive psychology",
+        "score": 0.4038223624229431
+      },
+      {
+        "id": "https://openalex.org/keywords/history",
+        "display_name": "History",
+        "score": 0.061665356159210205
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C47385372",
+        "wikidata": "https://www.wikidata.org/wiki/Q7098943",
+        "display_name": "Optimal distinctiveness theory",
+        "level": 2,
+        "score": 0.9675482511520386
+      },
+      {
+        "id": "https://openalex.org/C2780343955",
+        "wikidata": "https://www.wikidata.org/wiki/Q333173",
+        "display_name": "Surprise",
+        "level": 2,
+        "score": 0.7925763726234436
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.7716962099075317
+      },
+      {
+        "id": "https://openalex.org/C2778738651",
+        "wikidata": "https://www.wikidata.org/wiki/Q16546687",
+        "display_name": "Novelty",
+        "level": 2,
+        "score": 0.7525773048400879
+      },
+      {
+        "id": "https://openalex.org/C203133693",
+        "wikidata": "https://www.wikidata.org/wiki/Q7283",
+        "display_name": "Terrorism",
+        "level": 2,
+        "score": 0.6730000972747803
+      },
+      {
+        "id": "https://openalex.org/C2779662365",
+        "wikidata": "https://www.wikidata.org/wiki/Q5416694",
+        "display_name": "Event (particle physics)",
+        "level": 2,
+        "score": 0.4572666585445404
+      },
+      {
+        "id": "https://openalex.org/C77805123",
+        "wikidata": "https://www.wikidata.org/wiki/Q161272",
+        "display_name": "Social psychology",
+        "level": 1,
+        "score": 0.4419378340244293
+      },
+      {
+        "id": "https://openalex.org/C180747234",
+        "wikidata": "https://www.wikidata.org/wiki/Q23373",
+        "display_name": "Cognitive psychology",
+        "level": 1,
+        "score": 0.4038223624229431
+      },
+      {
+        "id": "https://openalex.org/C95457728",
+        "wikidata": "https://www.wikidata.org/wiki/Q309",
+        "display_name": "History",
+        "level": 0,
+        "score": 0.061665356159210205
+      },
+      {
+        "id": "https://openalex.org/C62520636",
+        "wikidata": "https://www.wikidata.org/wiki/Q944",
+        "display_name": "Quantum mechanics",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C121332964",
+        "wikidata": "https://www.wikidata.org/wiki/Q413",
+        "display_name": "Physics",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C166957645",
+        "wikidata": "https://www.wikidata.org/wiki/Q23498",
+        "display_name": "Archaeology",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [
+      {
+        "descriptor_ui": "D000328",
+        "descriptor_name": "Adult",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D000367",
+        "descriptor_name": "Age Factors",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D004538",
+        "descriptor_name": "Eidetic Imagery",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D004644",
+        "descriptor_name": "Emotions",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D005260",
+        "descriptor_name": "Female",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D006801",
+        "descriptor_name": "Humans",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008297",
+        "descriptor_name": "Male",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D011939",
+        "descriptor_name": "Mental Recall",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D012737",
+        "descriptor_name": "Sex Factors",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D023481",
+        "descriptor_name": "Terrorism",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D000328",
+        "descriptor_name": "Adult",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D000367",
+        "descriptor_name": "Age Factors",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D004538",
+        "descriptor_name": "Eidetic Imagery",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D004644",
+        "descriptor_name": "Emotions",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D005260",
+        "descriptor_name": "Female",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D006801",
+        "descriptor_name": "Humans",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008297",
+        "descriptor_name": "Male",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D011939",
+        "descriptor_name": "Mental Recall",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D012737",
+        "descriptor_name": "Sex Factors",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D023481",
+        "descriptor_name": "Terrorism",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      }
+    ],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "doi:10.1080/09658210244000432",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1080/09658210244000432",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S47258695",
+          "display_name": "Memory",
+          "issn_l": "0965-8211",
+          "issn": [
+            "0965-8211",
+            "1464-0686"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320547",
+          "host_organization_name": "Taylor & Francis",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320547"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Memory",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmid:15250180",
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/15250180",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Memory (Hove, England)",
+        "raw_type": null
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.6000000238418579,
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W4225552138",
+      "https://openalex.org/W3046185751",
+      "https://openalex.org/W2475308993",
+      "https://openalex.org/W2477273251",
+      "https://openalex.org/W2790526747",
+      "https://openalex.org/W4386062776",
+      "https://openalex.org/W2085754318",
+      "https://openalex.org/W3089153966",
+      "https://openalex.org/W3164441286",
+      "https://openalex.org/W3204384470"
+    ],
+    "abstract_inverted_index": {
+      "The": [
+        0
+      ],
+      "purpose": [
+        1
+      ],
+      "of": [
+        2,
+        13,
+        52,
+        59,
+        79,
+        85,
+        91,
+        113,
+        121,
+        145
+      ],
+      "the": [
+        3,
+        25,
+        30,
+        70,
+        80,
+        83,
+        89,
+        111,
+        122,
+        129,
+        143
+      ],
+      "present": [
+        4
+      ],
+      "study": [
+        5
+      ],
+      "was": [
+        6
+      ],
+      "to": [
+        7
+      ],
+      "find": [
+        8
+      ],
+      "out": [
+        9
+      ],
+      "whether": [
+        10
+      ],
+      "a": [
+        11,
+        42
+      ],
+      "series": [
+        12
+      ],
+      "terrorist": [
+        14,
+        61,
+        123
+      ],
+      "attacks,": [
+        15
+      ],
+      "which": [
+        16,
+        29
+      ],
+      "share": [
+        17
+      ],
+      "some": [
+        18
+      ],
+      "common": [
+        19
+      ],
+      "features,": [
+        20
+      ],
+      "elicit": [
+        21
+      ],
+      "flashbulb": [
+        22,
+        114,
+        146
+      ],
+      "memories": [
+        23,
+        115,
+        120
+      ],
+      "(of": [
+        24
+      ],
+      "personal": [
+        26,
+        96
+      ],
+      "circumstances": [
+        27
+      ],
+      "in": [
+        28,
+        67,
+        119,
+        142
+      ],
+      "person": [
+        31
+      ],
+      "first": [
+        32
+      ],
+      "learned": [
+        33
+      ],
+      "about": [
+        34
+      ],
+      "these": [
+        35
+      ],
+      "events)": [
+        36
+      ],
+      "that": [
+        37,
+        63,
+        103,
+        106,
+        125
+      ],
+      "are": [
+        38,
+        107
+      ],
+      "usually": [
+        39,
+        108
+      ],
+      "elicited": [
+        40
+      ],
+      "by": [
+        41,
+        128
+      ],
+      "single,": [
+        43
+      ],
+      "unexpected,": [
+        44
+      ],
+      "surprising,": [
+        45
+      ],
+      "and": [
+        46,
+        88,
+        98
+      ],
+      "personally": [
+        47
+      ],
+      "important": [
+        48,
+        140
+      ],
+      "event.": [
+        49
+      ],
+      "A": [
+        50
+      ],
+      "total": [
+        51
+      ],
+      "131": [
+        53
+      ],
+      "participants": [
+        54,
+        130
+      ],
+      "answered": [
+        55
+      ],
+      "questions": [
+        56
+      ],
+      "regarding": [
+        57
+      ],
+      "details": [
+        58
+      ],
+      "five": [
+        60,
+        81
+      ],
+      "attacks": [
+        62,
+        124
+      ],
+      "had": [
+        64
+      ],
+      "taken": [
+        65
+      ],
+      "place": [
+        66
+      ],
+      "Israel": [
+        68
+      ],
+      "during": [
+        69
+      ],
+      "years": [
+        71
+      ],
+      "1995-1997.": [
+        72
+      ],
+      "In": [
+        73
+      ],
+      "addition,": [
+        74
+      ],
+      "they": [
+        75
+      ],
+      "assessed,": [
+        76
+      ],
+      "for": [
+        77
+      ],
+      "each": [
+        78
+      ],
+      "events,": [
+        82
+      ],
+      "number": [
+        84
+      ],
+      "overt": [
+        86
+      ],
+      "rehearsals,": [
+        87
+      ],
+      "degrees": [
+        90
+      ],
+      "emotional": [
+        92
+      ],
+      "intensity,": [
+        93
+      ],
+      "surprise,": [
+        94
+      ],
+      "novelty,": [
+        95
+      ],
+      "importance,": [
+        97
+      ],
+      "distinctiveness.": [
+        99
+      ],
+      "Data": [
+        100
+      ],
+      "analyses": [
+        101
+      ],
+      "showed": [
+        102
+      ],
+      "most": [
+        104
+      ],
+      "variables": [
+        105
+      ],
+      "associated": [
+        109
+      ],
+      "with": [
+        110
+      ],
+      "formation": [
+        112,
+        144
+      ],
+      "were": [
+        116,
+        126
+      ],
+      "also": [
+        117
+      ],
+      "found": [
+        118
+      ],
+      "judged": [
+        127
+      ],
+      "as": [
+        131
+      ],
+      "being": [
+        132
+      ],
+      "distinctive.": [
+        133
+      ],
+      "Distinctiveness": [
+        134
+      ],
+      "may": [
+        135
+      ],
+      "therefore": [
+        136
+      ],
+      "be": [
+        137
+      ],
+      "considered": [
+        138
+      ],
+      "an": [
+        139
+      ],
+      "factor": [
+        141
+      ],
+      "memories.": [
+        147
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2024,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2014,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2013,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2012,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2127109738",
+    "doi": "https://doi.org/10.1080/09658211.2013.775310",
+    "title": "Living in History in Lebanon: The influence of chronic social upheaval on the organisation of autobiographical memories",
+    "display_name": "Living in History in Lebanon: The influence of chronic social upheaval on the organisation of autobiographical memories",
+    "relevance_score": 10.922706,
+    "publication_year": 2013,
+    "publication_date": "2013-03-11",
+    "ids": {
+      "openalex": "https://openalex.org/W2127109738",
+      "doi": "https://doi.org/10.1080/09658211.2013.775310",
+      "mag": "2127109738",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/23473445"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1080/09658211.2013.775310",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1080/09658211.2013.775310",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S47258695",
+        "display_name": "Memory",
+        "issn_l": "0965-8211",
+        "issn": [
+          "0965-8211",
+          "1464-0686"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320547",
+        "host_organization_name": "Taylor & Francis",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320547"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Memory",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5039531393",
+          "display_name": "Samar Zebian",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I56306041",
+            "display_name": "Lebanese American University",
+            "ror": "https://ror.org/00hqkan37",
+            "country_code": "LB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I56306041"
+            ]
+          }
+        ],
+        "countries": [
+          "LB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Samar Zebian",
+        "raw_affiliation_strings": [
+          "a Social Science Department , Lebanese American University , Beirut , Lebanon."
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "a Social Science Department , Lebanese American University , Beirut , Lebanon.",
+            "institution_ids": [
+              "https://openalex.org/I56306041"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5035989269",
+          "display_name": "Norman Brown",
+          "orcid": "https://orcid.org/0000-0002-8103-7440"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I154425047",
+            "display_name": "University of Alberta",
+            "ror": "https://ror.org/0160cpw27",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I154425047"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Norman R. Brown",
+        "raw_affiliation_strings": [
+          "Psychology Department, University of Alberta, Edmonton, Canada"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Psychology Department, University of Alberta, Edmonton, Canada",
+            "institution_ids": [
+              "https://openalex.org/I154425047"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 2,
+    "institutions_distinct_count": 2,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 4.69701279,
+    "has_fulltext": false,
+    "cited_by_count": 32,
+    "citation_normalized_percentile": {
+      "value": 0.94714737,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 99
+    },
+    "biblio": {
+      "volume": "22",
+      "issue": "3",
+      "first_page": "194",
+      "last_page": "211"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11983",
+      "display_name": "Identity, Memory, and Therapy",
+      "score": 0.9995999932289124,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11983",
+        "display_name": "Identity, Memory, and Therapy",
+        "score": 0.9995999932289124,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3204",
+          "display_name": "Developmental and Educational Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10918",
+        "display_name": "Memory Processes and Influences",
+        "score": 0.9991000294685364,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2805",
+          "display_name": "Cognitive Neuroscience"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/28",
+          "display_name": "Neuroscience"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11104",
+        "display_name": "Memory, Trauma, and Commemoration",
+        "score": 0.9483000040054321,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3207",
+          "display_name": "Social Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.7257082462310791
+      },
+      {
+        "id": "https://openalex.org/keywords/autobiographical-memory",
+        "display_name": "Autobiographical memory",
+        "score": 0.6515163779258728
+      },
+      {
+        "id": "https://openalex.org/keywords/spanish-civil-war",
+        "display_name": "Spanish Civil War",
+        "score": 0.543120265007019
+      },
+      {
+        "id": "https://openalex.org/keywords/period",
+        "display_name": "Period (music)",
+        "score": 0.49173906445503235
+      },
+      {
+        "id": "https://openalex.org/keywords/sample",
+        "display_name": "Sample (material)",
+        "score": 0.4622575640678406
+      },
+      {
+        "id": "https://openalex.org/keywords/developmental-psychology",
+        "display_name": "Developmental psychology",
+        "score": 0.3908579349517822
+      },
+      {
+        "id": "https://openalex.org/keywords/social-psychology",
+        "display_name": "Social psychology",
+        "score": 0.36293303966522217
+      },
+      {
+        "id": "https://openalex.org/keywords/history",
+        "display_name": "History",
+        "score": 0.31206876039505005
+      },
+      {
+        "id": "https://openalex.org/keywords/cognition",
+        "display_name": "Cognition",
+        "score": 0.1285659372806549
+      },
+      {
+        "id": "https://openalex.org/keywords/psychiatry",
+        "display_name": "Psychiatry",
+        "score": 0.0962127149105072
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.7257082462310791
+      },
+      {
+        "id": "https://openalex.org/C144814538",
+        "wikidata": "https://www.wikidata.org/wiki/Q682304",
+        "display_name": "Autobiographical memory",
+        "level": 3,
+        "score": 0.6515163779258728
+      },
+      {
+        "id": "https://openalex.org/C81631423",
+        "wikidata": "https://www.wikidata.org/wiki/Q10859",
+        "display_name": "Spanish Civil War",
+        "level": 2,
+        "score": 0.543120265007019
+      },
+      {
+        "id": "https://openalex.org/C2781291010",
+        "wikidata": "https://www.wikidata.org/wiki/Q178580",
+        "display_name": "Period (music)",
+        "level": 2,
+        "score": 0.49173906445503235
+      },
+      {
+        "id": "https://openalex.org/C198531522",
+        "wikidata": "https://www.wikidata.org/wiki/Q485146",
+        "display_name": "Sample (material)",
+        "level": 2,
+        "score": 0.4622575640678406
+      },
+      {
+        "id": "https://openalex.org/C138496976",
+        "wikidata": "https://www.wikidata.org/wiki/Q175002",
+        "display_name": "Developmental psychology",
+        "level": 1,
+        "score": 0.3908579349517822
+      },
+      {
+        "id": "https://openalex.org/C77805123",
+        "wikidata": "https://www.wikidata.org/wiki/Q161272",
+        "display_name": "Social psychology",
+        "level": 1,
+        "score": 0.36293303966522217
+      },
+      {
+        "id": "https://openalex.org/C95457728",
+        "wikidata": "https://www.wikidata.org/wiki/Q309",
+        "display_name": "History",
+        "level": 0,
+        "score": 0.31206876039505005
+      },
+      {
+        "id": "https://openalex.org/C169900460",
+        "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+        "display_name": "Cognition",
+        "level": 2,
+        "score": 0.1285659372806549
+      },
+      {
+        "id": "https://openalex.org/C118552586",
+        "wikidata": "https://www.wikidata.org/wiki/Q7867",
+        "display_name": "Psychiatry",
+        "level": 1,
+        "score": 0.0962127149105072
+      },
+      {
+        "id": "https://openalex.org/C43617362",
+        "wikidata": "https://www.wikidata.org/wiki/Q170050",
+        "display_name": "Chromatography",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "wikidata": "https://www.wikidata.org/wiki/Q2329",
+        "display_name": "Chemistry",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C24890656",
+        "wikidata": "https://www.wikidata.org/wiki/Q82811",
+        "display_name": "Acoustics",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C121332964",
+        "wikidata": "https://www.wikidata.org/wiki/Q413",
+        "display_name": "Physics",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C166957645",
+        "wikidata": "https://www.wikidata.org/wiki/Q23498",
+        "display_name": "Archaeology",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [
+      {
+        "descriptor_ui": "D000328",
+        "descriptor_name": "Adult",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D003463",
+        "descriptor_name": "Cues",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D005260",
+        "descriptor_name": "Female",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D049673",
+        "descriptor_name": "History, 20th Century",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D006801",
+        "descriptor_name": "Humans",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D007861",
+        "descriptor_name": "Lebanon",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008297",
+        "descriptor_name": "Male",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D061212",
+        "descriptor_name": "Memory, Episodic",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D008875",
+        "descriptor_name": "Middle Aged",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D012922",
+        "descriptor_name": "Social Change",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D011795",
+        "descriptor_name": "Surveys and Questionnaires",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D014857",
+        "descriptor_name": "Warfare",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D000328",
+        "descriptor_name": "Adult",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D003463",
+        "descriptor_name": "Cues",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D005260",
+        "descriptor_name": "Female",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D049673",
+        "descriptor_name": "History, 20th Century",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D006801",
+        "descriptor_name": "Humans",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D007861",
+        "descriptor_name": "Lebanon",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008297",
+        "descriptor_name": "Male",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D061212",
+        "descriptor_name": "Memory, Episodic",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D008875",
+        "descriptor_name": "Middle Aged",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D012922",
+        "descriptor_name": "Social Change",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D011795",
+        "descriptor_name": "Surveys and Questionnaires",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D014857",
+        "descriptor_name": "Warfare",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      }
+    ],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "doi:10.1080/09658211.2013.775310",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1080/09658211.2013.775310",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S47258695",
+          "display_name": "Memory",
+          "issn_l": "0965-8211",
+          "issn": [
+            "0965-8211",
+            "1464-0686"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320547",
+          "host_organization_name": "Taylor & Francis",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320547"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Memory",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmid:23473445",
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/23473445",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Memory (Hove, England)",
+        "raw_type": null
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 47,
+    "referenced_works": [
+      "https://openalex.org/W2048491013",
+      "https://openalex.org/W1993766669",
+      "https://openalex.org/W2297191214",
+      "https://openalex.org/W4237457894",
+      "https://openalex.org/W2138514784",
+      "https://openalex.org/W2127823147",
+      "https://openalex.org/W1588734039",
+      "https://openalex.org/W2000060666",
+      "https://openalex.org/W2007114693",
+      "https://openalex.org/W4250082029",
+      "https://openalex.org/W2092103268",
+      "https://openalex.org/W2028361409",
+      "https://openalex.org/W4243812126",
+      "https://openalex.org/W1614220992",
+      "https://openalex.org/W2011714942",
+      "https://openalex.org/W2310064305",
+      "https://openalex.org/W2071159072",
+      "https://openalex.org/W2016645767",
+      "https://openalex.org/W2093307884",
+      "https://openalex.org/W2064100591",
+      "https://openalex.org/W2254716341",
+      "https://openalex.org/W2078562360",
+      "https://openalex.org/W2012985719",
+      "https://openalex.org/W2166392338",
+      "https://openalex.org/W2073138477",
+      "https://openalex.org/W2123372240",
+      "https://openalex.org/W2131771717",
+      "https://openalex.org/W563699210",
+      "https://openalex.org/W4206205808",
+      "https://openalex.org/W2087164963",
+      "https://openalex.org/W1966613065",
+      "https://openalex.org/W2000784086",
+      "https://openalex.org/W2002706658",
+      "https://openalex.org/W398737821",
+      "https://openalex.org/W355687499",
+      "https://openalex.org/W2061674891",
+      "https://openalex.org/W2507837480",
+      "https://openalex.org/W576572938",
+      "https://openalex.org/W1577790659",
+      "https://openalex.org/W2086748869",
+      "https://openalex.org/W2497462024",
+      "https://openalex.org/W63918682",
+      "https://openalex.org/W2003469501",
+      "https://openalex.org/W2110290963",
+      "https://openalex.org/W3202912068",
+      "https://openalex.org/W4245491202",
+      "https://openalex.org/W1508132180"
+    ],
+    "related_works": [
+      "https://openalex.org/W2152178585",
+      "https://openalex.org/W4389311804",
+      "https://openalex.org/W2902384519",
+      "https://openalex.org/W2711389454",
+      "https://openalex.org/W1463739298",
+      "https://openalex.org/W2083913814",
+      "https://openalex.org/W2382798409",
+      "https://openalex.org/W1993808693",
+      "https://openalex.org/W2391401493",
+      "https://openalex.org/W4241680984"
+    ],
+    "abstract_inverted_index": {
+      "The": [
+        0,
+        20
+      ],
+      "Living": [
+        1
+      ],
+      "in": [
+        2,
+        25,
+        34,
+        53,
+        94,
+        106,
+        131,
+        161
+      ],
+      "History": [
+        3
+      ],
+      "(LiH)": [
+        4
+      ],
+      "effect": [
+        5,
+        22,
+        93,
+        105,
+        122
+      ],
+      "is": [
+        6
+      ],
+      "a": [
+        7,
+        29,
+        89,
+        100,
+        158
+      ],
+      "litmus": [
+        8
+      ],
+      "test": [
+        9
+      ],
+      "for": [
+        10,
+        60
+      ],
+      "the": [
+        11,
+        35,
+        38,
+        48,
+        63,
+        74,
+        78,
+        95,
+        107,
+        113,
+        120,
+        127,
+        143,
+        146,
+        162
+      ],
+      "degree": [
+        12
+      ],
+      "to": [
+        13,
+        82,
+        112,
+        177
+      ],
+      "which": [
+        14,
+        156,
+        172
+      ],
+      "historical": [
+        15
+      ],
+      "events": [
+        16,
+        155
+      ],
+      "reorganise": [
+        17
+      ],
+      "autobiographical": [
+        18,
+        85,
+        170
+      ],
+      "memory.": [
+        19
+      ],
+      "LiH": [
+        21,
+        92,
+        104,
+        121,
+        147
+      ],
+      "was": [
+        23,
+        57
+      ],
+      "studied": [
+        24
+      ],
+      "two": [
+        26
+      ],
+      "Lebanese": [
+        27,
+        40
+      ],
+      "samples:": [
+        28
+      ],
+      "Beiruti": [
+        30
+      ],
+      "sample": [
+        31,
+        97
+      ],
+      "that": [
+        32,
+        56,
+        119,
+        135,
+        152
+      ],
+      "lived": [
+        33,
+        52
+      ],
+      "epicentre": [
+        36
+      ],
+      "of": [
+        37,
+        62,
+        71,
+        129,
+        139,
+        145,
+        164
+      ],
+      "15-year": [
+        39
+      ],
+      "Civil": [
+        41
+      ],
+      "War": [
+        42
+      ],
+      "(1975-1990)": [
+        43
+      ],
+      "and": [
+        44,
+        124,
+        134,
+        175
+      ],
+      "another": [
+        45
+      ],
+      "group": [
+        46
+      ],
+      "from": [
+        47
+      ],
+      "Bi'qa": [
+        49,
+        108
+      ],
+      "region": [
+        50
+      ],
+      "who": [
+        51
+      ],
+      "an": [
+        54,
+        132
+      ],
+      "area": [
+        55,
+        133
+      ],
+      "indirectly": [
+        58
+      ],
+      "exposed": [
+        59
+      ],
+      "most": [
+        61
+      ],
+      "civil": [
+        64
+      ],
+      "war": [
+        65,
+        72,
+        140
+      ],
+      "but": [
+        66,
+        98
+      ],
+      "experienced": [
+        67
+      ],
+      "one": [
+        68
+      ],
+      "short-term": [
+        69
+      ],
+      "period": [
+        70
+      ],
+      "during": [
+        73
+      ],
+      "Israeli": [
+        75
+      ],
+      "invasion.": [
+        76
+      ],
+      "Using": [
+        77
+      ],
+      "two-phase": [
+        79
+      ],
+      "word-cueing": [
+        80
+      ],
+      "task": [
+        81
+      ],
+      "elicit": [
+        83
+      ],
+      "dated": [
+        84
+      ],
+      "memories,": [
+        86
+      ],
+      "we": [
+        87,
+        116
+      ],
+      "observed": [
+        88
+      ],
+      "significantly": [
+        90
+      ],
+      "stronger": [
+        91
+      ],
+      "Beirut": [
+        96
+      ],
+      "also": [
+        99
+      ],
+      "significant": [
+        101
+      ],
+      "yet": [
+        102
+      ],
+      "weaker": [
+        103
+      ],
+      "sample.": [
+        109
+      ],
+      "In": [
+        110
+      ],
+      "addition": [
+        111
+      ],
+      "main": [
+        114
+      ],
+      "finding": [
+        115
+      ],
+      "offer": [
+        117
+      ],
+      "evidence": [
+        118
+      ],
+      "waxes": [
+        123
+      ],
+      "wanes": [
+        125
+      ],
+      "with": [
+        126
+      ],
+      "level": [
+        128
+      ],
+      "conflict": [
+        130
+      ],
+      "reported": [
+        136
+      ],
+      "personal": [
+        137
+      ],
+      "experiences": [
+        138
+      ],
+      "exposure": [
+        141
+      ],
+      "predict": [
+        142
+      ],
+      "strength": [
+        144
+      ],
+      "effect.": [
+        148
+      ],
+      "Our": [
+        149
+      ],
+      "findings": [
+        150
+      ],
+      "suggest": [
+        151
+      ],
+      "collective": [
+        153
+      ],
+      "transitional": [
+        154
+      ],
+      "produce": [
+        157
+      ],
+      "marked": [
+        159
+      ],
+      "change": [
+        160
+      ],
+      "fabric": [
+        163
+      ],
+      "daily": [
+        165
+      ],
+      "living": [
+        166
+      ],
+      "engender": [
+        167
+      ],
+      "historically": [
+        168
+      ],
+      "defined": [
+        169
+      ],
+      "periods": [
+        171
+      ],
+      "give": [
+        173
+      ],
+      "structure": [
+        174
+      ],
+      "organisation": [
+        176
+      ],
+      "how": [
+        178
+      ],
+      "individuals": [
+        179
+      ],
+      "remember": [
+        180
+      ],
+      "their": [
+        181
+      ],
+      "past.": [
+        182
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 6
+      },
+      {
+        "year": 2014,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2013,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2012,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2006208555",
+    "doi": "https://doi.org/10.1080/09658210344000567",
+    "title": "The earliest memory in individuals raised in either traditional and reformed kibbutz or outside the kibbutz",
+    "display_name": "The earliest memory in individuals raised in either traditional and reformed kibbutz or outside the kibbutz",
+    "relevance_score": 10.311475,
+    "publication_year": 2004,
+    "publication_date": "2004-08-09",
+    "ids": {
+      "openalex": "https://openalex.org/W2006208555",
+      "doi": "https://doi.org/10.1080/09658210344000567",
+      "mag": "2006208555",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/15724907"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1080/09658210344000567",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1080/09658210344000567",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S47258695",
+        "display_name": "Memory",
+        "issn_l": "0965-8211",
+        "issn": [
+          "0965-8211",
+          "1464-0686"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320547",
+        "host_organization_name": "Taylor & Francis",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320547"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Memory",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5087727703",
+          "display_name": "Ilan Harpaz\u2010Rotem",
+          "orcid": "https://orcid.org/0000-0002-6066-9406"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I102179633",
+            "display_name": "New School",
+            "ror": "https://ror.org/02tvcev59",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I102179633"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Ilan Harpaz-Rotem",
+        "raw_affiliation_strings": [
+          "The New School for Social Research, New York, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "The New School for Social Research, New York, USA",
+            "institution_ids": [
+              "https://openalex.org/I102179633"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5104044452",
+          "display_name": "William Hirst",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I102179633",
+            "display_name": "New School",
+            "ror": "https://ror.org/02tvcev59",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I102179633"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "William Hirst",
+        "raw_affiliation_strings": [
+          "The New School for Social Research, New York, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "The New School for Social Research, New York, USA",
+            "institution_ids": [
+              "https://openalex.org/I102179633"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 2,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 21,
+    "citation_normalized_percentile": {
+      "value": 0.14390561,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 90,
+      "max": 98
+    },
+    "biblio": {
+      "volume": "13",
+      "issue": "1",
+      "first_page": "51",
+      "last_page": "62"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11983",
+      "display_name": "Identity, Memory, and Therapy",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11983",
+        "display_name": "Identity, Memory, and Therapy",
+        "score": 0.9997000098228455,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3204",
+          "display_name": "Developmental and Educational Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13784",
+        "display_name": "Jewish Identity and Society",
+        "score": 0.9707000255584717,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3317",
+          "display_name": "Demography"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11506",
+        "display_name": "Children's Rights and Participation",
+        "score": 0.9473000168800354,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.8398438096046448
+      },
+      {
+        "id": "https://openalex.org/keywords/autobiographical-memory",
+        "display_name": "Autobiographical memory",
+        "score": 0.6765973567962646
+      },
+      {
+        "id": "https://openalex.org/keywords/developmental-psychology",
+        "display_name": "Developmental psychology",
+        "score": 0.6557393670082092
+      },
+      {
+        "id": "https://openalex.org/keywords/childhood-amnesia",
+        "display_name": "Childhood amnesia",
+        "score": 0.5701045989990234
+      },
+      {
+        "id": "https://openalex.org/keywords/childhood-memory",
+        "display_name": "Childhood memory",
+        "score": 0.46158912777900696
+      },
+      {
+        "id": "https://openalex.org/keywords/cognition",
+        "display_name": "Cognition",
+        "score": 0.13785582780838013
+      },
+      {
+        "id": "https://openalex.org/keywords/episodic-memory",
+        "display_name": "Episodic memory",
+        "score": 0.12135440111160278
+      },
+      {
+        "id": "https://openalex.org/keywords/psychiatry",
+        "display_name": "Psychiatry",
+        "score": 0.08223998546600342
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.8398438096046448
+      },
+      {
+        "id": "https://openalex.org/C144814538",
+        "wikidata": "https://www.wikidata.org/wiki/Q682304",
+        "display_name": "Autobiographical memory",
+        "level": 3,
+        "score": 0.6765973567962646
+      },
+      {
+        "id": "https://openalex.org/C138496976",
+        "wikidata": "https://www.wikidata.org/wiki/Q175002",
+        "display_name": "Developmental psychology",
+        "level": 1,
+        "score": 0.6557393670082092
+      },
+      {
+        "id": "https://openalex.org/C196823706",
+        "wikidata": "https://www.wikidata.org/wiki/Q493965",
+        "display_name": "Childhood amnesia",
+        "level": 5,
+        "score": 0.5701045989990234
+      },
+      {
+        "id": "https://openalex.org/C56122325",
+        "wikidata": "https://www.wikidata.org/wiki/Q5097984",
+        "display_name": "Childhood memory",
+        "level": 4,
+        "score": 0.46158912777900696
+      },
+      {
+        "id": "https://openalex.org/C169900460",
+        "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+        "display_name": "Cognition",
+        "level": 2,
+        "score": 0.13785582780838013
+      },
+      {
+        "id": "https://openalex.org/C88576662",
+        "wikidata": "https://www.wikidata.org/wiki/Q18646",
+        "display_name": "Episodic memory",
+        "level": 3,
+        "score": 0.12135440111160278
+      },
+      {
+        "id": "https://openalex.org/C118552586",
+        "wikidata": "https://www.wikidata.org/wiki/Q7867",
+        "display_name": "Psychiatry",
+        "level": 1,
+        "score": 0.08223998546600342
+      }
+    ],
+    "mesh": [
+      {
+        "descriptor_ui": "D000328",
+        "descriptor_name": "Adult",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D000704",
+        "descriptor_name": "Analysis of Variance",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D001722",
+        "descriptor_name": "Birth Order",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D016022",
+        "descriptor_name": "Case-Control Studies",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D002648",
+        "descriptor_name": "Child",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D002668",
+        "descriptor_name": "Child Rearing",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D005260",
+        "descriptor_name": "Female",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D006801",
+        "descriptor_name": "Humans",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D007557",
+        "descriptor_name": "Israel",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008019",
+        "descriptor_name": "Life Style",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008297",
+        "descriptor_name": "Male",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008568",
+        "descriptor_name": "Memory",
+        "qualifier_ui": "Q000502",
+        "qualifier_name": "physiology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D010287",
+        "descriptor_name": "Parent-Child Relations",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D011581",
+        "descriptor_name": "Psychological Tests",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D012931",
+        "descriptor_name": "Social Environment",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D000328",
+        "descriptor_name": "Adult",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D000704",
+        "descriptor_name": "Analysis of Variance",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D001722",
+        "descriptor_name": "Birth Order",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D016022",
+        "descriptor_name": "Case-Control Studies",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D002648",
+        "descriptor_name": "Child",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D002668",
+        "descriptor_name": "Child Rearing",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D005260",
+        "descriptor_name": "Female",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D006801",
+        "descriptor_name": "Humans",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D007557",
+        "descriptor_name": "Israel",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008019",
+        "descriptor_name": "Life Style",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008297",
+        "descriptor_name": "Male",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008568",
+        "descriptor_name": "Memory",
+        "qualifier_ui": "Q000502",
+        "qualifier_name": "physiology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D010287",
+        "descriptor_name": "Parent-Child Relations",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D011581",
+        "descriptor_name": "Psychological Tests",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D012931",
+        "descriptor_name": "Social Environment",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      }
+    ],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "doi:10.1080/09658210344000567",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1080/09658210344000567",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S47258695",
+          "display_name": "Memory",
+          "issn_l": "0965-8211",
+          "issn": [
+            "0965-8211",
+            "1464-0686"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320547",
+          "host_organization_name": "Taylor & Francis",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320547"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Memory",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmid:15724907",
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/15724907",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Memory (Hove, England)",
+        "raw_type": null
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.5299999713897705,
+        "display_name": "Gender equality",
+        "id": "https://metadata.un.org/sdg/5"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 59,
+    "referenced_works": [
+      "https://openalex.org/W2317744289",
+      "https://openalex.org/W4249820983",
+      "https://openalex.org/W4237662297",
+      "https://openalex.org/W1989174874",
+      "https://openalex.org/W2069036390",
+      "https://openalex.org/W2048211379",
+      "https://openalex.org/W2121454967",
+      "https://openalex.org/W4237520814",
+      "https://openalex.org/W4321258694",
+      "https://openalex.org/W2003359649",
+      "https://openalex.org/W2025349879",
+      "https://openalex.org/W2092504021",
+      "https://openalex.org/W2076422488",
+      "https://openalex.org/W1999998473",
+      "https://openalex.org/W2104968811",
+      "https://openalex.org/W2074470839",
+      "https://openalex.org/W2043912614",
+      "https://openalex.org/W2140504520",
+      "https://openalex.org/W2116273328",
+      "https://openalex.org/W2065005740",
+      "https://openalex.org/W1995397231",
+      "https://openalex.org/W1538915476",
+      "https://openalex.org/W2104779943",
+      "https://openalex.org/W166768297",
+      "https://openalex.org/W1576741957",
+      "https://openalex.org/W4247940727",
+      "https://openalex.org/W4240980149",
+      "https://openalex.org/W2037194051",
+      "https://openalex.org/W2133357591",
+      "https://openalex.org/W2030936859",
+      "https://openalex.org/W4238565055",
+      "https://openalex.org/W1721498918",
+      "https://openalex.org/W2078351871",
+      "https://openalex.org/W1997398954",
+      "https://openalex.org/W2022777891",
+      "https://openalex.org/W2045974045",
+      "https://openalex.org/W656753829",
+      "https://openalex.org/W2062854574",
+      "https://openalex.org/W2047816565",
+      "https://openalex.org/W624291284",
+      "https://openalex.org/W2006381029",
+      "https://openalex.org/W2167543949",
+      "https://openalex.org/W299574235",
+      "https://openalex.org/W1964633509",
+      "https://openalex.org/W2481903087",
+      "https://openalex.org/W2467565240",
+      "https://openalex.org/W2091840777",
+      "https://openalex.org/W2056337464",
+      "https://openalex.org/W1757377062",
+      "https://openalex.org/W2067863415",
+      "https://openalex.org/W1534146066",
+      "https://openalex.org/W1979253016",
+      "https://openalex.org/W2596227908",
+      "https://openalex.org/W2085473754",
+      "https://openalex.org/W4230202583",
+      "https://openalex.org/W2165375190",
+      "https://openalex.org/W2135943618",
+      "https://openalex.org/W2020063376",
+      "https://openalex.org/W4298742451"
+    ],
+    "related_works": [
+      "https://openalex.org/W2711389454",
+      "https://openalex.org/W2330839268",
+      "https://openalex.org/W594293746",
+      "https://openalex.org/W2382798409",
+      "https://openalex.org/W80603291",
+      "https://openalex.org/W2082051264",
+      "https://openalex.org/W2506905780",
+      "https://openalex.org/W2254716341",
+      "https://openalex.org/W4386250497",
+      "https://openalex.org/W1985017633"
+    ],
+    "abstract_inverted_index": {
+      "In": [
+        0
+      ],
+      "two": [
+        1
+      ],
+      "studies": [
+        2
+      ],
+      "we": [
+        3,
+        44
+      ],
+      "compared": [
+        4
+      ],
+      "the": [
+        5,
+        14,
+        38,
+        52,
+        79,
+        84,
+        97,
+        109,
+        112
+      ],
+      "age": [
+        6,
+        110
+      ],
+      "of": [
+        7,
+        17,
+        26,
+        41,
+        68,
+        87,
+        111
+      ],
+      "traditional": [
+        8,
+        53
+      ],
+      "kibbutz": [
+        9
+      ],
+      "members'": [
+        10
+      ],
+      "first": [
+        11,
+        15
+      ],
+      "memories": [
+        12,
+        16,
+        120
+      ],
+      "with": [
+        13,
+        117
+      ],
+      "people": [
+        18,
+        27
+      ],
+      "raised": [
+        19,
+        30,
+        50,
+        73
+      ],
+      "in": [
+        20,
+        31,
+        51,
+        74,
+        95,
+        108
+      ],
+      "Israeli": [
+        21
+      ],
+      "cities": [
+        22
+      ],
+      "(Study": [
+        23,
+        34
+      ],
+      "1)": [
+        24
+      ],
+      "and": [
+        25,
+        46
+      ],
+      "who": [
+        28,
+        81
+      ],
+      "were": [
+        29,
+        82,
+        103,
+        124
+      ],
+      "reformed": [
+        32,
+        75
+      ],
+      "kibbutzim": [
+        33,
+        76
+      ],
+      "2).": [
+        35
+      ],
+      "Building": [
+        36
+      ],
+      "on": [
+        37
+      ],
+      "socio-cultural": [
+        39
+      ],
+      "model": [
+        40
+      ],
+      "autobiographical": [
+        42,
+        69
+      ],
+      "memory,": [
+        43,
+        114
+      ],
+      "predicted": [
+        45
+      ],
+      "found": [
+        47
+      ],
+      "that": [
+        48
+      ],
+      "children": [
+        49,
+        72
+      ],
+      "kibbutz,": [
+        54,
+        80
+      ],
+      "not": [
+        55
+      ],
+      "by": [
+        56,
+        60,
+        122,
+        130
+      ],
+      "their": [
+        57,
+        88
+      ],
+      "parents,": [
+        58
+      ],
+      "but": [
+        59,
+        115
+      ],
+      "a": [
+        61,
+        64
+      ],
+      "metapelet,": [
+        62
+      ],
+      "had": [
+        63
+      ],
+      "significantly": [
+        65
+      ],
+      "later": [
+        66
+      ],
+      "onset": [
+        67
+      ],
+      "memory": [
+        70
+      ],
+      "than": [
+        71,
+        127
+      ],
+      "or": [
+        77
+      ],
+      "outside": [
+        78
+      ],
+      "under": [
+        83
+      ],
+      "primary": [
+        85
+      ],
+      "care": [
+        86
+      ],
+      "parents.": [
+        89
+      ],
+      "We": [
+        90
+      ],
+      "also": [
+        91
+      ],
+      "examined": [
+        92
+      ],
+      "gender": [
+        93,
+        101
+      ],
+      "differences": [
+        94,
+        102
+      ],
+      "reporting": [
+        96
+      ],
+      "earliest": [
+        98,
+        113
+      ],
+      "memory.": [
+        99
+      ],
+      "No": [
+        100
+      ],
+      "observed": [
+        104
+      ],
+      "within": [
+        105
+      ],
+      "each": [
+        106
+      ],
+      "setting": [
+        107
+      ],
+      "consistent": [
+        116
+      ],
+      "past": [
+        118
+      ],
+      "research,": [
+        119
+      ],
+      "reported": [
+        121,
+        129
+      ],
+      "females": [
+        123
+      ],
+      "more": [
+        125
+      ],
+      "elaborate": [
+        126
+      ],
+      "those": [
+        128
+      ],
+      "males.": [
+        131
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2014,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2013,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2012,
+        "cited_by_count": 4
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W1965469922",
+    "doi": "https://doi.org/10.1080/09658211.2012.702773",
+    "title": "Accurate, inaccurate and omitted details in collective emotional memories: The case of Itzhak Rabin's assassination",
+    "display_name": "Accurate, inaccurate and omitted details in collective emotional memories: The case of Itzhak Rabin's assassination",
+    "relevance_score": 6.3297057,
+    "publication_year": 2012,
+    "publication_date": "2012-08-09",
+    "ids": {
+      "openalex": "https://openalex.org/W1965469922",
+      "doi": "https://doi.org/10.1080/09658211.2012.702773",
+      "mag": "1965469922",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/22873477"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1080/09658211.2012.702773",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1080/09658211.2012.702773",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S47258695",
+        "display_name": "Memory",
+        "issn_l": "0965-8211",
+        "issn": [
+          "0965-8211",
+          "1464-0686"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320547",
+        "host_organization_name": "Taylor & Francis",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320547"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Memory",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5055403499",
+          "display_name": "Anat Zelig",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I154488051",
+            "display_name": "Ashkelon Academic College",
+            "ror": "https://ror.org/00sfwx025",
+            "country_code": "IL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I154488051"
+            ]
+          }
+        ],
+        "countries": [
+          "IL"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Anat Zelig",
+        "raw_affiliation_strings": [
+          "Department of Criminology, Ashkelon Academic College, Ashkelon, Israel;"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Criminology, Ashkelon Academic College, Ashkelon, Israel;",
+            "institution_ids": [
+              "https://openalex.org/I154488051"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5030318175",
+          "display_name": "Israel Nachson",
+          "orcid": "https://orcid.org/0000-0003-3928-9254"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I154488051",
+            "display_name": "Ashkelon Academic College",
+            "ror": "https://ror.org/00sfwx025",
+            "country_code": "IL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I154488051"
+            ]
+          }
+        ],
+        "countries": [
+          "IL"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Israel Nachson",
+        "raw_affiliation_strings": [
+          "Department of Criminology, Ashkelon Academic College, Ashkelon, Israel;"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Criminology, Ashkelon Academic College, Ashkelon, Israel;",
+            "institution_ids": [
+              "https://openalex.org/I154488051"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 2,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.15032766,
+    "has_fulltext": false,
+    "cited_by_count": 4,
+    "citation_normalized_percentile": {
+      "value": 0.46567336,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 96
+    },
+    "biblio": {
+      "volume": "20",
+      "issue": "7",
+      "first_page": "742",
+      "last_page": "757"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10918",
+      "display_name": "Memory Processes and Influences",
+      "score": 0.9994999766349792,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10918",
+        "display_name": "Memory Processes and Influences",
+        "score": 0.9994999766349792,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2805",
+          "display_name": "Cognitive Neuroscience"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/28",
+          "display_name": "Neuroscience"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11104",
+        "display_name": "Memory, Trauma, and Commemoration",
+        "score": 0.9861000180244446,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3207",
+          "display_name": "Social Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11983",
+        "display_name": "Identity, Memory, and Therapy",
+        "score": 0.9851999878883362,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3204",
+          "display_name": "Developmental and Educational Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.7896819710731506
+      },
+      {
+        "id": "https://openalex.org/keywords/narrative",
+        "display_name": "Narrative",
+        "score": 0.6533023118972778
+      },
+      {
+        "id": "https://openalex.org/keywords/cognition",
+        "display_name": "Cognition",
+        "score": 0.5020277500152588
+      },
+      {
+        "id": "https://openalex.org/keywords/collective-memory",
+        "display_name": "Collective memory",
+        "score": 0.4720505177974701
+      },
+      {
+        "id": "https://openalex.org/keywords/emotional-memory",
+        "display_name": "Emotional memory",
+        "score": 0.44492605328559875
+      },
+      {
+        "id": "https://openalex.org/keywords/social-psychology",
+        "display_name": "Social psychology",
+        "score": 0.4205201268196106
+      },
+      {
+        "id": "https://openalex.org/keywords/cognitive-psychology",
+        "display_name": "Cognitive psychology",
+        "score": 0.3902699947357178
+      },
+      {
+        "id": "https://openalex.org/keywords/psychiatry",
+        "display_name": "Psychiatry",
+        "score": 0.09608215093612671
+      },
+      {
+        "id": "https://openalex.org/keywords/theology",
+        "display_name": "Theology",
+        "score": 0.07604920864105225
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.7896819710731506
+      },
+      {
+        "id": "https://openalex.org/C199033989",
+        "wikidata": "https://www.wikidata.org/wiki/Q1318295",
+        "display_name": "Narrative",
+        "level": 2,
+        "score": 0.6533023118972778
+      },
+      {
+        "id": "https://openalex.org/C169900460",
+        "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+        "display_name": "Cognition",
+        "level": 2,
+        "score": 0.5020277500152588
+      },
+      {
+        "id": "https://openalex.org/C67448173",
+        "wikidata": "https://www.wikidata.org/wiki/Q254217",
+        "display_name": "Collective memory",
+        "level": 2,
+        "score": 0.4720505177974701
+      },
+      {
+        "id": "https://openalex.org/C2991816873",
+        "wikidata": "https://www.wikidata.org/wiki/Q2903210",
+        "display_name": "Emotional memory",
+        "level": 3,
+        "score": 0.44492605328559875
+      },
+      {
+        "id": "https://openalex.org/C77805123",
+        "wikidata": "https://www.wikidata.org/wiki/Q161272",
+        "display_name": "Social psychology",
+        "level": 1,
+        "score": 0.4205201268196106
+      },
+      {
+        "id": "https://openalex.org/C180747234",
+        "wikidata": "https://www.wikidata.org/wiki/Q23373",
+        "display_name": "Cognitive psychology",
+        "level": 1,
+        "score": 0.3902699947357178
+      },
+      {
+        "id": "https://openalex.org/C118552586",
+        "wikidata": "https://www.wikidata.org/wiki/Q7867",
+        "display_name": "Psychiatry",
+        "level": 1,
+        "score": 0.09608215093612671
+      },
+      {
+        "id": "https://openalex.org/C27206212",
+        "wikidata": "https://www.wikidata.org/wiki/Q34178",
+        "display_name": "Theology",
+        "level": 1,
+        "score": 0.07604920864105225
+      },
+      {
+        "id": "https://openalex.org/C2779144063",
+        "wikidata": "https://www.wikidata.org/wiki/Q338924",
+        "display_name": "Amygdala",
+        "level": 2,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C41895202",
+        "wikidata": "https://www.wikidata.org/wiki/Q8162",
+        "display_name": "Linguistics",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C169760540",
+        "wikidata": "https://www.wikidata.org/wiki/Q207011",
+        "display_name": "Neuroscience",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.0
+      }
+    ],
+    "mesh": [
+      {
+        "descriptor_ui": "D000293",
+        "descriptor_name": "Adolescent",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D000328",
+        "descriptor_name": "Adult",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D003071",
+        "descriptor_name": "Cognition",
+        "qualifier_ui": "Q000502",
+        "qualifier_name": "physiology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D004644",
+        "descriptor_name": "Emotions",
+        "qualifier_ui": "Q000502",
+        "qualifier_name": "physiology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D005260",
+        "descriptor_name": "Female",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D006708",
+        "descriptor_name": "Homicide",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D006801",
+        "descriptor_name": "Humans",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D007557",
+        "descriptor_name": "Israel",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008297",
+        "descriptor_name": "Male",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008568",
+        "descriptor_name": "Memory",
+        "qualifier_ui": "Q000502",
+        "qualifier_name": "physiology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008875",
+        "descriptor_name": "Middle Aged",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D011057",
+        "descriptor_name": "Politics",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D011597",
+        "descriptor_name": "Psychomotor Performance",
+        "qualifier_ui": "Q000502",
+        "qualifier_name": "physiology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D012647",
+        "descriptor_name": "Self-Assessment",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D011795",
+        "descriptor_name": "Surveys and Questionnaires",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D055815",
+        "descriptor_name": "Young Adult",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D000293",
+        "descriptor_name": "Adolescent",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D000328",
+        "descriptor_name": "Adult",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D003071",
+        "descriptor_name": "Cognition",
+        "qualifier_ui": "Q000502",
+        "qualifier_name": "physiology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D004644",
+        "descriptor_name": "Emotions",
+        "qualifier_ui": "Q000502",
+        "qualifier_name": "physiology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D005260",
+        "descriptor_name": "Female",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D006708",
+        "descriptor_name": "Homicide",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D006801",
+        "descriptor_name": "Humans",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D007557",
+        "descriptor_name": "Israel",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008297",
+        "descriptor_name": "Male",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008568",
+        "descriptor_name": "Memory",
+        "qualifier_ui": "Q000502",
+        "qualifier_name": "physiology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008875",
+        "descriptor_name": "Middle Aged",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D011057",
+        "descriptor_name": "Politics",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D011597",
+        "descriptor_name": "Psychomotor Performance",
+        "qualifier_ui": "Q000502",
+        "qualifier_name": "physiology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D012647",
+        "descriptor_name": "Self-Assessment",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D011795",
+        "descriptor_name": "Surveys and Questionnaires",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D055815",
+        "descriptor_name": "Young Adult",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      }
+    ],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "doi:10.1080/09658211.2012.702773",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1080/09658211.2012.702773",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S47258695",
+          "display_name": "Memory",
+          "issn_l": "0965-8211",
+          "issn": [
+            "0965-8211",
+            "1464-0686"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320547",
+          "host_organization_name": "Taylor & Francis",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320547"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Memory",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmid:22873477",
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/22873477",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Memory (Hove, England)",
+        "raw_type": null
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.6000000238418579,
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 76,
+    "referenced_works": [
+      "https://openalex.org/W2317158840",
+      "https://openalex.org/W1972000263",
+      "https://openalex.org/W1994104103",
+      "https://openalex.org/W1487227979",
+      "https://openalex.org/W2104160196",
+      "https://openalex.org/W4247463058",
+      "https://openalex.org/W2059571469",
+      "https://openalex.org/W2078602497",
+      "https://openalex.org/W2000644246",
+      "https://openalex.org/W2017859230",
+      "https://openalex.org/W1990451873",
+      "https://openalex.org/W2118948027",
+      "https://openalex.org/W2160327414",
+      "https://openalex.org/W4388311744",
+      "https://openalex.org/W2140013504",
+      "https://openalex.org/W2158919856",
+      "https://openalex.org/W2088159637",
+      "https://openalex.org/W1608569348",
+      "https://openalex.org/W4250082029",
+      "https://openalex.org/W2042547325",
+      "https://openalex.org/W2089867299",
+      "https://openalex.org/W67698254",
+      "https://openalex.org/W1965937732",
+      "https://openalex.org/W2107584541",
+      "https://openalex.org/W1999338563",
+      "https://openalex.org/W2065346229",
+      "https://openalex.org/W2159851286",
+      "https://openalex.org/W2075415310",
+      "https://openalex.org/W2087921046",
+      "https://openalex.org/W2150125709",
+      "https://openalex.org/W61427413",
+      "https://openalex.org/W2090551185",
+      "https://openalex.org/W4245648902",
+      "https://openalex.org/W3192404131",
+      "https://openalex.org/W4248049862",
+      "https://openalex.org/W2080908495",
+      "https://openalex.org/W2488767110",
+      "https://openalex.org/W1541204951",
+      "https://openalex.org/W2148629051",
+      "https://openalex.org/W2053697357",
+      "https://openalex.org/W2106036951",
+      "https://openalex.org/W2013352005",
+      "https://openalex.org/W2030924267",
+      "https://openalex.org/W4237483085",
+      "https://openalex.org/W2048208123",
+      "https://openalex.org/W2109922806",
+      "https://openalex.org/W2061899044",
+      "https://openalex.org/W1966850344",
+      "https://openalex.org/W2050341732",
+      "https://openalex.org/W2042176280",
+      "https://openalex.org/W2087532960",
+      "https://openalex.org/W2079556319",
+      "https://openalex.org/W2084636435",
+      "https://openalex.org/W2015238817",
+      "https://openalex.org/W1551113582",
+      "https://openalex.org/W2114592262",
+      "https://openalex.org/W1976201917",
+      "https://openalex.org/W1995570429",
+      "https://openalex.org/W1969843317",
+      "https://openalex.org/W1810297693",
+      "https://openalex.org/W2904296859",
+      "https://openalex.org/W2965486564",
+      "https://openalex.org/W1552834496",
+      "https://openalex.org/W2060223907",
+      "https://openalex.org/W1967726277",
+      "https://openalex.org/W2092797206",
+      "https://openalex.org/W2775670993",
+      "https://openalex.org/W2073199179",
+      "https://openalex.org/W4242922697",
+      "https://openalex.org/W2564040150",
+      "https://openalex.org/W2461918858",
+      "https://openalex.org/W1487350808",
+      "https://openalex.org/W4383956224",
+      "https://openalex.org/W2980071695",
+      "https://openalex.org/W329485892",
+      "https://openalex.org/W1499078792"
+    ],
+    "related_works": [
+      "https://openalex.org/W2348886128",
+      "https://openalex.org/W2388067091",
+      "https://openalex.org/W2367656648",
+      "https://openalex.org/W2350200549",
+      "https://openalex.org/W2362132076",
+      "https://openalex.org/W2965396777",
+      "https://openalex.org/W2389168924",
+      "https://openalex.org/W2097812028",
+      "https://openalex.org/W3106944727",
+      "https://openalex.org/W2978702845"
+    ],
+    "abstract_inverted_index": {
+      "Collective": [
+        0
+      ],
+      "memory": [
+        1,
+        58
+      ],
+      "of": [
+        2,
+        5,
+        51,
+        93,
+        139,
+        144,
+        178
+      ],
+      "the": [
+        3,
+        6,
+        25,
+        41,
+        57,
+        64,
+        91,
+        145,
+        163,
+        175
+      ],
+      "assassination": [
+        4,
+        26,
+        180
+      ],
+      "former": [
+        7
+      ],
+      "Israeli": [
+        8,
+        19
+      ],
+      "Prime": [
+        9
+      ],
+      "Minister,": [
+        10
+      ],
+      "Itzhak": [
+        11
+      ],
+      "Rabin,": [
+        12
+      ],
+      "was": [
+        13
+      ],
+      "originally": [
+        14
+      ],
+      "examined": [
+        15
+      ],
+      "by": [
+        16,
+        101,
+        110,
+        188
+      ],
+      "asking": [
+        17
+      ],
+      "61": [
+        18
+      ],
+      "students,": [
+        20
+      ],
+      "about": [
+        21,
+        29,
+        40,
+        73
+      ],
+      "two": [
+        22
+      ],
+      "weeks": [
+        23
+      ],
+      "after": [
+        24
+      ],
+      "(T1)": [
+        27
+      ],
+      "and": [
+        28,
+        62,
+        70,
+        80,
+        84,
+        105,
+        116,
+        125,
+        128,
+        137,
+        151,
+        161,
+        205
+      ],
+      "11": [
+        30
+      ],
+      "months": [
+        31
+      ],
+      "later": [
+        32,
+        46
+      ],
+      "(T2)": [
+        33
+      ],
+      "to": [
+        34,
+        99,
+        108,
+        134,
+        185,
+        191
+      ],
+      "fill": [
+        35
+      ],
+      "out": [
+        36,
+        56
+      ],
+      "an": [
+        37,
+        111
+      ],
+      "open-ended": [
+        38
+      ],
+      "questionnaire": [
+        39
+      ],
+      "assassination.": [
+        42
+      ],
+      "About": [
+        43
+      ],
+      "13": [
+        44
+      ],
+      "years": [
+        45
+      ],
+      "(T3)": [
+        47
+      ],
+      "a": [
+        48,
+        199
+      ],
+      "new": [
+        49
+      ],
+      "sample": [
+        50
+      ],
+      "80": [
+        52
+      ],
+      "students": [
+        53
+      ],
+      "also": [
+        54,
+        66
+      ],
+      "filled": [
+        55
+      ],
+      "questionnaire.": [
+        59
+      ],
+      "In": [
+        60
+      ],
+      "T2": [
+        61,
+        100,
+        107,
+        121
+      ],
+      "T3": [
+        63,
+        109,
+        130
+      ],
+      "participants": [
+        65
+      ],
+      "self-assessed": [
+        67,
+        132
+      ],
+      "various": [
+        68
+      ],
+      "emotional": [
+        69,
+        126
+      ],
+      "cognitive": [
+        71
+      ],
+      "variables": [
+        72
+      ],
+      "their": [
+        74
+      ],
+      "memories.": [
+        75,
+        86
+      ],
+      "All": [
+        76
+      ],
+      "answers": [
+        77
+      ],
+      "were": [
+        78,
+        117
+      ],
+      "segmented": [
+        79
+      ],
+      "categorised": [
+        81
+      ],
+      "into": [
+        82
+      ],
+      "accurate": [
+        83,
+        94,
+        166
+      ],
+      "inaccurate": [
+        85,
+        150
+      ],
+      "Data": [
+        87
+      ],
+      "analyses": [
+        88
+      ],
+      "showed": [
+        89,
+        154,
+        181
+      ],
+      "that": [
+        90,
+        155,
+        162,
+        174
+      ],
+      "amounts": [
+        92,
+        138
+      ],
+      "memories": [
+        95,
+        153,
+        177
+      ],
+      "decreased": [
+        96
+      ],
+      "from": [
+        97,
+        106
+      ],
+      "T1": [
+        98
+      ],
+      "18": [
+        102
+      ],
+      "per": [
+        103,
+        114
+      ],
+      "cent,": [
+        104,
+        115
+      ],
+      "additional": [
+        112
+      ],
+      "16": [
+        113
+      ],
+      "positively": [
+        118
+      ],
+      "correlated": [
+        119
+      ],
+      "in": [
+        120,
+        129
+      ],
+      "with": [
+        122,
+        131
+      ],
+      "national": [
+        123
+      ],
+      "importance": [
+        124
+      ],
+      "reaction,": [
+        127
+      ],
+      "ability": [
+        133
+      ],
+      "remember": [
+        135
+      ],
+      "events": [
+        136,
+        193
+      ],
+      "visual": [
+        140
+      ],
+      "representations.": [
+        141
+      ],
+      "Content": [
+        142
+      ],
+      "analysis": [
+        143
+      ],
+      "most": [
+        146,
+        164
+      ],
+      "frequently": [
+        147
+      ],
+      "memorised": [
+        148
+      ],
+      "accurate,": [
+        149
+      ],
+      "omitted": [
+        152
+      ],
+      "they": [
+        156
+      ],
+      "displayed": [
+        157
+      ],
+      "differential": [
+        158
+      ],
+      "qualitative": [
+        159
+      ],
+      "characteristics": [
+        160
+      ],
+      "prevalent": [
+        165
+      ],
+      "narrative": [
+        167
+      ],
+      "has": [
+        168
+      ],
+      "varied": [
+        169
+      ],
+      "over": [
+        170
+      ],
+      "time.": [
+        171
+      ],
+      "It": [
+        172
+      ],
+      "appears": [
+        173
+      ],
+      "collective": [
+        176
+      ],
+      "Rabin's": [
+        179
+      ],
+      "episodic": [
+        182,
+        202
+      ],
+      "features": [
+        183
+      ],
+      "similar": [
+        184
+      ],
+      "those": [
+        186
+      ],
+      "shown": [
+        187
+      ],
+      "eyewitnesses": [
+        189
+      ],
+      "exposed": [
+        190
+      ],
+      "emotion-arousing": [
+        192
+      ],
+      "only": [
+        194
+      ],
+      "once.": [
+        195
+      ],
+      "The": [
+        196
+      ],
+      "data": [
+        197
+      ],
+      "suggest": [
+        198
+      ],
+      "distinction": [
+        200
+      ],
+      "between": [
+        201
+      ],
+      "\"collective": [
+        203,
+        207
+      ],
+      "memories\"": [
+        204
+      ],
+      "semantic": [
+        206
+      ],
+      "knowledge\".": [
+        208
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  }
+]
