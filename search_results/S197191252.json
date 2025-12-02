@@ -1,0 +1,1077 @@
+[
+  {
+    "id": "https://openalex.org/W3123118902",
+    "doi": "https://doi.org/10.1093/jiel/jgw056",
+    "title": "Mapping the Universe of International Investment Agreements",
+    "display_name": "Mapping the Universe of International Investment Agreements",
+    "relevance_score": 17.444689,
+    "publication_year": 2016,
+    "publication_date": "2016-08-30",
+    "ids": {
+      "openalex": "https://openalex.org/W3123118902",
+      "doi": "https://doi.org/10.1093/jiel/jgw056",
+      "mag": "3123118902"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1093/jiel/jgw056",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1093/jiel/jgw056",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S197191252",
+        "display_name": "Journal of International Economic Law",
+        "issn_l": "1369-3034",
+        "issn": [
+          "1369-3034",
+          "1464-3758"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310311648",
+        "host_organization_name": "Oxford University Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310311648"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of International Economic Law",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5085631508",
+          "display_name": "Wolfgang Alschner",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I951315",
+            "display_name": "Graduate Institute of International and Development Studies",
+            "ror": "https://ror.org/007ygn379",
+            "country_code": "CH",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I951315"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I1285402005",
+            "display_name": "World Trade Organization",
+            "ror": "https://ror.org/03cqs4n40",
+            "country_code": "CH",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I1285402005"
+            ]
+          }
+        ],
+        "countries": [
+          "CH"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Wolfgang Alschner",
+        "raw_affiliation_strings": [
+          "*Postdoctoral Researcher, The Graduate Institute, Geneva, Switzerland and World Trade Institute, Bern, Switzerland."
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "*Postdoctoral Researcher, The Graduate Institute, Geneva, Switzerland and World Trade Institute, Bern, Switzerland.",
+            "institution_ids": [
+              "https://openalex.org/I1285402005",
+              "https://openalex.org/I951315"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5010310936",
+          "display_name": "Dmitriy Skougarevskiy",
+          "orcid": "https://orcid.org/0000-0002-4022-6210"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I951315",
+            "display_name": "Graduate Institute of International and Development Studies",
+            "ror": "https://ror.org/007ygn379",
+            "country_code": "CH",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I951315"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I1285402005",
+            "display_name": "World Trade Organization",
+            "ror": "https://ror.org/03cqs4n40",
+            "country_code": "CH",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I1285402005"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I183209874",
+            "display_name": "European University at Saint Petersburg",
+            "ror": "https://ror.org/04p2rkp70",
+            "country_code": "RU",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I183209874"
+            ]
+          }
+        ],
+        "countries": [
+          "CH",
+          "RU"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Dmitriy Skougarevskiy",
+        "raw_affiliation_strings": [
+          "**Researcher & PhD Candidate, European University, St. Petersburg, Russian Federation",
+          "The Graduate Institute, Geneva, Switzerland, and World Trade Institute, Bern, Switzerland.  ."
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "**Researcher & PhD Candidate, European University, St. Petersburg, Russian Federation",
+            "institution_ids": [
+              "https://openalex.org/I183209874"
+            ]
+          },
+          {
+            "raw_affiliation_string": "The Graduate Institute, Geneva, Switzerland, and World Trade Institute, Bern, Switzerland.  .",
+            "institution_ids": [
+              "https://openalex.org/I1285402005",
+              "https://openalex.org/I951315"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 2,
+    "institutions_distinct_count": 2,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5085631508",
+      "https://openalex.org/A5010310936"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I1285402005",
+      "https://openalex.org/I183209874",
+      "https://openalex.org/I951315"
+    ],
+    "apc_list": {
+      "value": 4153,
+      "currency": "USD",
+      "value_usd": 4153
+    },
+    "apc_paid": null,
+    "fwci": 15.59417686,
+    "has_fulltext": false,
+    "cited_by_count": 119,
+    "citation_normalized_percentile": {
+      "value": 0.98864352,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 94,
+      "max": 100
+    },
+    "biblio": {
+      "volume": "19",
+      "issue": "3",
+      "first_page": "561",
+      "last_page": "588"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T12040",
+      "display_name": "International Arbitration and Investment Law",
+      "score": 0.9853000044822693,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1408",
+        "display_name": "Strategy and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T12040",
+        "display_name": "International Arbitration and Investment Law",
+        "score": 0.9853000044822693,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1408",
+          "display_name": "Strategy and Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/treaty",
+        "display_name": "Treaty",
+        "score": 0.8746360540390015
+      },
+      {
+        "id": "https://openalex.org/keywords/investment",
+        "display_name": "Investment (military)",
+        "score": 0.6669059991836548
+      },
+      {
+        "id": "https://openalex.org/keywords/novelty",
+        "display_name": "Novelty",
+        "score": 0.6648219227790833
+      },
+      {
+        "id": "https://openalex.org/keywords/negotiation",
+        "display_name": "Negotiation",
+        "score": 0.6086603999137878
+      },
+      {
+        "id": "https://openalex.org/keywords/consistency",
+        "display_name": "Consistency (knowledge bases)",
+        "score": 0.6030794978141785
+      },
+      {
+        "id": "https://openalex.org/keywords/metric",
+        "display_name": "Metric (unit)",
+        "score": 0.5253046154975891
+      },
+      {
+        "id": "https://openalex.org/keywords/international-trade",
+        "display_name": "International trade",
+        "score": 0.42022454738616943
+      },
+      {
+        "id": "https://openalex.org/keywords/business",
+        "display_name": "Business",
+        "score": 0.4015081524848938
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.3896966874599457
+      },
+      {
+        "id": "https://openalex.org/keywords/computer-science",
+        "display_name": "Computer science",
+        "score": 0.3038824796676636
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.2240607738494873
+      },
+      {
+        "id": "https://openalex.org/keywords/politics",
+        "display_name": "Politics",
+        "score": 0.2056158483028412
+      },
+      {
+        "id": "https://openalex.org/keywords/artificial-intelligence",
+        "display_name": "Artificial intelligence",
+        "score": 0.17988595366477966
+      },
+      {
+        "id": "https://openalex.org/keywords/marketing",
+        "display_name": "Marketing",
+        "score": 0.1396712064743042
+      },
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.09418937563896179
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2779010840",
+        "wikidata": "https://www.wikidata.org/wiki/Q131569",
+        "display_name": "Treaty",
+        "level": 2,
+        "score": 0.8746360540390015
+      },
+      {
+        "id": "https://openalex.org/C27548731",
+        "wikidata": "https://www.wikidata.org/wiki/Q88272",
+        "display_name": "Investment (military)",
+        "level": 3,
+        "score": 0.6669059991836548
+      },
+      {
+        "id": "https://openalex.org/C2778738651",
+        "wikidata": "https://www.wikidata.org/wiki/Q16546687",
+        "display_name": "Novelty",
+        "level": 2,
+        "score": 0.6648219227790833
+      },
+      {
+        "id": "https://openalex.org/C199776023",
+        "wikidata": "https://www.wikidata.org/wiki/Q202875",
+        "display_name": "Negotiation",
+        "level": 2,
+        "score": 0.6086603999137878
+      },
+      {
+        "id": "https://openalex.org/C2776436953",
+        "wikidata": "https://www.wikidata.org/wiki/Q5163215",
+        "display_name": "Consistency (knowledge bases)",
+        "level": 2,
+        "score": 0.6030794978141785
+      },
+      {
+        "id": "https://openalex.org/C176217482",
+        "wikidata": "https://www.wikidata.org/wiki/Q860554",
+        "display_name": "Metric (unit)",
+        "level": 2,
+        "score": 0.5253046154975891
+      },
+      {
+        "id": "https://openalex.org/C155202549",
+        "wikidata": "https://www.wikidata.org/wiki/Q178803",
+        "display_name": "International trade",
+        "level": 1,
+        "score": 0.42022454738616943
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.4015081524848938
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.3896966874599457
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.3038824796676636
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.2240607738494873
+      },
+      {
+        "id": "https://openalex.org/C94625758",
+        "wikidata": "https://www.wikidata.org/wiki/Q7163",
+        "display_name": "Politics",
+        "level": 2,
+        "score": 0.2056158483028412
+      },
+      {
+        "id": "https://openalex.org/C154945302",
+        "wikidata": "https://www.wikidata.org/wiki/Q11660",
+        "display_name": "Artificial intelligence",
+        "level": 1,
+        "score": 0.17988595366477966
+      },
+      {
+        "id": "https://openalex.org/C162853370",
+        "wikidata": "https://www.wikidata.org/wiki/Q39809",
+        "display_name": "Marketing",
+        "level": 1,
+        "score": 0.1396712064743042
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.09418937563896179
+      },
+      {
+        "id": "https://openalex.org/C77805123",
+        "wikidata": "https://www.wikidata.org/wiki/Q161272",
+        "display_name": "Social psychology",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 3,
+    "locations": [
+      {
+        "id": "doi:10.1093/jiel/jgw056",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1093/jiel/jgw056",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S197191252",
+          "display_name": "Journal of International Economic Law",
+          "issn_l": "1369-3034",
+          "issn": [
+            "1369-3034",
+            "1464-3758"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310311648",
+          "host_organization_name": "Oxford University Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311648"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of International Economic Law",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:open-archive.highwire.org:jielaw:19/3/561",
+        "is_oa": false,
+        "landing_page_url": "http://jiel.oxfordjournals.org/cgi/content/short/19/3/561",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "TEXT"
+      },
+      {
+        "id": "pmh:oai:RePEc:oup:jieclw:v:19:y:2016:i:3:p:561-588.",
+        "is_oa": false,
+        "landing_page_url": "http://hdl.handle.net/10.1093/jiel/jgw056",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401271",
+          "display_name": "RePEc: Research Papers in Economics",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I77793887",
+          "host_organization_name": "Federal Reserve Bank of St. Louis",
+          "host_organization_lineage": [
+            "https://openalex.org/I77793887"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "id": "https://metadata.un.org/sdg/17",
+        "display_name": "Partnerships for the goals",
+        "score": 0.5600000023841858
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W2381242807",
+      "https://openalex.org/W2751208925",
+      "https://openalex.org/W3126131230",
+      "https://openalex.org/W2347541121",
+      "https://openalex.org/W4288804799",
+      "https://openalex.org/W2080951048",
+      "https://openalex.org/W3089617106",
+      "https://openalex.org/W3032237421",
+      "https://openalex.org/W2262250234",
+      "https://openalex.org/W3216360229"
+    ],
+    "abstract_inverted_index": {
+      "Traditional": [
+        0
+      ],
+      "means": [
+        1
+      ],
+      "of": [
+        2,
+        13,
+        74,
+        174
+      ],
+      "content": [
+        3
+      ],
+      "analysis": [
+        4
+      ],
+      "are": [
+        5
+      ],
+      "ill-equipped": [
+        6
+      ],
+      "to": [
+        7,
+        26,
+        70,
+        84,
+        94,
+        126,
+        170,
+        185,
+        201
+      ],
+      "deal": [
+        8
+      ],
+      "with": [
+        9,
+        196
+      ],
+      "the": [
+        10,
+        54,
+        63,
+        72,
+        86,
+        100,
+        123,
+        134,
+        162,
+        172,
+        179,
+        203
+      ],
+      "vast": [
+        11
+      ],
+      "universe": [
+        12,
+        56
+      ],
+      "international": [
+        14
+      ],
+      "investment": [
+        15,
+        118,
+        141,
+        152,
+        158
+      ],
+      "agreements": [
+        16
+      ],
+      "(IIAs).": [
+        17
+      ],
+      "In": [
+        18
+      ],
+      "this": [
+        19
+      ],
+      "article,": [
+        20
+      ],
+      "we": [
+        21,
+        66
+      ],
+      "propose": [
+        22
+      ],
+      "a": [
+        23,
+        127,
+        197
+      ],
+      "novel": [
+        24,
+        199
+      ],
+      "approach": [
+        25,
+        69,
+        167
+      ],
+      "efficiently": [
+        27
+      ],
+      "investigate": [
+        28,
+        71
+      ],
+      "over": [
+        29
+      ],
+      "2100": [
+        30
+      ],
+      "IIAs": [
+        31
+      ],
+      "and": [
+        32,
+        50,
+        108,
+        194
+      ],
+      "their": [
+        33
+      ],
+      "24,000": [
+        34
+      ],
+      "articles": [
+        35
+      ],
+      "in": [
+        36,
+        111,
+        130
+      ],
+      "unprecedented": [
+        37
+      ],
+      "detail": [
+        38
+      ],
+      "by": [
+        39,
+        182
+      ],
+      "treating": [
+        40
+      ],
+      "treaty": [
+        41,
+        113,
+        153,
+        164
+      ],
+      "text": [
+        42
+      ],
+      "as": [
+        43,
+        122
+      ],
+      "data.": [
+        44
+      ],
+      "Our": [
+        45,
+        188
+      ],
+      "suggested": [
+        46
+      ],
+      "metric": [
+        47,
+        138,
+        189
+      ],
+      "yields": [
+        48
+      ],
+      "new": [
+        49
+      ],
+      "surprising": [
+        51
+      ],
+      "insights": [
+        52
+      ],
+      "about": [
+        53
+      ],
+      "IIA": [
+        55,
+        87,
+        204
+      ],
+      "at": [
+        57,
+        62
+      ],
+      "four": [
+        58
+      ],
+      "different": [
+        59
+      ],
+      "levels.": [
+        60
+      ],
+      "First,": [
+        61
+      ],
+      "global": [
+        64
+      ],
+      "level,": [
+        65,
+        102,
+        136,
+        165
+      ],
+      "use": [
+        67
+      ],
+      "our": [
+        68,
+        103,
+        137,
+        166
+      ],
+      "effect": [
+        73
+      ],
+      "asymmetries": [
+        75
+      ],
+      "on": [
+        76,
+        99,
+        133,
+        161
+      ],
+      "negotiation": [
+        77
+      ],
+      "outcomes": [
+        78
+      ],
+      "finding": [
+        79
+      ],
+      "that": [
+        80,
+        145
+      ],
+      "developed": [
+        81
+      ],
+      "countries": [
+        82,
+        92
+      ],
+      "tend": [
+        83,
+        93
+      ],
+      "be": [
+        85,
+        95
+      ],
+      "system\u2019s": [
+        88
+      ],
+      "rule-makers,": [
+        89
+      ],
+      "while": [
+        90
+      ],
+      "developing": [
+        91
+      ],
+      "its": [
+        96,
+        150
+      ],
+      "rule-takers.": [
+        97
+      ],
+      "Second,": [
+        98
+      ],
+      "country": [
+        101
+      ],
+      "method": [
+        104
+      ],
+      "can": [
+        105,
+        139
+      ],
+      "trace": [
+        106
+      ],
+      "consistency": [
+        107
+      ],
+      "legal": [
+        109
+      ],
+      "innovation": [
+        110
+      ],
+      "national": [
+        112
+      ],
+      "networks": [
+        114
+      ],
+      "uncovering": [
+        115
+      ],
+      "hitherto": [
+        116
+      ],
+      "unknown": [
+        117
+      ],
+      "policy": [
+        119,
+        142
+      ],
+      "changes": [
+        120
+      ],
+      "such": [
+        121
+      ],
+      "Finnish": [
+        124
+      ],
+      "shift": [
+        125
+      ],
+      "pre-establishment": [
+        128
+      ],
+      "template": [
+        129
+      ],
+      "1999.": [
+        131
+      ],
+      "Third,": [
+        132
+      ],
+      "inter-treaty": [
+        135
+      ],
+      "detect": [
+        140
+      ],
+      "diffusion": [
+        143
+      ],
+      "highlighting": [
+        144
+      ],
+      "Israel,": [
+        146
+      ],
+      "for": [
+        147
+      ],
+      "instance,": [
+        148
+      ],
+      "copied": [
+        149
+      ],
+      "bilateral": [
+        151
+      ],
+      "(BIT)": [
+        154
+      ],
+      "language": [
+        155
+      ],
+      "from": [
+        156
+      ],
+      "British": [
+        157
+      ],
+      "agreements.": [
+        159
+      ],
+      "Finally,": [
+        160
+      ],
+      "individual": [
+        163
+      ],
+      "enables": [
+        168
+      ],
+      "us": [
+        169
+      ],
+      "assess": [
+        171
+      ],
+      "novelty": [
+        173
+      ],
+      "newly": [
+        175
+      ],
+      "concluded": [
+        176
+      ],
+      "agreements,": [
+        177
+      ],
+      "like": [
+        178
+      ],
+      "Trans-Pacific": [
+        180
+      ],
+      "Partnership,": [
+        181
+      ],
+      "relating": [
+        183
+      ],
+      "them": [
+        184
+      ],
+      "prior": [
+        186
+      ],
+      "practice.": [
+        187
+      ],
+      "thus": [
+        190
+      ],
+      "provides": [
+        191
+      ],
+      "researchers,": [
+        192
+      ],
+      "practitioners": [
+        193
+      ],
+      "policy-makers": [
+        195
+      ],
+      "powerful": [
+        198
+      ],
+      "tool": [
+        200
+      ],
+      "analyze": [
+        202
+      ],
+      "universe.": [
+        205
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 8
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 37
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 9
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 17
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 11
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 10
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 13
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 7
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 2
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  }
+]

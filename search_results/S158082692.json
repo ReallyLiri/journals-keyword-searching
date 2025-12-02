@@ -1,0 +1,5515 @@
+[
+  {
+    "id": "https://openalex.org/W2184748342",
+    "doi": "https://doi.org/10.1017/s002122370001092x",
+    "title": "The New Basic Laws on Human Rights: A Mini-Revolution in Israeli Constitutional Law?",
+    "display_name": "The New Basic Laws on Human Rights: A Mini-Revolution in Israeli Constitutional Law?",
+    "relevance_score": 112.19281,
+    "publication_year": 1992,
+    "publication_date": "1992-01-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2184748342",
+      "doi": "https://doi.org/10.1017/s002122370001092x",
+      "mag": "2184748342"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/092405199601400204",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/092405199601400204",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S158082692",
+        "display_name": "Netherlands Quarterly of Human Rights",
+        "issn_l": "0924-0519",
+        "issn": [
+          "0924-0519",
+          "2214-7357"
+        ],
+        "is_oa": false,
+        "is_in_doaj": true,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Netherlands Quarterly of Human Rights",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "doaj"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2666420",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5102178347",
+          "display_name": "David Kretzmer",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I197251160",
+            "display_name": "Hebrew University of Jerusalem",
+            "ror": "https://ror.org/03qxff017",
+            "country_code": "IL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I197251160"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I161708654",
+            "display_name": "Sapir College",
+            "ror": "https://ror.org/04hwjfc40",
+            "country_code": "IL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I161708654"
+            ]
+          }
+        ],
+        "countries": [
+          "IL"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "David Kretzmer",
+        "raw_affiliation_strings": [
+          " Sapir Academic College",
+          "Hebrew University of Jerusalem"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": " Sapir Academic College",
+            "institution_ids": [
+              "https://openalex.org/I161708654"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Hebrew University of Jerusalem",
+            "institution_ids": [
+              "https://openalex.org/I197251160"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5102178347"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I161708654",
+      "https://openalex.org/I197251160"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 12,
+    "citation_normalized_percentile": {
+      "value": 0.35729577,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 99
+    },
+    "biblio": {
+      "volume": "26",
+      "issue": "2",
+      "first_page": "238",
+      "last_page": "246"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10802",
+      "display_name": "Judicial and Constitutional Studies",
+      "score": 0.9495000243186951,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3308",
+        "display_name": "Law"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10802",
+        "display_name": "Judicial and Constitutional Studies",
+        "score": 0.9495000243186951,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3308",
+          "display_name": "Law"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10749",
+        "display_name": "International Law and Human Rights",
+        "score": 0.9470999836921692,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.7808946371078491
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.6349457502365112
+      },
+      {
+        "id": "https://openalex.org/keywords/knesset",
+        "display_name": "Knesset",
+        "score": 0.6331695318222046
+      },
+      {
+        "id": "https://openalex.org/keywords/bill-of-rights",
+        "display_name": "Bill of rights",
+        "score": 0.6076199412345886
+      },
+      {
+        "id": "https://openalex.org/keywords/basic-law",
+        "display_name": "Basic law",
+        "score": 0.5676197409629822
+      },
+      {
+        "id": "https://openalex.org/keywords/constitution",
+        "display_name": "Constitution",
+        "score": 0.534662127494812
+      },
+      {
+        "id": "https://openalex.org/keywords/human-rights",
+        "display_name": "Human rights",
+        "score": 0.4865392744541168
+      },
+      {
+        "id": "https://openalex.org/keywords/civil-liberties",
+        "display_name": "Civil liberties",
+        "score": 0.44035646319389343
+      },
+      {
+        "id": "https://openalex.org/keywords/fundamental-rights",
+        "display_name": "Fundamental rights",
+        "score": 0.4402558505535126
+      },
+      {
+        "id": "https://openalex.org/keywords/supreme-court",
+        "display_name": "Supreme court",
+        "score": 0.4253408908843994
+      },
+      {
+        "id": "https://openalex.org/keywords/legislation",
+        "display_name": "Legislation",
+        "score": 0.42401647567749023
+      },
+      {
+        "id": "https://openalex.org/keywords/politics",
+        "display_name": "Politics",
+        "score": 0.3055184483528137
+      },
+      {
+        "id": "https://openalex.org/keywords/parliament",
+        "display_name": "Parliament",
+        "score": 0.19489091634750366
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.7808946371078491
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.6349457502365112
+      },
+      {
+        "id": "https://openalex.org/C193897990",
+        "wikidata": "https://www.wikidata.org/wiki/Q133396",
+        "display_name": "Knesset",
+        "level": 4,
+        "score": 0.6331695318222046
+      },
+      {
+        "id": "https://openalex.org/C2780169623",
+        "wikidata": "https://www.wikidata.org/wiki/Q191296",
+        "display_name": "Bill of rights",
+        "level": 3,
+        "score": 0.6076199412345886
+      },
+      {
+        "id": "https://openalex.org/C2780363275",
+        "wikidata": "https://www.wikidata.org/wiki/Q390689",
+        "display_name": "Basic law",
+        "level": 3,
+        "score": 0.5676197409629822
+      },
+      {
+        "id": "https://openalex.org/C2776154427",
+        "wikidata": "https://www.wikidata.org/wiki/Q7755",
+        "display_name": "Constitution",
+        "level": 2,
+        "score": 0.534662127494812
+      },
+      {
+        "id": "https://openalex.org/C169437150",
+        "wikidata": "https://www.wikidata.org/wiki/Q8458",
+        "display_name": "Human rights",
+        "level": 2,
+        "score": 0.4865392744541168
+      },
+      {
+        "id": "https://openalex.org/C2775923278",
+        "wikidata": "https://www.wikidata.org/wiki/Q29556",
+        "display_name": "Civil liberties",
+        "level": 3,
+        "score": 0.44035646319389343
+      },
+      {
+        "id": "https://openalex.org/C95691615",
+        "wikidata": "https://www.wikidata.org/wiki/Q3237872",
+        "display_name": "Fundamental rights",
+        "level": 3,
+        "score": 0.4402558505535126
+      },
+      {
+        "id": "https://openalex.org/C2778272461",
+        "wikidata": "https://www.wikidata.org/wiki/Q190752",
+        "display_name": "Supreme court",
+        "level": 2,
+        "score": 0.4253408908843994
+      },
+      {
+        "id": "https://openalex.org/C2777351106",
+        "wikidata": "https://www.wikidata.org/wiki/Q49371",
+        "display_name": "Legislation",
+        "level": 2,
+        "score": 0.42401647567749023
+      },
+      {
+        "id": "https://openalex.org/C94625758",
+        "wikidata": "https://www.wikidata.org/wiki/Q7163",
+        "display_name": "Politics",
+        "level": 2,
+        "score": 0.3055184483528137
+      },
+      {
+        "id": "https://openalex.org/C2781440851",
+        "wikidata": "https://www.wikidata.org/wiki/Q35749",
+        "display_name": "Parliament",
+        "level": 3,
+        "score": 0.19489091634750366
+      }
+    ],
+    "mesh": [],
+    "locations_count": 3,
+    "locations": [
+      {
+        "id": "doi:10.1177/092405199601400204",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/092405199601400204",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S158082692",
+          "display_name": "Netherlands Quarterly of Human Rights",
+          "issn_l": "0924-0519",
+          "issn": [
+            "0924-0519",
+            "2214-7357"
+          ],
+          "is_oa": false,
+          "is_in_doaj": true,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Netherlands Quarterly of Human Rights",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "doi:10.1017/s002122370001092x",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1017/s002122370001092x",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S181618396",
+          "display_name": "Israel Law Review",
+          "issn_l": "0021-2237",
+          "issn": [
+            "0021-2237",
+            "2047-9336"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310311721",
+          "host_organization_name": "Cambridge University Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311721"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Israel Law Review",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "mag:2184748342",
+        "is_oa": true,
+        "landing_page_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2666420",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210172589",
+          "display_name": "SSRN Electronic Journal",
+          "issn_l": "1556-5068",
+          "issn": [
+            "1556-5068"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I1318003438",
+          "host_organization_name": "RELX Group (Netherlands)",
+          "host_organization_lineage": [
+            "https://openalex.org/I1318003438"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "SSRN Electronic Journal",
+        "raw_type": null
+      }
+    ],
+    "best_oa_location": {
+      "id": "mag:2184748342",
+      "is_oa": true,
+      "landing_page_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2666420",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210172589",
+        "display_name": "SSRN Electronic Journal",
+        "issn_l": "1556-5068",
+        "issn": [
+          "1556-5068"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1318003438",
+        "host_organization_name": "RELX Group (Netherlands)",
+        "host_organization_lineage": [
+          "https://openalex.org/I1318003438"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "SSRN Electronic Journal",
+      "raw_type": null
+    },
+    "sustainable_development_goals": [
+      {
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16",
+        "score": 0.6600000262260437
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 2,
+    "referenced_works": [
+      "https://openalex.org/W6703885824",
+      "https://openalex.org/W2912865044"
+    ],
+    "related_works": [
+      "https://openalex.org/W2079433772",
+      "https://openalex.org/W3121588005",
+      "https://openalex.org/W104718664",
+      "https://openalex.org/W3200117433",
+      "https://openalex.org/W2496107194",
+      "https://openalex.org/W3200076525",
+      "https://openalex.org/W1584750488",
+      "https://openalex.org/W3134389520",
+      "https://openalex.org/W3122812680",
+      "https://openalex.org/W250294820",
+      "https://openalex.org/W2912579576",
+      "https://openalex.org/W1531834230",
+      "https://openalex.org/W2625783631",
+      "https://openalex.org/W3123267384",
+      "https://openalex.org/W3124501759",
+      "https://openalex.org/W2222050837",
+      "https://openalex.org/W2260592475",
+      "https://openalex.org/W3118680434",
+      "https://openalex.org/W757451800",
+      "https://openalex.org/W408953930"
+    ],
+    "abstract_inverted_index": {
+      "In": [
+        0
+      ],
+      "1992": [
+        1
+      ],
+      "the": [
+        2,
+        6,
+        13,
+        32,
+        52,
+        67,
+        93,
+        140
+      ],
+      "Israeli": [
+        3
+      ],
+      "Knesset": [
+        4
+      ],
+      "enacted": [
+        5,
+        132
+      ],
+      "Basic": [
+        7,
+        14
+      ],
+      "Law:": [
+        8,
+        15
+      ],
+      "Freedom": [
+        9
+      ],
+      "of": [
+        10,
+        37,
+        55,
+        87
+      ],
+      "Occupation": [
+        11
+      ],
+      "and": [
+        12,
+        18,
+        62,
+        127,
+        137
+      ],
+      "Human": [
+        16
+      ],
+      "Dignity": [
+        17
+      ],
+      "Freedom.": [
+        19
+      ],
+      "These": [
+        20
+      ],
+      "basic": [
+        21,
+        53,
+        94,
+        97
+      ],
+      "laws,": [
+        22
+      ],
+      "as": [
+        23,
+        83,
+        124
+      ],
+      "chapters": [
+        24
+      ],
+      "in": [
+        25,
+        51,
+        92
+      ],
+      "Israel's": [
+        26
+      ],
+      "emerging": [
+        27
+      ],
+      "formal": [
+        28
+      ],
+      "Constitution,": [
+        29
+      ],
+      "have": [
+        30
+      ],
+      "opened": [
+        31
+      ],
+      "way": [
+        33
+      ],
+      "for": [
+        34,
+        104,
+        133
+      ],
+      "judicial": [
+        35,
+        80
+      ],
+      "review": [
+        36
+      ],
+      "parliamentary": [
+        38
+      ],
+      "legislation": [
+        39
+      ],
+      "that": [
+        40,
+        75,
+        121,
+        130,
+        138
+      ],
+      "violates": [
+        41
+      ],
+      "human": [
+        42,
+        63
+      ],
+      "rights.": [
+        43
+      ],
+      "Opposition": [
+        44
+      ],
+      "from": [
+        45
+      ],
+      "some": [
+        46,
+        56
+      ],
+      "political": [
+        47
+      ],
+      "quarters": [
+        48
+      ],
+      "prevented": [
+        49
+      ],
+      "inclusion": [
+        50
+      ],
+      "laws": [
+        54,
+        98
+      ],
+      "rights": [
+        57,
+        64,
+        68,
+        88,
+        110
+      ],
+      "protected": [
+        58,
+        69,
+        109
+      ],
+      "under": [
+        59
+      ],
+      "modern": [
+        60
+      ],
+      "constitutions": [
+        61
+      ],
+      "treaties.": [
+        65
+      ],
+      "However,": [
+        66
+      ],
+      "include": [
+        70,
+        85
+      ],
+      "\u2018human": [
+        71
+      ],
+      "dignity\u2019,": [
+        72
+      ],
+      "a": [
+        73,
+        101,
+        119,
+        125,
+        134
+      ],
+      "term": [
+        74
+      ],
+      "can": [
+        76
+      ],
+      "be": [
+        77,
+        116
+      ],
+      "broadened": [
+        78
+      ],
+      "by": [
+        79,
+        118
+      ],
+      "interpretation": [
+        81
+      ],
+      "so": [
+        82
+      ],
+      "to": [
+        84
+      ],
+      "violations": [
+        86
+      ],
+      "not": [
+        89
+      ],
+      "specifically": [
+        90
+      ],
+      "mentioned": [
+        91
+      ],
+      "laws.": [
+        95
+      ],
+      "The": [
+        96
+      ],
+      "lay": [
+        99
+      ],
+      "down": [
+        100
+      ],
+      "balancing": [
+        102
+      ],
+      "test": [
+        103
+      ],
+      "deciding": [
+        105
+      ],
+      "whether": [
+        106
+      ],
+      "restrictions": [
+        107,
+        114
+      ],
+      "on": [
+        108
+      ],
+      "are": [
+        111
+      ],
+      "legitimate.": [
+        112
+      ],
+      "All": [
+        113
+      ],
+      "must": [
+        115
+      ],
+      "prescribed": [
+        117
+      ],
+      "law": [
+        120
+      ],
+      "befits": [
+        122
+      ],
+      "Israel": [
+        123
+      ],
+      "Jewish": [
+        126
+      ],
+      "democratic": [
+        128
+      ],
+      "State,": [
+        129
+      ],
+      "was": [
+        131
+      ],
+      "worthy": [
+        135
+      ],
+      "purpose": [
+        136
+      ],
+      "meets": [
+        139
+      ],
+      "proportionality": [
+        141
+      ],
+      "test.": [
+        142
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2024,
+        "cited_by_count": 11
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2777218663",
+    "doi": "https://doi.org/10.1177/092405199901700102",
+    "title": "Migrant Workers in Israel: Towards Proposing a Framework of Enforceable Customary International Human Rights",
+    "display_name": "Migrant Workers in Israel: Towards Proposing a Framework of Enforceable Customary International Human Rights",
+    "relevance_score": 79.75599,
+    "publication_year": 1999,
+    "publication_date": "1999-03-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2777218663",
+      "doi": "https://doi.org/10.1177/092405199901700102",
+      "mag": "2777218663"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/092405199901700102",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/092405199901700102",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S158082692",
+        "display_name": "Netherlands Quarterly of Human Rights",
+        "issn_l": "0924-0519",
+        "issn": [
+          "0924-0519",
+          "2214-7357"
+        ],
+        "is_oa": false,
+        "is_in_doaj": true,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Netherlands Quarterly of Human Rights",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "doaj"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5061183491",
+          "display_name": "Leonard M. Hammer",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Leonard M. Hammer",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5061183491"
+    ],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 5,
+    "citation_normalized_percentile": {
+      "value": 0.5179147,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "17",
+      "issue": "1",
+      "first_page": "5",
+      "last_page": "30"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T13773",
+      "display_name": "International Labor and Employment Law",
+      "score": 0.9769999980926514,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T13773",
+        "display_name": "International Labor and Employment Law",
+        "score": 0.9769999980926514,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11421",
+        "display_name": "Labor Movements and Unions",
+        "score": 0.9197999835014343,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3321",
+          "display_name": "Public Administration"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/human-rights",
+        "display_name": "Human rights",
+        "score": 0.7092278003692627
+      },
+      {
+        "id": "https://openalex.org/keywords/state",
+        "display_name": "State (computer science)",
+        "score": 0.6551007628440857
+      },
+      {
+        "id": "https://openalex.org/keywords/legislation",
+        "display_name": "Legislation",
+        "score": 0.599639892578125
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.5505771636962891
+      },
+      {
+        "id": "https://openalex.org/keywords/migrant-workers",
+        "display_name": "Migrant workers",
+        "score": 0.5462895631790161
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.48699837923049927
+      },
+      {
+        "id": "https://openalex.org/keywords/unemployment",
+        "display_name": "Unemployment",
+        "score": 0.43262019753456116
+      },
+      {
+        "id": "https://openalex.org/keywords/legal-status",
+        "display_name": "Legal status",
+        "score": 0.41631942987442017
+      },
+      {
+        "id": "https://openalex.org/keywords/economic-growth",
+        "display_name": "Economic growth",
+        "score": 0.17423498630523682
+      },
+      {
+        "id": "https://openalex.org/keywords/economics",
+        "display_name": "Economics",
+        "score": 0.1547512412071228
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C169437150",
+        "wikidata": "https://www.wikidata.org/wiki/Q8458",
+        "display_name": "Human rights",
+        "level": 2,
+        "score": 0.7092278003692627
+      },
+      {
+        "id": "https://openalex.org/C48103436",
+        "wikidata": "https://www.wikidata.org/wiki/Q599031",
+        "display_name": "State (computer science)",
+        "level": 2,
+        "score": 0.6551007628440857
+      },
+      {
+        "id": "https://openalex.org/C2777351106",
+        "wikidata": "https://www.wikidata.org/wiki/Q49371",
+        "display_name": "Legislation",
+        "level": 2,
+        "score": 0.599639892578125
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.5505771636962891
+      },
+      {
+        "id": "https://openalex.org/C3019876095",
+        "wikidata": "https://www.wikidata.org/wiki/Q15320003",
+        "display_name": "Migrant workers",
+        "level": 2,
+        "score": 0.5462895631790161
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.48699837923049927
+      },
+      {
+        "id": "https://openalex.org/C2778126366",
+        "wikidata": "https://www.wikidata.org/wiki/Q41171",
+        "display_name": "Unemployment",
+        "level": 2,
+        "score": 0.43262019753456116
+      },
+      {
+        "id": "https://openalex.org/C2993791327",
+        "wikidata": "https://www.wikidata.org/wiki/Q2628882",
+        "display_name": "Legal status",
+        "level": 2,
+        "score": 0.41631942987442017
+      },
+      {
+        "id": "https://openalex.org/C50522688",
+        "wikidata": "https://www.wikidata.org/wiki/Q189833",
+        "display_name": "Economic growth",
+        "level": 1,
+        "score": 0.17423498630523682
+      },
+      {
+        "id": "https://openalex.org/C162324750",
+        "wikidata": "https://www.wikidata.org/wiki/Q8134",
+        "display_name": "Economics",
+        "level": 0,
+        "score": 0.1547512412071228
+      },
+      {
+        "id": "https://openalex.org/C11413529",
+        "wikidata": "https://www.wikidata.org/wiki/Q8366",
+        "display_name": "Algorithm",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/092405199901700102",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/092405199901700102",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S158082692",
+          "display_name": "Netherlands Quarterly of Human Rights",
+          "issn_l": "0924-0519",
+          "issn": [
+            "0924-0519",
+            "2214-7357"
+          ],
+          "is_oa": false,
+          "is_in_doaj": true,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Netherlands Quarterly of Human Rights",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "display_name": "Decent work and economic growth",
+        "id": "https://metadata.un.org/sdg/8",
+        "score": 0.5199999809265137
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W2380896940",
+      "https://openalex.org/W2372275786",
+      "https://openalex.org/W2360757248",
+      "https://openalex.org/W2391297446",
+      "https://openalex.org/W2495499255",
+      "https://openalex.org/W2374527051",
+      "https://openalex.org/W2351532294",
+      "https://openalex.org/W2387901866",
+      "https://openalex.org/W2397086203"
+    ],
+    "abstract_inverted_index": {
+      "Upholding": [
+        0
+      ],
+      "the": [
+        1,
+        24,
+        53,
+        57,
+        85,
+        107,
+        129,
+        136
+      ],
+      "human": [
+        2,
+        110,
+        117
+      ],
+      "rights": [
+        3,
+        111,
+        118
+      ],
+      "of": [
+        4,
+        10,
+        26,
+        56,
+        87,
+        112,
+        135
+      ],
+      "migrant": [
+        5,
+        68,
+        77,
+        113
+      ],
+      "workers": [
+        6,
+        78
+      ],
+      "raises": [
+        7
+      ],
+      "a": [
+        8,
+        14,
+        103
+      ],
+      "host": [
+        9
+      ],
+      "legal": [
+        11,
+        48,
+        74,
+        97
+      ],
+      "problems": [
+        12
+      ],
+      "for": [
+        13,
+        76,
+        105
+      ],
+      "State": [
+        15,
+        58
+      ],
+      "that": [
+        16,
+        99
+      ],
+      "desires": [
+        17
+      ],
+      "cheap": [
+        18
+      ],
+      "foreign": [
+        19
+      ],
+      "labour.": [
+        20
+      ],
+      "Israel": [
+        21,
+        43,
+        80
+      ],
+      "has": [
+        22
+      ],
+      "reaped": [
+        23
+      ],
+      "benefits": [
+        25
+      ],
+      "such": [
+        27
+      ],
+      "labour": [
+        28
+      ],
+      "without": [
+        29
+      ],
+      "incurring": [
+        30
+      ],
+      "any": [
+        31,
+        88
+      ],
+      "significant": [
+        32
+      ],
+      "responsibility": [
+        33
+      ],
+      "to": [
+        34,
+        46,
+        64,
+        71,
+        94
+      ],
+      "these": [
+        35
+      ],
+      "exploited": [
+        36
+      ],
+      "workers.": [
+        37,
+        114
+      ],
+      "Yet,": [
+        38
+      ],
+      "their": [
+        39
+      ],
+      "growing": [
+        40
+      ],
+      "presence": [
+        41
+      ],
+      "in": [
+        42,
+        79,
+        84
+      ],
+      "is": [
+        44
+      ],
+      "beginning": [
+        45
+      ],
+      "raise": [
+        47
+      ],
+      "and": [
+        49,
+        59,
+        125,
+        127,
+        132
+      ],
+      "social": [
+        50
+      ],
+      "concerns": [
+        51
+      ],
+      "given": [
+        52
+      ],
+      "small": [
+        54
+      ],
+      "size": [
+        55
+      ],
+      "its": [
+        60
+      ],
+      "rising": [
+        61
+      ],
+      "unemployment.": [
+        62
+      ],
+      "Similar": [
+        63
+      ],
+      "other": [
+        65
+      ],
+      "States": [
+        66
+      ],
+      "with": [
+        67
+      ],
+      "workers,": [
+        69
+      ],
+      "attempting": [
+        70
+      ],
+      "carve": [
+        72
+      ],
+      "out": [
+        73
+      ],
+      "protections": [
+        75
+      ],
+      "proves": [
+        81
+      ],
+      "quite": [
+        82
+      ],
+      "difficult": [
+        83
+      ],
+      "absence": [
+        86
+      ],
+      "formal": [
+        89
+      ],
+      "legislation.": [
+        90
+      ],
+      "This": [
+        91
+      ],
+      "article": [
+        92
+      ],
+      "begins": [
+        93
+      ],
+      "identify": [
+        95
+      ],
+      "various": [
+        96
+      ],
+      "sources": [
+        98
+      ],
+      "can": [
+        100,
+        119
+      ],
+      "serve": [
+        101
+      ],
+      "as": [
+        102
+      ],
+      "framework": [
+        104
+      ],
+      "explicating": [
+        106
+      ],
+      "emerging": [
+        108
+      ],
+      "customary": [
+        109,
+        116
+      ],
+      "Such": [
+        115
+      ],
+      "be": [
+        120
+      ],
+      "derived": [
+        121
+      ],
+      "from": [
+        122,
+        128
+      ],
+      "unincorporated": [
+        123
+      ],
+      "treaties": [
+        124
+      ],
+      "conventions": [
+        126
+      ],
+      "domestic": [
+        130
+      ],
+      "laws": [
+        131
+      ],
+      "judicial": [
+        133
+      ],
+      "decisions": [
+        134
+      ],
+      "State.": [
+        137
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2605395434",
+    "doi": "https://doi.org/10.1177/016934419100900403",
+    "title": "The Legality of Utilizing Administrative Detention in the Israeli Occupied Territories",
+    "display_name": "The Legality of Utilizing Administrative Detention in the Israeli Occupied Territories",
+    "relevance_score": 13.0617075,
+    "publication_year": 1991,
+    "publication_date": "1991-12-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2605395434",
+      "doi": "https://doi.org/10.1177/016934419100900403",
+      "mag": "2605395434"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/016934419100900403",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/016934419100900403",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S158082692",
+        "display_name": "Netherlands Quarterly of Human Rights",
+        "issn_l": "0924-0519",
+        "issn": [
+          "0924-0519",
+          "2214-7357"
+        ],
+        "is_oa": false,
+        "is_in_doaj": true,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Netherlands Quarterly of Human Rights",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "doaj"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5062272172",
+          "display_name": "Usama R. Halabi",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Usama R. Halabi",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5062272172"
+    ],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.44930532,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "9",
+      "issue": "4",
+      "first_page": "398",
+      "last_page": "417"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10749",
+      "display_name": "International Law and Human Rights",
+      "score": 0.992900013923645,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10749",
+        "display_name": "International Law and Human Rights",
+        "score": 0.992900013923645,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13076",
+        "display_name": "Torture, Ethics, and Law",
+        "score": 0.9641000032424927,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12752",
+        "display_name": "Global Peace and Security Dynamics",
+        "score": 0.9488999843597412,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/principle-of-legality",
+        "display_name": "Principle of legality",
+        "score": 0.9349156022071838
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.6041895747184753
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.4229414463043213
+      },
+      {
+        "id": "https://openalex.org/keywords/criminology",
+        "display_name": "Criminology",
+        "score": 0.35086458921432495
+      },
+      {
+        "id": "https://openalex.org/keywords/geography",
+        "display_name": "Geography",
+        "score": 0.3298981487751007
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.2133285105228424
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C42027317",
+        "wikidata": "https://www.wikidata.org/wiki/Q2307054",
+        "display_name": "Principle of legality",
+        "level": 2,
+        "score": 0.9349156022071838
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.6041895747184753
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.4229414463043213
+      },
+      {
+        "id": "https://openalex.org/C73484699",
+        "wikidata": "https://www.wikidata.org/wiki/Q161733",
+        "display_name": "Criminology",
+        "level": 1,
+        "score": 0.35086458921432495
+      },
+      {
+        "id": "https://openalex.org/C205649164",
+        "wikidata": "https://www.wikidata.org/wiki/Q1071",
+        "display_name": "Geography",
+        "level": 0,
+        "score": 0.3298981487751007
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.2133285105228424
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/016934419100900403",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/016934419100900403",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S158082692",
+          "display_name": "Netherlands Quarterly of Human Rights",
+          "issn_l": "0924-0519",
+          "issn": [
+            "0924-0519",
+            "2214-7357"
+          ],
+          "is_oa": false,
+          "is_in_doaj": true,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Netherlands Quarterly of Human Rights",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16",
+        "score": 0.6700000166893005
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W3122346207",
+      "https://openalex.org/W4280488862",
+      "https://openalex.org/W2361823710",
+      "https://openalex.org/W2382763736",
+      "https://openalex.org/W4280647041",
+      "https://openalex.org/W2378357372",
+      "https://openalex.org/W2888591139",
+      "https://openalex.org/W2358425177",
+      "https://openalex.org/W2693322094"
+    ],
+    "abstract_inverted_index": null,
+    "counts_by_year": [],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W4244893607",
+    "doi": "https://doi.org/10.1177/016934411002800211",
+    "title": "I Book Review: What Constitutes Occupation? Israel as the Occupying Power in the Gaza Strip after Disengagement",
+    "display_name": "I Book Review: What Constitutes Occupation? Israel as the Occupying Power in the Gaza Strip after Disengagement",
+    "relevance_score": 10.116323,
+    "publication_year": 2010,
+    "publication_date": "2010-06-01",
+    "ids": {
+      "openalex": "https://openalex.org/W4244893607",
+      "doi": "https://doi.org/10.1177/016934411002800211"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/016934411002800211",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/016934411002800211",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S158082692",
+        "display_name": "Netherlands Quarterly of Human Rights",
+        "issn_l": "0924-0519",
+        "issn": [
+          "0924-0519",
+          "2214-7357"
+        ],
+        "is_oa": false,
+        "is_in_doaj": true,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Netherlands Quarterly of Human Rights",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "doaj"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 0,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.64440023,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "28",
+      "issue": "2",
+      "first_page": "279",
+      "last_page": "282"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Jewish and Middle Eastern Studies",
+      "score": 0.9819999933242798,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.9819999933242798,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13103",
+        "display_name": "Middle East Politics and Society",
+        "score": 0.9532999992370605,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13634",
+        "display_name": "Middle East and Rwanda Conflicts",
+        "score": 0.9121999740600586,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/disengagement-theory",
+        "display_name": "Disengagement theory",
+        "score": 0.8982788324356079
+      },
+      {
+        "id": "https://openalex.org/keywords/gaza-strip",
+        "display_name": "Gaza strip",
+        "score": 0.8951282501220703
+      },
+      {
+        "id": "https://openalex.org/keywords/power",
+        "display_name": "Power (physics)",
+        "score": 0.5301545262336731
+      },
+      {
+        "id": "https://openalex.org/keywords/ancient-history",
+        "display_name": "Ancient history",
+        "score": 0.4532242715358734
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.43352752923965454
+      },
+      {
+        "id": "https://openalex.org/keywords/palestine",
+        "display_name": "Palestine",
+        "score": 0.3091945946216583
+      },
+      {
+        "id": "https://openalex.org/keywords/history",
+        "display_name": "History",
+        "score": 0.29260045289993286
+      },
+      {
+        "id": "https://openalex.org/keywords/medicine",
+        "display_name": "Medicine",
+        "score": 0.1521008312702179
+      },
+      {
+        "id": "https://openalex.org/keywords/physics",
+        "display_name": "Physics",
+        "score": 0.08628305792808533
+      },
+      {
+        "id": "https://openalex.org/keywords/gerontology",
+        "display_name": "Gerontology",
+        "score": 0.04469585418701172
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C25740722",
+        "wikidata": "https://www.wikidata.org/wiki/Q3044915",
+        "display_name": "Disengagement theory",
+        "level": 2,
+        "score": 0.8982788324356079
+      },
+      {
+        "id": "https://openalex.org/C3017912951",
+        "wikidata": "https://www.wikidata.org/wiki/Q39760",
+        "display_name": "Gaza strip",
+        "level": 3,
+        "score": 0.8951282501220703
+      },
+      {
+        "id": "https://openalex.org/C163258240",
+        "wikidata": "https://www.wikidata.org/wiki/Q25342",
+        "display_name": "Power (physics)",
+        "level": 2,
+        "score": 0.5301545262336731
+      },
+      {
+        "id": "https://openalex.org/C195244886",
+        "wikidata": "https://www.wikidata.org/wiki/Q41493",
+        "display_name": "Ancient history",
+        "level": 1,
+        "score": 0.4532242715358734
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.43352752923965454
+      },
+      {
+        "id": "https://openalex.org/C114362828",
+        "wikidata": "https://www.wikidata.org/wiki/Q23792",
+        "display_name": "Palestine",
+        "level": 2,
+        "score": 0.3091945946216583
+      },
+      {
+        "id": "https://openalex.org/C95457728",
+        "wikidata": "https://www.wikidata.org/wiki/Q309",
+        "display_name": "History",
+        "level": 0,
+        "score": 0.29260045289993286
+      },
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.1521008312702179
+      },
+      {
+        "id": "https://openalex.org/C121332964",
+        "wikidata": "https://www.wikidata.org/wiki/Q413",
+        "display_name": "Physics",
+        "level": 0,
+        "score": 0.08628305792808533
+      },
+      {
+        "id": "https://openalex.org/C74909509",
+        "wikidata": "https://www.wikidata.org/wiki/Q10387",
+        "display_name": "Gerontology",
+        "level": 1,
+        "score": 0.04469585418701172
+      },
+      {
+        "id": "https://openalex.org/C62520636",
+        "wikidata": "https://www.wikidata.org/wiki/Q944",
+        "display_name": "Quantum mechanics",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/016934411002800211",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/016934411002800211",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S158082692",
+          "display_name": "Netherlands Quarterly of Human Rights",
+          "issn_l": "0924-0519",
+          "issn": [
+            "0924-0519",
+            "2214-7357"
+          ],
+          "is_oa": false,
+          "is_in_doaj": true,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Netherlands Quarterly of Human Rights",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "display_name": "Reduced inequalities",
+        "id": "https://metadata.un.org/sdg/10",
+        "score": 0.49000000953674316
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W1992059910",
+      "https://openalex.org/W2090665885",
+      "https://openalex.org/W4291733812",
+      "https://openalex.org/W3086275903",
+      "https://openalex.org/W2905113596",
+      "https://openalex.org/W2006149701",
+      "https://openalex.org/W4242093984",
+      "https://openalex.org/W3027767908",
+      "https://openalex.org/W2525857323",
+      "https://openalex.org/W2004216888"
+    ],
+    "abstract_inverted_index": null,
+    "counts_by_year": [],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2777631520",
+    "doi": "https://doi.org/10.1177/092405199901700404",
+    "title": "The Chained Wife",
+    "display_name": "The Chained Wife",
+    "relevance_score": 4.1980615,
+    "publication_year": 1999,
+    "publication_date": "1999-12-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2777631520",
+      "doi": "https://doi.org/10.1177/092405199901700404",
+      "mag": "2777631520"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/092405199901700404",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/092405199901700404",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S158082692",
+        "display_name": "Netherlands Quarterly of Human Rights",
+        "issn_l": "0924-0519",
+        "issn": [
+          "0924-0519",
+          "2214-7357"
+        ],
+        "is_oa": false,
+        "is_in_doaj": true,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Netherlands Quarterly of Human Rights",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "doaj"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5069519046",
+          "display_name": "Esther Tager",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Esther Tager",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5069519046"
+    ],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 2,
+    "citation_normalized_percentile": {
+      "value": 0.49460436,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 94
+    },
+    "biblio": {
+      "volume": "17",
+      "issue": "4",
+      "first_page": "425",
+      "last_page": "457"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Jewish and Middle Eastern Studies",
+      "score": 0.9480999708175659,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.9480999708175659,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/wife",
+        "display_name": "Wife",
+        "score": 0.9327341318130493
+      },
+      {
+        "id": "https://openalex.org/keywords/scrutiny",
+        "display_name": "Scrutiny",
+        "score": 0.7974023818969727
+      },
+      {
+        "id": "https://openalex.org/keywords/judaism",
+        "display_name": "Judaism",
+        "score": 0.7677932381629944
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.6439163684844971
+      },
+      {
+        "id": "https://openalex.org/keywords/scope",
+        "display_name": "Scope (computer science)",
+        "score": 0.547041118144989
+      },
+      {
+        "id": "https://openalex.org/keywords/state",
+        "display_name": "State (computer science)",
+        "score": 0.5292686223983765
+      },
+      {
+        "id": "https://openalex.org/keywords/intervention",
+        "display_name": "Intervention (counseling)",
+        "score": 0.49187207221984863
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.4520242214202881
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.41421395540237427
+      },
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.22670403122901917
+      },
+      {
+        "id": "https://openalex.org/keywords/mathematics",
+        "display_name": "Mathematics",
+        "score": 0.08650064468383789
+      },
+      {
+        "id": "https://openalex.org/keywords/philosophy",
+        "display_name": "Philosophy",
+        "score": 0.08505856990814209
+      },
+      {
+        "id": "https://openalex.org/keywords/theology",
+        "display_name": "Theology",
+        "score": 0.07945001125335693
+      },
+      {
+        "id": "https://openalex.org/keywords/computer-science",
+        "display_name": "Computer science",
+        "score": 0.0780874490737915
+      },
+      {
+        "id": "https://openalex.org/keywords/psychiatry",
+        "display_name": "Psychiatry",
+        "score": 0.062066227197647095
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2778983918",
+        "wikidata": "https://www.wikidata.org/wiki/Q188830",
+        "display_name": "Wife",
+        "level": 2,
+        "score": 0.9327341318130493
+      },
+      {
+        "id": "https://openalex.org/C2776050585",
+        "wikidata": "https://www.wikidata.org/wiki/Q7439360",
+        "display_name": "Scrutiny",
+        "level": 2,
+        "score": 0.7974023818969727
+      },
+      {
+        "id": "https://openalex.org/C150152722",
+        "wikidata": "https://www.wikidata.org/wiki/Q9268",
+        "display_name": "Judaism",
+        "level": 2,
+        "score": 0.7677932381629944
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.6439163684844971
+      },
+      {
+        "id": "https://openalex.org/C2778012447",
+        "wikidata": "https://www.wikidata.org/wiki/Q1034415",
+        "display_name": "Scope (computer science)",
+        "level": 2,
+        "score": 0.547041118144989
+      },
+      {
+        "id": "https://openalex.org/C48103436",
+        "wikidata": "https://www.wikidata.org/wiki/Q599031",
+        "display_name": "State (computer science)",
+        "level": 2,
+        "score": 0.5292686223983765
+      },
+      {
+        "id": "https://openalex.org/C2780665704",
+        "wikidata": "https://www.wikidata.org/wiki/Q959298",
+        "display_name": "Intervention (counseling)",
+        "level": 2,
+        "score": 0.49187207221984863
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.4520242214202881
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.41421395540237427
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.22670403122901917
+      },
+      {
+        "id": "https://openalex.org/C33923547",
+        "wikidata": "https://www.wikidata.org/wiki/Q395",
+        "display_name": "Mathematics",
+        "level": 0,
+        "score": 0.08650064468383789
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.08505856990814209
+      },
+      {
+        "id": "https://openalex.org/C27206212",
+        "wikidata": "https://www.wikidata.org/wiki/Q34178",
+        "display_name": "Theology",
+        "level": 1,
+        "score": 0.07945001125335693
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.0780874490737915
+      },
+      {
+        "id": "https://openalex.org/C118552586",
+        "wikidata": "https://www.wikidata.org/wiki/Q7867",
+        "display_name": "Psychiatry",
+        "level": 1,
+        "score": 0.062066227197647095
+      },
+      {
+        "id": "https://openalex.org/C199360897",
+        "wikidata": "https://www.wikidata.org/wiki/Q9143",
+        "display_name": "Programming language",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C11413529",
+        "wikidata": "https://www.wikidata.org/wiki/Q8366",
+        "display_name": "Algorithm",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/092405199901700404",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/092405199901700404",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S158082692",
+          "display_name": "Netherlands Quarterly of Human Rights",
+          "issn_l": "0924-0519",
+          "issn": [
+            "0924-0519",
+            "2214-7357"
+          ],
+          "is_oa": false,
+          "is_in_doaj": true,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Netherlands Quarterly of Human Rights",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "display_name": "Gender equality",
+        "id": "https://metadata.un.org/sdg/5",
+        "score": 0.5799999833106995
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W2145732254",
+      "https://openalex.org/W1987888524",
+      "https://openalex.org/W2415594679",
+      "https://openalex.org/W2745006023",
+      "https://openalex.org/W3190981800",
+      "https://openalex.org/W3186024320",
+      "https://openalex.org/W4386968441",
+      "https://openalex.org/W2111385166",
+      "https://openalex.org/W4241399266",
+      "https://openalex.org/W2392512429"
+    ],
+    "abstract_inverted_index": {
+      "A": [
+        0
+      ],
+      "Jewish": [
+        1,
+        78,
+        158
+      ],
+      "woman": [
+        2
+      ],
+      "who": [
+        3,
+        42,
+        129
+      ],
+      "remarries": [
+        4,
+        43
+      ],
+      "without": [
+        5,
+        44
+      ],
+      "receiving": [
+        6
+      ],
+      "a": [
+        7,
+        29,
+        40,
+        48,
+        75,
+        112
+      ],
+      "Get": [
+        8
+      ],
+      "from": [
+        9,
+        115
+      ],
+      "her": [
+        10
+      ],
+      "husband": [
+        11
+      ],
+      "is": [
+        12,
+        104,
+        122
+      ],
+      "considered": [
+        13,
+        26
+      ],
+      "as": [
+        14
+      ],
+      "an": [
+        15
+      ],
+      "adulteress": [
+        16
+      ],
+      "and": [
+        17,
+        80,
+        101,
+        142
+      ],
+      "any": [
+        18
+      ],
+      "children": [
+        19
+      ],
+      "born": [
+        20
+      ],
+      "of": [
+        21,
+        60,
+        98,
+        107
+      ],
+      "this": [
+        22
+      ],
+      "relationship": [
+        23
+      ],
+      "will": [
+        24
+      ],
+      "be": [
+        25,
+        144,
+        162
+      ],
+      "Mamzerim": [
+        27
+      ],
+      "\u2013": [
+        28
+      ],
+      "status": [
+        30
+      ],
+      "akin": [
+        31
+      ],
+      "to": [
+        32,
+        39,
+        57,
+        87,
+        110,
+        133,
+        143,
+        164,
+        169
+      ],
+      "bastardy.": [
+        33
+      ],
+      "This": [
+        34,
+        50
+      ],
+      "stigma": [
+        35
+      ],
+      "does": [
+        36
+      ],
+      "not": [
+        37
+      ],
+      "apply": [
+        38
+      ],
+      "man": [
+        41
+      ],
+      "giving": [
+        45
+      ],
+      "his": [
+        46
+      ],
+      "wife": [
+        47
+      ],
+      "Get.": [
+        49
+      ],
+      "article": [
+        51,
+        152
+      ],
+      "looks": [
+        52
+      ],
+      "at": [
+        53
+      ],
+      "two": [
+        54
+      ],
+      "potential": [
+        55
+      ],
+      "solutions": [
+        56,
+        90
+      ],
+      "the": [
+        58,
+        61,
+        72,
+        83,
+        89,
+        96,
+        105,
+        108,
+        125,
+        139,
+        148,
+        154,
+        157
+      ],
+      "problem": [
+        59,
+        121
+      ],
+      "Agunah": [
+        62
+      ],
+      "(the": [
+        63
+      ],
+      "chained": [
+        64
+      ],
+      "or": [
+        65
+      ],
+      "anchored": [
+        66
+      ],
+      "wife).": [
+        67
+      ],
+      "The": [
+        68,
+        93,
+        120,
+        151
+      ],
+      "first": [
+        69
+      ],
+      "focuses": [
+        70
+      ],
+      "on": [
+        71
+      ],
+      "scope": [
+        73
+      ],
+      "for": [
+        74,
+        127
+      ],
+      "solution": [
+        76
+      ],
+      "within": [
+        77
+      ],
+      "law": [
+        79
+      ],
+      "considers": [
+        81,
+        95
+      ],
+      "why": [
+        82
+      ],
+      "religious": [
+        84,
+        113,
+        159
+      ],
+      "authorities": [
+        85,
+        141,
+        160
+      ],
+      "fail": [
+        86
+      ],
+      "use": [
+        88
+      ],
+      "which": [
+        91
+      ],
+      "exist.": [
+        92
+      ],
+      "second": [
+        94
+      ],
+      "prospect": [
+        97
+      ],
+      "State": [
+        99,
+        109
+      ],
+      "intervention": [
+        100
+      ],
+      "whether": [
+        102
+      ],
+      "it": [
+        103
+      ],
+      "responsibility": [
+        106
+      ],
+      "rescue": [
+        111
+      ],
+      "minority": [
+        114
+      ],
+      "its": [
+        116
+      ],
+      "own": [
+        117
+      ],
+      "self-imposed": [
+        118
+      ],
+      "problems.": [
+        119
+      ],
+      "compounded": [
+        123
+      ],
+      "by": [
+        124,
+        138,
+        147
+      ],
+      "requirement": [
+        126
+      ],
+      "Jews": [
+        128
+      ],
+      "live": [
+        130
+      ],
+      "outside": [
+        131
+      ],
+      "Israel": [
+        132
+      ],
+      "have": [
+        134,
+        165
+      ],
+      "their": [
+        135,
+        166
+      ],
+      "marriages": [
+        136
+      ],
+      "sanctioned": [
+        137
+      ],
+      "civil": [
+        140,
+        149
+      ],
+      "similarly": [
+        145
+      ],
+      "dissolved": [
+        146
+      ],
+      "process.": [
+        150
+      ],
+      "poses": [
+        153
+      ],
+      "question": [
+        155
+      ],
+      "if": [
+        156
+      ],
+      "would": [
+        161
+      ],
+      "prepared": [
+        163
+      ],
+      "laws": [
+        167
+      ],
+      "subjected": [
+        168
+      ],
+      "independent": [
+        170
+      ],
+      "scrutiny.": [
+        171
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2012,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2018-01-05T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2605978025",
+    "doi": "https://doi.org/10.1177/016934410802600203",
+    "title": "The Holy City in Human Dimensions",
+    "display_name": "The Holy City in Human Dimensions",
+    "relevance_score": 1.4882104,
+    "publication_year": 2008,
+    "publication_date": "2008-06-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2605978025",
+      "doi": "https://doi.org/10.1177/016934410802600203",
+      "mag": "2605978025"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/016934410802600203",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/016934410802600203",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S158082692",
+        "display_name": "Netherlands Quarterly of Human Rights",
+        "issn_l": "0924-0519",
+        "issn": [
+          "0924-0519",
+          "2214-7357"
+        ],
+        "is_oa": false,
+        "is_in_doaj": true,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Netherlands Quarterly of Human Rights",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "doaj"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5091596534",
+          "display_name": "Yehezkel Lein",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Yehezkel Lein",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5091596534"
+    ],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.48429018,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "26",
+      "issue": "2",
+      "first_page": "199",
+      "last_page": "233"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T13103",
+      "display_name": "Middle East Politics and Society",
+      "score": 0.8367999792098999,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T13103",
+        "display_name": "Middle East Politics and Society",
+        "score": 0.8367999792098999,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.807699978351593,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/negotiation",
+        "display_name": "Negotiation",
+        "score": 0.693774938583374
+      },
+      {
+        "id": "https://openalex.org/keywords/human-rights",
+        "display_name": "Human rights",
+        "score": 0.6749432682991028
+      },
+      {
+        "id": "https://openalex.org/keywords/denial",
+        "display_name": "Denial",
+        "score": 0.6550222635269165
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.6046695709228516
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.603857696056366
+      },
+      {
+        "id": "https://openalex.org/keywords/social-security",
+        "display_name": "Social security",
+        "score": 0.5466107726097107
+      },
+      {
+        "id": "https://openalex.org/keywords/international-law",
+        "display_name": "International law",
+        "score": 0.41583260893821716
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.34201502799987793
+      },
+      {
+        "id": "https://openalex.org/keywords/law-and-economics",
+        "display_name": "Law and economics",
+        "score": 0.3389813303947449
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C199776023",
+        "wikidata": "https://www.wikidata.org/wiki/Q202875",
+        "display_name": "Negotiation",
+        "level": 2,
+        "score": 0.693774938583374
+      },
+      {
+        "id": "https://openalex.org/C169437150",
+        "wikidata": "https://www.wikidata.org/wiki/Q8458",
+        "display_name": "Human rights",
+        "level": 2,
+        "score": 0.6749432682991028
+      },
+      {
+        "id": "https://openalex.org/C2780900520",
+        "wikidata": "https://www.wikidata.org/wiki/Q100268981",
+        "display_name": "Denial",
+        "level": 2,
+        "score": 0.6550222635269165
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.6046695709228516
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.603857696056366
+      },
+      {
+        "id": "https://openalex.org/C2777111884",
+        "wikidata": "https://www.wikidata.org/wiki/Q12002092",
+        "display_name": "Social security",
+        "level": 2,
+        "score": 0.5466107726097107
+      },
+      {
+        "id": "https://openalex.org/C55447825",
+        "wikidata": "https://www.wikidata.org/wiki/Q4394526",
+        "display_name": "International law",
+        "level": 2,
+        "score": 0.41583260893821716
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.34201502799987793
+      },
+      {
+        "id": "https://openalex.org/C190253527",
+        "wikidata": "https://www.wikidata.org/wiki/Q295354",
+        "display_name": "Law and economics",
+        "level": 1,
+        "score": 0.3389813303947449
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C11171543",
+        "wikidata": "https://www.wikidata.org/wiki/Q41630",
+        "display_name": "Psychoanalysis",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/016934410802600203",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/016934410802600203",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S158082692",
+          "display_name": "Netherlands Quarterly of Human Rights",
+          "issn_l": "0924-0519",
+          "issn": [
+            "0924-0519",
+            "2214-7357"
+          ],
+          "is_oa": false,
+          "is_in_doaj": true,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Netherlands Quarterly of Human Rights",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16",
+        "score": 0.800000011920929
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W2035091929",
+      "https://openalex.org/W2161226151",
+      "https://openalex.org/W2765658188",
+      "https://openalex.org/W2235209299",
+      "https://openalex.org/W2886198660",
+      "https://openalex.org/W1994643043",
+      "https://openalex.org/W1997184652",
+      "https://openalex.org/W2413774596",
+      "https://openalex.org/W206810774"
+    ],
+    "abstract_inverted_index": {
+      "In": [
+        0
+      ],
+      "the": [
+        1,
+        8,
+        14,
+        19,
+        26,
+        34,
+        54,
+        90,
+        120
+      ],
+      "failed": [
+        2
+      ],
+      "final-status": [
+        3
+      ],
+      "negotiations": [
+        4
+      ],
+      "that": [
+        5,
+        36
+      ],
+      "Israel": [
+        6,
+        79
+      ],
+      "and": [
+        7
+      ],
+      "Palestinian": [
+        9,
+        96
+      ],
+      "Authority": [
+        10
+      ],
+      "held": [
+        11
+      ],
+      "in": [
+        12,
+        69
+      ],
+      "2000,": [
+        13
+      ],
+      "sides": [
+        15,
+        32
+      ],
+      "reached": [
+        16
+      ],
+      "agreement": [
+        17
+      ],
+      "on": [
+        18,
+        25
+      ],
+      "main": [
+        20
+      ],
+      "parameters": [
+        21
+      ],
+      "of": [
+        22,
+        28,
+        64,
+        95,
+        109,
+        119,
+        122
+      ],
+      "a": [
+        23,
+        106,
+        117
+      ],
+      "solution": [
+        24
+      ],
+      "question": [
+        27
+      ],
+      "Jerusalem.": [
+        29
+      ],
+      "However,": [
+        30
+      ],
+      "both": [
+        31
+      ],
+      "ignored": [
+        33
+      ],
+      "fact": [
+        35
+      ],
+      "according": [
+        37,
+        73
+      ],
+      "to": [
+        38,
+        74,
+        82,
+        92
+      ],
+      "these": [
+        39
+      ],
+      "parameters,": [
+        40
+      ],
+      "East": [
+        41
+      ],
+      "Jerusalem": [
+        42
+      ],
+      "Palestinians": [
+        43
+      ],
+      "would": [
+        44,
+        80,
+        113
+      ],
+      "be": [
+        45,
+        67,
+        115
+      ],
+      "denied": [
+        46
+      ],
+      "almost": [
+        47
+      ],
+      "completely": [
+        48
+      ],
+      "their": [
+        49
+      ],
+      "social": [
+        50,
+        56,
+        93,
+        110
+      ],
+      "security": [
+        51,
+        57,
+        94,
+        111
+      ],
+      "entitlements": [
+        52
+      ],
+      "under": [
+        53,
+        124
+      ],
+      "Israeli": [
+        55,
+        125
+      ],
+      "system.": [
+        58
+      ],
+      "This": [
+        59
+      ],
+      "article": [
+        60
+      ],
+      "argues": [
+        61
+      ],
+      "that,": [
+        62
+      ],
+      "regardless": [
+        63
+      ],
+      "what": [
+        65
+      ],
+      "will": [
+        66
+      ],
+      "agreed": [
+        68
+      ],
+      "any": [
+        70
+      ],
+      "future": [
+        71
+      ],
+      "agreement,": [
+        72
+      ],
+      "international": [
+        75
+      ],
+      "human": [
+        76
+      ],
+      "rights": [
+        77
+      ],
+      "law,": [
+        78
+      ],
+      "continue": [
+        81
+      ],
+      "bear": [
+        83
+      ],
+      "at": [
+        84
+      ],
+      "least": [
+        85
+      ],
+      "some": [
+        86
+      ],
+      "responsibility": [
+        87
+      ],
+      "for": [
+        88
+      ],
+      "ensuring": [
+        89
+      ],
+      "right": [
+        91,
+        121
+      ],
+      "Jerusalemites,": [
+        97
+      ],
+      "even": [
+        98
+      ],
+      "though": [
+        99
+      ],
+      "they": [
+        100
+      ],
+      "live": [
+        101
+      ],
+      "outside": [
+        102
+      ],
+      "its": [
+        103
+      ],
+      "territory.": [
+        104
+      ],
+      "Moreover,": [
+        105
+      ],
+      "sweeping": [
+        107
+      ],
+      "denial": [
+        108
+      ],
+      "benefits": [
+        112
+      ],
+      "also": [
+        114
+      ],
+      "deemed": [
+        116
+      ],
+      "violation": [
+        118
+      ],
+      "property": [
+        123
+      ],
+      "constitutional": [
+        126
+      ],
+      "law.": [
+        127
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W1595032062",
+    "doi": "https://doi.org/10.1177/016934410602400104",
+    "title": "The Wall and the Law: A Tale of Two Judgements",
+    "display_name": "The Wall and the Law: A Tale of Two Judgements",
+    "relevance_score": 1.3701233,
+    "publication_year": 2006,
+    "publication_date": "2006-03-01",
+    "ids": {
+      "openalex": "https://openalex.org/W1595032062",
+      "doi": "https://doi.org/10.1177/016934410602400104",
+      "mag": "1595032062"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/016934410602400104",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/016934410602400104",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S158082692",
+        "display_name": "Netherlands Quarterly of Human Rights",
+        "issn_l": "0924-0519",
+        "issn": [
+          "0924-0519",
+          "2214-7357"
+        ],
+        "is_oa": false,
+        "is_in_doaj": true,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Netherlands Quarterly of Human Rights",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "doaj"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://scholarship.law.bu.edu/faculty_scholarship/421",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5009554089",
+          "display_name": "Susan Akram",
+          "orcid": "https://orcid.org/0000-0001-7278-6389"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I111088046",
+            "display_name": "Boston University",
+            "ror": "https://ror.org/05qwgg493",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I111088046"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Susan Musarrat Akram",
+        "raw_affiliation_strings": [
+          "Boston University - School of Law"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Boston University - School of Law",
+            "institution_ids": [
+              "https://openalex.org/I111088046"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5037175202",
+          "display_name": "S. Michael Lynk",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I125749732",
+            "display_name": "Western University",
+            "ror": "https://ror.org/02grkyz14",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I125749732"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "S. Michael Lynk",
+        "raw_affiliation_strings": [
+          "University of Western Ontario Faculty of Law"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Western Ontario Faculty of Law",
+            "institution_ids": [
+              "https://openalex.org/I125749732"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 2,
+    "institutions_distinct_count": 2,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.14921243,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "24",
+      "issue": "1",
+      "first_page": "61",
+      "last_page": "106"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Jewish and Middle Eastern Studies",
+      "score": 0.9896000027656555,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.9896000027656555,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13634",
+        "display_name": "Middle East and Rwanda Conflicts",
+        "score": 0.9843999743461609,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10749",
+        "display_name": "International Law and Human Rights",
+        "score": 0.9430999755859375,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/principle-of-legality",
+        "display_name": "Principle of legality",
+        "score": 0.8754963874816895
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.6971943378448486
+      },
+      {
+        "id": "https://openalex.org/keywords/advisory-opinion",
+        "display_name": "Advisory opinion",
+        "score": 0.6557667255401611
+      },
+      {
+        "id": "https://openalex.org/keywords/politics",
+        "display_name": "Politics",
+        "score": 0.6482099890708923
+      },
+      {
+        "id": "https://openalex.org/keywords/shadow",
+        "display_name": "Shadow (psychology)",
+        "score": 0.646575927734375
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.6076306104660034
+      },
+      {
+        "id": "https://openalex.org/keywords/international-court",
+        "display_name": "International court",
+        "score": 0.5866401195526123
+      },
+      {
+        "id": "https://openalex.org/keywords/economic-justice",
+        "display_name": "Economic Justice",
+        "score": 0.5339450240135193
+      },
+      {
+        "id": "https://openalex.org/keywords/international-law",
+        "display_name": "International law",
+        "score": 0.45566195249557495
+      },
+      {
+        "id": "https://openalex.org/keywords/divergence",
+        "display_name": "Divergence (linguistics)",
+        "score": 0.41913244128227234
+      },
+      {
+        "id": "https://openalex.org/keywords/public-international-law",
+        "display_name": "Public international law",
+        "score": 0.21863368153572083
+      },
+      {
+        "id": "https://openalex.org/keywords/philosophy",
+        "display_name": "Philosophy",
+        "score": 0.08747860789299011
+      },
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.07327145338058472
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C42027317",
+        "wikidata": "https://www.wikidata.org/wiki/Q2307054",
+        "display_name": "Principle of legality",
+        "level": 2,
+        "score": 0.8754963874816895
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.6971943378448486
+      },
+      {
+        "id": "https://openalex.org/C2776126902",
+        "wikidata": "https://www.wikidata.org/wiki/Q4686864",
+        "display_name": "Advisory opinion",
+        "level": 5,
+        "score": 0.6557667255401611
+      },
+      {
+        "id": "https://openalex.org/C94625758",
+        "wikidata": "https://www.wikidata.org/wiki/Q7163",
+        "display_name": "Politics",
+        "level": 2,
+        "score": 0.6482099890708923
+      },
+      {
+        "id": "https://openalex.org/C117797892",
+        "wikidata": "https://www.wikidata.org/wiki/Q286363",
+        "display_name": "Shadow (psychology)",
+        "level": 2,
+        "score": 0.646575927734375
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.6076306104660034
+      },
+      {
+        "id": "https://openalex.org/C2779871314",
+        "wikidata": "https://www.wikidata.org/wiki/Q1262438",
+        "display_name": "International court",
+        "level": 4,
+        "score": 0.5866401195526123
+      },
+      {
+        "id": "https://openalex.org/C139621336",
+        "wikidata": "https://www.wikidata.org/wiki/Q3190382",
+        "display_name": "Economic Justice",
+        "level": 2,
+        "score": 0.5339450240135193
+      },
+      {
+        "id": "https://openalex.org/C55447825",
+        "wikidata": "https://www.wikidata.org/wiki/Q4394526",
+        "display_name": "International law",
+        "level": 2,
+        "score": 0.45566195249557495
+      },
+      {
+        "id": "https://openalex.org/C207390915",
+        "wikidata": "https://www.wikidata.org/wiki/Q1230525",
+        "display_name": "Divergence (linguistics)",
+        "level": 2,
+        "score": 0.41913244128227234
+      },
+      {
+        "id": "https://openalex.org/C185436325",
+        "wikidata": "https://www.wikidata.org/wiki/Q4394526",
+        "display_name": "Public international law",
+        "level": 3,
+        "score": 0.21863368153572083
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.08747860789299011
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.07327145338058472
+      },
+      {
+        "id": "https://openalex.org/C41895202",
+        "wikidata": "https://www.wikidata.org/wiki/Q8162",
+        "display_name": "Linguistics",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C542102704",
+        "wikidata": "https://www.wikidata.org/wiki/Q183257",
+        "display_name": "Psychotherapist",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 3,
+    "locations": [
+      {
+        "id": "doi:10.1177/016934410602400104",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/016934410602400104",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S158082692",
+          "display_name": "Netherlands Quarterly of Human Rights",
+          "issn_l": "0924-0519",
+          "issn": [
+            "0924-0519",
+            "2214-7357"
+          ],
+          "is_oa": false,
+          "is_in_doaj": true,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Netherlands Quarterly of Human Rights",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:scholarship.law.bu.edu:faculty_scholarship-1423",
+        "is_oa": true,
+        "landing_page_url": "https://scholarship.law.bu.edu/faculty_scholarship/421",
+        "pdf_url": "https://scholarship.law.bu.edu/faculty_scholarship/421",
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Faculty Scholarship",
+        "raw_type": "text"
+      },
+      {
+        "id": "mag:1595032062",
+        "is_oa": true,
+        "landing_page_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1884438",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210172589",
+          "display_name": "SSRN Electronic Journal",
+          "issn_l": "1556-5068",
+          "issn": [
+            "1556-5068"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I1318003438",
+          "host_organization_name": "RELX Group (Netherlands)",
+          "host_organization_lineage": [
+            "https://openalex.org/I1318003438"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "SSRN Electronic Journal",
+        "raw_type": null
+      }
+    ],
+    "best_oa_location": {
+      "id": "pmh:oai:scholarship.law.bu.edu:faculty_scholarship-1423",
+      "is_oa": true,
+      "landing_page_url": "https://scholarship.law.bu.edu/faculty_scholarship/421",
+      "pdf_url": "https://scholarship.law.bu.edu/faculty_scholarship/421",
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Faculty Scholarship",
+      "raw_type": "text"
+    },
+    "sustainable_development_goals": [
+      {
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16",
+        "score": 0.8100000023841858
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": true,
+      "pdf": true
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W3124135608",
+      "https://openalex.org/W2167322897",
+      "https://openalex.org/W2049281052",
+      "https://openalex.org/W2260391119",
+      "https://openalex.org/W297977456",
+      "https://openalex.org/W234924935",
+      "https://openalex.org/W2514452488",
+      "https://openalex.org/W1583661810",
+      "https://openalex.org/W2264216573",
+      "https://openalex.org/W1530369730",
+      "https://openalex.org/W3085241110",
+      "https://openalex.org/W866767931",
+      "https://openalex.org/W2746576356",
+      "https://openalex.org/W1579617934",
+      "https://openalex.org/W211686067",
+      "https://openalex.org/W1844257600",
+      "https://openalex.org/W2305413497",
+      "https://openalex.org/W2064779934",
+      "https://openalex.org/W1550907217",
+      "https://openalex.org/W3122906923"
+    ],
+    "abstract_inverted_index": {
+      "Israel's": [
+        0,
+        132
+      ],
+      "construction": [
+        1,
+        134
+      ],
+      "of": [
+        2,
+        32,
+        97,
+        119,
+        127,
+        135,
+        141
+      ],
+      "a": [
+        3
+      ],
+      "670": [
+        4
+      ],
+      "kilometre": [
+        5
+      ],
+      "wall": [
+        6
+      ],
+      "and": [
+        7,
+        13,
+        21,
+        53,
+        56
+      ],
+      "barrier": [
+        8
+      ],
+      "through": [
+        9
+      ],
+      "the": [
+        10,
+        29,
+        39,
+        46,
+        71,
+        87,
+        113,
+        117,
+        125,
+        128,
+        136,
+        139
+      ],
+      "West": [
+        11
+      ],
+      "Bank": [
+        12
+      ],
+      "East": [
+        14
+      ],
+      "Jerusalem": [
+        15
+      ],
+      "has": [
+        16
+      ],
+      "generated": [
+        17
+      ],
+      "international": [
+        18,
+        50,
+        120,
+        129
+      ],
+      "political": [
+        19
+      ],
+      "controversy,": [
+        20
+      ],
+      "two": [
+        22,
+        114,
+        143
+      ],
+      "significant": [
+        23
+      ],
+      "judicial": [
+        24,
+        144
+      ],
+      "rulings.": [
+        25,
+        145
+      ],
+      "In": [
+        26
+      ],
+      "July": [
+        27
+      ],
+      "2004,": [
+        28
+      ],
+      "International": [
+        30
+      ],
+      "Court": [
+        31,
+        74
+      ],
+      "Justice": [
+        33
+      ],
+      "issued": [
+        34
+      ],
+      "its": [
+        35,
+        66,
+        76
+      ],
+      "Advisory": [
+        36
+      ],
+      "Opinion": [
+        37
+      ],
+      "to": [
+        38,
+        65,
+        102,
+        106,
+        131
+      ],
+      "United": [
+        40
+      ],
+      "Nations": [
+        41
+      ],
+      "General": [
+        42
+      ],
+      "Assembly,": [
+        43
+      ],
+      "stating": [
+        44
+      ],
+      "that": [
+        45,
+        58,
+        86
+      ],
+      "Separation": [
+        47
+      ],
+      "Wall": [
+        48,
+        88,
+        137
+      ],
+      "violated": [
+        49
+      ],
+      "human": [
+        51
+      ],
+      "rights": [
+        52
+      ],
+      "humanitarian": [
+        54
+      ],
+      "law,": [
+        55
+      ],
+      "proposing": [
+        57
+      ],
+      "Israel": [
+        59
+      ],
+      "immediately": [
+        60
+      ],
+      "dismantle": [
+        61
+      ],
+      "it,": [
+        62
+      ],
+      "with": [
+        63,
+        92
+      ],
+      "reparations": [
+        64
+      ],
+      "victims.": [
+        67
+      ],
+      "The": [
+        68
+      ],
+      "week": [
+        69
+      ],
+      "before,": [
+        70
+      ],
+      "Israeli": [
+        72
+      ],
+      "Supreme": [
+        73
+      ],
+      "released": [
+        75
+      ],
+      "decision": [
+        77
+      ],
+      "in": [
+        78,
+        90,
+        138
+      ],
+      "Beit": [
+        79
+      ],
+      "Sourik": [
+        80
+      ],
+      "Village": [
+        81
+      ],
+      "Council": [
+        82
+      ],
+      "vs": [
+        83
+      ],
+      "Israel,": [
+        84
+      ],
+      "finding": [
+        85
+      ],
+      "complied": [
+        89
+      ],
+      "principle": [
+        91
+      ],
+      "legal": [
+        93
+      ],
+      "norms,": [
+        94
+      ],
+      "but": [
+        95
+      ],
+      "portions": [
+        96
+      ],
+      "it": [
+        98
+      ],
+      "must": [
+        99
+      ],
+      "be": [
+        100
+      ],
+      "re-located": [
+        101
+      ],
+      "reduce": [
+        103
+      ],
+      "avoidable": [
+        104
+      ],
+      "harm": [
+        105
+      ],
+      "Palestinian": [
+        107
+      ],
+      "villages.": [
+        108
+      ],
+      "This": [
+        109
+      ],
+      "article": [
+        110
+      ],
+      "critically": [
+        111
+      ],
+      "assesses": [
+        112
+      ],
+      "decisions": [
+        115
+      ],
+      "against": [
+        116
+      ],
+      "requirements": [
+        118
+      ],
+      "law.": [
+        121
+      ],
+      "It": [
+        122
+      ],
+      "also": [
+        123
+      ],
+      "tracks": [
+        124
+      ],
+      "response": [
+        126
+      ],
+      "community": [
+        130
+      ],
+      "continued": [
+        133
+      ],
+      "aftermath": [
+        140
+      ],
+      "these": [
+        142
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W194112391",
+    "doi": "https://doi.org/10.1177/016934410202000402",
+    "title": "Selective Conscientious Objection in International Law: Refusing to Participate in a Specific Armed Conflict",
+    "display_name": "Selective Conscientious Objection in International Law: Refusing to Participate in a Specific Armed Conflict",
+    "relevance_score": 0.8425851,
+    "publication_year": 2002,
+    "publication_date": "2002-12-01",
+    "ids": {
+      "openalex": "https://openalex.org/W194112391",
+      "doi": "https://doi.org/10.1177/016934410202000402",
+      "mag": "194112391"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/016934410202000402",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/016934410202000402",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S158082692",
+        "display_name": "Netherlands Quarterly of Human Rights",
+        "issn_l": "0924-0519",
+        "issn": [
+          "0924-0519",
+          "2214-7357"
+        ],
+        "is_oa": false,
+        "is_in_doaj": true,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Netherlands Quarterly of Human Rights",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "datacite",
+      "doaj"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1366715",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5060209501",
+          "display_name": "Noam Lubell",
+          "orcid": "https://orcid.org/0000-0003-2431-1922"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I110002522",
+            "display_name": "University of Essex",
+            "ror": "https://ror.org/02nkf1q06",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I110002522"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Noam Lubell",
+        "raw_affiliation_strings": [
+          "University of Essex - School of Law"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Essex - School of Law",
+            "institution_ids": [
+              "https://openalex.org/I110002522"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5060209501"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I110002522"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.06817692,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "20",
+      "issue": "4",
+      "first_page": "407",
+      "last_page": "422"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10749",
+      "display_name": "International Law and Human Rights",
+      "score": 0.9976999759674072,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10749",
+        "display_name": "International Law and Human Rights",
+        "score": 0.9976999759674072,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12752",
+        "display_name": "Global Peace and Security Dynamics",
+        "score": 0.9914000034332275,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12957",
+        "display_name": "War, Ethics, and Justification",
+        "score": 0.9904000163078308,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1211",
+          "display_name": "Philosophy"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/conscientious-objector",
+        "display_name": "Conscientious objector",
+        "score": 0.8587838411331177
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.7050765752792358
+      },
+      {
+        "id": "https://openalex.org/keywords/military-service",
+        "display_name": "Military service",
+        "score": 0.6175047159194946
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.6032974720001221
+      },
+      {
+        "id": "https://openalex.org/keywords/international-law",
+        "display_name": "International law",
+        "score": 0.43652868270874023
+      },
+      {
+        "id": "https://openalex.org/keywords/international-humanitarian-law",
+        "display_name": "International humanitarian law",
+        "score": 0.42975327372550964
+      },
+      {
+        "id": "https://openalex.org/keywords/instinct",
+        "display_name": "Instinct",
+        "score": 0.4224853515625
+      },
+      {
+        "id": "https://openalex.org/keywords/spanish-civil-war",
+        "display_name": "Spanish Civil War",
+        "score": 0.11324453353881836
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C99216807",
+        "wikidata": "https://www.wikidata.org/wiki/Q2930613",
+        "display_name": "Conscientious objector",
+        "level": 3,
+        "score": 0.8587838411331177
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.7050765752792358
+      },
+      {
+        "id": "https://openalex.org/C2776948989",
+        "wikidata": "https://www.wikidata.org/wiki/Q209572",
+        "display_name": "Military service",
+        "level": 2,
+        "score": 0.6175047159194946
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.6032974720001221
+      },
+      {
+        "id": "https://openalex.org/C55447825",
+        "wikidata": "https://www.wikidata.org/wiki/Q4394526",
+        "display_name": "International law",
+        "level": 2,
+        "score": 0.43652868270874023
+      },
+      {
+        "id": "https://openalex.org/C2778573023",
+        "wikidata": "https://www.wikidata.org/wiki/Q381148",
+        "display_name": "International humanitarian law",
+        "level": 3,
+        "score": 0.42975327372550964
+      },
+      {
+        "id": "https://openalex.org/C3232509",
+        "wikidata": "https://www.wikidata.org/wiki/Q18237",
+        "display_name": "Instinct",
+        "level": 2,
+        "score": 0.4224853515625
+      },
+      {
+        "id": "https://openalex.org/C81631423",
+        "wikidata": "https://www.wikidata.org/wiki/Q10859",
+        "display_name": "Spanish Civil War",
+        "level": 2,
+        "score": 0.11324453353881836
+      },
+      {
+        "id": "https://openalex.org/C78458016",
+        "wikidata": "https://www.wikidata.org/wiki/Q840400",
+        "display_name": "Evolutionary biology",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C86803240",
+        "wikidata": "https://www.wikidata.org/wiki/Q420",
+        "display_name": "Biology",
+        "level": 0,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 5,
+    "locations": [
+      {
+        "id": "doi:10.1177/016934410202000402",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/016934410202000402",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S158082692",
+          "display_name": "Netherlands Quarterly of Human Rights",
+          "issn_l": "0924-0519",
+          "issn": [
+            "0924-0519",
+            "2214-7357"
+          ],
+          "is_oa": false,
+          "is_in_doaj": true,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Netherlands Quarterly of Human Rights",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:http://www.rian.ie/114179/",
+        "is_oa": false,
+        "landing_page_url": "http://hdl.handle.net/10379/1781",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "Journal article"
+      },
+      {
+        "id": "pmh:oai:repository.essex.ac.uk:13107",
+        "is_oa": false,
+        "landing_page_url": null,
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401236",
+          "display_name": "Open Access at Essex (University of Essex)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I110002522",
+          "host_organization_name": "University of Essex",
+          "host_organization_lineage": [
+            "https://openalex.org/I110002522"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "Article"
+      },
+      {
+        "id": "mag:194112391",
+        "is_oa": true,
+        "landing_page_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1366715",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210172589",
+          "display_name": "SSRN Electronic Journal",
+          "issn_l": "1556-5068",
+          "issn": [
+            "1556-5068"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I1318003438",
+          "host_organization_name": "RELX Group (Netherlands)",
+          "host_organization_lineage": [
+            "https://openalex.org/I1318003438"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "SSRN Electronic Journal",
+        "raw_type": null
+      },
+      {
+        "id": "doi:10.13025/21488",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.13025/21488",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306402280",
+          "display_name": "Research Repository UCD (University College Dublin)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I100930933",
+          "host_organization_name": "University College Dublin",
+          "host_organization_lineage": [
+            "https://openalex.org/I100930933"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": null,
+        "raw_source_name": null,
+        "raw_type": "article-journal"
+      }
+    ],
+    "best_oa_location": {
+      "id": "mag:194112391",
+      "is_oa": true,
+      "landing_page_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1366715",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210172589",
+        "display_name": "SSRN Electronic Journal",
+        "issn_l": "1556-5068",
+        "issn": [
+          "1556-5068"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1318003438",
+        "host_organization_name": "RELX Group (Netherlands)",
+        "host_organization_lineage": [
+          "https://openalex.org/I1318003438"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "SSRN Electronic Journal",
+      "raw_type": null
+    },
+    "sustainable_development_goals": [
+      {
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16",
+        "score": 0.8100000023841858
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W2080633802",
+      "https://openalex.org/W3144093308",
+      "https://openalex.org/W2102259562",
+      "https://openalex.org/W3191408517",
+      "https://openalex.org/W2105710874",
+      "https://openalex.org/W2342803772",
+      "https://openalex.org/W2286586925",
+      "https://openalex.org/W342174688",
+      "https://openalex.org/W1973141005",
+      "https://openalex.org/W276124444",
+      "https://openalex.org/W1549024762",
+      "https://openalex.org/W297622034",
+      "https://openalex.org/W2759074770",
+      "https://openalex.org/W329693895",
+      "https://openalex.org/W1543790251",
+      "https://openalex.org/W217030564",
+      "https://openalex.org/W2573711789",
+      "https://openalex.org/W1979681014",
+      "https://openalex.org/W329868376",
+      "https://openalex.org/W166130911"
+    ],
+    "abstract_inverted_index": {
+      "This": [
+        0
+      ],
+      "article": [
+        1,
+        168
+      ],
+      "deals": [
+        2
+      ],
+      "with": [
+        3
+      ],
+      "the": [
+        4,
+        14,
+        28,
+        43,
+        65,
+        76,
+        90,
+        103,
+        139,
+        149,
+        161
+      ],
+      "issue": [
+        5,
+        150
+      ],
+      "of": [
+        6,
+        16,
+        30,
+        58,
+        69,
+        80,
+        128,
+        148,
+        151,
+        160,
+        176
+      ],
+      "selective": [
+        7,
+        165,
+        177
+      ],
+      "conscientious": [
+        8,
+        152,
+        178
+      ],
+      "objection": [
+        9,
+        34,
+        129,
+        153,
+        179
+      ],
+      "to": [
+        10,
+        19,
+        49,
+        53,
+        61,
+        85,
+        122,
+        130,
+        171,
+        180
+      ],
+      "military": [
+        11,
+        87
+      ],
+      "service,": [
+        12
+      ],
+      "and": [
+        13,
+        51,
+        97,
+        112,
+        141,
+        157
+      ],
+      "place": [
+        15
+      ],
+      "a": [
+        17,
+        23,
+        37,
+        126,
+        145,
+        173,
+        184
+      ],
+      "refusal": [
+        18
+      ],
+      "take": [
+        20,
+        62
+      ],
+      "part": [
+        21,
+        63
+      ],
+      "in": [
+        22,
+        42,
+        64,
+        89,
+        116,
+        124,
+        132,
+        154,
+        187
+      ],
+      "particular": [
+        24,
+        133
+      ],
+      "armed": [
+        25
+      ],
+      "conflict,": [
+        26,
+        67
+      ],
+      "within": [
+        27
+      ],
+      "framework": [
+        29
+      ],
+      "international": [
+        31,
+        142,
+        155,
+        188
+      ],
+      "law.": [
+        32
+      ],
+      "Selective": [
+        33
+      ],
+      "has": [
+        35,
+        135
+      ],
+      "been": [
+        36,
+        72,
+        95
+      ],
+      "hot": [
+        38
+      ],
+      "topic": [
+        39
+      ],
+      "for": [
+        40,
+        99,
+        110
+      ],
+      "debate": [
+        41
+      ],
+      "past": [
+        44
+      ],
+      "(e.g.": [
+        45,
+        119
+      ],
+      "US": [
+        46
+      ],
+      "soldiers": [
+        47
+      ],
+      "sent": [
+        48
+      ],
+      "Vietnam),": [
+        50
+      ],
+      "continues": [
+        52
+      ],
+      "be": [
+        54,
+        108,
+        181
+      ],
+      "so": [
+        55
+      ],
+      "today.": [
+        56
+      ],
+      "Thousands": [
+        57
+      ],
+      "Serbs": [
+        59
+      ],
+      "refused": [
+        60,
+        84
+      ],
+      "Kosovo": [
+        66
+      ],
+      "many": [
+        68
+      ],
+      "them": [
+        70
+      ],
+      "having": [
+        71
+      ],
+      "imprisoned": [
+        73,
+        98
+      ],
+      "or": [
+        74
+      ],
+      "fled": [
+        75
+      ],
+      "country.": [
+        77
+      ],
+      "Many": [
+        78
+      ],
+      "hundreds": [
+        79
+      ],
+      "Israelis": [
+        81
+      ],
+      "have": [
+        82,
+        94
+      ],
+      "recently": [
+        83
+      ],
+      "perform": [
+        86
+      ],
+      "service": [
+        88
+      ],
+      "Occupied": [
+        91
+      ],
+      "Territories;": [
+        92
+      ],
+      "dozens": [
+        93
+      ],
+      "tried": [
+        96
+      ],
+      "their": [
+        100
+      ],
+      "refusal.": [
+        101
+      ],
+      "Despite": [
+        102
+      ],
+      "instinctive": [
+        104
+      ],
+      "support": [
+        105
+      ],
+      "that": [
+        106
+      ],
+      "might": [
+        107
+      ],
+      "raised": [
+        109
+      ],
+      "these": [
+        111
+      ],
+      "other": [
+        113
+      ],
+      "individuals": [
+        114
+      ],
+      "involved": [
+        115
+      ],
+      "controversial": [
+        117
+      ],
+      "conflicts": [
+        118,
+        134
+      ],
+      "Russians": [
+        120
+      ],
+      "refusing": [
+        121
+      ],
+      "serve": [
+        123
+      ],
+      "Chechnya),": [
+        125
+      ],
+      "right": [
+        127,
+        186
+      ],
+      "participation": [
+        131
+      ],
+      "little": [
+        136
+      ],
+      "approval": [
+        137
+      ],
+      "at": [
+        138
+      ],
+      "national": [
+        140
+      ],
+      "levels.": [
+        143
+      ],
+      "Following": [
+        144
+      ],
+      "brief": [
+        146
+      ],
+      "examination": [
+        147
+      ],
+      "law,": [
+        156
+      ],
+      "an": [
+        158
+      ],
+      "analysis": [
+        159
+      ],
+      "difficulties": [
+        162
+      ],
+      "posed": [
+        163
+      ],
+      "by": [
+        164
+      ],
+      "objection,": [
+        166
+      ],
+      "this": [
+        167
+      ],
+      "will": [
+        169
+      ],
+      "attempt": [
+        170
+      ],
+      "define": [
+        172
+      ],
+      "specific": [
+        174
+      ],
+      "category": [
+        175
+      ],
+      "protected": [
+        182
+      ],
+      "as": [
+        183
+      ],
+      "recognised": [
+        185
+      ],
+      "law": [
+        189
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  }
+]

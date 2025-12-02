@@ -1,0 +1,1830 @@
+[
+  {
+    "id": "https://openalex.org/W4228999116",
+    "doi": "https://doi.org/10.1177/07352751221095474",
+    "title": "Citizenship as Accumulation by Dispossession: The Paradox of Settler Colonial Citizenship",
+    "display_name": "Citizenship as Accumulation by Dispossession: The Paradox of Settler Colonial Citizenship",
+    "relevance_score": 14.598356,
+    "publication_year": 2022,
+    "publication_date": "2022-05-06",
+    "ids": {
+      "openalex": "https://openalex.org/W4228999116",
+      "doi": "https://doi.org/10.1177/07352751221095474"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/07352751221095474",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/07352751221095474",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S60621485",
+        "display_name": "Sociological Theory",
+        "issn_l": "0735-2751",
+        "issn": [
+          "0735-2751",
+          "1467-9558"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Sociological Theory",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5047047331",
+          "display_name": "Areej Sabbagh\u2010Khoury",
+          "orcid": "https://orcid.org/0000-0003-2385-540X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I197251160",
+            "display_name": "Hebrew University of Jerusalem",
+            "ror": "https://ror.org/03qxff017",
+            "country_code": "IL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I197251160"
+            ]
+          }
+        ],
+        "countries": [
+          "IL"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Areej Sabbagh-Khoury",
+        "raw_affiliation_strings": [
+          "The Hebrew University of Jerusalem, Mount Scopus, Jerusalem, Israel"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "The Hebrew University of Jerusalem, Mount Scopus, Jerusalem, Israel",
+            "institution_ids": [
+              "https://openalex.org/I197251160"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5047047331"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I197251160"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 11.59570323,
+    "has_fulltext": false,
+    "cited_by_count": 24,
+    "citation_normalized_percentile": {
+      "value": 0.97784725,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 99
+    },
+    "biblio": {
+      "volume": "40",
+      "issue": "2",
+      "first_page": "151",
+      "last_page": "178"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Jewish and Middle Eastern Studies",
+      "score": 0.9994999766349792,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.9994999766349792,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10216",
+        "display_name": "Migration, Refugees, and Integration",
+        "score": 0.9955000281333923,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13103",
+        "display_name": "Middle East Politics and Society",
+        "score": 0.9937999844551086,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/citizenship",
+        "display_name": "Citizenship",
+        "score": 0.9489575624465942
+      },
+      {
+        "id": "https://openalex.org/keywords/colonialism",
+        "display_name": "Colonialism",
+        "score": 0.7746977806091309
+      },
+      {
+        "id": "https://openalex.org/keywords/agency",
+        "display_name": "Agency (philosophy)",
+        "score": 0.7270791530609131
+      },
+      {
+        "id": "https://openalex.org/keywords/indigenous",
+        "display_name": "Indigenous",
+        "score": 0.7132558822631836
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.5040332674980164
+      },
+      {
+        "id": "https://openalex.org/keywords/indigenous-rights",
+        "display_name": "Indigenous rights",
+        "score": 0.48103147745132446
+      },
+      {
+        "id": "https://openalex.org/keywords/resistance",
+        "display_name": "Resistance (ecology)",
+        "score": 0.4680924713611603
+      },
+      {
+        "id": "https://openalex.org/keywords/political-economy",
+        "display_name": "Political economy",
+        "score": 0.445911705493927
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.44020769000053406
+      },
+      {
+        "id": "https://openalex.org/keywords/gender-studies",
+        "display_name": "Gender studies",
+        "score": 0.3571104407310486
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.31621110439300537
+      },
+      {
+        "id": "https://openalex.org/keywords/human-rights",
+        "display_name": "Human rights",
+        "score": 0.20285385847091675
+      },
+      {
+        "id": "https://openalex.org/keywords/politics",
+        "display_name": "Politics",
+        "score": 0.13177096843719482
+      },
+      {
+        "id": "https://openalex.org/keywords/social-science",
+        "display_name": "Social science",
+        "score": 0.12324553728103638
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2780781376",
+        "wikidata": "https://www.wikidata.org/wiki/Q42138",
+        "display_name": "Citizenship",
+        "level": 3,
+        "score": 0.9489575624465942
+      },
+      {
+        "id": "https://openalex.org/C531593650",
+        "wikidata": "https://www.wikidata.org/wiki/Q7167",
+        "display_name": "Colonialism",
+        "level": 2,
+        "score": 0.7746977806091309
+      },
+      {
+        "id": "https://openalex.org/C108170787",
+        "wikidata": "https://www.wikidata.org/wiki/Q3951828",
+        "display_name": "Agency (philosophy)",
+        "level": 2,
+        "score": 0.7270791530609131
+      },
+      {
+        "id": "https://openalex.org/C55958113",
+        "wikidata": "https://www.wikidata.org/wiki/Q169480",
+        "display_name": "Indigenous",
+        "level": 2,
+        "score": 0.7132558822631836
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.5040332674980164
+      },
+      {
+        "id": "https://openalex.org/C2776001114",
+        "wikidata": "https://www.wikidata.org/wiki/Q920486",
+        "display_name": "Indigenous rights",
+        "level": 3,
+        "score": 0.48103147745132446
+      },
+      {
+        "id": "https://openalex.org/C57473165",
+        "wikidata": "https://www.wikidata.org/wiki/Q7315604",
+        "display_name": "Resistance (ecology)",
+        "level": 2,
+        "score": 0.4680924713611603
+      },
+      {
+        "id": "https://openalex.org/C138921699",
+        "wikidata": "https://www.wikidata.org/wiki/Q47555",
+        "display_name": "Political economy",
+        "level": 1,
+        "score": 0.445911705493927
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.44020769000053406
+      },
+      {
+        "id": "https://openalex.org/C107993555",
+        "wikidata": "https://www.wikidata.org/wiki/Q1662673",
+        "display_name": "Gender studies",
+        "level": 1,
+        "score": 0.3571104407310486
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.31621110439300537
+      },
+      {
+        "id": "https://openalex.org/C169437150",
+        "wikidata": "https://www.wikidata.org/wiki/Q8458",
+        "display_name": "Human rights",
+        "level": 2,
+        "score": 0.20285385847091675
+      },
+      {
+        "id": "https://openalex.org/C94625758",
+        "wikidata": "https://www.wikidata.org/wiki/Q7163",
+        "display_name": "Politics",
+        "level": 2,
+        "score": 0.13177096843719482
+      },
+      {
+        "id": "https://openalex.org/C36289849",
+        "wikidata": "https://www.wikidata.org/wiki/Q34749",
+        "display_name": "Social science",
+        "level": 1,
+        "score": 0.12324553728103638
+      },
+      {
+        "id": "https://openalex.org/C18903297",
+        "wikidata": "https://www.wikidata.org/wiki/Q7150",
+        "display_name": "Ecology",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C86803240",
+        "wikidata": "https://www.wikidata.org/wiki/Q420",
+        "display_name": "Biology",
+        "level": 0,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/07352751221095474",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/07352751221095474",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S60621485",
+          "display_name": "Sociological Theory",
+          "issn_l": "0735-2751",
+          "issn": [
+            "0735-2751",
+            "1467-9558"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Sociological Theory",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.7900000214576721,
+        "display_name": "Reduced inequalities",
+        "id": "https://metadata.un.org/sdg/10"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 75,
+    "referenced_works": [
+      "https://openalex.org/W2477733283",
+      "https://openalex.org/W1968060332",
+      "https://openalex.org/W2501834867",
+      "https://openalex.org/W1989896699",
+      "https://openalex.org/W4247974262",
+      "https://openalex.org/W2101643565",
+      "https://openalex.org/W3144022579",
+      "https://openalex.org/W2332599920",
+      "https://openalex.org/W2585280469",
+      "https://openalex.org/W2159333197",
+      "https://openalex.org/W4206919599",
+      "https://openalex.org/W2098717229",
+      "https://openalex.org/W2108935398",
+      "https://openalex.org/W4229892163",
+      "https://openalex.org/W4247177159",
+      "https://openalex.org/W2291877868",
+      "https://openalex.org/W2761169489",
+      "https://openalex.org/W4211069881",
+      "https://openalex.org/W2050984664",
+      "https://openalex.org/W4300511648",
+      "https://openalex.org/W3124662617",
+      "https://openalex.org/W2922027333",
+      "https://openalex.org/W2086669716",
+      "https://openalex.org/W2053446020",
+      "https://openalex.org/W2914778890",
+      "https://openalex.org/W2135670882",
+      "https://openalex.org/W3010613975",
+      "https://openalex.org/W2588019605",
+      "https://openalex.org/W4255848102",
+      "https://openalex.org/W2135901965",
+      "https://openalex.org/W4256152235",
+      "https://openalex.org/W244790000",
+      "https://openalex.org/W4388073215",
+      "https://openalex.org/W2969453909",
+      "https://openalex.org/W386402096",
+      "https://openalex.org/W1996467444",
+      "https://openalex.org/W2584678306",
+      "https://openalex.org/W2006526546",
+      "https://openalex.org/W3138941233",
+      "https://openalex.org/W2802675612",
+      "https://openalex.org/W109298409",
+      "https://openalex.org/W3143446191",
+      "https://openalex.org/W4229654459",
+      "https://openalex.org/W2115713435",
+      "https://openalex.org/W4253238129",
+      "https://openalex.org/W4256541715",
+      "https://openalex.org/W4301034963",
+      "https://openalex.org/W2018276495",
+      "https://openalex.org/W2015594266",
+      "https://openalex.org/W1993219775",
+      "https://openalex.org/W2079840027",
+      "https://openalex.org/W3103780440",
+      "https://openalex.org/W2087057582",
+      "https://openalex.org/W1970106651",
+      "https://openalex.org/W4232241759",
+      "https://openalex.org/W2046087644",
+      "https://openalex.org/W2021953744",
+      "https://openalex.org/W2802085413",
+      "https://openalex.org/W2110195570",
+      "https://openalex.org/W4300183930",
+      "https://openalex.org/W1971421101",
+      "https://openalex.org/W2802435436",
+      "https://openalex.org/W1736357419",
+      "https://openalex.org/W2296767120",
+      "https://openalex.org/W4252870074",
+      "https://openalex.org/W2332086051",
+      "https://openalex.org/W4210978720",
+      "https://openalex.org/W2729799598",
+      "https://openalex.org/W333224972",
+      "https://openalex.org/W4399229825",
+      "https://openalex.org/W1576733217",
+      "https://openalex.org/W616245953",
+      "https://openalex.org/W2808452742",
+      "https://openalex.org/W2083856551",
+      "https://openalex.org/W640260825"
+    ],
+    "related_works": [
+      "https://openalex.org/W2038431514",
+      "https://openalex.org/W2794199447",
+      "https://openalex.org/W2163539942",
+      "https://openalex.org/W2049454428",
+      "https://openalex.org/W988489495",
+      "https://openalex.org/W2278189813",
+      "https://openalex.org/W4390035210",
+      "https://openalex.org/W1975667406",
+      "https://openalex.org/W3185754566",
+      "https://openalex.org/W2120326530"
+    ],
+    "abstract_inverted_index": {
+      "This": [
+        0
+      ],
+      "article": [
+        1,
+        45
+      ],
+      "extends": [
+        2
+      ],
+      "critical": [
+        3
+      ],
+      "trends": [
+        4
+      ],
+      "of": [
+        5,
+        11,
+        27,
+        50,
+        53,
+        86,
+        126
+      ],
+      "citizenship": [
+        6,
+        20,
+        37,
+        54,
+        77
+      ],
+      "studies": [
+        7
+      ],
+      "and": [
+        8,
+        29,
+        31,
+        42,
+        103,
+        122,
+        129
+      ],
+      "the": [
+        9,
+        24,
+        33,
+        48,
+        51,
+        63,
+        70,
+        108,
+        123
+      ],
+      "theory": [
+        10
+      ],
+      "accumulation": [
+        12,
+        116
+      ],
+      "by": [
+        13,
+        90
+      ],
+      "dispossession": [
+        14,
+        121
+      ],
+      "to": [
+        15
+      ],
+      "articulate": [
+        16
+      ],
+      "how": [
+        17,
+        32
+      ],
+      "settler": [
+        18,
+        35,
+        96
+      ],
+      "colonial": [
+        19,
+        36,
+        97
+      ],
+      "is": [
+        21,
+        117
+      ],
+      "instantiated": [
+        22
+      ],
+      "through": [
+        23,
+        55,
+        61
+      ],
+      "active": [
+        25
+      ],
+      "accrual": [
+        26
+      ],
+      "land": [
+        28
+      ],
+      "resources": [
+        30
+      ],
+      "emerging": [
+        34
+      ],
+      "entrenches": [
+        38
+      ],
+      "both": [
+        39
+      ],
+      "structural": [
+        40
+      ],
+      "subjugation": [
+        41
+      ],
+      "resistance.": [
+        43
+      ],
+      "The": [
+        44
+      ],
+      "then": [
+        46
+      ],
+      "examines": [
+        47
+      ],
+      "reformation": [
+        49
+      ],
+      "boundaries": [
+        52
+      ],
+      "indigenous": [
+        56,
+        109
+      ],
+      "agency.": [
+        57
+      ],
+      "I": [
+        58,
+        88
+      ],
+      "do": [
+        59
+      ],
+      "so": [
+        60
+      ],
+      "examining": [
+        62
+      ],
+      "Palestinian": [
+        64
+      ],
+      "citizens": [
+        65
+      ],
+      "in": [
+        66,
+        95,
+        110,
+        113
+      ],
+      "Israel,": [
+        67
+      ],
+      "specifically": [
+        68
+      ],
+      "centering": [
+        69
+      ],
+      "Internally": [
+        71
+      ],
+      "Displaced": [
+        72
+      ],
+      "Persons\u2014Palestinians": [
+        73
+      ],
+      "who": [
+        74
+      ],
+      "received": [
+        75
+      ],
+      "Israeli": [
+        76
+      ],
+      "even": [
+        78
+      ],
+      "as": [
+        79
+      ],
+      "they": [
+        80
+      ],
+      "were": [
+        81
+      ],
+      "displaced": [
+        82
+      ],
+      "from": [
+        83
+      ],
+      "their": [
+        84
+      ],
+      "places": [
+        85
+      ],
+      "origin.": [
+        87
+      ],
+      "conclude": [
+        89
+      ],
+      "asserting": [
+        91
+      ],
+      "citizenship\u2019s": [
+        92
+      ],
+      "double": [
+        93
+      ],
+      "paradox": [
+        94
+      ],
+      "contexts:": [
+        98
+      ],
+      "It": [
+        99
+      ],
+      "regulates": [
+        100
+      ],
+      "certain": [
+        101
+      ],
+      "rights": [
+        102,
+        128
+      ],
+      "mobilities": [
+        104
+      ],
+      "but": [
+        105
+      ],
+      "simultaneously": [
+        106
+      ],
+      "entraps": [
+        107
+      ],
+      "a": [
+        111
+      ],
+      "structure": [
+        112
+      ],
+      "which": [
+        114
+      ],
+      "recursive": [
+        115
+      ],
+      "constitutive,": [
+        118
+      ],
+      "thus": [
+        119
+      ],
+      "entrenching": [
+        120
+      ],
+      "further": [
+        124
+      ],
+      "loss": [
+        125
+      ],
+      "collective": [
+        127
+      ],
+      "other": [
+        130
+      ],
+      "claims.": [
+        131
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 6
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 8
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 9
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2088311054",
+    "doi": "https://doi.org/10.1177/0735275113489123",
+    "title": "The Practical Organization of Moral Transactions",
+    "display_name": "The Practical Organization of Moral Transactions",
+    "relevance_score": 12.928227,
+    "publication_year": 2013,
+    "publication_date": "2013-06-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2088311054",
+      "doi": "https://doi.org/10.1177/0735275113489123",
+      "mag": "2088311054"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/0735275113489123",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/0735275113489123",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S60621485",
+        "display_name": "Sociological Theory",
+        "issn_l": "0735-2751",
+        "issn": [
+          "0735-2751",
+          "1467-9558"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Sociological Theory",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5068173751",
+          "display_name": "Dan Lainer\u2010Vos",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1174212",
+            "display_name": "University of Southern California",
+            "ror": "https://ror.org/03taz7m60",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I1174212"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Dan Lainer-Vos",
+        "raw_affiliation_strings": [
+          "#N#1University of Southern California, Los Angeles, CA, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "#N#1University of Southern California, Los Angeles, CA, USA",
+            "institution_ids": [
+              "https://openalex.org/I1174212"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5068173751"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I1174212"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 2.1921273,
+    "has_fulltext": false,
+    "cited_by_count": 39,
+    "citation_normalized_percentile": {
+      "value": 0.90388463,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 98
+    },
+    "biblio": {
+      "volume": "31",
+      "issue": "2",
+      "first_page": "145",
+      "last_page": "167"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11365",
+      "display_name": "Islamic Finance and Banking Studies",
+      "score": 0.9805999994277954,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1402",
+        "display_name": "Accounting"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11365",
+        "display_name": "Islamic Finance and Banking Studies",
+        "score": 0.9805999994277954,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1402",
+          "display_name": "Accounting"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12312",
+        "display_name": "Culture, Economy, and Development Studies",
+        "score": 0.9312000274658203,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3317",
+          "display_name": "Demography"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10344",
+        "display_name": "Management and Organizational Studies",
+        "score": 0.91839998960495,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.634681761264801
+      },
+      {
+        "id": "https://openalex.org/keywords/database-transaction",
+        "display_name": "Database transaction",
+        "score": 0.6346803903579712
+      },
+      {
+        "id": "https://openalex.org/keywords/context",
+        "display_name": "Context (archaeology)",
+        "score": 0.6167169809341431
+      },
+      {
+        "id": "https://openalex.org/keywords/meaning",
+        "display_name": "Meaning (existential)",
+        "score": 0.6049888730049133
+      },
+      {
+        "id": "https://openalex.org/keywords/value",
+        "display_name": "Value (mathematics)",
+        "score": 0.5451518893241882
+      },
+      {
+        "id": "https://openalex.org/keywords/transaction-cost",
+        "display_name": "Transaction cost",
+        "score": 0.5166802406311035
+      },
+      {
+        "id": "https://openalex.org/keywords/indeterminacy",
+        "display_name": "Indeterminacy (philosophy)",
+        "score": 0.5161877274513245
+      },
+      {
+        "id": "https://openalex.org/keywords/law-and-economics",
+        "display_name": "Law and economics",
+        "score": 0.4380265474319458
+      },
+      {
+        "id": "https://openalex.org/keywords/public-relations",
+        "display_name": "Public relations",
+        "score": 0.39890140295028687
+      },
+      {
+        "id": "https://openalex.org/keywords/positive-economics",
+        "display_name": "Positive economics",
+        "score": 0.3804536461830139
+      },
+      {
+        "id": "https://openalex.org/keywords/epistemology",
+        "display_name": "Epistemology",
+        "score": 0.3791235685348511
+      },
+      {
+        "id": "https://openalex.org/keywords/business",
+        "display_name": "Business",
+        "score": 0.3454083800315857
+      },
+      {
+        "id": "https://openalex.org/keywords/economics",
+        "display_name": "Economics",
+        "score": 0.30964332818984985
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.18281516432762146
+      },
+      {
+        "id": "https://openalex.org/keywords/microeconomics",
+        "display_name": "Microeconomics",
+        "score": 0.12024316191673279
+      },
+      {
+        "id": "https://openalex.org/keywords/computer-science",
+        "display_name": "Computer science",
+        "score": 0.10067534446716309
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.634681761264801
+      },
+      {
+        "id": "https://openalex.org/C75949130",
+        "wikidata": "https://www.wikidata.org/wiki/Q848010",
+        "display_name": "Database transaction",
+        "level": 2,
+        "score": 0.6346803903579712
+      },
+      {
+        "id": "https://openalex.org/C2779343474",
+        "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+        "display_name": "Context (archaeology)",
+        "level": 2,
+        "score": 0.6167169809341431
+      },
+      {
+        "id": "https://openalex.org/C2780876879",
+        "wikidata": "https://www.wikidata.org/wiki/Q3054749",
+        "display_name": "Meaning (existential)",
+        "level": 2,
+        "score": 0.6049888730049133
+      },
+      {
+        "id": "https://openalex.org/C2776291640",
+        "wikidata": "https://www.wikidata.org/wiki/Q2912517",
+        "display_name": "Value (mathematics)",
+        "level": 2,
+        "score": 0.5451518893241882
+      },
+      {
+        "id": "https://openalex.org/C98965940",
+        "wikidata": "https://www.wikidata.org/wiki/Q877496",
+        "display_name": "Transaction cost",
+        "level": 2,
+        "score": 0.5166802406311035
+      },
+      {
+        "id": "https://openalex.org/C2777366796",
+        "wikidata": "https://www.wikidata.org/wiki/Q6017758",
+        "display_name": "Indeterminacy (philosophy)",
+        "level": 2,
+        "score": 0.5161877274513245
+      },
+      {
+        "id": "https://openalex.org/C190253527",
+        "wikidata": "https://www.wikidata.org/wiki/Q295354",
+        "display_name": "Law and economics",
+        "level": 1,
+        "score": 0.4380265474319458
+      },
+      {
+        "id": "https://openalex.org/C39549134",
+        "wikidata": "https://www.wikidata.org/wiki/Q133080",
+        "display_name": "Public relations",
+        "level": 1,
+        "score": 0.39890140295028687
+      },
+      {
+        "id": "https://openalex.org/C118084267",
+        "wikidata": "https://www.wikidata.org/wiki/Q26110",
+        "display_name": "Positive economics",
+        "level": 1,
+        "score": 0.3804536461830139
+      },
+      {
+        "id": "https://openalex.org/C111472728",
+        "wikidata": "https://www.wikidata.org/wiki/Q9471",
+        "display_name": "Epistemology",
+        "level": 1,
+        "score": 0.3791235685348511
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.3454083800315857
+      },
+      {
+        "id": "https://openalex.org/C162324750",
+        "wikidata": "https://www.wikidata.org/wiki/Q8134",
+        "display_name": "Economics",
+        "level": 0,
+        "score": 0.30964332818984985
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.18281516432762146
+      },
+      {
+        "id": "https://openalex.org/C175444787",
+        "wikidata": "https://www.wikidata.org/wiki/Q39072",
+        "display_name": "Microeconomics",
+        "level": 1,
+        "score": 0.12024316191673279
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.10067534446716309
+      },
+      {
+        "id": "https://openalex.org/C119857082",
+        "wikidata": "https://www.wikidata.org/wiki/Q2539",
+        "display_name": "Machine learning",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C151730666",
+        "wikidata": "https://www.wikidata.org/wiki/Q7205",
+        "display_name": "Paleontology",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C199360897",
+        "wikidata": "https://www.wikidata.org/wiki/Q9143",
+        "display_name": "Programming language",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C86803240",
+        "wikidata": "https://www.wikidata.org/wiki/Q420",
+        "display_name": "Biology",
+        "level": 0,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/0735275113489123",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/0735275113489123",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S60621485",
+          "display_name": "Sociological Theory",
+          "issn_l": "0735-2751",
+          "issn": [
+            "0735-2751",
+            "1467-9558"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Sociological Theory",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 81,
+    "referenced_works": [
+      "https://openalex.org/W1988117163",
+      "https://openalex.org/W2001521911",
+      "https://openalex.org/W2013270386",
+      "https://openalex.org/W4301056702",
+      "https://openalex.org/W2032280823",
+      "https://openalex.org/W2147619096",
+      "https://openalex.org/W2063236858",
+      "https://openalex.org/W4399237643",
+      "https://openalex.org/W18472313",
+      "https://openalex.org/W2108155047",
+      "https://openalex.org/W2073029584",
+      "https://openalex.org/W2330069257",
+      "https://openalex.org/W3022339544",
+      "https://openalex.org/W4385886486",
+      "https://openalex.org/W1987726350",
+      "https://openalex.org/W4229935138",
+      "https://openalex.org/W1994886773",
+      "https://openalex.org/W182409402",
+      "https://openalex.org/W2159454031",
+      "https://openalex.org/W1993168598",
+      "https://openalex.org/W4388174267",
+      "https://openalex.org/W2008952399",
+      "https://openalex.org/W1994942981",
+      "https://openalex.org/W2164292005",
+      "https://openalex.org/W3121178381",
+      "https://openalex.org/W2142702768",
+      "https://openalex.org/W2006450833",
+      "https://openalex.org/W2062949001",
+      "https://openalex.org/W2025376086",
+      "https://openalex.org/W2037967274",
+      "https://openalex.org/W2330034420",
+      "https://openalex.org/W1998518510",
+      "https://openalex.org/W4300461346",
+      "https://openalex.org/W1995246793",
+      "https://openalex.org/W2162237094",
+      "https://openalex.org/W1971670344",
+      "https://openalex.org/W2588831772",
+      "https://openalex.org/W2082593409",
+      "https://openalex.org/W165743339",
+      "https://openalex.org/W4385886416",
+      "https://openalex.org/W2135754493",
+      "https://openalex.org/W2111706255",
+      "https://openalex.org/W3081677139",
+      "https://openalex.org/W1994243011",
+      "https://openalex.org/W2055726954",
+      "https://openalex.org/W2331101697",
+      "https://openalex.org/W2003942881",
+      "https://openalex.org/W2962975506",
+      "https://openalex.org/W1968990065",
+      "https://openalex.org/W4242450851",
+      "https://openalex.org/W1973893364",
+      "https://openalex.org/W4206515552",
+      "https://openalex.org/W1594036210",
+      "https://openalex.org/W611058483",
+      "https://openalex.org/W3126349953",
+      "https://openalex.org/W1584381958",
+      "https://openalex.org/W4238447836",
+      "https://openalex.org/W589421934",
+      "https://openalex.org/W394297043",
+      "https://openalex.org/W2008671681",
+      "https://openalex.org/W2254836392",
+      "https://openalex.org/W2018287083",
+      "https://openalex.org/W658090897",
+      "https://openalex.org/W3143349964",
+      "https://openalex.org/W2035384243",
+      "https://openalex.org/W2078941804",
+      "https://openalex.org/W2066246233",
+      "https://openalex.org/W2043304843",
+      "https://openalex.org/W2049812561",
+      "https://openalex.org/W2135509167",
+      "https://openalex.org/W2291682078",
+      "https://openalex.org/W2125058066",
+      "https://openalex.org/W1021940031",
+      "https://openalex.org/W2499199616",
+      "https://openalex.org/W2165468268",
+      "https://openalex.org/W2106044202",
+      "https://openalex.org/W2039179815",
+      "https://openalex.org/W1968655603",
+      "https://openalex.org/W1987729432",
+      "https://openalex.org/W1579846784",
+      "https://openalex.org/W96798011"
+    ],
+    "related_works": [
+      "https://openalex.org/W4312320919",
+      "https://openalex.org/W2006032042",
+      "https://openalex.org/W4252319461",
+      "https://openalex.org/W2197642415",
+      "https://openalex.org/W4323263370",
+      "https://openalex.org/W2120191714",
+      "https://openalex.org/W2619719330",
+      "https://openalex.org/W2026244971",
+      "https://openalex.org/W4283802175",
+      "https://openalex.org/W2362593600"
+    ],
+    "abstract_inverted_index": {
+      "The": [
+        0,
+        139
+      ],
+      "fusion": [
+        1
+      ],
+      "of": [
+        2,
+        24,
+        30,
+        60,
+        63,
+        122,
+        142
+      ],
+      "gift": [
+        3,
+        98
+      ],
+      "giving": [
+        4,
+        99
+      ],
+      "and": [
+        5,
+        27,
+        53,
+        65,
+        72
+      ],
+      "market": [
+        6,
+        101
+      ],
+      "exchange": [
+        7,
+        95
+      ],
+      "elements": [
+        8
+      ],
+      "in": [
+        9,
+        41,
+        85,
+        128
+      ],
+      "economic": [
+        10,
+        42
+      ],
+      "transactions": [
+        11,
+        47,
+        49
+      ],
+      "creates": [
+        12
+      ],
+      "practical": [
+        13
+      ],
+      "difficulties.": [
+        14
+      ],
+      "How": [
+        15
+      ],
+      "can": [
+        16,
+        132
+      ],
+      "the": [
+        17,
+        22,
+        28,
+        31,
+        37,
+        61,
+        70,
+        82,
+        94,
+        130
+      ],
+      "parties": [
+        18,
+        131
+      ],
+      "involved": [
+        19
+      ],
+      "agree": [
+        20
+      ],
+      "about": [
+        21
+      ],
+      "meaning": [
+        23
+      ],
+      "their": [
+        25,
+        137
+      ],
+      "engagement": [
+        26
+      ],
+      "value": [
+        29
+      ],
+      "exchanged": [
+        32
+      ],
+      "objects?": [
+        33
+      ],
+      "This": [
+        34
+      ],
+      "article": [
+        35
+      ],
+      "tackles": [
+        36
+      ],
+      "topic\u2014an": [
+        38
+      ],
+      "important": [
+        39
+      ],
+      "one": [
+        40
+      ],
+      "sociology\u2014by": [
+        43
+      ],
+      "looking": [
+        44
+      ],
+      "at": [
+        45
+      ],
+      "moral": [
+        46,
+        86
+      ],
+      "(i.e.,": [
+        48
+      ],
+      "that": [
+        50,
+        78,
+        124
+      ],
+      "combine": [
+        51
+      ],
+      "pecuniary": [
+        52
+      ],
+      "ethical": [
+        54
+      ],
+      "considerations).": [
+        55
+      ],
+      "Through": [
+        56
+      ],
+      "an": [
+        57
+      ],
+      "empirical": [
+        58
+      ],
+      "study": [
+        59
+      ],
+      "issuance": [
+        62
+      ],
+      "Irish": [
+        64
+      ],
+      "Israeli": [
+        66
+      ],
+      "diaspora": [
+        67
+      ],
+      "bonds": [
+        68
+      ],
+      "during": [
+        69
+      ],
+      "1920s": [
+        71
+      ],
+      "1950s,": [
+        73
+      ],
+      "respectively,": [
+        74
+      ],
+      "I": [
+        75
+      ],
+      "identify": [
+        76
+      ],
+      "practices": [
+        77,
+        89,
+        104,
+        117,
+        144
+      ],
+      "help": [
+        79
+      ],
+      "actors": [
+        80,
+        91,
+        106
+      ],
+      "overcome": [
+        81
+      ],
+      "difficulties": [
+        83
+      ],
+      "inherent": [
+        84
+      ],
+      "transactions.": [
+        87
+      ],
+      "Clarification": [
+        88
+      ],
+      "allow": [
+        90,
+        105
+      ],
+      "to": [
+        92,
+        107
+      ],
+      "treat": [
+        93
+      ],
+      "as": [
+        96
+      ],
+      "either": [
+        97
+      ],
+      "or": [
+        100
+      ],
+      "exchange.": [
+        102
+      ],
+      "Blurring": [
+        103,
+        116
+      ],
+      "complete": [
+        108
+      ],
+      "a": [
+        109,
+        120,
+        126
+      ],
+      "transaction": [
+        110
+      ],
+      "without": [
+        111,
+        134
+      ],
+      "agreeing": [
+        112,
+        135
+      ],
+      "on": [
+        113,
+        136
+      ],
+      "its": [
+        114
+      ],
+      "meaning.": [
+        115
+      ],
+      "require": [
+        118
+      ],
+      "creating": [
+        119
+      ],
+      "zone": [
+        121
+      ],
+      "indeterminacy,": [
+        123
+      ],
+      "is,": [
+        125
+      ],
+      "context": [
+        127
+      ],
+      "which": [
+        129
+      ],
+      "cooperate": [
+        133
+      ],
+      "relationships.": [
+        138
+      ],
+      "broader": [
+        140
+      ],
+      "implications": [
+        141
+      ],
+      "these": [
+        143
+      ],
+      "are": [
+        145
+      ],
+      "then": [
+        146
+      ],
+      "discussed.": [
+        147
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 6
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2014,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2012,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  }
+]

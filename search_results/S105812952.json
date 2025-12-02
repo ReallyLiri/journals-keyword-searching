@@ -1,0 +1,2275 @@
+[
+  {
+    "id": "https://openalex.org/W2147266581",
+    "doi": "https://doi.org/10.1017/s1742058x04040068",
+    "title": "CUBAN EXCEPTIONALISM: Group-based Hierarchy and the Dynamics of Patriotism in Puerto Rico, the Dominican Republic, and Cuba",
+    "display_name": "CUBAN EXCEPTIONALISM: Group-based Hierarchy and the Dynamics of Patriotism in Puerto Rico, the Dominican Republic, and Cuba",
+    "relevance_score": 13.064572,
+    "publication_year": 2004,
+    "publication_date": "2004-03-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2147266581",
+      "doi": "https://doi.org/10.1017/s1742058x04040068",
+      "mag": "2147266581"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1017/s1742058x04040068",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1017/s1742058x04040068",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S105812952",
+        "display_name": "Du Bois Review Social Science Research on Race",
+        "issn_l": "1742-058X",
+        "issn": [
+          "1742-058X",
+          "1742-0598"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310311721",
+        "host_organization_name": "Cambridge University Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310311721"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Du Bois Review: Social Science Research on Race",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5061213220",
+          "display_name": "Mark Q. Sawyer",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I161318765",
+            "display_name": "University of California, Los Angeles",
+            "ror": "https://ror.org/046rm7j60",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I161318765"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Mark Q. Sawyer",
+        "raw_affiliation_strings": [
+          "Department of Political Science University of California\u2013Los Angeles"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Political Science University of California\u2013Los Angeles",
+            "institution_ids": [
+              "https://openalex.org/I161318765"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5002083794",
+          "display_name": "Yesilernis Pe\u00f1a",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I161318765",
+            "display_name": "University of California, Los Angeles",
+            "ror": "https://ror.org/046rm7j60",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I161318765"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yesilernis Pe\u00f1a",
+        "raw_affiliation_strings": [
+          "Department of Psychology, University of California, Los Angeles, (  )."
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Psychology, University of California, Los Angeles, (  ).",
+            "institution_ids": [
+              "https://openalex.org/I161318765"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5028428138",
+          "display_name": "Jim Sidanius",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I161318765",
+            "display_name": "University of California, Los Angeles",
+            "ror": "https://ror.org/046rm7j60",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I161318765"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jim Sidanius",
+        "raw_affiliation_strings": [
+          "Department of Psychology, University of California, Los Angeles, (  )."
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Psychology, University of California, Los Angeles, (  ).",
+            "institution_ids": [
+              "https://openalex.org/I161318765"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 3,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 62.62447997,
+    "has_fulltext": false,
+    "cited_by_count": 43,
+    "citation_normalized_percentile": {
+      "value": 0.99787761,
+      "is_in_top_1_percent": true,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 97
+    },
+    "biblio": {
+      "volume": "1",
+      "issue": "1",
+      "first_page": "93",
+      "last_page": "113"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T12242",
+      "display_name": "Latin American and Latino Studies",
+      "score": 0.9635000228881836,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3316",
+        "display_name": "Cultural Studies"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T12242",
+        "display_name": "Latin American and Latino Studies",
+        "score": 0.9635000228881836,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3316",
+          "display_name": "Cultural Studies"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10652",
+        "display_name": "Racial and Ethnic Identity Research",
+        "score": 0.9182999730110168,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/exceptionalism",
+        "display_name": "Exceptionalism",
+        "score": 0.8601394891738892
+      },
+      {
+        "id": "https://openalex.org/keywords/patriotism",
+        "display_name": "Patriotism",
+        "score": 0.6738057136535645
+      },
+      {
+        "id": "https://openalex.org/keywords/racial-hierarchy",
+        "display_name": "Racial hierarchy",
+        "score": 0.6564189195632935
+      },
+      {
+        "id": "https://openalex.org/keywords/hierarchy",
+        "display_name": "Hierarchy",
+        "score": 0.6042203903198242
+      },
+      {
+        "id": "https://openalex.org/keywords/gender-studies",
+        "display_name": "Gender studies",
+        "score": 0.5726704597473145
+      },
+      {
+        "id": "https://openalex.org/keywords/ideology",
+        "display_name": "Ideology",
+        "score": 0.5326993465423584
+      },
+      {
+        "id": "https://openalex.org/keywords/context",
+        "display_name": "Context (archaeology)",
+        "score": 0.5183830857276917
+      },
+      {
+        "id": "https://openalex.org/keywords/ethnic-group",
+        "display_name": "Ethnic group",
+        "score": 0.46601322293281555
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.44085171818733215
+      },
+      {
+        "id": "https://openalex.org/keywords/identity",
+        "display_name": "Identity (music)",
+        "score": 0.4347110986709595
+      },
+      {
+        "id": "https://openalex.org/keywords/national-identity",
+        "display_name": "National identity",
+        "score": 0.43052563071250916
+      },
+      {
+        "id": "https://openalex.org/keywords/politics",
+        "display_name": "Politics",
+        "score": 0.4071492552757263
+      },
+      {
+        "id": "https://openalex.org/keywords/geography",
+        "display_name": "Geography",
+        "score": 0.39078617095947266
+      },
+      {
+        "id": "https://openalex.org/keywords/race",
+        "display_name": "Race (biology)",
+        "score": 0.3805597424507141
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.37904971837997437
+      },
+      {
+        "id": "https://openalex.org/keywords/ethnology",
+        "display_name": "Ethnology",
+        "score": 0.37598323822021484
+      },
+      {
+        "id": "https://openalex.org/keywords/anthropology",
+        "display_name": "Anthropology",
+        "score": 0.1585352122783661
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.09939450025558472
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2777995107",
+        "wikidata": "https://www.wikidata.org/wiki/Q1076085",
+        "display_name": "Exceptionalism",
+        "level": 3,
+        "score": 0.8601394891738892
+      },
+      {
+        "id": "https://openalex.org/C2776786559",
+        "wikidata": "https://www.wikidata.org/wiki/Q6241",
+        "display_name": "Patriotism",
+        "level": 3,
+        "score": 0.6738057136535645
+      },
+      {
+        "id": "https://openalex.org/C2777274200",
+        "wikidata": "https://www.wikidata.org/wiki/Q17141155",
+        "display_name": "Racial hierarchy",
+        "level": 3,
+        "score": 0.6564189195632935
+      },
+      {
+        "id": "https://openalex.org/C31170391",
+        "wikidata": "https://www.wikidata.org/wiki/Q188619",
+        "display_name": "Hierarchy",
+        "level": 2,
+        "score": 0.6042203903198242
+      },
+      {
+        "id": "https://openalex.org/C107993555",
+        "wikidata": "https://www.wikidata.org/wiki/Q1662673",
+        "display_name": "Gender studies",
+        "level": 1,
+        "score": 0.5726704597473145
+      },
+      {
+        "id": "https://openalex.org/C158071213",
+        "wikidata": "https://www.wikidata.org/wiki/Q7257",
+        "display_name": "Ideology",
+        "level": 3,
+        "score": 0.5326993465423584
+      },
+      {
+        "id": "https://openalex.org/C2779343474",
+        "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+        "display_name": "Context (archaeology)",
+        "level": 2,
+        "score": 0.5183830857276917
+      },
+      {
+        "id": "https://openalex.org/C137403100",
+        "wikidata": "https://www.wikidata.org/wiki/Q41710",
+        "display_name": "Ethnic group",
+        "level": 2,
+        "score": 0.46601322293281555
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.44085171818733215
+      },
+      {
+        "id": "https://openalex.org/C2778355321",
+        "wikidata": "https://www.wikidata.org/wiki/Q17079427",
+        "display_name": "Identity (music)",
+        "level": 2,
+        "score": 0.4347110986709595
+      },
+      {
+        "id": "https://openalex.org/C2778407155",
+        "wikidata": "https://www.wikidata.org/wiki/Q1880695",
+        "display_name": "National identity",
+        "level": 3,
+        "score": 0.43052563071250916
+      },
+      {
+        "id": "https://openalex.org/C94625758",
+        "wikidata": "https://www.wikidata.org/wiki/Q7163",
+        "display_name": "Politics",
+        "level": 2,
+        "score": 0.4071492552757263
+      },
+      {
+        "id": "https://openalex.org/C205649164",
+        "wikidata": "https://www.wikidata.org/wiki/Q1071",
+        "display_name": "Geography",
+        "level": 0,
+        "score": 0.39078617095947266
+      },
+      {
+        "id": "https://openalex.org/C76509639",
+        "wikidata": "https://www.wikidata.org/wiki/Q918036",
+        "display_name": "Race (biology)",
+        "level": 2,
+        "score": 0.3805597424507141
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.37904971837997437
+      },
+      {
+        "id": "https://openalex.org/C2549261",
+        "wikidata": "https://www.wikidata.org/wiki/Q43455",
+        "display_name": "Ethnology",
+        "level": 1,
+        "score": 0.37598323822021484
+      },
+      {
+        "id": "https://openalex.org/C19165224",
+        "wikidata": "https://www.wikidata.org/wiki/Q23404",
+        "display_name": "Anthropology",
+        "level": 1,
+        "score": 0.1585352122783661
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.09939450025558472
+      },
+      {
+        "id": "https://openalex.org/C166957645",
+        "wikidata": "https://www.wikidata.org/wiki/Q23498",
+        "display_name": "Archaeology",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C121332964",
+        "wikidata": "https://www.wikidata.org/wiki/Q413",
+        "display_name": "Physics",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C24890656",
+        "wikidata": "https://www.wikidata.org/wiki/Q82811",
+        "display_name": "Acoustics",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1017/s1742058x04040068",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1017/s1742058x04040068",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S105812952",
+          "display_name": "Du Bois Review Social Science Research on Race",
+          "issn_l": "1742-058X",
+          "issn": [
+            "1742-058X",
+            "1742-0598"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310311721",
+          "host_organization_name": "Cambridge University Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311721"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Du Bois Review: Social Science Research on Race",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "id": "https://metadata.un.org/sdg/10",
+        "score": 0.7200000286102295,
+        "display_name": "Reduced inequalities"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 42,
+    "referenced_works": [
+      "https://openalex.org/W6671952915",
+      "https://openalex.org/W6701684076",
+      "https://openalex.org/W6702160215",
+      "https://openalex.org/W2006523186",
+      "https://openalex.org/W2085146109",
+      "https://openalex.org/W1980924071",
+      "https://openalex.org/W2054919804",
+      "https://openalex.org/W635054559",
+      "https://openalex.org/W6648441617",
+      "https://openalex.org/W2039302467",
+      "https://openalex.org/W7073564232",
+      "https://openalex.org/W1996483596",
+      "https://openalex.org/W4299946577",
+      "https://openalex.org/W2324652623",
+      "https://openalex.org/W3022491664",
+      "https://openalex.org/W1992528902",
+      "https://openalex.org/W7047633631",
+      "https://openalex.org/W1982224464",
+      "https://openalex.org/W2117870167",
+      "https://openalex.org/W7027226665",
+      "https://openalex.org/W2009018386",
+      "https://openalex.org/W2013241565",
+      "https://openalex.org/W4207035178",
+      "https://openalex.org/W6676624167",
+      "https://openalex.org/W4231298795",
+      "https://openalex.org/W6680774728",
+      "https://openalex.org/W6663330019",
+      "https://openalex.org/W1997787683",
+      "https://openalex.org/W2313585886",
+      "https://openalex.org/W2491441589",
+      "https://openalex.org/W1589973216",
+      "https://openalex.org/W7009283807",
+      "https://openalex.org/W2149867986",
+      "https://openalex.org/W6620553203",
+      "https://openalex.org/W2087306417",
+      "https://openalex.org/W7008129882",
+      "https://openalex.org/W2023777287",
+      "https://openalex.org/W2033439270",
+      "https://openalex.org/W6986229747",
+      "https://openalex.org/W4388361183",
+      "https://openalex.org/W107145989",
+      "https://openalex.org/W1510113079"
+    ],
+    "related_works": [
+      "https://openalex.org/W2382520200",
+      "https://openalex.org/W2740209725",
+      "https://openalex.org/W2353894746",
+      "https://openalex.org/W3121409851",
+      "https://openalex.org/W4313330529",
+      "https://openalex.org/W2080275706",
+      "https://openalex.org/W2054592690",
+      "https://openalex.org/W2147266581",
+      "https://openalex.org/W4327611824",
+      "https://openalex.org/W4365483790"
+    ],
+    "abstract_inverted_index": {
+      "This": [
+        0
+      ],
+      "paper": [
+        1
+      ],
+      "examined": [
+        2
+      ],
+      "the": [
+        3,
+        11,
+        18,
+        23,
+        35,
+        47,
+        61,
+        80,
+        88,
+        105,
+        109,
+        127,
+        136,
+        149
+      ],
+      "interface": [
+        4,
+        138
+      ],
+      "between": [
+        5,
+        139
+      ],
+      "\u201cracial\u201d": [
+        6
+      ],
+      "and": [
+        7,
+        22,
+        38,
+        50,
+        67,
+        83,
+        112,
+        141
+      ],
+      "national": [
+        8,
+        142
+      ],
+      "identity": [
+        9,
+        143
+      ],
+      "from": [
+        10,
+        44
+      ],
+      "perspective": [
+        12
+      ],
+      "of": [
+        13,
+        25,
+        41,
+        70
+      ],
+      "two": [
+        14
+      ],
+      "competing": [
+        15
+      ],
+      "theoretical": [
+        16,
+        57
+      ],
+      "frameworks:": [
+        17
+      ],
+      "ideological": [
+        19
+      ],
+      "asymmetry": [
+        20,
+        62,
+        81
+      ],
+      "hypothesis": [
+        21,
+        82
+      ],
+      "thesis": [
+        24
+      ],
+      "Iberian": [
+        26,
+        89
+      ],
+      "Exceptionalism.": [
+        27
+      ],
+      "In": [
+        28
+      ],
+      "contrast": [
+        29
+      ],
+      "to": [
+        30,
+        100,
+        104,
+        120,
+        126
+      ],
+      "previous": [
+        31
+      ],
+      "results": [
+        32,
+        133
+      ],
+      "found": [
+        33
+      ],
+      "in": [
+        34,
+        85,
+        107
+      ],
+      "United": [
+        36
+      ],
+      "States": [
+        37
+      ],
+      "Israel,": [
+        39
+      ],
+      "use": [
+        40
+      ],
+      "survey": [
+        42
+      ],
+      "data": [
+        43
+      ],
+      "Puerto": [
+        45,
+        113
+      ],
+      "Rico,": [
+        46
+      ],
+      "Dominican": [
+        48,
+        110
+      ],
+      "Republic,": [
+        49
+      ],
+      "Cuba": [
+        51
+      ],
+      "showed": [
+        52
+      ],
+      "some": [
+        53
+      ],
+      "support": [
+        54
+      ],
+      "for": [
+        55,
+        97
+      ],
+      "both": [
+        56,
+        108
+      ],
+      "positions.": [
+        58
+      ],
+      "Consistent": [
+        59
+      ],
+      "with": [
+        60,
+        87
+      ],
+      "thesis,": [
+        63
+      ],
+      "there": [
+        64,
+        92
+      ],
+      "was": [
+        65,
+        93
+      ],
+      "strong": [
+        66
+      ],
+      "consistent": [
+        68
+      ],
+      "evidence": [
+        69
+      ],
+      "racial": [
+        71,
+        140
+      ],
+      "hierarchy": [
+        72
+      ],
+      "within": [
+        73,
+        153
+      ],
+      "all": [
+        74,
+        98
+      ],
+      "three": [
+        75
+      ],
+      "Caribbean": [
+        76
+      ],
+      "nations.": [
+        77
+      ],
+      "However,": [
+        78
+      ],
+      "contradicting": [
+        79
+      ],
+      "more": [
+        84,
+        123
+      ],
+      "line": [
+        86
+      ],
+      "Exceptionalism": [
+        90
+      ],
+      "perspective,": [
+        91
+      ],
+      "a": [
+        94
+      ],
+      "general": [
+        95
+      ],
+      "tendency": [
+        96
+      ],
+      "\u201craces\u201d": [
+        99
+      ],
+      "be": [
+        101,
+        121,
+        145
+      ],
+      "equally": [
+        102
+      ],
+      "attached": [
+        103,
+        125
+      ],
+      "nation": [
+        106,
+        128
+      ],
+      "Republic": [
+        111
+      ],
+      "Rico.": [
+        114
+      ],
+      "Somewhat": [
+        115
+      ],
+      "unexpectedly,": [
+        116
+      ],
+      "Cuban": [
+        117,
+        130
+      ],
+      "Blacks": [
+        118
+      ],
+      "tended": [
+        119
+      ],
+      "slightly": [
+        122
+      ],
+      "positively": [
+        124
+      ],
+      "than": [
+        129
+      ],
+      "Whites.": [
+        131
+      ],
+      "These": [
+        132
+      ],
+      "suggest": [
+        134
+      ],
+      "that": [
+        135
+      ],
+      "precise": [
+        137
+      ],
+      "will": [
+        144
+      ],
+      "acutely": [
+        146
+      ],
+      "influenced": [
+        147
+      ],
+      "by": [
+        148
+      ],
+      "specific": [
+        150
+      ],
+      "socio-political": [
+        151
+      ],
+      "context": [
+        152
+      ],
+      "each": [
+        154
+      ],
+      "nation.": [
+        155
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2013,
+        "cited_by_count": 3
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2137454434",
+    "doi": "https://doi.org/10.1017/s1742058x12000069",
+    "title": "HOMELAND TOURISM, EMOTION, AND IDENTITY LABOR",
+    "display_name": "HOMELAND TOURISM, EMOTION, AND IDENTITY LABOR",
+    "relevance_score": 8.4631195,
+    "publication_year": 2012,
+    "publication_date": "2012-01-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2137454434",
+      "doi": "https://doi.org/10.1017/s1742058x12000069",
+      "mag": "2137454434"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1017/s1742058x12000069",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1017/s1742058x12000069",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S105812952",
+        "display_name": "Du Bois Review Social Science Research on Race",
+        "issn_l": "1742-058X",
+        "issn": [
+          "1742-058X",
+          "1742-0598"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310311721",
+        "host_organization_name": "Cambridge University Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310311721"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Du Bois Review: Social Science Research on Race",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5059736991",
+          "display_name": "Judith Taylor",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I185261750",
+            "display_name": "University of Toronto",
+            "ror": "https://ror.org/03dbr7087",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I185261750"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Judith Taylor",
+        "raw_affiliation_strings": [
+          "Department of Sociology,#R##N#University of Toronto"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Sociology,#R##N#University of Toronto",
+            "institution_ids": [
+              "https://openalex.org/I185261750"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5084587951",
+          "display_name": "Ron Levi",
+          "orcid": "https://orcid.org/0000-0003-1208-5219"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I185261750",
+            "display_name": "University of Toronto",
+            "ror": "https://ror.org/03dbr7087",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I185261750"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210149655",
+            "display_name": "Institute of Criminology",
+            "ror": "https://ror.org/04nqnb117",
+            "country_code": "SI",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I4210149655"
+            ]
+          }
+        ],
+        "countries": [
+          "CA",
+          "SI"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Ron Levi",
+        "raw_affiliation_strings": [
+          "Centre for Criminology and Sociolegal Studies, University of Toronto"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Centre for Criminology and Sociolegal Studies, University of Toronto",
+            "institution_ids": [
+              "https://openalex.org/I185261750",
+              "https://openalex.org/I4210149655"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5025055695",
+          "display_name": "Ronit Dinovitzer",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I185261750",
+            "display_name": "University of Toronto",
+            "ror": "https://ror.org/03dbr7087",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I185261750"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Ronit Dinovitzer",
+        "raw_affiliation_strings": [
+          "Department of Sociology,#R##N#University of Toronto"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Sociology,#R##N#University of Toronto",
+            "institution_ids": [
+              "https://openalex.org/I185261750"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 2,
+    "institutions_distinct_count": 3,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.91344866,
+    "has_fulltext": false,
+    "cited_by_count": 10,
+    "citation_normalized_percentile": {
+      "value": 0.85012474,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 97
+    },
+    "biblio": {
+      "volume": "9",
+      "issue": "1",
+      "first_page": "67",
+      "last_page": "85"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Jewish and Middle Eastern Studies",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.9997000098228455,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13784",
+        "display_name": "Jewish Identity and Society",
+        "score": 0.9995999932289124,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3317",
+          "display_name": "Demography"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12693",
+        "display_name": "Migration, Ethnicity, and Economy",
+        "score": 0.9972000122070312,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/homeland",
+        "display_name": "Homeland",
+        "score": 0.7923668026924133
+      },
+      {
+        "id": "https://openalex.org/keywords/diaspora",
+        "display_name": "Diaspora",
+        "score": 0.6315590143203735
+      },
+      {
+        "id": "https://openalex.org/keywords/ethnic-group",
+        "display_name": "Ethnic group",
+        "score": 0.6170176267623901
+      },
+      {
+        "id": "https://openalex.org/keywords/gender-studies",
+        "display_name": "Gender studies",
+        "score": 0.5945038795471191
+      },
+      {
+        "id": "https://openalex.org/keywords/identity",
+        "display_name": "Identity (music)",
+        "score": 0.5504806637763977
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.5359625816345215
+      },
+      {
+        "id": "https://openalex.org/keywords/ambivalence",
+        "display_name": "Ambivalence",
+        "score": 0.49977564811706543
+      },
+      {
+        "id": "https://openalex.org/keywords/judaism",
+        "display_name": "Judaism",
+        "score": 0.4866069555282593
+      },
+      {
+        "id": "https://openalex.org/keywords/collective-identity",
+        "display_name": "Collective identity",
+        "score": 0.4721646010875702
+      },
+      {
+        "id": "https://openalex.org/keywords/trips-architecture",
+        "display_name": "TRIPS architecture",
+        "score": 0.4565533995628357
+      },
+      {
+        "id": "https://openalex.org/keywords/closeness",
+        "display_name": "Closeness",
+        "score": 0.4237838089466095
+      },
+      {
+        "id": "https://openalex.org/keywords/socialization",
+        "display_name": "Socialization",
+        "score": 0.410492479801178
+      },
+      {
+        "id": "https://openalex.org/keywords/social-psychology",
+        "display_name": "Social psychology",
+        "score": 0.31877583265304565
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.30693912506103516
+      },
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.19942551851272583
+      },
+      {
+        "id": "https://openalex.org/keywords/geography",
+        "display_name": "Geography",
+        "score": 0.15393802523612976
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.120587557554245
+      },
+      {
+        "id": "https://openalex.org/keywords/politics",
+        "display_name": "Politics",
+        "score": 0.1107206642627716
+      },
+      {
+        "id": "https://openalex.org/keywords/social-science",
+        "display_name": "Social science",
+        "score": 0.10668101906776428
+      },
+      {
+        "id": "https://openalex.org/keywords/aesthetics",
+        "display_name": "Aesthetics",
+        "score": 0.10402277112007141
+      },
+      {
+        "id": "https://openalex.org/keywords/anthropology",
+        "display_name": "Anthropology",
+        "score": 0.09429931640625
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2778880830",
+        "wikidata": "https://www.wikidata.org/wiki/Q16513600",
+        "display_name": "Homeland",
+        "level": 3,
+        "score": 0.7923668026924133
+      },
+      {
+        "id": "https://openalex.org/C2778611045",
+        "wikidata": "https://www.wikidata.org/wiki/Q133004",
+        "display_name": "Diaspora",
+        "level": 2,
+        "score": 0.6315590143203735
+      },
+      {
+        "id": "https://openalex.org/C137403100",
+        "wikidata": "https://www.wikidata.org/wiki/Q41710",
+        "display_name": "Ethnic group",
+        "level": 2,
+        "score": 0.6170176267623901
+      },
+      {
+        "id": "https://openalex.org/C107993555",
+        "wikidata": "https://www.wikidata.org/wiki/Q1662673",
+        "display_name": "Gender studies",
+        "level": 1,
+        "score": 0.5945038795471191
+      },
+      {
+        "id": "https://openalex.org/C2778355321",
+        "wikidata": "https://www.wikidata.org/wiki/Q17079427",
+        "display_name": "Identity (music)",
+        "level": 2,
+        "score": 0.5504806637763977
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.5359625816345215
+      },
+      {
+        "id": "https://openalex.org/C162127614",
+        "wikidata": "https://www.wikidata.org/wiki/Q5928045",
+        "display_name": "Ambivalence",
+        "level": 2,
+        "score": 0.49977564811706543
+      },
+      {
+        "id": "https://openalex.org/C150152722",
+        "wikidata": "https://www.wikidata.org/wiki/Q9268",
+        "display_name": "Judaism",
+        "level": 2,
+        "score": 0.4866069555282593
+      },
+      {
+        "id": "https://openalex.org/C151915780",
+        "wikidata": "https://www.wikidata.org/wiki/Q5146163",
+        "display_name": "Collective identity",
+        "level": 3,
+        "score": 0.4721646010875702
+      },
+      {
+        "id": "https://openalex.org/C157085824",
+        "wikidata": "https://www.wikidata.org/wiki/Q2384809",
+        "display_name": "TRIPS architecture",
+        "level": 2,
+        "score": 0.4565533995628357
+      },
+      {
+        "id": "https://openalex.org/C2779545769",
+        "wikidata": "https://www.wikidata.org/wiki/Q5135364",
+        "display_name": "Closeness",
+        "level": 2,
+        "score": 0.4237838089466095
+      },
+      {
+        "id": "https://openalex.org/C25032326",
+        "wikidata": "https://www.wikidata.org/wiki/Q185467",
+        "display_name": "Socialization",
+        "level": 2,
+        "score": 0.410492479801178
+      },
+      {
+        "id": "https://openalex.org/C77805123",
+        "wikidata": "https://www.wikidata.org/wiki/Q161272",
+        "display_name": "Social psychology",
+        "level": 1,
+        "score": 0.31877583265304565
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.30693912506103516
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.19942551851272583
+      },
+      {
+        "id": "https://openalex.org/C205649164",
+        "wikidata": "https://www.wikidata.org/wiki/Q1071",
+        "display_name": "Geography",
+        "level": 0,
+        "score": 0.15393802523612976
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.120587557554245
+      },
+      {
+        "id": "https://openalex.org/C94625758",
+        "wikidata": "https://www.wikidata.org/wiki/Q7163",
+        "display_name": "Politics",
+        "level": 2,
+        "score": 0.1107206642627716
+      },
+      {
+        "id": "https://openalex.org/C36289849",
+        "wikidata": "https://www.wikidata.org/wiki/Q34749",
+        "display_name": "Social science",
+        "level": 1,
+        "score": 0.10668101906776428
+      },
+      {
+        "id": "https://openalex.org/C107038049",
+        "wikidata": "https://www.wikidata.org/wiki/Q35986",
+        "display_name": "Aesthetics",
+        "level": 1,
+        "score": 0.10402277112007141
+      },
+      {
+        "id": "https://openalex.org/C19165224",
+        "wikidata": "https://www.wikidata.org/wiki/Q23404",
+        "display_name": "Anthropology",
+        "level": 1,
+        "score": 0.09429931640625
+      },
+      {
+        "id": "https://openalex.org/C134306372",
+        "wikidata": "https://www.wikidata.org/wiki/Q7754",
+        "display_name": "Mathematical analysis",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C33923547",
+        "wikidata": "https://www.wikidata.org/wiki/Q395",
+        "display_name": "Mathematics",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C173608175",
+        "wikidata": "https://www.wikidata.org/wiki/Q232661",
+        "display_name": "Parallel computing",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C166957645",
+        "wikidata": "https://www.wikidata.org/wiki/Q23498",
+        "display_name": "Archaeology",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1017/s1742058x12000069",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1017/s1742058x12000069",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S105812952",
+          "display_name": "Du Bois Review Social Science Research on Race",
+          "issn_l": "1742-058X",
+          "issn": [
+            "1742-058X",
+            "1742-0598"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310311721",
+          "host_organization_name": "Cambridge University Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311721"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Du Bois Review: Social Science Research on Race",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "referenced_works_count": 44,
+    "referenced_works": [
+      "https://openalex.org/W4239419073",
+      "https://openalex.org/W2267259330",
+      "https://openalex.org/W6601918947",
+      "https://openalex.org/W6676800179",
+      "https://openalex.org/W2008542388",
+      "https://openalex.org/W2025348291",
+      "https://openalex.org/W2066893573",
+      "https://openalex.org/W114971539",
+      "https://openalex.org/W2129919564",
+      "https://openalex.org/W2154945691",
+      "https://openalex.org/W2081634754",
+      "https://openalex.org/W2105729222",
+      "https://openalex.org/W1898662251",
+      "https://openalex.org/W2146239550",
+      "https://openalex.org/W2319963060",
+      "https://openalex.org/W2150062799",
+      "https://openalex.org/W4247964842",
+      "https://openalex.org/W4234313496",
+      "https://openalex.org/W632930716",
+      "https://openalex.org/W1996722258",
+      "https://openalex.org/W4380742337",
+      "https://openalex.org/W2071308562",
+      "https://openalex.org/W2163996096",
+      "https://openalex.org/W3081656371",
+      "https://openalex.org/W2081779142",
+      "https://openalex.org/W2335008036",
+      "https://openalex.org/W2237051878",
+      "https://openalex.org/W1482085182",
+      "https://openalex.org/W2482810775",
+      "https://openalex.org/W2169659946",
+      "https://openalex.org/W2112017619",
+      "https://openalex.org/W2022768097",
+      "https://openalex.org/W2011244493",
+      "https://openalex.org/W630727849",
+      "https://openalex.org/W620605707",
+      "https://openalex.org/W2798882695",
+      "https://openalex.org/W4292309245",
+      "https://openalex.org/W1245497470",
+      "https://openalex.org/W359018483",
+      "https://openalex.org/W46605512",
+      "https://openalex.org/W3169168029",
+      "https://openalex.org/W657643218",
+      "https://openalex.org/W2143029242",
+      "https://openalex.org/W1971091929"
+    ],
+    "related_works": [
+      "https://openalex.org/W1547577011",
+      "https://openalex.org/W2488150872",
+      "https://openalex.org/W2378606496",
+      "https://openalex.org/W2108711455",
+      "https://openalex.org/W174288402",
+      "https://openalex.org/W102318029",
+      "https://openalex.org/W3176379588",
+      "https://openalex.org/W2138803031",
+      "https://openalex.org/W4283385723",
+      "https://openalex.org/W2557090833"
+    ],
+    "abstract_inverted_index": {
+      "Abstract": [
+        0
+      ],
+      "Concern": [
+        1
+      ],
+      "over": [
+        2,
+        101,
+        113
+      ],
+      "intergenerational": [
+        3
+      ],
+      "ethnic": [
+        4,
+        25,
+        238
+      ],
+      "continuity,": [
+        5
+      ],
+      "with": [
+        6,
+        50,
+        80,
+        146,
+        188,
+        243
+      ],
+      "members": [
+        7,
+        164
+      ],
+      "of": [
+        8,
+        54,
+        61,
+        78,
+        118,
+        159,
+        167,
+        183,
+        191,
+        219,
+        236,
+        247
+      ],
+      "minority": [
+        9
+      ],
+      "groups": [
+        10,
+        145
+      ],
+      "seeking": [
+        11
+      ],
+      "to": [
+        12,
+        21,
+        31,
+        88,
+        106,
+        131
+      ],
+      "ensure": [
+        13
+      ],
+      "that": [
+        14,
+        98,
+        135,
+        151,
+        162,
+        176,
+        205,
+        223
+      ],
+      "youth": [
+        15
+      ],
+      "become": [
+        16
+      ],
+      "invested": [
+        17
+      ],
+      "in": [
+        18,
+        44,
+        140,
+        180,
+        211,
+        229
+      ],
+      "and": [
+        19,
+        29,
+        52,
+        82,
+        127,
+        155,
+        161,
+        169,
+        198,
+        240,
+        255
+      ],
+      "committed": [
+        20
+      ],
+      "religious,": [
+        22
+      ],
+      "cultural,": [
+        23
+      ],
+      "or": [
+        24
+      ],
+      "identities,": [
+        26
+      ],
+      "is": [
+        27,
+        93,
+        175,
+        226
+      ],
+      "long-standing": [
+        28
+      ],
+      "inherent": [
+        30
+      ],
+      "group": [
+        32,
+        253
+      ],
+      "boundary": [
+        33
+      ],
+      "formation.": [
+        34
+      ],
+      "In": [
+        35
+      ],
+      "recent": [
+        36
+      ],
+      "years,": [
+        37
+      ],
+      "this": [
+        38,
+        91,
+        119,
+        128
+      ],
+      "concern": [
+        39,
+        74
+      ],
+      "has": [
+        40,
+        99
+      ],
+      "been": [
+        41
+      ],
+      "particularly": [
+        42
+      ],
+      "pronounced": [
+        43
+      ],
+      "the": [
+        45,
+        76,
+        132,
+        189,
+        212,
+        216,
+        234,
+        248
+      ],
+      "North": [
+        46
+      ],
+      "American": [
+        47
+      ],
+      "Jewish": [
+        48,
+        55,
+        68,
+        109
+      ],
+      "community,": [
+        49
+      ],
+      "socialization": [
+        51
+      ],
+      "retention": [
+        53
+      ],
+      "young": [
+        56,
+        110
+      ],
+      "adults": [
+        57,
+        111
+      ],
+      "emerging": [
+        58
+      ],
+      "as": [
+        59,
+        71,
+        196
+      ],
+      "one": [
+        60
+      ],
+      "its": [
+        62
+      ],
+      "central": [
+        63,
+        73
+      ],
+      "preoccupations.": [
+        64
+      ],
+      "This": [
+        65
+      ],
+      "emphasis": [
+        66
+      ],
+      "on": [
+        67,
+        215
+      ],
+      "continuity": [
+        69
+      ],
+      "emerged": [
+        70
+      ],
+      "a": [
+        72,
+        96,
+        181,
+        207,
+        244
+      ],
+      "following": [
+        75
+      ],
+      "legacy": [
+        77
+      ],
+      "experiences": [
+        79
+      ],
+      "anti-Semitism": [
+        81
+      ],
+      "discrimination.": [
+        83
+      ],
+      "The": [
+        84,
+        173
+      ],
+      "most": [
+        85
+      ],
+      "significant": [
+        86
+      ],
+      "program": [
+        87,
+        97
+      ],
+      "emerge": [
+        89
+      ],
+      "from": [
+        90,
+        112
+      ],
+      "agenda": [
+        92
+      ],
+      "Taglit-Birthright": [
+        94,
+        147
+      ],
+      "Israel,": [
+        95
+      ],
+      "provided": [
+        100
+      ],
+      "250,000": [
+        102
+      ],
+      "free": [
+        103
+      ],
+      "ten-day": [
+        104
+      ],
+      "trips": [
+        105,
+        231
+      ],
+      "Israel": [
+        107
+      ],
+      "for": [
+        108,
+        209,
+        251
+      ],
+      "fifty": [
+        114
+      ],
+      "countries.": [
+        115
+      ],
+      "Homeland": [
+        116
+      ],
+      "tours": [
+        117,
+        153
+      ],
+      "sort": [
+        120
+      ],
+      "are": [
+        121,
+        178
+      ],
+      "increasingly": [
+        122
+      ],
+      "common": [
+        123
+      ],
+      "across": [
+        124
+      ],
+      "diasporic": [
+        125
+      ],
+      "groups,": [
+        126
+      ],
+      "paper": [
+        129
+      ],
+      "attends": [
+        130
+      ],
+      "emotional": [
+        133
+      ],
+      "work": [
+        134
+      ],
+      "underlies": [
+        136
+      ],
+      "collective": [
+        137,
+        224
+      ],
+      "identity": [
+        138,
+        184,
+        204,
+        225
+      ],
+      "formation": [
+        139
+      ],
+      "these": [
+        141,
+        152,
+        230
+      ],
+      "tours.": [
+        142
+      ],
+      "Through": [
+        143
+      ],
+      "focus": [
+        144
+      ],
+      "participants,": [
+        148
+      ],
+      "we": [
+        149,
+        221
+      ],
+      "find": [
+        150,
+        222
+      ],
+      "engage": [
+        154
+      ],
+      "mobilize": [
+        156
+      ],
+      "competing": [
+        157
+      ],
+      "sets": [
+        158
+      ],
+      "emotions,": [
+        160
+      ],
+      "tour": [
+        163
+      ],
+      "experience": [
+        165
+      ],
+      "dimensions": [
+        166
+      ],
+      "closeness": [
+        168
+      ],
+      "distance": [
+        170
+      ],
+      "at": [
+        171
+      ],
+      "once.": [
+        172
+      ],
+      "result": [
+        174
+      ],
+      "participants": [
+        177,
+        242
+      ],
+      "engaged": [
+        179
+      ],
+      "form": [
+        182
+      ],
+      "labor:": [
+        185
+      ],
+      "they": [
+        186,
+        193,
+        200
+      ],
+      "grapple": [
+        187
+      ],
+      "questions": [
+        190
+      ],
+      "how": [
+        192,
+        199
+      ],
+      "should": [
+        194
+      ],
+      "affiliate": [
+        195
+      ],
+      "Jews,": [
+        197
+      ],
+      "can": [
+        201
+      ],
+      "forge": [
+        202
+      ],
+      "an": [
+        203
+      ],
+      "carves": [
+        206
+      ],
+      "role": [
+        208
+      ],
+      "themselves": [
+        210
+      ],
+      "diaspora.": [
+        213
+      ],
+      "Drawing": [
+        214
+      ],
+      "sociological": [
+        217
+      ],
+      "concept": [
+        218
+      ],
+      "ambivalence,": [
+        220
+      ],
+      "successfully": [
+        227
+      ],
+      "forged": [
+        228
+      ],
+      "by": [
+        232
+      ],
+      "interrupting": [
+        233
+      ],
+      "notion": [
+        235
+      ],
+      "effortless": [
+        237
+      ],
+      "belonging,": [
+        239
+      ],
+      "providing": [
+        241
+      ],
+      "deeper": [
+        245
+      ],
+      "understanding": [
+        246
+      ],
+      "commitment": [
+        249
+      ],
+      "required": [
+        250
+      ],
+      "intra-ethnic": [
+        252
+      ],
+      "identification": [
+        254
+      ],
+      "attachments.": [
+        256
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2021,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  }
+]

@@ -1,0 +1,5072 @@
+[
+  {
+    "id": "https://openalex.org/W2520854706",
+    "doi": "https://doi.org/10.1177/1749975516650231",
+    "title": "\u2018Reality\u2019 Television Critique in Israel: How \u2018Quality\u2019 Became \u2018Morality\u2019",
+    "display_name": "\u2018Reality\u2019 Television Critique in Israel: How \u2018Quality\u2019 Became \u2018Morality\u2019",
+    "relevance_score": 179.21365,
+    "publication_year": 2016,
+    "publication_date": "2016-09-16",
+    "ids": {
+      "openalex": "https://openalex.org/W2520854706",
+      "doi": "https://doi.org/10.1177/1749975516650231",
+      "mag": "2520854706"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/1749975516650231",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/1749975516650231",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S69220080",
+        "display_name": "Cultural Sociology",
+        "issn_l": "1749-9755",
+        "issn": [
+          "1749-9755",
+          "1749-9763"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cultural Sociology",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5028003770",
+          "display_name": "Noa Lavie",
+          "orcid": "https://orcid.org/0000-0003-2174-2743"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210141777",
+            "display_name": "Academic College of Tel Aviv-Yafo",
+            "ror": "https://ror.org/04cg6c004",
+            "country_code": "IL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210141777"
+            ]
+          }
+        ],
+        "countries": [
+          "IL"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Noa Lavie",
+        "raw_affiliation_strings": [
+          "The Tel Aviv-Jaffa Academic College, Yaffo, Israel"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "The Tel Aviv-Jaffa Academic College, Yaffo, Israel",
+            "institution_ids": [
+              "https://openalex.org/I4210141777"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5028003770"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I4210141777"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 1.75292391,
+    "has_fulltext": false,
+    "cited_by_count": 31,
+    "citation_normalized_percentile": {
+      "value": 0.88741531,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 100
+    },
+    "biblio": {
+      "volume": "10",
+      "issue": "4",
+      "first_page": "502",
+      "last_page": "522"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11540",
+      "display_name": "Gender, Feminism, and Media",
+      "score": 0.9972000122070312,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3318",
+        "display_name": "Gender Studies"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11540",
+        "display_name": "Gender, Feminism, and Media",
+        "score": 0.9972000122070312,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3318",
+          "display_name": "Gender Studies"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10133",
+        "display_name": "Media Studies and Communication",
+        "score": 0.992900013923645,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3315",
+          "display_name": "Communication"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11113",
+        "display_name": "Music History and Culture",
+        "score": 0.9926000237464905,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1210",
+          "display_name": "Music"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/legitimacy",
+        "display_name": "Legitimacy",
+        "score": 0.8350627422332764
+      },
+      {
+        "id": "https://openalex.org/keywords/reality-television",
+        "display_name": "Reality television",
+        "score": 0.8054097294807434
+      },
+      {
+        "id": "https://openalex.org/keywords/morality",
+        "display_name": "Morality",
+        "score": 0.7523901462554932
+      },
+      {
+        "id": "https://openalex.org/keywords/social-reality",
+        "display_name": "Social reality",
+        "score": 0.6060331463813782
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.5898836255073547
+      },
+      {
+        "id": "https://openalex.org/keywords/television-studies",
+        "display_name": "Television studies",
+        "score": 0.5849705934524536
+      },
+      {
+        "id": "https://openalex.org/keywords/aesthetics",
+        "display_name": "Aesthetics",
+        "score": 0.5528718829154968
+      },
+      {
+        "id": "https://openalex.org/keywords/phenomenon",
+        "display_name": "Phenomenon",
+        "score": 0.5265774130821228
+      },
+      {
+        "id": "https://openalex.org/keywords/quality",
+        "display_name": "Quality (philosophy)",
+        "score": 0.4820783734321594
+      },
+      {
+        "id": "https://openalex.org/keywords/reality-tv",
+        "display_name": "Reality tv",
+        "score": 0.44057175517082214
+      },
+      {
+        "id": "https://openalex.org/keywords/value",
+        "display_name": "Value (mathematics)",
+        "score": 0.42740535736083984
+      },
+      {
+        "id": "https://openalex.org/keywords/media-studies",
+        "display_name": "Media studies",
+        "score": 0.386074036359787
+      },
+      {
+        "id": "https://openalex.org/keywords/social-science",
+        "display_name": "Social science",
+        "score": 0.26111340522766113
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.24612438678741455
+      },
+      {
+        "id": "https://openalex.org/keywords/epistemology",
+        "display_name": "Epistemology",
+        "score": 0.23336374759674072
+      },
+      {
+        "id": "https://openalex.org/keywords/art",
+        "display_name": "Art",
+        "score": 0.21139726042747498
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.1986502707004547
+      },
+      {
+        "id": "https://openalex.org/keywords/politics",
+        "display_name": "Politics",
+        "score": 0.1650228202342987
+      },
+      {
+        "id": "https://openalex.org/keywords/philosophy",
+        "display_name": "Philosophy",
+        "score": 0.08371806144714355
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C46295352",
+        "wikidata": "https://www.wikidata.org/wiki/Q207982",
+        "display_name": "Legitimacy",
+        "level": 3,
+        "score": 0.8350627422332764
+      },
+      {
+        "id": "https://openalex.org/C2779084582",
+        "wikidata": "https://www.wikidata.org/wiki/Q182415",
+        "display_name": "Reality television",
+        "level": 2,
+        "score": 0.8054097294807434
+      },
+      {
+        "id": "https://openalex.org/C200113983",
+        "wikidata": "https://www.wikidata.org/wiki/Q48324",
+        "display_name": "Morality",
+        "level": 2,
+        "score": 0.7523901462554932
+      },
+      {
+        "id": "https://openalex.org/C188191115",
+        "wikidata": "https://www.wikidata.org/wiki/Q4430254",
+        "display_name": "Social reality",
+        "level": 2,
+        "score": 0.6060331463813782
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.5898836255073547
+      },
+      {
+        "id": "https://openalex.org/C549876090",
+        "wikidata": "https://www.wikidata.org/wiki/Q2065951",
+        "display_name": "Television studies",
+        "level": 2,
+        "score": 0.5849705934524536
+      },
+      {
+        "id": "https://openalex.org/C107038049",
+        "wikidata": "https://www.wikidata.org/wiki/Q35986",
+        "display_name": "Aesthetics",
+        "level": 1,
+        "score": 0.5528718829154968
+      },
+      {
+        "id": "https://openalex.org/C50335755",
+        "wikidata": "https://www.wikidata.org/wiki/Q483247",
+        "display_name": "Phenomenon",
+        "level": 2,
+        "score": 0.5265774130821228
+      },
+      {
+        "id": "https://openalex.org/C2779530757",
+        "wikidata": "https://www.wikidata.org/wiki/Q1207505",
+        "display_name": "Quality (philosophy)",
+        "level": 2,
+        "score": 0.4820783734321594
+      },
+      {
+        "id": "https://openalex.org/C2991916191",
+        "wikidata": "https://www.wikidata.org/wiki/Q182415",
+        "display_name": "Reality tv",
+        "level": 2,
+        "score": 0.44057175517082214
+      },
+      {
+        "id": "https://openalex.org/C2776291640",
+        "wikidata": "https://www.wikidata.org/wiki/Q2912517",
+        "display_name": "Value (mathematics)",
+        "level": 2,
+        "score": 0.42740535736083984
+      },
+      {
+        "id": "https://openalex.org/C29595303",
+        "wikidata": "https://www.wikidata.org/wiki/Q165650",
+        "display_name": "Media studies",
+        "level": 1,
+        "score": 0.386074036359787
+      },
+      {
+        "id": "https://openalex.org/C36289849",
+        "wikidata": "https://www.wikidata.org/wiki/Q34749",
+        "display_name": "Social science",
+        "level": 1,
+        "score": 0.26111340522766113
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.24612438678741455
+      },
+      {
+        "id": "https://openalex.org/C111472728",
+        "wikidata": "https://www.wikidata.org/wiki/Q9471",
+        "display_name": "Epistemology",
+        "level": 1,
+        "score": 0.23336374759674072
+      },
+      {
+        "id": "https://openalex.org/C142362112",
+        "wikidata": "https://www.wikidata.org/wiki/Q735",
+        "display_name": "Art",
+        "level": 0,
+        "score": 0.21139726042747498
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.1986502707004547
+      },
+      {
+        "id": "https://openalex.org/C94625758",
+        "wikidata": "https://www.wikidata.org/wiki/Q7163",
+        "display_name": "Politics",
+        "level": 2,
+        "score": 0.1650228202342987
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.08371806144714355
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C119857082",
+        "wikidata": "https://www.wikidata.org/wiki/Q2539",
+        "display_name": "Machine learning",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/1749975516650231",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/1749975516650231",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S69220080",
+          "display_name": "Cultural Sociology",
+          "issn_l": "1749-9755",
+          "issn": [
+            "1749-9755",
+            "1749-9763"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Cultural Sociology",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 42,
+    "referenced_works": [
+      "https://openalex.org/W4407712663",
+      "https://openalex.org/W2019735275",
+      "https://openalex.org/W4385886581",
+      "https://openalex.org/W2055701341",
+      "https://openalex.org/W205834801",
+      "https://openalex.org/W2490728954",
+      "https://openalex.org/W4206993414",
+      "https://openalex.org/W4207009882",
+      "https://openalex.org/W1267500508",
+      "https://openalex.org/W2074199630",
+      "https://openalex.org/W1977249741",
+      "https://openalex.org/W2103921198",
+      "https://openalex.org/W2327098495",
+      "https://openalex.org/W2067317264",
+      "https://openalex.org/W2162885440",
+      "https://openalex.org/W2116561730",
+      "https://openalex.org/W2010509750",
+      "https://openalex.org/W2619234663",
+      "https://openalex.org/W4242769589",
+      "https://openalex.org/W2018890798",
+      "https://openalex.org/W2120777409",
+      "https://openalex.org/W1718453823",
+      "https://openalex.org/W2140079091",
+      "https://openalex.org/W2132993130",
+      "https://openalex.org/W4246514490",
+      "https://openalex.org/W2084820369",
+      "https://openalex.org/W1967819988",
+      "https://openalex.org/W2175568838",
+      "https://openalex.org/W2147831772",
+      "https://openalex.org/W1532820641",
+      "https://openalex.org/W1984802254",
+      "https://openalex.org/W1953974020",
+      "https://openalex.org/W2014222470",
+      "https://openalex.org/W1846321944",
+      "https://openalex.org/W4242257248",
+      "https://openalex.org/W578536403",
+      "https://openalex.org/W1980266177",
+      "https://openalex.org/W2007250307",
+      "https://openalex.org/W2322166742",
+      "https://openalex.org/W2092827489",
+      "https://openalex.org/W1574222311",
+      "https://openalex.org/W4299165101"
+    ],
+    "related_works": [
+      "https://openalex.org/W1995832492",
+      "https://openalex.org/W3147185918",
+      "https://openalex.org/W2427312782",
+      "https://openalex.org/W2510099718",
+      "https://openalex.org/W2903315521",
+      "https://openalex.org/W4383345849",
+      "https://openalex.org/W2903265675",
+      "https://openalex.org/W3029891148",
+      "https://openalex.org/W3190037266",
+      "https://openalex.org/W4306369145"
+    ],
+    "abstract_inverted_index": {
+      "\u2018Reality\u2019": [
+        0
+      ],
+      "television": [
+        1,
+        8,
+        30,
+        73
+      ],
+      "is": [
+        2,
+        70,
+        105,
+        118
+      ],
+      "a": [
+        3,
+        45,
+        57,
+        67
+      ],
+      "global": [
+        4
+      ],
+      "and": [
+        5,
+        13,
+        48,
+        81,
+        92
+      ],
+      "highly": [
+        6
+      ],
+      "popular": [
+        7
+      ],
+      "phenomenon.": [
+        9
+      ],
+      "Despite": [
+        10
+      ],
+      "its": [
+        11,
+        111
+      ],
+      "public": [
+        12
+      ],
+      "academic": [
+        14
+      ],
+      "critique": [
+        15
+      ],
+      "as": [
+        16,
+        33,
+        56
+      ],
+      "cultural": [
+        17
+      ],
+      "\u2018trash\u2019,": [
+        18
+      ],
+      "the": [
+        19,
+        50,
+        63,
+        94,
+        98,
+        106,
+        119
+      ],
+      "genre": [
+        20
+      ],
+      "enjoys": [
+        21
+      ],
+      "great": [
+        22
+      ],
+      "economic": [
+        23,
+        42
+      ],
+      "legitimacy.": [
+        24,
+        43
+      ],
+      "In": [
+        25
+      ],
+      "recent": [
+        26
+      ],
+      "years,": [
+        27
+      ],
+      "other": [
+        28
+      ],
+      "\u2018trashy\u2019": [
+        29
+      ],
+      "genres,": [
+        31
+      ],
+      "such": [
+        32,
+        103
+      ],
+      "soap": [
+        34
+      ],
+      "operas,": [
+        35
+      ],
+      "have": [
+        36
+      ],
+      "gained": [
+        37
+      ],
+      "aesthetic-artistic": [
+        38
+      ],
+      "legitimacy": [
+        39
+      ],
+      "alongside": [
+        40
+      ],
+      "their": [
+        41,
+        126,
+        133
+      ],
+      "Taking": [
+        44
+      ],
+      "Bourdieusian": [
+        46
+      ],
+      "approach": [
+        47
+      ],
+      "using": [
+        49
+      ],
+      "discourse": [
+        51
+      ],
+      "about": [
+        52
+      ],
+      "Israeli": [
+        53,
+        115
+      ],
+      "\u2018reality\u2019": [
+        54,
+        88
+      ],
+      "shows": [
+        55,
+        89,
+        96
+      ],
+      "case": [
+        58
+      ],
+      "study,": [
+        59
+      ],
+      "this": [
+        60
+      ],
+      "article": [
+        61,
+        95
+      ],
+      "addresses": [
+        62
+      ],
+      "question": [
+        64,
+        100
+      ],
+      "of": [
+        65,
+        85,
+        87,
+        122
+      ],
+      "whether": [
+        66
+      ],
+      "similar": [
+        68
+      ],
+      "process": [
+        69
+      ],
+      "evident": [
+        71
+      ],
+      "in": [
+        72,
+        102
+      ],
+      "critics\u2019": [
+        74
+      ],
+      "attitudes": [
+        75
+      ],
+      "towards": [
+        76
+      ],
+      "reality": [
+        77
+      ],
+      "television.": [
+        78
+      ],
+      "Using": [
+        79
+      ],
+      "quantitative": [
+        80
+      ],
+      "qualitative": [
+        82
+      ],
+      "content": [
+        83
+      ],
+      "analysis": [
+        84
+      ],
+      "reviews": [
+        86,
+        104
+      ],
+      "between": [
+        90
+      ],
+      "2003": [
+        91
+      ],
+      "2014,": [
+        93
+      ],
+      "that": [
+        97
+      ],
+      "main": [
+        99
+      ],
+      "debated": [
+        101
+      ],
+      "genre\u2019s": [
+        107
+      ],
+      "morality": [
+        108
+      ],
+      "rather": [
+        109
+      ],
+      "than": [
+        110
+      ],
+      "aesthetic": [
+        112,
+        127
+      ],
+      "value:": [
+        113
+      ],
+      "for": [
+        114
+      ],
+      "critics,": [
+        116
+      ],
+      "it": [
+        117
+      ],
+      "moral": [
+        120
+      ],
+      "attributes": [
+        121
+      ],
+      "these": [
+        123
+      ],
+      "shows,": [
+        124
+      ],
+      "not": [
+        125
+      ],
+      "or": [
+        128
+      ],
+      "artistic": [
+        129
+      ],
+      "worth,": [
+        130
+      ],
+      "which": [
+        131
+      ],
+      "determine": [
+        132
+      ],
+      "\u2018quality\u2019.": [
+        134
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2023,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 26
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2920025105",
+    "doi": "https://doi.org/10.1177/1749975519834263",
+    "title": "Book Review: Getting Respect: Responding to Stigma and Discrimination in the United States, Brazil &amp; Israel",
+    "display_name": "Book Review: Getting Respect: Responding to Stigma and Discrimination in the United States, Brazil &amp; Israel",
+    "relevance_score": 42.038727,
+    "publication_year": 2019,
+    "publication_date": "2019-03-02",
+    "ids": {
+      "openalex": "https://openalex.org/W2920025105",
+      "doi": "https://doi.org/10.1177/1749975519834263",
+      "mag": "2920025105"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/1749975519834263",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/1749975519834263",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S69220080",
+        "display_name": "Cultural Sociology",
+        "issn_l": "1749-9755",
+        "issn": [
+          "1749-9755",
+          "1749-9763"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cultural Sociology",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5077490228",
+          "display_name": "Patricia A. Banks",
+          "orcid": "https://orcid.org/0000-0001-8275-361X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I150693791",
+            "display_name": "Mount Holyoke College",
+            "ror": "https://ror.org/031z8pr38",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I150693791"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Patricia A. Banks",
+        "raw_affiliation_strings": [
+          "Mount Holyoke College, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Mount Holyoke College, USA",
+            "institution_ids": [
+              "https://openalex.org/I150693791"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5077490228"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I150693791"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.33116846,
+    "has_fulltext": false,
+    "cited_by_count": 1,
+    "citation_normalized_percentile": {
+      "value": 0.59063906,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 94
+    },
+    "biblio": {
+      "volume": "13",
+      "issue": "2",
+      "first_page": "255",
+      "last_page": "257"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11421",
+      "display_name": "Labor Movements and Unions",
+      "score": 0.4948999881744385,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3321",
+        "display_name": "Public Administration"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11421",
+        "display_name": "Labor Movements and Unions",
+        "score": 0.4948999881744385,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3321",
+          "display_name": "Public Administration"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10216",
+        "display_name": "Migration, Refugees, and Integration",
+        "score": 0.4239000082015991,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/stigma",
+        "display_name": "Stigma (botany)",
+        "score": 0.8023534417152405
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.4621956944465637
+      },
+      {
+        "id": "https://openalex.org/keywords/criminology",
+        "display_name": "Criminology",
+        "score": 0.390891969203949
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.35808515548706055
+      },
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.3425266742706299
+      },
+      {
+        "id": "https://openalex.org/keywords/psychiatry",
+        "display_name": "Psychiatry",
+        "score": 0.21488121151924133
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C168285401",
+        "wikidata": "https://www.wikidata.org/wiki/Q1427245",
+        "display_name": "Stigma (botany)",
+        "level": 2,
+        "score": 0.8023534417152405
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.4621956944465637
+      },
+      {
+        "id": "https://openalex.org/C73484699",
+        "wikidata": "https://www.wikidata.org/wiki/Q161733",
+        "display_name": "Criminology",
+        "level": 1,
+        "score": 0.390891969203949
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.35808515548706055
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.3425266742706299
+      },
+      {
+        "id": "https://openalex.org/C118552586",
+        "wikidata": "https://www.wikidata.org/wiki/Q7867",
+        "display_name": "Psychiatry",
+        "level": 1,
+        "score": 0.21488121151924133
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/1749975519834263",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/1749975519834263",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S69220080",
+          "display_name": "Cultural Sociology",
+          "issn_l": "1749-9755",
+          "issn": [
+            "1749-9755",
+            "1749-9763"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Cultural Sociology",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.6800000071525574,
+        "display_name": "Reduced inequalities",
+        "id": "https://metadata.un.org/sdg/10"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W2899084033",
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W1572258261",
+      "https://openalex.org/W2931662336",
+      "https://openalex.org/W2077865380",
+      "https://openalex.org/W2134894512",
+      "https://openalex.org/W2053487507",
+      "https://openalex.org/W2765597752",
+      "https://openalex.org/W2083375246",
+      "https://openalex.org/W2744096116"
+    ],
+    "abstract_inverted_index": null,
+    "counts_by_year": [
+      {
+        "year": 2022,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2316713537",
+    "doi": "https://doi.org/10.1177/1749975512457137",
+    "title": "Riding the Culture Train: An Ethnography of a Plan for Social Mobility through Music",
+    "display_name": "Riding the Culture Train: An Ethnography of a Plan for Social Mobility through Music",
+    "relevance_score": 19.356197,
+    "publication_year": 2012,
+    "publication_date": "2012-11-21",
+    "ids": {
+      "openalex": "https://openalex.org/W2316713537",
+      "doi": "https://doi.org/10.1177/1749975512457137",
+      "mag": "2316713537"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/1749975512457137",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/1749975512457137",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S69220080",
+        "display_name": "Cultural Sociology",
+        "issn_l": "1749-9755",
+        "issn": [
+          "1749-9755",
+          "1749-9763"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cultural Sociology",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5010555500",
+          "display_name": "Meirav Aharon\u2013Gutman",
+          "orcid": "https://orcid.org/0000-0002-9590-2300"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I174306211",
+            "display_name": "Technion \u2013 Israel Institute of Technology",
+            "ror": "https://ror.org/03qryx823",
+            "country_code": "IL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I174306211"
+            ]
+          }
+        ],
+        "countries": [
+          "IL"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Meirav Aharon",
+        "raw_affiliation_strings": [
+          "Technion - Israel Institute of Technology, Haifa, Israel"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Technion - Israel Institute of Technology, Haifa, Israel",
+            "institution_ids": [
+              "https://openalex.org/I174306211"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5010555500"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I174306211"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 53.02382368,
+    "has_fulltext": false,
+    "cited_by_count": 30,
+    "citation_normalized_percentile": {
+      "value": 0.99837939,
+      "is_in_top_1_percent": true,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 100
+    },
+    "biblio": {
+      "volume": "7",
+      "issue": "4",
+      "first_page": "447",
+      "last_page": "462"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11113",
+      "display_name": "Music History and Culture",
+      "score": 0.9995999932289124,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1210",
+        "display_name": "Music"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11113",
+        "display_name": "Music History and Culture",
+        "score": 0.9995999932289124,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1210",
+          "display_name": "Music"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11895",
+        "display_name": "Social and Cultural Dynamics",
+        "score": 0.9921000003814697,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13996",
+        "display_name": "Diverse Musicological Studies",
+        "score": 0.9879999756813049,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1210",
+          "display_name": "Music"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/culturalism",
+        "display_name": "Culturalism",
+        "score": 0.8629958629608154
+      },
+      {
+        "id": "https://openalex.org/keywords/appropriation",
+        "display_name": "Appropriation",
+        "score": 0.7640756368637085
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.6271683573722839
+      },
+      {
+        "id": "https://openalex.org/keywords/social-mobility",
+        "display_name": "Social mobility",
+        "score": 0.6079334616661072
+      },
+      {
+        "id": "https://openalex.org/keywords/cultural-appropriation",
+        "display_name": "Cultural appropriation",
+        "score": 0.5813432335853577
+      },
+      {
+        "id": "https://openalex.org/keywords/politics",
+        "display_name": "Politics",
+        "score": 0.5786653757095337
+      },
+      {
+        "id": "https://openalex.org/keywords/ethnic-group",
+        "display_name": "Ethnic group",
+        "score": 0.5428670644760132
+      },
+      {
+        "id": "https://openalex.org/keywords/identity",
+        "display_name": "Identity (music)",
+        "score": 0.4819912314414978
+      },
+      {
+        "id": "https://openalex.org/keywords/state",
+        "display_name": "State (computer science)",
+        "score": 0.46095967292785645
+      },
+      {
+        "id": "https://openalex.org/keywords/gender-studies",
+        "display_name": "Gender studies",
+        "score": 0.4404575228691101
+      },
+      {
+        "id": "https://openalex.org/keywords/political-economy",
+        "display_name": "Political economy",
+        "score": 0.36181166768074036
+      },
+      {
+        "id": "https://openalex.org/keywords/aesthetics",
+        "display_name": "Aesthetics",
+        "score": 0.3612023591995239
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.29420846700668335
+      },
+      {
+        "id": "https://openalex.org/keywords/social-science",
+        "display_name": "Social science",
+        "score": 0.24775204062461853
+      },
+      {
+        "id": "https://openalex.org/keywords/anthropology",
+        "display_name": "Anthropology",
+        "score": 0.2105047106742859
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.16657224297523499
+      },
+      {
+        "id": "https://openalex.org/keywords/epistemology",
+        "display_name": "Epistemology",
+        "score": 0.11160829663276672
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2781398598",
+        "wikidata": "https://www.wikidata.org/wiki/Q356228",
+        "display_name": "Culturalism",
+        "level": 3,
+        "score": 0.8629958629608154
+      },
+      {
+        "id": "https://openalex.org/C2776931063",
+        "wikidata": "https://www.wikidata.org/wiki/Q4781738",
+        "display_name": "Appropriation",
+        "level": 2,
+        "score": 0.7640756368637085
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.6271683573722839
+      },
+      {
+        "id": "https://openalex.org/C37129596",
+        "wikidata": "https://www.wikidata.org/wiki/Q194417",
+        "display_name": "Social mobility",
+        "level": 2,
+        "score": 0.6079334616661072
+      },
+      {
+        "id": "https://openalex.org/C2777266780",
+        "wikidata": "https://www.wikidata.org/wiki/Q5193258",
+        "display_name": "Cultural appropriation",
+        "level": 2,
+        "score": 0.5813432335853577
+      },
+      {
+        "id": "https://openalex.org/C94625758",
+        "wikidata": "https://www.wikidata.org/wiki/Q7163",
+        "display_name": "Politics",
+        "level": 2,
+        "score": 0.5786653757095337
+      },
+      {
+        "id": "https://openalex.org/C137403100",
+        "wikidata": "https://www.wikidata.org/wiki/Q41710",
+        "display_name": "Ethnic group",
+        "level": 2,
+        "score": 0.5428670644760132
+      },
+      {
+        "id": "https://openalex.org/C2778355321",
+        "wikidata": "https://www.wikidata.org/wiki/Q17079427",
+        "display_name": "Identity (music)",
+        "level": 2,
+        "score": 0.4819912314414978
+      },
+      {
+        "id": "https://openalex.org/C48103436",
+        "wikidata": "https://www.wikidata.org/wiki/Q599031",
+        "display_name": "State (computer science)",
+        "level": 2,
+        "score": 0.46095967292785645
+      },
+      {
+        "id": "https://openalex.org/C107993555",
+        "wikidata": "https://www.wikidata.org/wiki/Q1662673",
+        "display_name": "Gender studies",
+        "level": 1,
+        "score": 0.4404575228691101
+      },
+      {
+        "id": "https://openalex.org/C138921699",
+        "wikidata": "https://www.wikidata.org/wiki/Q47555",
+        "display_name": "Political economy",
+        "level": 1,
+        "score": 0.36181166768074036
+      },
+      {
+        "id": "https://openalex.org/C107038049",
+        "wikidata": "https://www.wikidata.org/wiki/Q35986",
+        "display_name": "Aesthetics",
+        "level": 1,
+        "score": 0.3612023591995239
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.29420846700668335
+      },
+      {
+        "id": "https://openalex.org/C36289849",
+        "wikidata": "https://www.wikidata.org/wiki/Q34749",
+        "display_name": "Social science",
+        "level": 1,
+        "score": 0.24775204062461853
+      },
+      {
+        "id": "https://openalex.org/C19165224",
+        "wikidata": "https://www.wikidata.org/wiki/Q23404",
+        "display_name": "Anthropology",
+        "level": 1,
+        "score": 0.2105047106742859
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.16657224297523499
+      },
+      {
+        "id": "https://openalex.org/C111472728",
+        "wikidata": "https://www.wikidata.org/wiki/Q9471",
+        "display_name": "Epistemology",
+        "level": 1,
+        "score": 0.11160829663276672
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C11413529",
+        "wikidata": "https://www.wikidata.org/wiki/Q8366",
+        "display_name": "Algorithm",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/1749975512457137",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/1749975512457137",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S69220080",
+          "display_name": "Cultural Sociology",
+          "issn_l": "1749-9755",
+          "issn": [
+            "1749-9755",
+            "1749-9763"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Cultural Sociology",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.8399999737739563,
+        "display_name": "Reduced inequalities",
+        "id": "https://metadata.un.org/sdg/10"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 17,
+    "referenced_works": [
+      "https://openalex.org/W2032077171",
+      "https://openalex.org/W1970866520",
+      "https://openalex.org/W2060085583",
+      "https://openalex.org/W4250744671",
+      "https://openalex.org/W3122383732",
+      "https://openalex.org/W2095181931",
+      "https://openalex.org/W2064557492",
+      "https://openalex.org/W2333370158",
+      "https://openalex.org/W2125377513",
+      "https://openalex.org/W4300568812",
+      "https://openalex.org/W2800400135",
+      "https://openalex.org/W648796328",
+      "https://openalex.org/W2115738514",
+      "https://openalex.org/W2617634388",
+      "https://openalex.org/W4236512342",
+      "https://openalex.org/W2097706539",
+      "https://openalex.org/W634658931"
+    ],
+    "related_works": [
+      "https://openalex.org/W1582571037",
+      "https://openalex.org/W4297154471",
+      "https://openalex.org/W3083033065",
+      "https://openalex.org/W3210728208",
+      "https://openalex.org/W3049040563",
+      "https://openalex.org/W3163541973",
+      "https://openalex.org/W4205497506",
+      "https://openalex.org/W2408799548",
+      "https://openalex.org/W2108343143",
+      "https://openalex.org/W4378218387"
+    ],
+    "abstract_inverted_index": {
+      "This": [
+        0
+      ],
+      "article": [
+        1
+      ],
+      "examines": [
+        2
+      ],
+      "the": [
+        3,
+        17,
+        30,
+        44,
+        51,
+        61,
+        66,
+        83,
+        87,
+        112,
+        127
+      ],
+      "production": [
+        4
+      ],
+      "of": [
+        5,
+        20,
+        38,
+        43,
+        63,
+        89,
+        129
+      ],
+      "\u2018high": [
+        6
+      ],
+      "culture\u2019": [
+        7
+      ],
+      "and": [
+        8,
+        79,
+        86,
+        107
+      ],
+      "how": [
+        9,
+        16
+      ],
+      "it": [
+        10
+      ],
+      "shapes": [
+        11
+      ],
+      "social": [
+        12,
+        32
+      ],
+      "mobility.": [
+        13
+      ],
+      "I": [
+        14
+      ],
+      "observe": [
+        15
+      ],
+      "second": [
+        18
+      ],
+      "generation": [
+        19
+      ],
+      "immigrants": [
+        21
+      ],
+      "from": [
+        22,
+        71
+      ],
+      "North": [
+        23
+      ],
+      "Africa": [
+        24
+      ],
+      "have": [
+        25
+      ],
+      "succeeded": [
+        26
+      ],
+      "in": [
+        27
+      ],
+      "rising": [
+        28
+      ],
+      "up": [
+        29
+      ],
+      "Israeli": [
+        31,
+        73
+      ],
+      "hierarchy": [
+        33
+      ],
+      "by": [
+        34,
+        60,
+        77,
+        114
+      ],
+      "appropriating": [
+        35
+      ],
+      "established": [
+        36
+      ],
+      "modes": [
+        37
+      ],
+      "cultural": [
+        39,
+        109
+      ],
+      "expression.": [
+        40
+      ],
+      "The": [
+        41
+      ],
+      "founders": [
+        42
+      ],
+      "Israel": [
+        45
+      ],
+      "Andalusian": [
+        46
+      ],
+      "Orchestra": [
+        47
+      ],
+      "became": [
+        48
+      ],
+      "aware": [
+        49
+      ],
+      "that": [
+        50,
+        65,
+        100,
+        108
+      ],
+      "road": [
+        52
+      ],
+      "to": [
+        53,
+        58,
+        68,
+        93
+      ],
+      "full": [
+        54
+      ],
+      "integration": [
+        55
+      ],
+      "was": [
+        56,
+        75,
+        111
+      ],
+      "closed": [
+        57,
+        76
+      ],
+      "them": [
+        59,
+        92
+      ],
+      "politics": [
+        62
+      ],
+      "difference,": [
+        64
+      ],
+      "way": [
+        67,
+        113
+      ],
+      "total": [
+        69
+      ],
+      "segregation": [
+        70
+      ],
+      "wider": [
+        72
+      ],
+      "society": [
+        74
+      ],
+      "economic": [
+        78
+      ],
+      "ontological": [
+        80
+      ],
+      "dependence": [
+        81
+      ],
+      "on": [
+        82
+      ],
+      "national": [
+        84
+      ],
+      "state,": [
+        85
+      ],
+      "option": [
+        88
+      ],
+      "multi-culturalism": [
+        90
+      ],
+      "condemned": [
+        91
+      ],
+      "a": [
+        94,
+        103
+      ],
+      "permanently": [
+        95
+      ],
+      "marginal": [
+        96
+      ],
+      "status.": [
+        97
+      ],
+      "They": [
+        98
+      ],
+      "realized": [
+        99
+      ],
+      "they": [
+        101,
+        116
+      ],
+      "needed": [
+        102
+      ],
+      "new": [
+        104
+      ],
+      "political": [
+        105
+      ],
+      "approach": [
+        106
+      ],
+      "appropriation": [
+        110
+      ],
+      "which": [
+        115
+      ],
+      "could": [
+        117
+      ],
+      "reclaim": [
+        118
+      ],
+      "their": [
+        119
+      ],
+      "ethnic": [
+        120
+      ],
+      "identity": [
+        121
+      ],
+      "yet": [
+        122
+      ],
+      "still": [
+        123
+      ],
+      "establish": [
+        124
+      ],
+      "themselves": [
+        125
+      ],
+      "among": [
+        126
+      ],
+      "\u00e9lite": [
+        128
+      ],
+      "Israel.": [
+        130
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 21
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2154290130",
+    "doi": "https://doi.org/10.1177/1749975507082051",
+    "title": "Ethno-National Pop-Rock Music",
+    "display_name": "Ethno-National Pop-Rock Music",
+    "relevance_score": 15.243121,
+    "publication_year": 2007,
+    "publication_date": "2007-10-29",
+    "ids": {
+      "openalex": "https://openalex.org/W2154290130",
+      "doi": "https://doi.org/10.1177/1749975507082051",
+      "mag": "2154290130"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/1749975507082051",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/1749975507082051",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S69220080",
+        "display_name": "Cultural Sociology",
+        "issn_l": "1749-9755",
+        "issn": [
+          "1749-9755",
+          "1749-9763"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cultural Sociology",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5015784922",
+          "display_name": "Motti Regev",
+          "orcid": "https://orcid.org/0000-0002-3829-6869"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I164950643",
+            "display_name": "Open University of Israel",
+            "ror": "https://ror.org/027z64205",
+            "country_code": "IL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I164950643"
+            ]
+          }
+        ],
+        "countries": [
+          "IL"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Motti Regev",
+        "raw_affiliation_strings": [
+          "The Open University of Israel,"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "The Open University of Israel,",
+            "institution_ids": [
+              "https://openalex.org/I164950643"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5015784922"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I164950643"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 20.20563972,
+    "has_fulltext": false,
+    "cited_by_count": 57,
+    "citation_normalized_percentile": {
+      "value": 0.98967996,
+      "is_in_top_1_percent": true,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 94,
+      "max": 98
+    },
+    "biblio": {
+      "volume": "1",
+      "issue": "3",
+      "first_page": "317",
+      "last_page": "341"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11113",
+      "display_name": "Music History and Culture",
+      "score": 0.9983000159263611,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1210",
+        "display_name": "Music"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11113",
+        "display_name": "Music History and Culture",
+        "score": 0.9983000159263611,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1210",
+          "display_name": "Music"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13996",
+        "display_name": "Diverse Musicological Studies",
+        "score": 0.9811000227928162,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1210",
+          "display_name": "Music"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11895",
+        "display_name": "Social and Cultural Dynamics",
+        "score": 0.9212999939918518,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/legitimation",
+        "display_name": "Legitimation",
+        "score": 0.7516525983810425
+      },
+      {
+        "id": "https://openalex.org/keywords/rock-music",
+        "display_name": "Rock music",
+        "score": 0.5691575407981873
+      },
+      {
+        "id": "https://openalex.org/keywords/context",
+        "display_name": "Context (archaeology)",
+        "score": 0.5652471780776978
+      },
+      {
+        "id": "https://openalex.org/keywords/national-identity",
+        "display_name": "National identity",
+        "score": 0.5587173700332642
+      },
+      {
+        "id": "https://openalex.org/keywords/legitimacy",
+        "display_name": "Legitimacy",
+        "score": 0.5505783557891846
+      },
+      {
+        "id": "https://openalex.org/keywords/popular-music",
+        "display_name": "Popular music",
+        "score": 0.538995087146759
+      },
+      {
+        "id": "https://openalex.org/keywords/agency",
+        "display_name": "Agency (philosophy)",
+        "score": 0.5389924645423889
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.4519557058811188
+      },
+      {
+        "id": "https://openalex.org/keywords/globalization",
+        "display_name": "Globalization",
+        "score": 0.4234156608581543
+      },
+      {
+        "id": "https://openalex.org/keywords/popular-culture",
+        "display_name": "Popular culture",
+        "score": 0.41332128643989563
+      },
+      {
+        "id": "https://openalex.org/keywords/musical",
+        "display_name": "Musical",
+        "score": 0.4130382537841797
+      },
+      {
+        "id": "https://openalex.org/keywords/aesthetics",
+        "display_name": "Aesthetics",
+        "score": 0.35075533390045166
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.3379476070404053
+      },
+      {
+        "id": "https://openalex.org/keywords/history",
+        "display_name": "History",
+        "score": 0.32182562351226807
+      },
+      {
+        "id": "https://openalex.org/keywords/media-studies",
+        "display_name": "Media studies",
+        "score": 0.3214198648929596
+      },
+      {
+        "id": "https://openalex.org/keywords/social-science",
+        "display_name": "Social science",
+        "score": 0.23983564972877502
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.2185778021812439
+      },
+      {
+        "id": "https://openalex.org/keywords/politics",
+        "display_name": "Politics",
+        "score": 0.17921990156173706
+      },
+      {
+        "id": "https://openalex.org/keywords/literature",
+        "display_name": "Literature",
+        "score": 0.17153921723365784
+      },
+      {
+        "id": "https://openalex.org/keywords/art",
+        "display_name": "Art",
+        "score": 0.17102035880088806
+      },
+      {
+        "id": "https://openalex.org/keywords/archaeology",
+        "display_name": "Archaeology",
+        "score": 0.16355997323989868
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2776845398",
+        "wikidata": "https://www.wikidata.org/wiki/Q366139",
+        "display_name": "Legitimation",
+        "level": 3,
+        "score": 0.7516525983810425
+      },
+      {
+        "id": "https://openalex.org/C2993072449",
+        "wikidata": "https://www.wikidata.org/wiki/Q11399",
+        "display_name": "Rock music",
+        "level": 3,
+        "score": 0.5691575407981873
+      },
+      {
+        "id": "https://openalex.org/C2779343474",
+        "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+        "display_name": "Context (archaeology)",
+        "level": 2,
+        "score": 0.5652471780776978
+      },
+      {
+        "id": "https://openalex.org/C2778407155",
+        "wikidata": "https://www.wikidata.org/wiki/Q1880695",
+        "display_name": "National identity",
+        "level": 3,
+        "score": 0.5587173700332642
+      },
+      {
+        "id": "https://openalex.org/C46295352",
+        "wikidata": "https://www.wikidata.org/wiki/Q207982",
+        "display_name": "Legitimacy",
+        "level": 3,
+        "score": 0.5505783557891846
+      },
+      {
+        "id": "https://openalex.org/C114611597",
+        "wikidata": "https://www.wikidata.org/wiki/Q373342",
+        "display_name": "Popular music",
+        "level": 2,
+        "score": 0.538995087146759
+      },
+      {
+        "id": "https://openalex.org/C108170787",
+        "wikidata": "https://www.wikidata.org/wiki/Q3951828",
+        "display_name": "Agency (philosophy)",
+        "level": 2,
+        "score": 0.5389924645423889
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.4519557058811188
+      },
+      {
+        "id": "https://openalex.org/C2119116",
+        "wikidata": "https://www.wikidata.org/wiki/Q7181",
+        "display_name": "Globalization",
+        "level": 2,
+        "score": 0.4234156608581543
+      },
+      {
+        "id": "https://openalex.org/C96089941",
+        "wikidata": "https://www.wikidata.org/wiki/Q131265",
+        "display_name": "Popular culture",
+        "level": 2,
+        "score": 0.41332128643989563
+      },
+      {
+        "id": "https://openalex.org/C558565934",
+        "wikidata": "https://www.wikidata.org/wiki/Q2743",
+        "display_name": "Musical",
+        "level": 2,
+        "score": 0.4130382537841797
+      },
+      {
+        "id": "https://openalex.org/C107038049",
+        "wikidata": "https://www.wikidata.org/wiki/Q35986",
+        "display_name": "Aesthetics",
+        "level": 1,
+        "score": 0.35075533390045166
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.3379476070404053
+      },
+      {
+        "id": "https://openalex.org/C95457728",
+        "wikidata": "https://www.wikidata.org/wiki/Q309",
+        "display_name": "History",
+        "level": 0,
+        "score": 0.32182562351226807
+      },
+      {
+        "id": "https://openalex.org/C29595303",
+        "wikidata": "https://www.wikidata.org/wiki/Q165650",
+        "display_name": "Media studies",
+        "level": 1,
+        "score": 0.3214198648929596
+      },
+      {
+        "id": "https://openalex.org/C36289849",
+        "wikidata": "https://www.wikidata.org/wiki/Q34749",
+        "display_name": "Social science",
+        "level": 1,
+        "score": 0.23983564972877502
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.2185778021812439
+      },
+      {
+        "id": "https://openalex.org/C94625758",
+        "wikidata": "https://www.wikidata.org/wiki/Q7163",
+        "display_name": "Politics",
+        "level": 2,
+        "score": 0.17921990156173706
+      },
+      {
+        "id": "https://openalex.org/C124952713",
+        "wikidata": "https://www.wikidata.org/wiki/Q8242",
+        "display_name": "Literature",
+        "level": 1,
+        "score": 0.17153921723365784
+      },
+      {
+        "id": "https://openalex.org/C142362112",
+        "wikidata": "https://www.wikidata.org/wiki/Q735",
+        "display_name": "Art",
+        "level": 0,
+        "score": 0.17102035880088806
+      },
+      {
+        "id": "https://openalex.org/C166957645",
+        "wikidata": "https://www.wikidata.org/wiki/Q23498",
+        "display_name": "Archaeology",
+        "level": 1,
+        "score": 0.16355997323989868
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/1749975507082051",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/1749975507082051",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S69220080",
+          "display_name": "Cultural Sociology",
+          "issn_l": "1749-9755",
+          "issn": [
+            "1749-9755",
+            "1749-9763"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Cultural Sociology",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.46000000834465027,
+        "display_name": "Reduced inequalities",
+        "id": "https://metadata.un.org/sdg/10"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 66,
+    "referenced_works": [
+      "https://openalex.org/W1978148804",
+      "https://openalex.org/W4387474839",
+      "https://openalex.org/W4242142145",
+      "https://openalex.org/W2480534604",
+      "https://openalex.org/W2129738017",
+      "https://openalex.org/W4210401209",
+      "https://openalex.org/W4238616627",
+      "https://openalex.org/W4205847169",
+      "https://openalex.org/W3123282572",
+      "https://openalex.org/W4255700521",
+      "https://openalex.org/W4388354678",
+      "https://openalex.org/W4392824100",
+      "https://openalex.org/W2029382471",
+      "https://openalex.org/W1974840853",
+      "https://openalex.org/W4205727431",
+      "https://openalex.org/W2070671339",
+      "https://openalex.org/W2068252109",
+      "https://openalex.org/W2118463881",
+      "https://openalex.org/W2042220462",
+      "https://openalex.org/W2040889772",
+      "https://openalex.org/W1532820641",
+      "https://openalex.org/W2151242992",
+      "https://openalex.org/W2095181931",
+      "https://openalex.org/W1996526339",
+      "https://openalex.org/W569080096",
+      "https://openalex.org/W6812626443",
+      "https://openalex.org/W197669098",
+      "https://openalex.org/W2608519190",
+      "https://openalex.org/W2140023998",
+      "https://openalex.org/W4240090660",
+      "https://openalex.org/W2122407370",
+      "https://openalex.org/W2110624195",
+      "https://openalex.org/W2171047528",
+      "https://openalex.org/W1664495134",
+      "https://openalex.org/W4388134508",
+      "https://openalex.org/W2003019216",
+      "https://openalex.org/W1997411867",
+      "https://openalex.org/W2999790204",
+      "https://openalex.org/W4214510411",
+      "https://openalex.org/W2411698530",
+      "https://openalex.org/W2089653486",
+      "https://openalex.org/W1522127231",
+      "https://openalex.org/W2156439389",
+      "https://openalex.org/W4237756481",
+      "https://openalex.org/W2127188200",
+      "https://openalex.org/W2033032953",
+      "https://openalex.org/W622277949",
+      "https://openalex.org/W1923814134",
+      "https://openalex.org/W611098497",
+      "https://openalex.org/W1535079150",
+      "https://openalex.org/W656183927",
+      "https://openalex.org/W2001670358",
+      "https://openalex.org/W2550166187",
+      "https://openalex.org/W2507109965",
+      "https://openalex.org/W3020966620",
+      "https://openalex.org/W578347841",
+      "https://openalex.org/W304050344",
+      "https://openalex.org/W1993663609",
+      "https://openalex.org/W154061353",
+      "https://openalex.org/W1558743268",
+      "https://openalex.org/W408688940",
+      "https://openalex.org/W2086361624",
+      "https://openalex.org/W632106214",
+      "https://openalex.org/W621213644",
+      "https://openalex.org/W2006908817",
+      "https://openalex.org/W2521501929"
+    ],
+    "related_works": [
+      "https://openalex.org/W2277514294",
+      "https://openalex.org/W2080940583",
+      "https://openalex.org/W4234866448",
+      "https://openalex.org/W3194147511",
+      "https://openalex.org/W1509722443",
+      "https://openalex.org/W2117967301",
+      "https://openalex.org/W2006964291",
+      "https://openalex.org/W2121885865",
+      "https://openalex.org/W4388135059",
+      "https://openalex.org/W3115939275"
+    ],
+    "abstract_inverted_index": {
+      "Pop-rock": [
+        0
+      ],
+      "music": [
+        1,
+        64,
+        130
+      ],
+      "is": [
+        2
+      ],
+      "portrayed": [
+        3
+      ],
+      "as": [
+        4,
+        73
+      ],
+      "a": [
+        5,
+        36,
+        90
+      ],
+      "major": [
+        6
+      ],
+      "embodiment": [
+        7
+      ],
+      "of": [
+        8,
+        11,
+        25,
+        58,
+        61,
+        70,
+        79,
+        82,
+        87,
+        101,
+        106,
+        111,
+        128
+      ],
+      "the": [
+        9,
+        22,
+        38,
+        44,
+        59,
+        68,
+        77,
+        80,
+        85,
+        97,
+        104,
+        126
+      ],
+      "transformation": [
+        10
+      ],
+      "national": [
+        12,
+        45,
+        66,
+        88,
+        112
+      ],
+      "cultural": [
+        13,
+        50
+      ],
+      "uniqueness": [
+        14
+      ],
+      "from": [
+        15,
+        76
+      ],
+      "purist": [
+        16
+      ],
+      "essentialism": [
+        17
+      ],
+      "into": [
+        18
+      ],
+      "aesthetic": [
+        19
+      ],
+      "cosmopolitanism.": [
+        20
+      ],
+      "Examining": [
+        21
+      ],
+      "local": [
+        23
+      ],
+      "production": [
+        24
+      ],
+      "ethno-national": [
+        26,
+        62
+      ],
+      "pop-rock,": [
+        27
+      ],
+      "and": [
+        28,
+        32,
+        84,
+        103,
+        117,
+        133
+      ],
+      "its": [
+        29
+      ],
+      "public": [
+        30
+      ],
+      "reception": [
+        31
+      ],
+      "legitimation": [
+        33
+      ],
+      "through": [
+        34
+      ],
+      "half": [
+        35
+      ],
+      "century,": [
+        37
+      ],
+      "article": [
+        39,
+        53
+      ],
+      "demonstrates": [
+        40
+      ],
+      "how": [
+        41
+      ],
+      "forces": [
+        42
+      ],
+      "within": [
+        43
+      ],
+      "context": [
+        46
+      ],
+      "greatly": [
+        47
+      ],
+      "contribute": [
+        48
+      ],
+      "to": [
+        49,
+        65,
+        125
+      ],
+      "globalization.": [
+        51
+      ],
+      "The": [
+        52,
+        114
+      ],
+      "looks": [
+        54
+      ],
+      "at": [
+        55
+      ],
+      "three": [
+        56
+      ],
+      "aspects": [
+        57
+      ],
+      "rise": [
+        60
+      ],
+      "pop-rock": [
+        63,
+        83,
+        107,
+        129
+      ],
+      "legitimacy:": [
+        67
+      ],
+      "agency": [
+        69
+      ],
+      "musicians,": [
+        71
+      ],
+      "analyzed": [
+        72
+      ],
+      "structurally": [
+        74
+      ],
+      "stemming": [
+        75
+      ],
+      "intersection": [
+        78
+      ],
+      "field": [
+        81,
+        86
+      ],
+      "culture;": [
+        89
+      ],
+      "four-phase,": [
+        91
+      ],
+      "half-century": [
+        92
+      ],
+      "long": [
+        93
+      ],
+      "process,": [
+        94
+      ],
+      "called": [
+        95
+      ],
+      "here": [
+        96
+      ],
+      "`historical": [
+        98
+      ],
+      "musical": [
+        99
+      ],
+      "event'": [
+        100
+      ],
+      "pop-rock;": [
+        102
+      ],
+      "consequence": [
+        105
+      ],
+      "legitimacy": [
+        108
+      ],
+      "for": [
+        109
+      ],
+      "performance": [
+        110
+      ],
+      "uniqueness.": [
+        113
+      ],
+      "general": [
+        115
+      ],
+      "arguments": [
+        116
+      ],
+      "theoretical": [
+        118
+      ],
+      "points": [
+        119
+      ],
+      "are": [
+        120
+      ],
+      "illustrated": [
+        121
+      ],
+      "by": [
+        122
+      ],
+      "detailed": [
+        123
+      ],
+      "reference": [
+        124
+      ],
+      "cases": [
+        127
+      ],
+      "in": [
+        131
+      ],
+      "Argentina": [
+        132
+      ],
+      "Israel.": [
+        134
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2024,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2014,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2013,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2012,
+        "cited_by_count": 4
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2293222751",
+    "doi": "https://doi.org/10.1177/1749975515627186",
+    "title": "The Sociology of Fancy-Schmancy: The Notion of \u2018Farterism\u2019 and Cultural Evaluation Under the Regime of Radical Suspicion",
+    "display_name": "The Sociology of Fancy-Schmancy: The Notion of \u2018Farterism\u2019 and Cultural Evaluation Under the Regime of Radical Suspicion",
+    "relevance_score": 8.805481,
+    "publication_year": 2016,
+    "publication_date": "2016-02-16",
+    "ids": {
+      "openalex": "https://openalex.org/W2293222751",
+      "doi": "https://doi.org/10.1177/1749975515627186",
+      "mag": "2293222751"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/1749975515627186",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/1749975515627186",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S69220080",
+        "display_name": "Cultural Sociology",
+        "issn_l": "1749-9755",
+        "issn": [
+          "1749-9755",
+          "1749-9763"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cultural Sociology",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5038757172",
+          "display_name": "Ori Schwarz",
+          "orcid": "https://orcid.org/0000-0002-3477-4878"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I13955877",
+            "display_name": "Bar-Ilan University",
+            "ror": "https://ror.org/03kgsv495",
+            "country_code": "IL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I13955877"
+            ]
+          }
+        ],
+        "countries": [
+          "IL"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Ori Schwarz",
+        "raw_affiliation_strings": [
+          "Bar-Ilan Univeristy, Israel"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Bar-Ilan Univeristy, Israel",
+            "institution_ids": [
+              "https://openalex.org/I13955877"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5038757172"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I13955877"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 8.60212271,
+    "has_fulltext": false,
+    "cited_by_count": 18,
+    "citation_normalized_percentile": {
+      "value": 0.97629067,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 98
+    },
+    "biblio": {
+      "volume": "10",
+      "issue": "2",
+      "first_page": "141",
+      "last_page": "159"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11895",
+      "display_name": "Social and Cultural Dynamics",
+      "score": 0.9991999864578247,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11895",
+        "display_name": "Social and Cultural Dynamics",
+        "score": 0.9991999864578247,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11925",
+        "display_name": "Culinary Culture and Tourism",
+        "score": 0.987500011920929,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1106",
+          "display_name": "Food Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/11",
+          "display_name": "Agricultural and Biological Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12399",
+        "display_name": "Wine Industry and Tourism",
+        "score": 0.9754999876022339,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1409",
+          "display_name": "Tourism, Leisure and Hospitality Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.6925670504570007
+      },
+      {
+        "id": "https://openalex.org/keywords/newspaper",
+        "display_name": "Newspaper",
+        "score": 0.6909298300743103
+      },
+      {
+        "id": "https://openalex.org/keywords/taste",
+        "display_name": "Taste",
+        "score": 0.6371247172355652
+      },
+      {
+        "id": "https://openalex.org/keywords/value",
+        "display_name": "Value (mathematics)",
+        "score": 0.5982230305671692
+      },
+      {
+        "id": "https://openalex.org/keywords/perspective",
+        "display_name": "Perspective (graphical)",
+        "score": 0.5924294590950012
+      },
+      {
+        "id": "https://openalex.org/keywords/capitalism",
+        "display_name": "Capitalism",
+        "score": 0.5706680417060852
+      },
+      {
+        "id": "https://openalex.org/keywords/currency",
+        "display_name": "Currency",
+        "score": 0.5664132237434387
+      },
+      {
+        "id": "https://openalex.org/keywords/aesthetics",
+        "display_name": "Aesthetics",
+        "score": 0.5384634733200073
+      },
+      {
+        "id": "https://openalex.org/keywords/everyday-life",
+        "display_name": "Everyday life",
+        "score": 0.5047224760055542
+      },
+      {
+        "id": "https://openalex.org/keywords/field",
+        "display_name": "Field (mathematics)",
+        "score": 0.5036796927452087
+      },
+      {
+        "id": "https://openalex.org/keywords/critical-theory",
+        "display_name": "Critical theory",
+        "score": 0.48264652490615845
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology-of-culture",
+        "display_name": "Sociology of culture",
+        "score": 0.4723454713821411
+      },
+      {
+        "id": "https://openalex.org/keywords/consumerism",
+        "display_name": "Consumerism",
+        "score": 0.41461044549942017
+      },
+      {
+        "id": "https://openalex.org/keywords/epistemology",
+        "display_name": "Epistemology",
+        "score": 0.3732922077178955
+      },
+      {
+        "id": "https://openalex.org/keywords/social-science",
+        "display_name": "Social science",
+        "score": 0.3500886857509613
+      },
+      {
+        "id": "https://openalex.org/keywords/media-studies",
+        "display_name": "Media studies",
+        "score": 0.327411413192749
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.24050098657608032
+      },
+      {
+        "id": "https://openalex.org/keywords/politics",
+        "display_name": "Politics",
+        "score": 0.1435466706752777
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.13876456022262573
+      },
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.12864649295806885
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.6925670504570007
+      },
+      {
+        "id": "https://openalex.org/C201280247",
+        "wikidata": "https://www.wikidata.org/wiki/Q11032",
+        "display_name": "Newspaper",
+        "level": 2,
+        "score": 0.6909298300743103
+      },
+      {
+        "id": "https://openalex.org/C8868529",
+        "wikidata": "https://www.wikidata.org/wiki/Q124794",
+        "display_name": "Taste",
+        "level": 2,
+        "score": 0.6371247172355652
+      },
+      {
+        "id": "https://openalex.org/C2776291640",
+        "wikidata": "https://www.wikidata.org/wiki/Q2912517",
+        "display_name": "Value (mathematics)",
+        "level": 2,
+        "score": 0.5982230305671692
+      },
+      {
+        "id": "https://openalex.org/C12713177",
+        "wikidata": "https://www.wikidata.org/wiki/Q1900281",
+        "display_name": "Perspective (graphical)",
+        "level": 2,
+        "score": 0.5924294590950012
+      },
+      {
+        "id": "https://openalex.org/C514928085",
+        "wikidata": "https://www.wikidata.org/wiki/Q6206",
+        "display_name": "Capitalism",
+        "level": 3,
+        "score": 0.5706680417060852
+      },
+      {
+        "id": "https://openalex.org/C141121606",
+        "wikidata": "https://www.wikidata.org/wiki/Q8142",
+        "display_name": "Currency",
+        "level": 2,
+        "score": 0.5664132237434387
+      },
+      {
+        "id": "https://openalex.org/C107038049",
+        "wikidata": "https://www.wikidata.org/wiki/Q35986",
+        "display_name": "Aesthetics",
+        "level": 1,
+        "score": 0.5384634733200073
+      },
+      {
+        "id": "https://openalex.org/C2779018934",
+        "wikidata": "https://www.wikidata.org/wiki/Q1129653",
+        "display_name": "Everyday life",
+        "level": 2,
+        "score": 0.5047224760055542
+      },
+      {
+        "id": "https://openalex.org/C9652623",
+        "wikidata": "https://www.wikidata.org/wiki/Q190109",
+        "display_name": "Field (mathematics)",
+        "level": 2,
+        "score": 0.5036796927452087
+      },
+      {
+        "id": "https://openalex.org/C113706210",
+        "wikidata": "https://www.wikidata.org/wiki/Q301751",
+        "display_name": "Critical theory",
+        "level": 2,
+        "score": 0.48264652490615845
+      },
+      {
+        "id": "https://openalex.org/C165630861",
+        "wikidata": "https://www.wikidata.org/wiki/Q1570681",
+        "display_name": "Sociology of culture",
+        "level": 2,
+        "score": 0.4723454713821411
+      },
+      {
+        "id": "https://openalex.org/C2781385186",
+        "wikidata": "https://www.wikidata.org/wiki/Q89640",
+        "display_name": "Consumerism",
+        "level": 2,
+        "score": 0.41461044549942017
+      },
+      {
+        "id": "https://openalex.org/C111472728",
+        "wikidata": "https://www.wikidata.org/wiki/Q9471",
+        "display_name": "Epistemology",
+        "level": 1,
+        "score": 0.3732922077178955
+      },
+      {
+        "id": "https://openalex.org/C36289849",
+        "wikidata": "https://www.wikidata.org/wiki/Q34749",
+        "display_name": "Social science",
+        "level": 1,
+        "score": 0.3500886857509613
+      },
+      {
+        "id": "https://openalex.org/C29595303",
+        "wikidata": "https://www.wikidata.org/wiki/Q165650",
+        "display_name": "Media studies",
+        "level": 1,
+        "score": 0.327411413192749
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.24050098657608032
+      },
+      {
+        "id": "https://openalex.org/C94625758",
+        "wikidata": "https://www.wikidata.org/wiki/Q7163",
+        "display_name": "Politics",
+        "level": 2,
+        "score": 0.1435466706752777
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.13876456022262573
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.12864649295806885
+      },
+      {
+        "id": "https://openalex.org/C169760540",
+        "wikidata": "https://www.wikidata.org/wiki/Q207011",
+        "display_name": "Neuroscience",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C202444582",
+        "wikidata": "https://www.wikidata.org/wiki/Q837863",
+        "display_name": "Pure mathematics",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C556758197",
+        "wikidata": "https://www.wikidata.org/wiki/Q580018",
+        "display_name": "Monetary economics",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C119857082",
+        "wikidata": "https://www.wikidata.org/wiki/Q2539",
+        "display_name": "Machine learning",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C162324750",
+        "wikidata": "https://www.wikidata.org/wiki/Q8134",
+        "display_name": "Economics",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C33923547",
+        "wikidata": "https://www.wikidata.org/wiki/Q395",
+        "display_name": "Mathematics",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C154945302",
+        "wikidata": "https://www.wikidata.org/wiki/Q11660",
+        "display_name": "Artificial intelligence",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/1749975515627186",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/1749975515627186",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S69220080",
+          "display_name": "Cultural Sociology",
+          "issn_l": "1749-9755",
+          "issn": [
+            "1749-9755",
+            "1749-9763"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Cultural Sociology",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.5199999809265137,
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 34,
+    "referenced_works": [
+      "https://openalex.org/W2070288274",
+      "https://openalex.org/W4205222674",
+      "https://openalex.org/W2133552796",
+      "https://openalex.org/W2155838956",
+      "https://openalex.org/W2328331097",
+      "https://openalex.org/W1966852495",
+      "https://openalex.org/W4205560267",
+      "https://openalex.org/W2134096661",
+      "https://openalex.org/W2176911049",
+      "https://openalex.org/W1992403268",
+      "https://openalex.org/W2038964303",
+      "https://openalex.org/W2084077463",
+      "https://openalex.org/W1992426730",
+      "https://openalex.org/W4211167272",
+      "https://openalex.org/W68797001",
+      "https://openalex.org/W2108503270",
+      "https://openalex.org/W1936845975",
+      "https://openalex.org/W2282593861",
+      "https://openalex.org/W184936412",
+      "https://openalex.org/W2145074022",
+      "https://openalex.org/W1795980619",
+      "https://openalex.org/W971162141",
+      "https://openalex.org/W4240719208",
+      "https://openalex.org/W2019198817",
+      "https://openalex.org/W4299165101",
+      "https://openalex.org/W2323966837",
+      "https://openalex.org/W2504226734",
+      "https://openalex.org/W2145270063",
+      "https://openalex.org/W3121417828",
+      "https://openalex.org/W2162510130",
+      "https://openalex.org/W2337812649",
+      "https://openalex.org/W583583424",
+      "https://openalex.org/W2895107362",
+      "https://openalex.org/W2006908817"
+    ],
+    "related_works": [
+      "https://openalex.org/W2361026142",
+      "https://openalex.org/W640670545",
+      "https://openalex.org/W2071329531",
+      "https://openalex.org/W4312941186",
+      "https://openalex.org/W2901335851",
+      "https://openalex.org/W3162184517",
+      "https://openalex.org/W2391676172",
+      "https://openalex.org/W4396992892",
+      "https://openalex.org/W1998936794",
+      "https://openalex.org/W2143318461"
+    ],
+    "abstract_inverted_index": {
+      "Critical": [
+        0
+      ],
+      "sociology": [
+        1
+      ],
+      "suggests": [
+        2
+      ],
+      "that": [
+        3,
+        23
+      ],
+      "taste": [
+        4
+      ],
+      "judgments": [
+        5,
+        108
+      ],
+      "are": [
+        6,
+        92
+      ],
+      "not": [
+        7
+      ],
+      "independent": [
+        8
+      ],
+      "of": [
+        9,
+        150
+      ],
+      "the": [
+        10,
+        40,
+        50,
+        104,
+        138
+      ],
+      "social,": [
+        11
+      ],
+      "as": [
+        12
+      ],
+      "actors": [
+        13
+      ],
+      "use": [
+        14,
+        130
+      ],
+      "them": [
+        15
+      ],
+      "to": [
+        16,
+        52,
+        75,
+        122
+      ],
+      "claim": [
+        17
+      ],
+      "social": [
+        18
+      ],
+      "value.": [
+        19
+      ],
+      "This": [
+        20
+      ],
+      "article": [
+        21
+      ],
+      "demonstrates": [
+        22
+      ],
+      "this": [
+        24,
+        78
+      ],
+      "critical": [
+        25
+      ],
+      "perspective": [
+        26
+      ],
+      "has": [
+        27
+      ],
+      "gained": [
+        28
+      ],
+      "currency": [
+        29
+      ],
+      "among": [
+        30
+      ],
+      "laypersons,": [
+        31
+      ],
+      "transforming": [
+        32
+      ],
+      "everyday": [
+        33,
+        60
+      ],
+      "struggles": [
+        34
+      ],
+      "over": [
+        35
+      ],
+      "cultural": [
+        36,
+        128
+      ],
+      "evaluation.": [
+        37,
+        61
+      ],
+      "I": [
+        38,
+        62,
+        136
+      ],
+      "discuss": [
+        39,
+        137
+      ],
+      "new": [
+        41
+      ],
+      "discursive": [
+        42
+      ],
+      "category": [
+        43,
+        79
+      ],
+      "\u2018farterism\u2019,": [
+        44
+      ],
+      "which": [
+        45,
+        88
+      ],
+      "emerged": [
+        46
+      ],
+      "in": [
+        47,
+        49,
+        59,
+        82
+      ],
+      "Israel": [
+        48
+      ],
+      "1990s": [
+        51
+      ],
+      "denounce": [
+        53
+      ],
+      "vain": [
+        54
+      ],
+      "pretence": [
+        55
+      ],
+      "and": [
+        56,
+        69,
+        97,
+        99,
+        109,
+        113,
+        144
+      ],
+      "became": [
+        57
+      ],
+      "ubiquitous": [
+        58
+      ],
+      "analyse": [
+        63
+      ],
+      "online": [
+        64
+      ],
+      "user-generated": [
+        65
+      ],
+      "reviews": [
+        66
+      ],
+      "on": [
+        67
+      ],
+      "films": [
+        68
+      ],
+      "restaurants": [
+        70
+      ],
+      "alongside": [
+        71
+      ],
+      "broadsheet": [
+        72
+      ],
+      "newspaper": [
+        73
+      ],
+      "articles": [
+        74
+      ],
+      "explore": [
+        76
+      ],
+      "how": [
+        77,
+        100
+      ],
+      "is": [
+        80,
+        119
+      ],
+      "used": [
+        81,
+        121
+      ],
+      "different": [
+        83,
+        86
+      ],
+      "contexts": [
+        84
+      ],
+      "by": [
+        85
+      ],
+      "actors,": [
+        87
+      ],
+      "aesthetic": [
+        89
+      ],
+      "surface": [
+        90
+      ],
+      "characteristics": [
+        91
+      ],
+      "most": [
+        93
+      ],
+      "associated": [
+        94
+      ],
+      "with": [
+        95,
+        147
+      ],
+      "it": [
+        96,
+        131
+      ],
+      "why,": [
+        98
+      ],
+      "farterism": [
+        101,
+        142
+      ],
+      "critique": [
+        102,
+        118
+      ],
+      "reshapes": [
+        103
+      ],
+      "relationship": [
+        105
+      ],
+      "between": [
+        106
+      ],
+      "lay": [
+        107
+      ],
+      "established": [
+        110
+      ],
+      "market": [
+        111
+      ],
+      "(prices)": [
+        112
+      ],
+      "field/art-world": [
+        114
+      ],
+      "(status)": [
+        115
+      ],
+      "hierarchies.": [
+        116
+      ],
+      "Farterism": [
+        117
+      ],
+      "often": [
+        120
+      ],
+      "fend": [
+        123
+      ],
+      "off": [
+        124
+      ],
+      "symbolic": [
+        125
+      ],
+      "violence,": [
+        126
+      ],
+      "but": [
+        127
+      ],
+      "elites": [
+        129
+      ],
+      "too,": [
+        132
+      ],
+      "despite": [
+        133
+      ],
+      "their": [
+        134
+      ],
+      "interest.": [
+        135
+      ],
+      "implicit": [
+        139
+      ],
+      "ethic": [
+        140
+      ],
+      "behind": [
+        141
+      ],
+      "critique,": [
+        143
+      ],
+      "its": [
+        145
+      ],
+      "connections": [
+        146
+      ],
+      "recent": [
+        148
+      ],
+      "transformations": [
+        149
+      ],
+      "capitalism.": [
+        151
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2023,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2991806465",
+    "doi": "https://doi.org/10.1177/1749975519875373",
+    "title": "\u2018Enabling Periphereality\u2019: Artistic Trajectories in a Peripheral City",
+    "display_name": "\u2018Enabling Periphereality\u2019: Artistic Trajectories in a Peripheral City",
+    "relevance_score": 6.7320566,
+    "publication_year": 2019,
+    "publication_date": "2019-12-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2991806465",
+      "doi": "https://doi.org/10.1177/1749975519875373",
+      "mag": "2991806465"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/1749975519875373",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/1749975519875373",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S69220080",
+        "display_name": "Cultural Sociology",
+        "issn_l": "1749-9755",
+        "issn": [
+          "1749-9755",
+          "1749-9763"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cultural Sociology",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5075169919",
+          "display_name": "Sharon Yavo\u2013Ayalon",
+          "orcid": "https://orcid.org/0000-0001-9720-3717"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I205783295",
+            "display_name": "Cornell University",
+            "ror": "https://ror.org/05bnh6r87",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I205783295"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Sharon Yavo-Ayalon",
+        "raw_affiliation_strings": [
+          "Cornell-Tech, New York, USA"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Cornell-Tech, New York, USA",
+            "institution_ids": [
+              "https://openalex.org/I205783295"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5075169919"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I205783295"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 8.58694813,
+    "has_fulltext": false,
+    "cited_by_count": 9,
+    "citation_normalized_percentile": {
+      "value": 0.97389519,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 98
+    },
+    "biblio": {
+      "volume": "13",
+      "issue": "4",
+      "first_page": "461",
+      "last_page": "482"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11410",
+      "display_name": "Cultural Industries and Urban Development",
+      "score": 0.9968000054359436,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3322",
+        "display_name": "Urban Studies"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11410",
+        "display_name": "Cultural Industries and Urban Development",
+        "score": 0.9968000054359436,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3322",
+          "display_name": "Urban Studies"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11474",
+        "display_name": "Sport and Mega-Event Impacts",
+        "score": 0.991599977016449,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13699",
+        "display_name": "Public Spaces through Art",
+        "score": 0.9908000230789185,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3322",
+          "display_name": "Urban Studies"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.6867207884788513
+      },
+      {
+        "id": "https://openalex.org/keywords/aesthetics",
+        "display_name": "Aesthetics",
+        "score": 0.6289089918136597
+      },
+      {
+        "id": "https://openalex.org/keywords/legitimacy",
+        "display_name": "Legitimacy",
+        "score": 0.623242974281311
+      },
+      {
+        "id": "https://openalex.org/keywords/field",
+        "display_name": "Field (mathematics)",
+        "score": 0.5857073068618774
+      },
+      {
+        "id": "https://openalex.org/keywords/argument",
+        "display_name": "Argument (complex analysis)",
+        "score": 0.5500131249427795
+      },
+      {
+        "id": "https://openalex.org/keywords/perspective",
+        "display_name": "Perspective (graphical)",
+        "score": 0.5382534861564636
+      },
+      {
+        "id": "https://openalex.org/keywords/ethnography",
+        "display_name": "Ethnography",
+        "score": 0.5271446704864502
+      },
+      {
+        "id": "https://openalex.org/keywords/social-practice",
+        "display_name": "Social practice",
+        "score": 0.4882510006427765
+      },
+      {
+        "id": "https://openalex.org/keywords/creativity",
+        "display_name": "Creativity",
+        "score": 0.4807005524635315
+      },
+      {
+        "id": "https://openalex.org/keywords/everyday-life",
+        "display_name": "Everyday life",
+        "score": 0.4312335252761841
+      },
+      {
+        "id": "https://openalex.org/keywords/media-studies",
+        "display_name": "Media studies",
+        "score": 0.35408076643943787
+      },
+      {
+        "id": "https://openalex.org/keywords/epistemology",
+        "display_name": "Epistemology",
+        "score": 0.34397566318511963
+      },
+      {
+        "id": "https://openalex.org/keywords/visual-arts",
+        "display_name": "Visual arts",
+        "score": 0.28559237718582153
+      },
+      {
+        "id": "https://openalex.org/keywords/politics",
+        "display_name": "Politics",
+        "score": 0.2667292356491089
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.16308623552322388
+      },
+      {
+        "id": "https://openalex.org/keywords/history",
+        "display_name": "History",
+        "score": 0.16140905022621155
+      },
+      {
+        "id": "https://openalex.org/keywords/anthropology",
+        "display_name": "Anthropology",
+        "score": 0.15500259399414062
+      },
+      {
+        "id": "https://openalex.org/keywords/art",
+        "display_name": "Art",
+        "score": 0.13629159331321716
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.1192668080329895
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.6867207884788513
+      },
+      {
+        "id": "https://openalex.org/C107038049",
+        "wikidata": "https://www.wikidata.org/wiki/Q35986",
+        "display_name": "Aesthetics",
+        "level": 1,
+        "score": 0.6289089918136597
+      },
+      {
+        "id": "https://openalex.org/C46295352",
+        "wikidata": "https://www.wikidata.org/wiki/Q207982",
+        "display_name": "Legitimacy",
+        "level": 3,
+        "score": 0.623242974281311
+      },
+      {
+        "id": "https://openalex.org/C9652623",
+        "wikidata": "https://www.wikidata.org/wiki/Q190109",
+        "display_name": "Field (mathematics)",
+        "level": 2,
+        "score": 0.5857073068618774
+      },
+      {
+        "id": "https://openalex.org/C98184364",
+        "wikidata": "https://www.wikidata.org/wiki/Q1780131",
+        "display_name": "Argument (complex analysis)",
+        "level": 2,
+        "score": 0.5500131249427795
+      },
+      {
+        "id": "https://openalex.org/C12713177",
+        "wikidata": "https://www.wikidata.org/wiki/Q1900281",
+        "display_name": "Perspective (graphical)",
+        "level": 2,
+        "score": 0.5382534861564636
+      },
+      {
+        "id": "https://openalex.org/C179454799",
+        "wikidata": "https://www.wikidata.org/wiki/Q132151",
+        "display_name": "Ethnography",
+        "level": 2,
+        "score": 0.5271446704864502
+      },
+      {
+        "id": "https://openalex.org/C2780709859",
+        "wikidata": "https://www.wikidata.org/wiki/Q7550754",
+        "display_name": "Social practice",
+        "level": 3,
+        "score": 0.4882510006427765
+      },
+      {
+        "id": "https://openalex.org/C11012388",
+        "wikidata": "https://www.wikidata.org/wiki/Q170658",
+        "display_name": "Creativity",
+        "level": 2,
+        "score": 0.4807005524635315
+      },
+      {
+        "id": "https://openalex.org/C2779018934",
+        "wikidata": "https://www.wikidata.org/wiki/Q1129653",
+        "display_name": "Everyday life",
+        "level": 2,
+        "score": 0.4312335252761841
+      },
+      {
+        "id": "https://openalex.org/C29595303",
+        "wikidata": "https://www.wikidata.org/wiki/Q165650",
+        "display_name": "Media studies",
+        "level": 1,
+        "score": 0.35408076643943787
+      },
+      {
+        "id": "https://openalex.org/C111472728",
+        "wikidata": "https://www.wikidata.org/wiki/Q9471",
+        "display_name": "Epistemology",
+        "level": 1,
+        "score": 0.34397566318511963
+      },
+      {
+        "id": "https://openalex.org/C153349607",
+        "wikidata": "https://www.wikidata.org/wiki/Q36649",
+        "display_name": "Visual arts",
+        "level": 1,
+        "score": 0.28559237718582153
+      },
+      {
+        "id": "https://openalex.org/C94625758",
+        "wikidata": "https://www.wikidata.org/wiki/Q7163",
+        "display_name": "Politics",
+        "level": 2,
+        "score": 0.2667292356491089
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.16308623552322388
+      },
+      {
+        "id": "https://openalex.org/C95457728",
+        "wikidata": "https://www.wikidata.org/wiki/Q309",
+        "display_name": "History",
+        "level": 0,
+        "score": 0.16140905022621155
+      },
+      {
+        "id": "https://openalex.org/C19165224",
+        "wikidata": "https://www.wikidata.org/wiki/Q23404",
+        "display_name": "Anthropology",
+        "level": 1,
+        "score": 0.15500259399414062
+      },
+      {
+        "id": "https://openalex.org/C142362112",
+        "wikidata": "https://www.wikidata.org/wiki/Q735",
+        "display_name": "Art",
+        "level": 0,
+        "score": 0.13629159331321716
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.1192668080329895
+      },
+      {
+        "id": "https://openalex.org/C202444582",
+        "wikidata": "https://www.wikidata.org/wiki/Q837863",
+        "display_name": "Pure mathematics",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "wikidata": "https://www.wikidata.org/wiki/Q2329",
+        "display_name": "Chemistry",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C55493867",
+        "wikidata": "https://www.wikidata.org/wiki/Q7094",
+        "display_name": "Biochemistry",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C52119013",
+        "wikidata": "https://www.wikidata.org/wiki/Q50637",
+        "display_name": "Art history",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C554144382",
+        "wikidata": "https://www.wikidata.org/wiki/Q213156",
+        "display_name": "Performance art",
+        "level": 2,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C33923547",
+        "wikidata": "https://www.wikidata.org/wiki/Q395",
+        "display_name": "Mathematics",
+        "level": 0,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/1749975519875373",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/1749975519875373",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S69220080",
+          "display_name": "Cultural Sociology",
+          "issn_l": "1749-9755",
+          "issn": [
+            "1749-9755",
+            "1749-9763"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Cultural Sociology",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.6700000166893005,
+        "display_name": "Sustainable cities and communities",
+        "id": "https://metadata.un.org/sdg/11"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 50,
+    "referenced_works": [
+      "https://openalex.org/W2315196774",
+      "https://openalex.org/W2316713537",
+      "https://openalex.org/W2763608636",
+      "https://openalex.org/W2018901725",
+      "https://openalex.org/W2166371364",
+      "https://openalex.org/W2057458890",
+      "https://openalex.org/W2141726072",
+      "https://openalex.org/W2078567477",
+      "https://openalex.org/W2085766035",
+      "https://openalex.org/W2077913349",
+      "https://openalex.org/W2010869881",
+      "https://openalex.org/W2001701432",
+      "https://openalex.org/W4300761746",
+      "https://openalex.org/W1979469916",
+      "https://openalex.org/W2012864566",
+      "https://openalex.org/W2167711598",
+      "https://openalex.org/W2112804145",
+      "https://openalex.org/W2963562881",
+      "https://openalex.org/W1716531069",
+      "https://openalex.org/W2082530408",
+      "https://openalex.org/W2110903858",
+      "https://openalex.org/W2790265224",
+      "https://openalex.org/W2794167939",
+      "https://openalex.org/W2095181931",
+      "https://openalex.org/W1919660078",
+      "https://openalex.org/W2140023998",
+      "https://openalex.org/W1550045286",
+      "https://openalex.org/W2039249605",
+      "https://openalex.org/W2800231915",
+      "https://openalex.org/W4213071342",
+      "https://openalex.org/W2094376531",
+      "https://openalex.org/W2790539664",
+      "https://openalex.org/W2147092478",
+      "https://openalex.org/W2054954549",
+      "https://openalex.org/W4232261531",
+      "https://openalex.org/W2782744784",
+      "https://openalex.org/W2969528401",
+      "https://openalex.org/W2015531123",
+      "https://openalex.org/W4234233476",
+      "https://openalex.org/W2993759181",
+      "https://openalex.org/W4238497077",
+      "https://openalex.org/W4244466101",
+      "https://openalex.org/W2318326519",
+      "https://openalex.org/W1495513294",
+      "https://openalex.org/W571975946",
+      "https://openalex.org/W2080096208",
+      "https://openalex.org/W4280497400",
+      "https://openalex.org/W4300998844",
+      "https://openalex.org/W395113308",
+      "https://openalex.org/W1832647592"
+    ],
+    "related_works": [
+      "https://openalex.org/W4387497383",
+      "https://openalex.org/W3183948672",
+      "https://openalex.org/W3173606202",
+      "https://openalex.org/W3110381201",
+      "https://openalex.org/W2948807893",
+      "https://openalex.org/W2935909890",
+      "https://openalex.org/W2778153218",
+      "https://openalex.org/W2758277628",
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W1531601525"
+    ],
+    "abstract_inverted_index": {
+      "The": [
+        0,
+        93
+      ],
+      "common": [
+        1
+      ],
+      "perspective": [
+        2,
+        62
+      ],
+      "on": [
+        3,
+        54
+      ],
+      "centre\u2013periphery": [
+        4
+      ],
+      "power": [
+        5
+      ],
+      "relations": [
+        6
+      ],
+      "views": [
+        7
+      ],
+      "central": [
+        8
+      ],
+      "cities": [
+        9,
+        23
+      ],
+      "as": [
+        10,
+        46,
+        107
+      ],
+      "the": [
+        11,
+        18,
+        32,
+        38,
+        44,
+        50,
+        74,
+        85,
+        97,
+        112,
+        133,
+        140,
+        151,
+        156
+      ],
+      "source": [
+        12
+      ],
+      "of": [
+        13,
+        20,
+        36,
+        43,
+        68,
+        76,
+        115,
+        158
+      ],
+      "cultural": [
+        14,
+        142
+      ],
+      "authority": [
+        15
+      ],
+      "and": [
+        16,
+        52,
+        103,
+        125,
+        153,
+        166
+      ],
+      "legitimacy,": [
+        17
+      ],
+      "influence": [
+        19
+      ],
+      "which": [
+        21
+      ],
+      "peripheral": [
+        22,
+        33,
+        141
+      ],
+      "passively": [
+        24
+      ],
+      "accept.": [
+        25
+      ],
+      "By": [
+        26,
+        79
+      ],
+      "following": [
+        27
+      ],
+      "theatre": [
+        28,
+        105
+      ],
+      "artists\u2019": [
+        29
+      ],
+      "trajectories": [
+        30,
+        117
+      ],
+      "in": [
+        31,
+        73,
+        150
+      ],
+      "Israeli": [
+        34
+      ],
+      "city": [
+        35
+      ],
+      "Acre,": [
+        37
+      ],
+      "article": [
+        39,
+        94
+      ],
+      "challenges": [
+        40
+      ],
+      "this": [
+        41
+      ],
+      "perception": [
+        42
+      ],
+      "periphery": [
+        45
+      ],
+      "fundamentally": [
+        47
+      ],
+      "inferior": [
+        48
+      ],
+      "to": [
+        49,
+        132,
+        146,
+        154,
+        161
+      ],
+      "centre": [
+        51
+      ],
+      "focuses": [
+        53
+      ],
+      "how": [
+        55
+      ],
+      "its": [
+        56,
+        104
+      ],
+      "environment": [
+        57
+      ],
+      "enables": [
+        58
+      ],
+      "artistic": [
+        59,
+        116
+      ],
+      "creativity.": [
+        60
+      ],
+      "This": [
+        61,
+        130
+      ],
+      "is": [
+        63
+      ],
+      "developed": [
+        64
+      ],
+      "through": [
+        65
+      ],
+      "Bourdieu\u2019s": [
+        66
+      ],
+      "definition": [
+        67
+      ],
+      "trajectory": [
+        69
+      ],
+      "alongside": [
+        70
+      ],
+      "everyday": [
+        71,
+        113
+      ],
+      "practices,": [
+        72
+      ],
+      "spirit": [
+        75
+      ],
+      "de": [
+        77
+      ],
+      "Certeau.": [
+        78
+      ],
+      "adapting": [
+        80
+      ],
+      "super-positioning": [
+        81
+      ],
+      "from": [
+        82
+      ],
+      "architectural": [
+        83
+      ],
+      "practice": [
+        84
+      ],
+      "research": [
+        86
+      ],
+      "combines": [
+        87
+      ],
+      "urban": [
+        88
+      ],
+      "spatial": [
+        89
+      ],
+      "analysis": [
+        90
+      ],
+      "with": [
+        91
+      ],
+      "ethnography.": [
+        92
+      ],
+      "first": [
+        95
+      ],
+      "identifies": [
+        96
+      ],
+      "macro-social": [
+        98
+      ],
+      "structures": [
+        99,
+        124
+      ],
+      "that": [
+        100,
+        118,
+        137
+      ],
+      "define": [
+        101
+      ],
+      "Acre": [
+        102
+      ],
+      "field": [
+        106,
+        143
+      ],
+      "\u2018peripheral\u2019,": [
+        108
+      ],
+      "it": [
+        109
+      ],
+      "then": [
+        110
+      ],
+      "exposes": [
+        111
+      ],
+      "micro-practices": [
+        114
+      ],
+      "erode": [
+        119
+      ],
+      "these": [
+        120
+      ],
+      "larger,": [
+        121
+      ],
+      "top-down": [
+        122
+      ],
+      "social": [
+        123,
+        128
+      ],
+      "juxtapose": [
+        126
+      ],
+      "both": [
+        127
+      ],
+      "structures.": [
+        129
+      ],
+      "leads": [
+        131
+      ],
+      "article\u2019s": [
+        134
+      ],
+      "main": [
+        135
+      ],
+      "argument,": [
+        136
+      ],
+      "ascent": [
+        138
+      ],
+      "within": [
+        139
+      ],
+      "proceeds": [
+        144
+      ],
+      "according": [
+        145
+      ],
+      "different": [
+        147,
+        164
+      ],
+      "rules": [
+        148
+      ],
+      "than": [
+        149
+      ],
+      "centre,": [
+        152
+      ],
+      "developing": [
+        155
+      ],
+      "notion": [
+        157
+      ],
+      "Enabling": [
+        159
+      ],
+      "Periphereality": [
+        160
+      ],
+      "articulate": [
+        162
+      ],
+      "those": [
+        163
+      ],
+      "conditions": [
+        165
+      ],
+      "rules.": [
+        167
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2024,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  }
+]

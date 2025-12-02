@@ -1,0 +1,3788 @@
+[
+  {
+    "id": "https://openalex.org/W2972991611",
+    "doi": "https://doi.org/10.1177/0725513619874928",
+    "title": "Human rights, micro-solidarity and moral action: \u2018Face-to-face\u2019 encounters in the Israeli/Palestinian context",
+    "display_name": "Human rights, micro-solidarity and moral action: \u2018Face-to-face\u2019 encounters in the Israeli/Palestinian context",
+    "relevance_score": 78.70808,
+    "publication_year": 2019,
+    "publication_date": "2019-09-08",
+    "ids": {
+      "openalex": "https://openalex.org/W2972991611",
+      "doi": "https://doi.org/10.1177/0725513619874928",
+      "mag": "2972991611"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/0725513619874928",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/0725513619874928",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S97919111",
+        "display_name": "Thesis Eleven",
+        "issn_l": "0725-5136",
+        "issn": [
+          "0725-5136",
+          "1461-7455"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Thesis Eleven",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5007825679",
+          "display_name": "Lea David",
+          "orcid": "https://orcid.org/0000-0001-6332-1678"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I100930933",
+            "display_name": "University College Dublin",
+            "ror": "https://ror.org/05m7pjf47",
+            "country_code": "IE",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I100930933"
+            ]
+          }
+        ],
+        "countries": [
+          "IE"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Lea David",
+        "raw_affiliation_strings": [
+          "University College, Dublin, Ireland"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University College, Dublin, Ireland",
+            "institution_ids": [
+              "https://openalex.org/I100930933"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5007825679"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I100930933"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.5511254,
+    "has_fulltext": false,
+    "cited_by_count": 6,
+    "citation_normalized_percentile": {
+      "value": 0.77276523,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 97
+    },
+    "biblio": {
+      "volume": "154",
+      "issue": "1",
+      "first_page": "66",
+      "last_page": "79"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Jewish and Middle Eastern Studies",
+      "score": 0.9983000159263611,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.9983000159263611,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13634",
+        "display_name": "Middle East and Rwanda Conflicts",
+        "score": 0.9944000244140625,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10070",
+        "display_name": "Political Conflict and Governance",
+        "score": 0.9940000176429749,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/solidarity",
+        "display_name": "Solidarity",
+        "score": 0.9283210039138794
+      },
+      {
+        "id": "https://openalex.org/keywords/human-rights",
+        "display_name": "Human rights",
+        "score": 0.7192161083221436
+      },
+      {
+        "id": "https://openalex.org/keywords/face",
+        "display_name": "Face (sociological concept)",
+        "score": 0.5670590400695801
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.5630452632904053
+      },
+      {
+        "id": "https://openalex.org/keywords/action",
+        "display_name": "Action (physics)",
+        "score": 0.5494349598884583
+      },
+      {
+        "id": "https://openalex.org/keywords/context",
+        "display_name": "Context (archaeology)",
+        "score": 0.543535590171814
+      },
+      {
+        "id": "https://openalex.org/keywords/narrative",
+        "display_name": "Narrative",
+        "score": 0.521457850933075
+      },
+      {
+        "id": "https://openalex.org/keywords/ethnic-group",
+        "display_name": "Ethnic group",
+        "score": 0.47983238101005554
+      },
+      {
+        "id": "https://openalex.org/keywords/collective-action",
+        "display_name": "Collective action",
+        "score": 0.4470616281032562
+      },
+      {
+        "id": "https://openalex.org/keywords/gender-studies",
+        "display_name": "Gender studies",
+        "score": 0.4035627245903015
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.36680302023887634
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.2932906150817871
+      },
+      {
+        "id": "https://openalex.org/keywords/politics",
+        "display_name": "Politics",
+        "score": 0.2348303496837616
+      },
+      {
+        "id": "https://openalex.org/keywords/anthropology",
+        "display_name": "Anthropology",
+        "score": 0.1553497314453125
+      },
+      {
+        "id": "https://openalex.org/keywords/social-science",
+        "display_name": "Social science",
+        "score": 0.14033833146095276
+      },
+      {
+        "id": "https://openalex.org/keywords/geography",
+        "display_name": "Geography",
+        "score": 0.08977928757667542
+      },
+      {
+        "id": "https://openalex.org/keywords/philosophy",
+        "display_name": "Philosophy",
+        "score": 0.07481175661087036
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2780641677",
+        "wikidata": "https://www.wikidata.org/wiki/Q815726",
+        "display_name": "Solidarity",
+        "level": 3,
+        "score": 0.9283210039138794
+      },
+      {
+        "id": "https://openalex.org/C169437150",
+        "wikidata": "https://www.wikidata.org/wiki/Q8458",
+        "display_name": "Human rights",
+        "level": 2,
+        "score": 0.7192161083221436
+      },
+      {
+        "id": "https://openalex.org/C2779304628",
+        "wikidata": "https://www.wikidata.org/wiki/Q3503480",
+        "display_name": "Face (sociological concept)",
+        "level": 2,
+        "score": 0.5670590400695801
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.5630452632904053
+      },
+      {
+        "id": "https://openalex.org/C2780791683",
+        "wikidata": "https://www.wikidata.org/wiki/Q846785",
+        "display_name": "Action (physics)",
+        "level": 2,
+        "score": 0.5494349598884583
+      },
+      {
+        "id": "https://openalex.org/C2779343474",
+        "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+        "display_name": "Context (archaeology)",
+        "level": 2,
+        "score": 0.543535590171814
+      },
+      {
+        "id": "https://openalex.org/C199033989",
+        "wikidata": "https://www.wikidata.org/wiki/Q1318295",
+        "display_name": "Narrative",
+        "level": 2,
+        "score": 0.521457850933075
+      },
+      {
+        "id": "https://openalex.org/C137403100",
+        "wikidata": "https://www.wikidata.org/wiki/Q41710",
+        "display_name": "Ethnic group",
+        "level": 2,
+        "score": 0.47983238101005554
+      },
+      {
+        "id": "https://openalex.org/C2777932401",
+        "wikidata": "https://www.wikidata.org/wiki/Q1471594",
+        "display_name": "Collective action",
+        "level": 3,
+        "score": 0.4470616281032562
+      },
+      {
+        "id": "https://openalex.org/C107993555",
+        "wikidata": "https://www.wikidata.org/wiki/Q1662673",
+        "display_name": "Gender studies",
+        "level": 1,
+        "score": 0.4035627245903015
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.36680302023887634
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.2932906150817871
+      },
+      {
+        "id": "https://openalex.org/C94625758",
+        "wikidata": "https://www.wikidata.org/wiki/Q7163",
+        "display_name": "Politics",
+        "level": 2,
+        "score": 0.2348303496837616
+      },
+      {
+        "id": "https://openalex.org/C19165224",
+        "wikidata": "https://www.wikidata.org/wiki/Q23404",
+        "display_name": "Anthropology",
+        "level": 1,
+        "score": 0.1553497314453125
+      },
+      {
+        "id": "https://openalex.org/C36289849",
+        "wikidata": "https://www.wikidata.org/wiki/Q34749",
+        "display_name": "Social science",
+        "level": 1,
+        "score": 0.14033833146095276
+      },
+      {
+        "id": "https://openalex.org/C205649164",
+        "wikidata": "https://www.wikidata.org/wiki/Q1071",
+        "display_name": "Geography",
+        "level": 0,
+        "score": 0.08977928757667542
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.07481175661087036
+      },
+      {
+        "id": "https://openalex.org/C121332964",
+        "wikidata": "https://www.wikidata.org/wiki/Q413",
+        "display_name": "Physics",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C62520636",
+        "wikidata": "https://www.wikidata.org/wiki/Q944",
+        "display_name": "Quantum mechanics",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C166957645",
+        "wikidata": "https://www.wikidata.org/wiki/Q23498",
+        "display_name": "Archaeology",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C41895202",
+        "wikidata": "https://www.wikidata.org/wiki/Q8162",
+        "display_name": "Linguistics",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/0725513619874928",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/0725513619874928",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S97919111",
+          "display_name": "Thesis Eleven",
+          "issn_l": "0725-5136",
+          "issn": [
+            "0725-5136",
+            "1461-7455"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Thesis Eleven",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.6100000143051147,
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 25,
+    "referenced_works": [
+      "https://openalex.org/W230391259",
+      "https://openalex.org/W2479189347",
+      "https://openalex.org/W2049504972",
+      "https://openalex.org/W4252023868",
+      "https://openalex.org/W1969123351",
+      "https://openalex.org/W4243971884",
+      "https://openalex.org/W2155790662",
+      "https://openalex.org/W1593042409",
+      "https://openalex.org/W2945514026",
+      "https://openalex.org/W4211144043",
+      "https://openalex.org/W2332137035",
+      "https://openalex.org/W2315969715",
+      "https://openalex.org/W2036133972",
+      "https://openalex.org/W2216190799",
+      "https://openalex.org/W2498546999",
+      "https://openalex.org/W4246049222",
+      "https://openalex.org/W2074479484",
+      "https://openalex.org/W1988580568",
+      "https://openalex.org/W2114741417",
+      "https://openalex.org/W1997064660",
+      "https://openalex.org/W2105036504",
+      "https://openalex.org/W1991420882",
+      "https://openalex.org/W1912805370",
+      "https://openalex.org/W4230354434",
+      "https://openalex.org/W2327393213"
+    ],
+    "related_works": [
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W4379799207",
+      "https://openalex.org/W3120711800",
+      "https://openalex.org/W3187298618",
+      "https://openalex.org/W4389502092",
+      "https://openalex.org/W2134671497",
+      "https://openalex.org/W4205241721",
+      "https://openalex.org/W4289516261",
+      "https://openalex.org/W4300808347",
+      "https://openalex.org/W2108132914"
+    ],
+    "abstract_inverted_index": {
+      "While": [
+        0
+      ],
+      "there": [
+        1
+      ],
+      "is": [
+        2,
+        25
+      ],
+      "extensive": [
+        3
+      ],
+      "literature": [
+        4
+      ],
+      "on": [
+        5,
+        16,
+        36,
+        52
+      ],
+      "both": [
+        6
+      ],
+      "the": [
+        7,
+        26,
+        47,
+        65
+      ],
+      "expansion": [
+        8
+      ],
+      "of": [
+        9,
+        40,
+        67
+      ],
+      "human": [
+        10,
+        29,
+        77
+      ],
+      "rights": [
+        11
+      ],
+      "and": [
+        12,
+        15,
+        18,
+        32,
+        64,
+        98
+      ],
+      "solidarity": [
+        13
+      ],
+      "movements,": [
+        14
+      ],
+      "micro-solidarity": [
+        17,
+        31,
+        87
+      ],
+      "violent": [
+        19
+      ],
+      "actions,": [
+        20
+      ],
+      "here": [
+        21
+      ],
+      "I": [
+        22,
+        50,
+        82
+      ],
+      "ask": [
+        23
+      ],
+      "what": [
+        24
+      ],
+      "relationship": [
+        27
+      ],
+      "between": [
+        28
+      ],
+      "rights,": [
+        30
+      ],
+      "social": [
+        33
+      ],
+      "action?": [
+        34
+      ],
+      "Based": [
+        35
+      ],
+      "a": [
+        37
+      ],
+      "case": [
+        38
+      ],
+      "study": [
+        39
+      ],
+      "structured,": [
+        41
+      ],
+      "face-to-face": [
+        42
+      ],
+      "dialogue": [
+        43
+      ],
+      "group": [
+        44
+      ],
+      "encounters": [
+        45,
+        85
+      ],
+      "in": [
+        46
+      ],
+      "Israeli/Palestinian": [
+        48
+      ],
+      "context,": [
+        49
+      ],
+      "draw": [
+        51
+      ],
+      "Randall": [
+        53
+      ],
+      "Collins\u2019s": [
+        54
+      ],
+      "interaction": [
+        55
+      ],
+      "ritual": [
+        56
+      ],
+      "chain": [
+        57
+      ],
+      "theory": [
+        58
+      ],
+      "to": [
+        59,
+        74,
+        92,
+        96
+      ],
+      "demonstrate": [
+        60
+      ],
+      "why": [
+        61
+      ],
+      "emotional": [
+        62
+      ],
+      "energy": [
+        63
+      ],
+      "ritualization": [
+        66
+      ],
+      "historical": [
+        68
+      ],
+      "narratives": [
+        69
+      ],
+      "have": [
+        70
+      ],
+      "very": [
+        71
+      ],
+      "limited": [
+        72
+      ],
+      "potential": [
+        73
+      ],
+      "translate": [
+        75
+      ],
+      "into": [
+        76
+      ],
+      "rights-based": [
+        78
+      ],
+      "moral": [
+        79
+      ],
+      "actions.": [
+        80
+      ],
+      "Instead,": [
+        81
+      ],
+      "suggest,": [
+        83
+      ],
+      "these": [
+        84
+      ],
+      "produce": [
+        86
+      ],
+      "that": [
+        88
+      ],
+      "ascribes": [
+        89
+      ],
+      "additional": [
+        90
+      ],
+      "weight": [
+        91
+      ],
+      "ethnic": [
+        93,
+        102
+      ],
+      "categories,": [
+        94
+      ],
+      "serving": [
+        95
+      ],
+      "polarize": [
+        97
+      ],
+      "homogenize": [
+        99
+      ],
+      "groups": [
+        100
+      ],
+      "along": [
+        101
+      ],
+      "lines.": [
+        103
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2079563091",
+    "doi": "https://doi.org/10.1177/0725513614526156",
+    "title": "Frontier Jerusalem",
+    "display_name": "Frontier Jerusalem",
+    "relevance_score": 8.820296,
+    "publication_year": 2014,
+    "publication_date": "2014-04-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2079563091",
+      "doi": "https://doi.org/10.1177/0725513614526156",
+      "mag": "2079563091"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/0725513614526156",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/0725513614526156",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S97919111",
+        "display_name": "Thesis Eleven",
+        "issn_l": "0725-5136",
+        "issn": [
+          "0725-5136",
+          "1461-7455"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Thesis Eleven",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5028942681",
+          "display_name": "Rachel Busbridge",
+          "orcid": "https://orcid.org/0000-0002-5348-9335"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I75951250",
+            "display_name": "Freie Universit\u00e4t Berlin",
+            "ror": "https://ror.org/046ak2485",
+            "country_code": "DE",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75951250"
+            ]
+          }
+        ],
+        "countries": [
+          "DE"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Rachel Busbridge",
+        "raw_affiliation_strings": [
+          "Freie Universit\u00e4t Berlin, Germany"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Freie Universit\u00e4t Berlin, Germany",
+            "institution_ids": [
+              "https://openalex.org/I75951250"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5028942681"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I75951250"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 2.01301432,
+    "has_fulltext": false,
+    "cited_by_count": 4,
+    "citation_normalized_percentile": {
+      "value": 0.9040067,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 96
+    },
+    "biblio": {
+      "volume": "121",
+      "issue": "1",
+      "first_page": "76",
+      "last_page": "100"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Jewish and Middle Eastern Studies",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.9997000098228455,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13103",
+        "display_name": "Middle East Politics and Society",
+        "score": 0.9970999956130981,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10216",
+        "display_name": "Migration, Refugees, and Integration",
+        "score": 0.9853000044822693,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/frontier",
+        "display_name": "Frontier",
+        "score": 0.7949777841567993
+      },
+      {
+        "id": "https://openalex.org/keywords/sovereignty",
+        "display_name": "Sovereignty",
+        "score": 0.6345986127853394
+      },
+      {
+        "id": "https://openalex.org/keywords/politics",
+        "display_name": "Politics",
+        "score": 0.6312438249588013
+      },
+      {
+        "id": "https://openalex.org/keywords/jewish-state",
+        "display_name": "Jewish state",
+        "score": 0.5597319006919861
+      },
+      {
+        "id": "https://openalex.org/keywords/status-quo",
+        "display_name": "Status quo",
+        "score": 0.5369716882705688
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.4903002083301544
+      },
+      {
+        "id": "https://openalex.org/keywords/state",
+        "display_name": "State (computer science)",
+        "score": 0.46795547008514404
+      },
+      {
+        "id": "https://openalex.org/keywords/judaism",
+        "display_name": "Judaism",
+        "score": 0.4571610987186432
+      },
+      {
+        "id": "https://openalex.org/keywords/arab\u2013israeli-conflict",
+        "display_name": "Arab\u2013Israeli conflict",
+        "score": 0.4244101345539093
+      },
+      {
+        "id": "https://openalex.org/keywords/impossibility",
+        "display_name": "Impossibility",
+        "score": 0.41724205017089844
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.3859465718269348
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.3818717300891876
+      },
+      {
+        "id": "https://openalex.org/keywords/political-economy",
+        "display_name": "Political economy",
+        "score": 0.3268798887729645
+      },
+      {
+        "id": "https://openalex.org/keywords/history",
+        "display_name": "History",
+        "score": 0.29067736864089966
+      },
+      {
+        "id": "https://openalex.org/keywords/archaeology",
+        "display_name": "Archaeology",
+        "score": 0.10064470767974854
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2778571376",
+        "wikidata": "https://www.wikidata.org/wiki/Q1355821",
+        "display_name": "Frontier",
+        "level": 2,
+        "score": 0.7949777841567993
+      },
+      {
+        "id": "https://openalex.org/C186229450",
+        "wikidata": "https://www.wikidata.org/wiki/Q42008",
+        "display_name": "Sovereignty",
+        "level": 3,
+        "score": 0.6345986127853394
+      },
+      {
+        "id": "https://openalex.org/C94625758",
+        "wikidata": "https://www.wikidata.org/wiki/Q7163",
+        "display_name": "Politics",
+        "level": 2,
+        "score": 0.6312438249588013
+      },
+      {
+        "id": "https://openalex.org/C2776769304",
+        "wikidata": "https://www.wikidata.org/wiki/Q2915311",
+        "display_name": "Jewish state",
+        "level": 3,
+        "score": 0.5597319006919861
+      },
+      {
+        "id": "https://openalex.org/C2776748549",
+        "wikidata": "https://www.wikidata.org/wiki/Q201610",
+        "display_name": "Status quo",
+        "level": 2,
+        "score": 0.5369716882705688
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.4903002083301544
+      },
+      {
+        "id": "https://openalex.org/C48103436",
+        "wikidata": "https://www.wikidata.org/wiki/Q599031",
+        "display_name": "State (computer science)",
+        "level": 2,
+        "score": 0.46795547008514404
+      },
+      {
+        "id": "https://openalex.org/C150152722",
+        "wikidata": "https://www.wikidata.org/wiki/Q9268",
+        "display_name": "Judaism",
+        "level": 2,
+        "score": 0.4571610987186432
+      },
+      {
+        "id": "https://openalex.org/C58250639",
+        "wikidata": "https://www.wikidata.org/wiki/Q8669",
+        "display_name": "Arab\u2013Israeli conflict",
+        "level": 2,
+        "score": 0.4244101345539093
+      },
+      {
+        "id": "https://openalex.org/C2776261394",
+        "wikidata": "https://www.wikidata.org/wiki/Q315562",
+        "display_name": "Impossibility",
+        "level": 2,
+        "score": 0.41724205017089844
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.3859465718269348
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.3818717300891876
+      },
+      {
+        "id": "https://openalex.org/C138921699",
+        "wikidata": "https://www.wikidata.org/wiki/Q47555",
+        "display_name": "Political economy",
+        "level": 1,
+        "score": 0.3268798887729645
+      },
+      {
+        "id": "https://openalex.org/C95457728",
+        "wikidata": "https://www.wikidata.org/wiki/Q309",
+        "display_name": "History",
+        "level": 0,
+        "score": 0.29067736864089966
+      },
+      {
+        "id": "https://openalex.org/C166957645",
+        "wikidata": "https://www.wikidata.org/wiki/Q23498",
+        "display_name": "Archaeology",
+        "level": 1,
+        "score": 0.10064470767974854
+      },
+      {
+        "id": "https://openalex.org/C11413529",
+        "wikidata": "https://www.wikidata.org/wiki/Q8366",
+        "display_name": "Algorithm",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/0725513614526156",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/0725513614526156",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S97919111",
+          "display_name": "Thesis Eleven",
+          "issn_l": "0725-5136",
+          "issn": [
+            "0725-5136",
+            "1461-7455"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Thesis Eleven",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.5099999904632568,
+        "display_name": "Sustainable cities and communities",
+        "id": "https://metadata.un.org/sdg/11"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 21,
+    "referenced_works": [
+      "https://openalex.org/W2155430755",
+      "https://openalex.org/W1820484158",
+      "https://openalex.org/W2317812155",
+      "https://openalex.org/W1592952364",
+      "https://openalex.org/W2049026007",
+      "https://openalex.org/W1964170073",
+      "https://openalex.org/W2041245907",
+      "https://openalex.org/W2046406166",
+      "https://openalex.org/W1486999226",
+      "https://openalex.org/W1965424269",
+      "https://openalex.org/W2142175772",
+      "https://openalex.org/W1556823143",
+      "https://openalex.org/W2018276495",
+      "https://openalex.org/W2086050009",
+      "https://openalex.org/W1972442872",
+      "https://openalex.org/W1575443507",
+      "https://openalex.org/W1632250621",
+      "https://openalex.org/W1570721873",
+      "https://openalex.org/W1993961394",
+      "https://openalex.org/W584579554",
+      "https://openalex.org/W2313285498"
+    ],
+    "related_works": [
+      "https://openalex.org/W1568532466",
+      "https://openalex.org/W93044616",
+      "https://openalex.org/W2606071114",
+      "https://openalex.org/W2479071214",
+      "https://openalex.org/W176020170",
+      "https://openalex.org/W2034616338",
+      "https://openalex.org/W1759296596",
+      "https://openalex.org/W4232449432",
+      "https://openalex.org/W4249980547",
+      "https://openalex.org/W1999342660"
+    ],
+    "abstract_inverted_index": {
+      "In": [
+        0,
+        113
+      ],
+      "this": [
+        1,
+        114
+      ],
+      "essay,": [
+        2,
+        115
+      ],
+      "I": [
+        3,
+        116,
+        155
+      ],
+      "explore": [
+        4
+      ],
+      "the": [
+        5,
+        14,
+        17,
+        66,
+        69,
+        77,
+        82,
+        92,
+        97,
+        108,
+        121,
+        134,
+        145,
+        164,
+        171,
+        187,
+        199
+      ],
+      "city": [
+        6,
+        53,
+        165
+      ],
+      "of": [
+        7,
+        16,
+        68,
+        110,
+        123,
+        130,
+        142,
+        150,
+        183,
+        189
+      ],
+      "Jerusalem,": [
+        8,
+        105
+      ],
+      "which": [
+        9,
+        136
+      ],
+      "not": [
+        10,
+        168
+      ],
+      "only": [
+        11
+      ],
+      "lies": [
+        12
+      ],
+      "at": [
+        13,
+        103
+      ],
+      "heart": [
+        15
+      ],
+      "Israeli-Palestinian": [
+        18,
+        124
+      ],
+      "conflict": [
+        19,
+        152
+      ],
+      "but": [
+        20,
+        176
+      ],
+      "is": [
+        21,
+        47,
+        157
+      ],
+      "inextricably": [
+        22
+      ],
+      "shaped": [
+        23
+      ],
+      "by": [
+        24,
+        55,
+        180
+      ],
+      "its": [
+        25,
+        62
+      ],
+      "developments.": [
+        26
+      ],
+      "Nominally": [
+        27
+      ],
+      "unified": [
+        28
+      ],
+      "under": [
+        29
+      ],
+      "Israeli": [
+        30,
+        39,
+        93
+      ],
+      "sovereignty,": [
+        31
+      ],
+      "Jerusalem": [
+        32,
+        71
+      ],
+      "nevertheless": [
+        33
+      ],
+      "remains": [
+        34,
+        72
+      ],
+      "starkly": [
+        35
+      ],
+      "divided": [
+        36
+      ],
+      "between": [
+        37,
+        74
+      ],
+      "an": [
+        38,
+        42,
+        139
+      ],
+      "west": [
+        40
+      ],
+      "and": [
+        41,
+        46,
+        58,
+        91,
+        153,
+        192,
+        196
+      ],
+      "occupied": [
+        43
+      ],
+      "Palestinian": [
+        44
+      ],
+      "east": [
+        45
+      ],
+      "best": [
+        48
+      ],
+      "understood": [
+        49
+      ],
+      "as": [
+        50,
+        147
+      ],
+      "a": [
+        51,
+        88,
+        128,
+        148,
+        181
+      ],
+      "frontier": [
+        52,
+        146
+      ],
+      "characterized": [
+        54
+      ],
+      "long-simmering": [
+        56
+      ],
+      "tensions": [
+        57
+      ],
+      "quotidian": [
+        59
+      ],
+      "conflict.": [
+        60
+      ],
+      "With": [
+        61
+      ],
+      "future": [
+        63,
+        67,
+        161
+      ],
+      "tied": [
+        64
+      ],
+      "to": [
+        65,
+        95,
+        118,
+        159,
+        198
+      ],
+      "conflict,": [
+        70
+      ],
+      "caught": [
+        73
+      ],
+      "two": [
+        75
+      ],
+      "options:": [
+        76
+      ],
+      "almost": [
+        78
+      ],
+      "global": [
+        79
+      ],
+      "preference": [
+        80
+      ],
+      "for": [
+        81,
+        163,
+        173
+      ],
+      "city\u2019s": [
+        83
+      ],
+      "repartition": [
+        84
+      ],
+      "in": [
+        85,
+        133
+      ],
+      "accordance": [
+        86
+      ],
+      "with": [
+        87
+      ],
+      "\u2018two-state": [
+        89
+      ],
+      "solution\u2019": [
+        90
+      ],
+      "desire": [
+        94,
+        172
+      ],
+      "maintain": [
+        96
+      ],
+      "status": [
+        98
+      ],
+      "quo.": [
+        99
+      ],
+      "A": [
+        100
+      ],
+      "closer": [
+        101
+      ],
+      "look": [
+        102
+      ],
+      "contemporary": [
+        104
+      ],
+      "however,": [
+        106
+      ],
+      "reveals": [
+        107
+      ],
+      "untenability": [
+        109
+      ],
+      "both": [
+        111,
+        151
+      ],
+      "options.": [
+        112
+      ],
+      "seek": [
+        117
+      ],
+      "document": [
+        119
+      ],
+      "how": [
+        120
+      ],
+      "reality": [
+        122
+      ],
+      "division": [
+        125
+      ],
+      "sits": [
+        126
+      ],
+      "alongside": [
+        127
+      ],
+      "dynamic": [
+        129
+      ],
+      "blurred": [
+        131
+      ],
+      "separation": [
+        132
+      ],
+      "city,": [
+        135
+      ],
+      "has": [
+        137
+      ],
+      "forged": [
+        138
+      ],
+      "uneasy": [
+        140
+      ],
+      "coexistence": [
+        141
+      ],
+      "sorts.": [
+        143
+      ],
+      "Re-thinking": [
+        144
+      ],
+      "site": [
+        149
+      ],
+      "coexistence,": [
+        154
+      ],
+      "argue,": [
+        156
+      ],
+      "key": [
+        158
+      ],
+      "imagining": [
+        160
+      ],
+      "possibilities": [
+        162
+      ],
+      "that": [
+        166,
+        185
+      ],
+      "do": [
+        167
+      ],
+      "rest": [
+        169
+      ],
+      "on": [
+        170
+      ],
+      "ethnically-pure": [
+        174
+      ],
+      "spaces,": [
+        175
+      ],
+      "are": [
+        177
+      ],
+      "rather": [
+        178
+      ],
+      "guided": [
+        179
+      ],
+      "politics": [
+        182
+      ],
+      "co-presence": [
+        184
+      ],
+      "recognizes": [
+        186
+      ],
+      "impossibility": [
+        188
+      ],
+      "disentangling": [
+        190
+      ],
+      "Arab": [
+        191
+      ],
+      "Jewish": [
+        193
+      ],
+      "histories,": [
+        194
+      ],
+      "memories": [
+        195
+      ],
+      "connections": [
+        197
+      ],
+      "city.": [
+        200
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2020,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2014,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2016-06-24T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W3198577388",
+    "doi": "https://doi.org/10.1177/07255136211042453",
+    "title": "How memory survives: Descendants of Auschwitz survivors and the progenic tattoo",
+    "display_name": "How memory survives: Descendants of Auschwitz survivors and the progenic tattoo",
+    "relevance_score": 8.228293,
+    "publication_year": 2021,
+    "publication_date": "2021-09-07",
+    "ids": {
+      "openalex": "https://openalex.org/W3198577388",
+      "doi": "https://doi.org/10.1177/07255136211042453",
+      "mag": "3198577388"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/07255136211042453",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/07255136211042453",
+      "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/07255136211042453",
+      "source": {
+        "id": "https://openalex.org/S97919111",
+        "display_name": "Thesis Eleven",
+        "issn_l": "0725-5136",
+        "issn": [
+          "0725-5136",
+          "1461-7455"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Thesis Eleven",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/07255136211042453",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5050625839",
+          "display_name": "Alice Bloch",
+          "orcid": "https://orcid.org/0000-0001-9757-8930"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I28407311",
+            "display_name": "University of Manchester",
+            "ror": "https://ror.org/027m9bs27",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I28407311"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Alice Bloch",
+        "raw_affiliation_strings": [
+          "University of Manchester, UK"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Manchester, UK",
+            "institution_ids": [
+              "https://openalex.org/I28407311"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5050625839"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I28407311"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 2.41866028,
+    "has_fulltext": false,
+    "cited_by_count": 12,
+    "citation_normalized_percentile": {
+      "value": 0.86911272,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 95,
+      "max": 98
+    },
+    "biblio": {
+      "volume": "168",
+      "issue": "1",
+      "first_page": "107",
+      "last_page": "122"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11104",
+      "display_name": "Memory, Trauma, and Commemoration",
+      "score": 0.9983000159263611,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3207",
+        "display_name": "Social Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11104",
+        "display_name": "Memory, Trauma, and Commemoration",
+        "score": 0.9983000159263611,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3207",
+          "display_name": "Social Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12901",
+        "display_name": "Tattoo and Body Piercing Complications",
+        "score": 0.991100013256073,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3316",
+          "display_name": "Cultural Studies"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10149",
+        "display_name": "Anthropological Studies and Insights",
+        "score": 0.9883999824523926,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3314",
+          "display_name": "Anthropology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/the-holocaust",
+        "display_name": "The Holocaust",
+        "score": 0.9140898585319519
+      },
+      {
+        "id": "https://openalex.org/keywords/meaning",
+        "display_name": "Meaning (existential)",
+        "score": 0.7960915565490723
+      },
+      {
+        "id": "https://openalex.org/keywords/storytelling",
+        "display_name": "Storytelling",
+        "score": 0.6841440796852112
+      },
+      {
+        "id": "https://openalex.org/keywords/relation",
+        "display_name": "Relation (database)",
+        "score": 0.6147931814193726
+      },
+      {
+        "id": "https://openalex.org/keywords/symbol",
+        "display_name": "Symbol (formal)",
+        "score": 0.5365882515907288
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.47619354724884033
+      },
+      {
+        "id": "https://openalex.org/keywords/transgenerational-epigenetics",
+        "display_name": "Transgenerational epigenetics",
+        "score": 0.45431825518608093
+      },
+      {
+        "id": "https://openalex.org/keywords/history",
+        "display_name": "History",
+        "score": 0.4074726998806
+      },
+      {
+        "id": "https://openalex.org/keywords/psychoanalysis",
+        "display_name": "Psychoanalysis",
+        "score": 0.4015173017978668
+      },
+      {
+        "id": "https://openalex.org/keywords/aesthetics",
+        "display_name": "Aesthetics",
+        "score": 0.36033010482788086
+      },
+      {
+        "id": "https://openalex.org/keywords/genealogy",
+        "display_name": "Genealogy",
+        "score": 0.35287225246429443
+      },
+      {
+        "id": "https://openalex.org/keywords/literature",
+        "display_name": "Literature",
+        "score": 0.3185683786869049
+      },
+      {
+        "id": "https://openalex.org/keywords/art",
+        "display_name": "Art",
+        "score": 0.3172582983970642
+      },
+      {
+        "id": "https://openalex.org/keywords/philosophy",
+        "display_name": "Philosophy",
+        "score": 0.17183947563171387
+      },
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.16719821095466614
+      },
+      {
+        "id": "https://openalex.org/keywords/epistemology",
+        "display_name": "Epistemology",
+        "score": 0.12173274159431458
+      },
+      {
+        "id": "https://openalex.org/keywords/narrative",
+        "display_name": "Narrative",
+        "score": 0.09808608889579773
+      },
+      {
+        "id": "https://openalex.org/keywords/linguistics",
+        "display_name": "Linguistics",
+        "score": 0.08283379673957825
+      },
+      {
+        "id": "https://openalex.org/keywords/theology",
+        "display_name": "Theology",
+        "score": 0.07556897401809692
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C110361221",
+        "wikidata": "https://www.wikidata.org/wiki/Q2763",
+        "display_name": "The Holocaust",
+        "level": 2,
+        "score": 0.9140898585319519
+      },
+      {
+        "id": "https://openalex.org/C2780876879",
+        "wikidata": "https://www.wikidata.org/wiki/Q3054749",
+        "display_name": "Meaning (existential)",
+        "level": 2,
+        "score": 0.7960915565490723
+      },
+      {
+        "id": "https://openalex.org/C2776538412",
+        "wikidata": "https://www.wikidata.org/wiki/Q989963",
+        "display_name": "Storytelling",
+        "level": 3,
+        "score": 0.6841440796852112
+      },
+      {
+        "id": "https://openalex.org/C25343380",
+        "wikidata": "https://www.wikidata.org/wiki/Q277521",
+        "display_name": "Relation (database)",
+        "level": 2,
+        "score": 0.6147931814193726
+      },
+      {
+        "id": "https://openalex.org/C134400042",
+        "wikidata": "https://www.wikidata.org/wiki/Q2372244",
+        "display_name": "Symbol (formal)",
+        "level": 2,
+        "score": 0.5365882515907288
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.47619354724884033
+      },
+      {
+        "id": "https://openalex.org/C184151982",
+        "wikidata": "https://www.wikidata.org/wiki/Q7834236",
+        "display_name": "Transgenerational epigenetics",
+        "level": 4,
+        "score": 0.45431825518608093
+      },
+      {
+        "id": "https://openalex.org/C95457728",
+        "wikidata": "https://www.wikidata.org/wiki/Q309",
+        "display_name": "History",
+        "level": 0,
+        "score": 0.4074726998806
+      },
+      {
+        "id": "https://openalex.org/C11171543",
+        "wikidata": "https://www.wikidata.org/wiki/Q41630",
+        "display_name": "Psychoanalysis",
+        "level": 1,
+        "score": 0.4015173017978668
+      },
+      {
+        "id": "https://openalex.org/C107038049",
+        "wikidata": "https://www.wikidata.org/wiki/Q35986",
+        "display_name": "Aesthetics",
+        "level": 1,
+        "score": 0.36033010482788086
+      },
+      {
+        "id": "https://openalex.org/C53553401",
+        "wikidata": "https://www.wikidata.org/wiki/Q47307",
+        "display_name": "Genealogy",
+        "level": 1,
+        "score": 0.35287225246429443
+      },
+      {
+        "id": "https://openalex.org/C124952713",
+        "wikidata": "https://www.wikidata.org/wiki/Q8242",
+        "display_name": "Literature",
+        "level": 1,
+        "score": 0.3185683786869049
+      },
+      {
+        "id": "https://openalex.org/C142362112",
+        "wikidata": "https://www.wikidata.org/wiki/Q735",
+        "display_name": "Art",
+        "level": 0,
+        "score": 0.3172582983970642
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.17183947563171387
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.16719821095466614
+      },
+      {
+        "id": "https://openalex.org/C111472728",
+        "wikidata": "https://www.wikidata.org/wiki/Q9471",
+        "display_name": "Epistemology",
+        "level": 1,
+        "score": 0.12173274159431458
+      },
+      {
+        "id": "https://openalex.org/C199033989",
+        "wikidata": "https://www.wikidata.org/wiki/Q1318295",
+        "display_name": "Narrative",
+        "level": 2,
+        "score": 0.09808608889579773
+      },
+      {
+        "id": "https://openalex.org/C41895202",
+        "wikidata": "https://www.wikidata.org/wiki/Q8162",
+        "display_name": "Linguistics",
+        "level": 1,
+        "score": 0.08283379673957825
+      },
+      {
+        "id": "https://openalex.org/C27206212",
+        "wikidata": "https://www.wikidata.org/wiki/Q34178",
+        "display_name": "Theology",
+        "level": 1,
+        "score": 0.07556897401809692
+      },
+      {
+        "id": "https://openalex.org/C86803240",
+        "wikidata": "https://www.wikidata.org/wiki/Q420",
+        "display_name": "Biology",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C54355233",
+        "wikidata": "https://www.wikidata.org/wiki/Q7162",
+        "display_name": "Genetics",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C77088390",
+        "wikidata": "https://www.wikidata.org/wiki/Q8513",
+        "display_name": "Database",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C112672928",
+        "wikidata": "https://www.wikidata.org/wiki/Q239526",
+        "display_name": "Offspring",
+        "level": 3,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C2779234561",
+        "wikidata": "https://www.wikidata.org/wiki/Q11995",
+        "display_name": "Pregnancy",
+        "level": 2,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "doi:10.1177/07255136211042453",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1177/07255136211042453",
+        "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/07255136211042453",
+        "source": {
+          "id": "https://openalex.org/S97919111",
+          "display_name": "Thesis Eleven",
+          "issn_l": "0725-5136",
+          "issn": [
+            "0725-5136",
+            "1461-7455"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Thesis Eleven",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:pure.atira.dk:publications/fc147f73-2e5b-4bdc-bc1f-4f453f42858c",
+        "is_oa": true,
+        "landing_page_url": "https://research.manchester.ac.uk/en/publications/fc147f73-2e5b-4bdc-bc1f-4f453f42858c",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400216",
+          "display_name": "Research Portal (King's College London)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I183935753",
+          "host_organization_name": "King's College London",
+          "host_organization_lineage": [
+            "https://openalex.org/I183935753"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": ""
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1177/07255136211042453",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/07255136211042453",
+      "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/07255136211042453",
+      "source": {
+        "id": "https://openalex.org/S97919111",
+        "display_name": "Thesis Eleven",
+        "issn_l": "0725-5136",
+        "issn": [
+          "0725-5136",
+          "1461-7455"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Thesis Eleven",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [
+      {
+        "score": 0.5,
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": true,
+      "grobid_xml": true
+    },
+    "referenced_works_count": 54,
+    "referenced_works": [
+      "https://openalex.org/W2041402403",
+      "https://openalex.org/W2785706474",
+      "https://openalex.org/W2156770268",
+      "https://openalex.org/W2103411649",
+      "https://openalex.org/W2109210939",
+      "https://openalex.org/W2130932652",
+      "https://openalex.org/W2057173835",
+      "https://openalex.org/W2016148950",
+      "https://openalex.org/W2505139815",
+      "https://openalex.org/W2101385583",
+      "https://openalex.org/W2169371304",
+      "https://openalex.org/W2068087363",
+      "https://openalex.org/W4210674482",
+      "https://openalex.org/W2085925869",
+      "https://openalex.org/W1507900462",
+      "https://openalex.org/W2318227182",
+      "https://openalex.org/W2059734746",
+      "https://openalex.org/W3008769075",
+      "https://openalex.org/W2970428490",
+      "https://openalex.org/W1951892396",
+      "https://openalex.org/W2771786374",
+      "https://openalex.org/W2151104051",
+      "https://openalex.org/W1959095171",
+      "https://openalex.org/W113345069",
+      "https://openalex.org/W2030560757",
+      "https://openalex.org/W2335630728",
+      "https://openalex.org/W2070481764",
+      "https://openalex.org/W4253445778",
+      "https://openalex.org/W4240830160",
+      "https://openalex.org/W2163928107",
+      "https://openalex.org/W2013722664",
+      "https://openalex.org/W2478110786",
+      "https://openalex.org/W2762969724",
+      "https://openalex.org/W2911239490",
+      "https://openalex.org/W2027013603",
+      "https://openalex.org/W2323494234",
+      "https://openalex.org/W2768287366",
+      "https://openalex.org/W2754332868",
+      "https://openalex.org/W2039934725",
+      "https://openalex.org/W2008278713",
+      "https://openalex.org/W576322847",
+      "https://openalex.org/W2620483417",
+      "https://openalex.org/W147761813",
+      "https://openalex.org/W3081905423",
+      "https://openalex.org/W4211134764",
+      "https://openalex.org/W586755338",
+      "https://openalex.org/W4301721776",
+      "https://openalex.org/W2022768097",
+      "https://openalex.org/W4297361601",
+      "https://openalex.org/W4254573034",
+      "https://openalex.org/W2889330600",
+      "https://openalex.org/W2980098962",
+      "https://openalex.org/W2767205247",
+      "https://openalex.org/W2023608345"
+    ],
+    "related_works": [
+      "https://openalex.org/W2035122032",
+      "https://openalex.org/W2971982268",
+      "https://openalex.org/W4319313096",
+      "https://openalex.org/W2044786051",
+      "https://openalex.org/W1963615270",
+      "https://openalex.org/W2294049871",
+      "https://openalex.org/W3089139368",
+      "https://openalex.org/W4230171796",
+      "https://openalex.org/W4390553308",
+      "https://openalex.org/W4239537816"
+    ],
+    "abstract_inverted_index": {
+      "The": [
+        0,
+        29,
+        68
+      ],
+      "impact": [
+        1
+      ],
+      "of": [
+        2,
+        8,
+        26,
+        42,
+        51,
+        64,
+        74,
+        77,
+        88,
+        94,
+        112,
+        129
+      ],
+      "the": [
+        3,
+        6,
+        11,
+        24,
+        37,
+        40,
+        43,
+        49,
+        54,
+        62,
+        75,
+        78,
+        92,
+        95,
+        110,
+        120
+      ],
+      "Holocaust": [
+        4,
+        38,
+        79,
+        89
+      ],
+      "on": [
+        5,
+        48,
+        61,
+        122
+      ],
+      "descendants": [
+        7,
+        111
+      ],
+      "survivors": [
+        9,
+        113
+      ],
+      "and": [
+        10,
+        18,
+        34,
+        57,
+        106
+      ],
+      "ways": [
+        12
+      ],
+      "in": [
+        13,
+        53,
+        102,
+        115,
+        134
+      ],
+      "which": [
+        14
+      ],
+      "they": [
+        15
+      ],
+      "embrace,": [
+        16
+      ],
+      "embody": [
+        17
+      ],
+      "memorialise": [
+        19
+      ],
+      "their": [
+        20,
+        123
+      ],
+      "family": [
+        21
+      ],
+      "histories": [
+        22
+      ],
+      "is": [
+        23
+      ],
+      "subject": [
+        25
+      ],
+      "this": [
+        27,
+        97,
+        130
+      ],
+      "paper.": [
+        28
+      ],
+      "paper": [
+        30,
+        98,
+        131
+      ],
+      "explores": [
+        31,
+        99
+      ],
+      "intergenerational": [
+        32
+      ],
+      "storytelling": [
+        33
+      ],
+      "silences": [
+        35
+      ],
+      "about": [
+        36
+      ],
+      "through": [
+        39
+      ],
+      "lens": [
+        41
+      ],
+      "number": [
+        44,
+        69,
+        121
+      ],
+      "that": [
+        45
+      ],
+      "was": [
+        46,
+        132
+      ],
+      "tattooed": [
+        47
+      ],
+      "bodies": [
+        50,
+        63
+      ],
+      "inmates": [
+        52
+      ],
+      "Auschwitz": [
+        55
+      ],
+      "complex": [
+        56
+      ],
+      "has": [
+        58,
+        70,
+        83
+      ],
+      "been": [
+        59
+      ],
+      "replicated": [
+        60,
+        119
+      ],
+      "some": [
+        65
+      ],
+      "survivor": [
+        66
+      ],
+      "descendants.": [
+        67
+      ],
+      "become": [
+        71
+      ],
+      "a": [
+        72
+      ],
+      "symbol": [
+        73
+      ],
+      "crimes": [
+        76
+      ],
+      "though": [
+        80
+      ],
+      "its": [
+        81,
+        100
+      ],
+      "meaning": [
+        82,
+        101
+      ],
+      "changed": [
+        84
+      ],
+      "during": [
+        85
+      ],
+      "different": [
+        86
+      ],
+      "periods": [
+        87
+      ],
+      "remembrance.": [
+        90
+      ],
+      "Using": [
+        91
+      ],
+      "genealogy": [
+        93
+      ],
+      "tattoo,": [
+        96
+      ],
+      "relation": [
+        103
+      ],
+      "to": [
+        104
+      ],
+      "private": [
+        105
+      ],
+      "public": [
+        107
+      ],
+      "memorialisation": [
+        108
+      ],
+      "for": [
+        109
+      ],
+      "living": [
+        114
+      ],
+      "Israel": [
+        116
+      ],
+      "who": [
+        117
+      ],
+      "have": [
+        118
+      ],
+      "own": [
+        124
+      ],
+      "body.": [
+        125
+      ],
+      "An": [
+        126
+      ],
+      "earlier": [
+        127
+      ],
+      "version": [
+        128
+      ],
+      "presented": [
+        133
+      ],
+      "December": [
+        135
+      ],
+      "2020": [
+        136
+      ],
+      "at": [
+        137
+      ],
+      "La": [
+        138
+      ],
+      "Trobe": [
+        139
+      ],
+      "University\u2019s": [
+        140
+      ],
+      "Agnes": [
+        141
+      ],
+      "Heller": [
+        142
+      ],
+      "Annual": [
+        143
+      ],
+      "Sociology": [
+        144
+      ],
+      "Lecture.": [
+        145
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 5
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2315331455",
+    "doi": "https://doi.org/10.1177/0725513610371039",
+    "title": "Athens, Jerusalem and Rome after Auschwitz: Still the Jewish Question?",
+    "display_name": "Athens, Jerusalem and Rome after Auschwitz: Still the Jewish Question?",
+    "relevance_score": 3.0199323,
+    "publication_year": 2010,
+    "publication_date": "2010-08-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2315331455",
+      "doi": "https://doi.org/10.1177/0725513610371039",
+      "mag": "2315331455"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/0725513610371039",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/0725513610371039",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S97919111",
+        "display_name": "Thesis Eleven",
+        "issn_l": "0725-5136",
+        "issn": [
+          "0725-5136",
+          "1461-7455"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Thesis Eleven",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5038182953",
+          "display_name": "R\u00f3bert Meister",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I185103710",
+            "display_name": "University of California, Santa Cruz",
+            "ror": "https://ror.org/03s65by71",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I185103710"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Robert Meister",
+        "raw_affiliation_strings": [
+          "University of California, Santa Cruz, USA,"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of California, Santa Cruz, USA,",
+            "institution_ids": [
+              "https://openalex.org/I185103710"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5038182953"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I185103710"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 1,
+    "citation_normalized_percentile": {
+      "value": 0.39631417,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 90,
+      "max": 94
+    },
+    "biblio": {
+      "volume": "102",
+      "issue": "1",
+      "first_page": "76",
+      "last_page": "96"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10362",
+      "display_name": "Biblical Studies and Interpretation",
+      "score": 0.9513000249862671,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1212",
+        "display_name": "Religious studies"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10362",
+        "display_name": "Biblical Studies and Interpretation",
+        "score": 0.9513000249862671,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1212",
+          "display_name": "Religious studies"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.9485999941825867,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10794",
+        "display_name": "Islamic Studies and History",
+        "score": 0.9394999742507935,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/the-holocaust",
+        "display_name": "The Holocaust",
+        "score": 0.754624605178833
+      },
+      {
+        "id": "https://openalex.org/keywords/judaism",
+        "display_name": "Judaism",
+        "score": 0.727635383605957
+      },
+      {
+        "id": "https://openalex.org/keywords/monotheism",
+        "display_name": "Monotheism",
+        "score": 0.7193478345870972
+      },
+      {
+        "id": "https://openalex.org/keywords/islam",
+        "display_name": "Islam",
+        "score": 0.5730781555175781
+      },
+      {
+        "id": "https://openalex.org/keywords/politics",
+        "display_name": "Politics",
+        "score": 0.5705694556236267
+      },
+      {
+        "id": "https://openalex.org/keywords/human-rights",
+        "display_name": "Human rights",
+        "score": 0.5584487915039062
+      },
+      {
+        "id": "https://openalex.org/keywords/cruelty",
+        "display_name": "Cruelty",
+        "score": 0.5511731505393982
+      },
+      {
+        "id": "https://openalex.org/keywords/religious-studies",
+        "display_name": "Religious studies",
+        "score": 0.5357688069343567
+      },
+      {
+        "id": "https://openalex.org/keywords/economic-justice",
+        "display_name": "Economic Justice",
+        "score": 0.4987924098968506
+      },
+      {
+        "id": "https://openalex.org/keywords/jewish-question",
+        "display_name": "Jewish question",
+        "score": 0.492936372756958
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.46128979325294495
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.45178163051605225
+      },
+      {
+        "id": "https://openalex.org/keywords/antisemitism",
+        "display_name": "Antisemitism",
+        "score": 0.4502895176410675
+      },
+      {
+        "id": "https://openalex.org/keywords/nazism",
+        "display_name": "Nazism",
+        "score": 0.43315961956977844
+      },
+      {
+        "id": "https://openalex.org/keywords/history",
+        "display_name": "History",
+        "score": 0.395202100276947
+      },
+      {
+        "id": "https://openalex.org/keywords/philosophy",
+        "display_name": "Philosophy",
+        "score": 0.35083481669425964
+      },
+      {
+        "id": "https://openalex.org/keywords/theology",
+        "display_name": "Theology",
+        "score": 0.3255153298377991
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.23776358366012573
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C110361221",
+        "wikidata": "https://www.wikidata.org/wiki/Q2763",
+        "display_name": "The Holocaust",
+        "level": 2,
+        "score": 0.754624605178833
+      },
+      {
+        "id": "https://openalex.org/C150152722",
+        "wikidata": "https://www.wikidata.org/wiki/Q9268",
+        "display_name": "Judaism",
+        "level": 2,
+        "score": 0.727635383605957
+      },
+      {
+        "id": "https://openalex.org/C2776879149",
+        "wikidata": "https://www.wikidata.org/wiki/Q9159",
+        "display_name": "Monotheism",
+        "level": 3,
+        "score": 0.7193478345870972
+      },
+      {
+        "id": "https://openalex.org/C4445939",
+        "wikidata": "https://www.wikidata.org/wiki/Q432",
+        "display_name": "Islam",
+        "level": 2,
+        "score": 0.5730781555175781
+      },
+      {
+        "id": "https://openalex.org/C94625758",
+        "wikidata": "https://www.wikidata.org/wiki/Q7163",
+        "display_name": "Politics",
+        "level": 2,
+        "score": 0.5705694556236267
+      },
+      {
+        "id": "https://openalex.org/C169437150",
+        "wikidata": "https://www.wikidata.org/wiki/Q8458",
+        "display_name": "Human rights",
+        "level": 2,
+        "score": 0.5584487915039062
+      },
+      {
+        "id": "https://openalex.org/C2780226355",
+        "wikidata": "https://www.wikidata.org/wiki/Q1936750",
+        "display_name": "Cruelty",
+        "level": 2,
+        "score": 0.5511731505393982
+      },
+      {
+        "id": "https://openalex.org/C24667770",
+        "wikidata": "https://www.wikidata.org/wiki/Q34187",
+        "display_name": "Religious studies",
+        "level": 1,
+        "score": 0.5357688069343567
+      },
+      {
+        "id": "https://openalex.org/C139621336",
+        "wikidata": "https://www.wikidata.org/wiki/Q3190382",
+        "display_name": "Economic Justice",
+        "level": 2,
+        "score": 0.4987924098968506
+      },
+      {
+        "id": "https://openalex.org/C2778681481",
+        "wikidata": "https://www.wikidata.org/wiki/Q708764",
+        "display_name": "Jewish question",
+        "level": 3,
+        "score": 0.492936372756958
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.46128979325294495
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.45178163051605225
+      },
+      {
+        "id": "https://openalex.org/C78359825",
+        "wikidata": "https://www.wikidata.org/wiki/Q22649",
+        "display_name": "Antisemitism",
+        "level": 3,
+        "score": 0.4502895176410675
+      },
+      {
+        "id": "https://openalex.org/C5616717",
+        "wikidata": "https://www.wikidata.org/wiki/Q7310",
+        "display_name": "Nazism",
+        "level": 3,
+        "score": 0.43315961956977844
+      },
+      {
+        "id": "https://openalex.org/C95457728",
+        "wikidata": "https://www.wikidata.org/wiki/Q309",
+        "display_name": "History",
+        "level": 0,
+        "score": 0.395202100276947
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.35083481669425964
+      },
+      {
+        "id": "https://openalex.org/C27206212",
+        "wikidata": "https://www.wikidata.org/wiki/Q34178",
+        "display_name": "Theology",
+        "level": 1,
+        "score": 0.3255153298377991
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.23776358366012573
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1177/0725513610371039",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1177/0725513610371039",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S97919111",
+          "display_name": "Thesis Eleven",
+          "issn_l": "0725-5136",
+          "issn": [
+            "0725-5136",
+            "1461-7455"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Thesis Eleven",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.6399999856948853,
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 43,
+    "referenced_works": [
+      "https://openalex.org/W4206921778",
+      "https://openalex.org/W4206978814",
+      "https://openalex.org/W389713538",
+      "https://openalex.org/W4256188527",
+      "https://openalex.org/W2313917875",
+      "https://openalex.org/W4246647546",
+      "https://openalex.org/W639144855",
+      "https://openalex.org/W4234064016",
+      "https://openalex.org/W4301811920",
+      "https://openalex.org/W4205105943",
+      "https://openalex.org/W4230756644",
+      "https://openalex.org/W177790329",
+      "https://openalex.org/W4248875437",
+      "https://openalex.org/W4300499578",
+      "https://openalex.org/W652999854",
+      "https://openalex.org/W2333601185",
+      "https://openalex.org/W4241129183",
+      "https://openalex.org/W2071390708",
+      "https://openalex.org/W4298151354",
+      "https://openalex.org/W609674985",
+      "https://openalex.org/W2071538673",
+      "https://openalex.org/W4367362637",
+      "https://openalex.org/W2011938634",
+      "https://openalex.org/W1523242780",
+      "https://openalex.org/W2078943637",
+      "https://openalex.org/W4395472369",
+      "https://openalex.org/W3124616024",
+      "https://openalex.org/W2028655727",
+      "https://openalex.org/W2325191674",
+      "https://openalex.org/W1504959294",
+      "https://openalex.org/W2610913812",
+      "https://openalex.org/W571578608",
+      "https://openalex.org/W2030398377",
+      "https://openalex.org/W1586285108",
+      "https://openalex.org/W1916616959",
+      "https://openalex.org/W2019213344",
+      "https://openalex.org/W2109532669",
+      "https://openalex.org/W2761890492",
+      "https://openalex.org/W1588226503",
+      "https://openalex.org/W634538849",
+      "https://openalex.org/W2797008533",
+      "https://openalex.org/W1542796524",
+      "https://openalex.org/W1596086315"
+    ],
+    "related_works": [
+      "https://openalex.org/W3200866442",
+      "https://openalex.org/W1963608222",
+      "https://openalex.org/W4312070600",
+      "https://openalex.org/W4312624039",
+      "https://openalex.org/W2604633974",
+      "https://openalex.org/W4315853136",
+      "https://openalex.org/W4321486182",
+      "https://openalex.org/W3183439684",
+      "https://openalex.org/W1890447200",
+      "https://openalex.org/W2050704459"
+    ],
+    "abstract_inverted_index": {
+      "This": [
+        0
+      ],
+      "article": [
+        1,
+        70,
+        127
+      ],
+      "treats": [
+        2
+      ],
+      "post-Holocaust": [
+        3
+      ],
+      "humanitarianism": [
+        4
+      ],
+      "as": [
+        5,
+        40,
+        65,
+        103,
+        130,
+        146,
+        180
+      ],
+      "a": [
+        6,
+        33,
+        181,
+        201
+      ],
+      "secular": [
+        7,
+        45
+      ],
+      "version": [
+        8
+      ],
+      "of": [
+        9,
+        23,
+        37,
+        43,
+        47,
+        81,
+        91,
+        110,
+        121,
+        153,
+        165,
+        170,
+        175,
+        183
+      ],
+      "St": [
+        10
+      ],
+      "Paul\u2019s": [
+        11,
+        31
+      ],
+      "\u2018Jewish": [
+        12,
+        193
+      ],
+      "Question\u2019:": [
+        13
+      ],
+      "why": [
+        14
+      ],
+      "are": [
+        15
+      ],
+      "there": [
+        16,
+        158
+      ],
+      "still": [
+        17
+      ],
+      "Jews": [
+        18,
+        61
+      ],
+      "now": [
+        19
+      ],
+      "that": [
+        20,
+        112,
+        157,
+        186,
+        195
+      ],
+      "the": [
+        21,
+        41,
+        66,
+        78,
+        88,
+        95,
+        107,
+        118,
+        126,
+        131,
+        135,
+        151,
+        163,
+        168,
+        173,
+        210
+      ],
+      "particularities": [
+        22
+      ],
+      "Jewish": [
+        24,
+        38,
+        122
+      ],
+      "history": [
+        25
+      ],
+      "have": [
+        26
+      ],
+      "universal": [
+        27
+      ],
+      "meaning?": [
+        28
+      ],
+      "It": [
+        29
+      ],
+      "considers": [
+        30,
+        134
+      ],
+      "Judaeo-Christianity,": [
+        32
+      ],
+      "distinctively": [
+        34
+      ],
+      "Christian": [
+        35
+      ],
+      "embrace": [
+        36
+      ],
+      "survival,": [
+        39
+      ],
+      "prototype": [
+        42
+      ],
+      "today\u2019s": [
+        44,
+        82,
+        176
+      ],
+      "project": [
+        46,
+        59
+      ],
+      "conversion": [
+        48
+      ],
+      "to": [
+        49,
+        62,
+        77,
+        106,
+        189
+      ],
+      "human": [
+        50,
+        83,
+        177
+      ],
+      "rights,": [
+        51
+      ],
+      "and": [
+        52,
+        133,
+        149,
+        167,
+        212
+      ],
+      "asks": [
+        53
+      ],
+      "what": [
+        54
+      ],
+      "it": [
+        55
+      ],
+      "means": [
+        56
+      ],
+      "within": [
+        57
+      ],
+      "this": [
+        58
+      ],
+      "for": [
+        60,
+        198,
+        214
+      ],
+      "regard": [
+        63
+      ],
+      "themselves": [
+        64
+      ],
+      "only": [
+        67
+      ],
+      "Jews.": [
+        68
+      ],
+      "The": [
+        69,
+        192
+      ],
+      "concludes": [
+        71
+      ],
+      "by": [
+        72,
+        94,
+        209
+      ],
+      "defining": [
+        73
+      ],
+      "an": [
+        74,
+        104
+      ],
+      "Islamic": [
+        75
+      ],
+      "alternative": [
+        76,
+        105
+      ],
+      "imperial": [
+        79
+      ],
+      "reach": [
+        80
+      ],
+      "rights": [
+        84,
+        178
+      ],
+      "discourse,": [
+        85
+      ],
+      "based": [
+        86
+      ],
+      "on": [
+        87,
+        143
+      ],
+      "recent": [
+        89
+      ],
+      "publication": [
+        90
+      ],
+      "1981": [
+        92
+      ],
+      "lectures": [
+        93
+      ],
+      "late": [
+        96
+      ],
+      "N.": [
+        97
+      ],
+      "O.": [
+        98
+      ],
+      "Brown,": [
+        99,
+        125
+      ],
+      "who": [
+        100
+      ],
+      "presented": [
+        101
+      ],
+      "Islam": [
+        102
+      ],
+      "Pauline": [
+        108
+      ],
+      "synthesis": [
+        109
+      ],
+      "Athens-Jerusalem": [
+        111
+      ],
+      "would": [
+        113
+      ],
+      "renew,": [
+        114
+      ],
+      "rather": [
+        115
+      ],
+      "than": [
+        116
+      ],
+      "supersede,": [
+        117
+      ],
+      "prophetic": [
+        119
+      ],
+      "tradition": [
+        120
+      ],
+      "monotheism.": [
+        123
+      ],
+      "Following": [
+        124
+      ],
+      "presents": [
+        128
+      ],
+      "Muhammad": [
+        129
+      ],
+      "anti-Paul,": [
+        132
+      ],
+      "key": [
+        136
+      ],
+      "differences": [
+        137
+      ],
+      "between": [
+        138
+      ],
+      "their": [
+        139
+      ],
+      "respective": [
+        140
+      ],
+      "political": [
+        141
+      ],
+      "theologies": [
+        142
+      ],
+      "issues": [
+        144,
+        207
+      ],
+      "such": [
+        145
+      ],
+      "fidelity,": [
+        147
+      ],
+      "cruelty": [
+        148
+      ],
+      "particularly": [
+        150
+      ],
+      "urgency": [
+        152,
+        188
+      ],
+      "justice.": [
+        154
+      ],
+      "Islam\u2019s": [
+        155
+      ],
+      "insistence": [
+        156
+      ],
+      "is": [
+        159
+      ],
+      "no": [
+        160
+      ],
+      "\u2018time": [
+        161
+      ],
+      "between\u2019": [
+        162
+      ],
+      "end": [
+        164
+      ],
+      "evil": [
+        166
+      ],
+      "beginning": [
+        169
+      ],
+      "justice": [
+        171,
+        190
+      ],
+      "shows": [
+        172
+      ],
+      "limitations": [
+        174
+      ],
+      "discourse": [
+        179
+      ],
+      "religion": [
+        182
+      ],
+      "permanent": [
+        184
+      ],
+      "transition": [
+        185
+      ],
+      "denies": [
+        187
+      ],
+      "itself.": [
+        191
+      ],
+      "Question\u2019": [
+        194
+      ],
+      "Paul": [
+        196
+      ],
+      "formulated": [
+        197
+      ],
+      "Christians": [
+        199
+      ],
+      "in": [
+        200
+      ],
+      "Roman": [
+        202
+      ],
+      "world": [
+        203
+      ],
+      "order": [
+        204
+      ],
+      "thus": [
+        205
+      ],
+      "illuminates": [
+        206
+      ],
+      "posed": [
+        208
+      ],
+      "Holocaust": [
+        211
+      ],
+      "Israel": [
+        213
+      ],
+      "professed": [
+        215
+      ],
+      "humanitarians": [
+        216
+      ],
+      "today.": [
+        217
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2018,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  }
+]

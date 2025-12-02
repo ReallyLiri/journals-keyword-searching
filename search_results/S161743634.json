@@ -1,0 +1,2052 @@
+[
+  {
+    "id": "https://openalex.org/W2795989617",
+    "doi": "https://doi.org/10.2307/1228134",
+    "title": "Religious Law in the Israel Legal System",
+    "display_name": "Religious Law in the Israel Legal System",
+    "relevance_score": 209.59987,
+    "publication_year": 1976,
+    "publication_date": "1976-01-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2795989617",
+      "doi": "https://doi.org/10.2307/1228134",
+      "mag": "2795989617"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.2307/1228134",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.2307/1228134",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S161743634",
+        "display_name": "Stanford Law Review",
+        "issn_l": "0038-9765",
+        "issn": [
+          "0038-9765",
+          "1939-8581"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310316196",
+        "host_organization_name": "Stanford Law School",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310316196"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Stanford Law Review",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5077686212",
+          "display_name": "Izhak Englard",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Izhak Englard",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5077686212"
+    ],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 2.35443161,
+    "has_fulltext": false,
+    "cited_by_count": 39,
+    "citation_normalized_percentile": {
+      "value": 0.9167743,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 100
+    },
+    "biblio": {
+      "volume": "28",
+      "issue": "2",
+      "first_page": "393",
+      "last_page": "393"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Jewish and Middle Eastern Studies",
+      "score": 0.9430000185966492,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.9430000185966492,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10362",
+        "display_name": "Biblical Studies and Interpretation",
+        "score": 0.9361000061035156,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1212",
+          "display_name": "Religious studies"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13372",
+        "display_name": "Archaeology and Historical Studies",
+        "score": 0.9345999956130981,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1204",
+          "display_name": "Archeology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.6965458393096924
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.522942841053009
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.6965458393096924
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.522942841053009
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.2307/1228134",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2307/1228134",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S161743634",
+          "display_name": "Stanford Law Review",
+          "issn_l": "0038-9765",
+          "issn": [
+            "0038-9765",
+            "1939-8581"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310316196",
+          "host_organization_name": "Stanford Law School",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316196"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Stanford Law Review",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.699999988079071,
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W2899084033",
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W578832185",
+      "https://openalex.org/W379073799",
+      "https://openalex.org/W637970887",
+      "https://openalex.org/W2394306283",
+      "https://openalex.org/W1573766785",
+      "https://openalex.org/W1530232415",
+      "https://openalex.org/W240862969",
+      "https://openalex.org/W2977561418"
+    ],
+    "abstract_inverted_index": null,
+    "counts_by_year": [
+      {
+        "year": 2022,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 12
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 18
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2797080532",
+    "doi": "https://doi.org/10.2307/1227800",
+    "title": "Insider Trading in Israel and England",
+    "display_name": "Insider Trading in Israel and England",
+    "relevance_score": 92.468094,
+    "publication_year": 1974,
+    "publication_date": "1974-01-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2797080532",
+      "doi": "https://doi.org/10.2307/1227800",
+      "mag": "2797080532"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.2307/1227800",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.2307/1227800",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S161743634",
+        "display_name": "Stanford Law Review",
+        "issn_l": "0038-9765",
+        "issn": [
+          "0038-9765",
+          "1939-8581"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310316196",
+        "host_organization_name": "Stanford Law School",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310316196"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Stanford Law Review",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5084595936",
+          "display_name": "Aaron Yoran",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Aaron Yoran",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5084595936"
+    ],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 1.53322529,
+    "has_fulltext": false,
+    "cited_by_count": 4,
+    "citation_normalized_percentile": {
+      "value": 0.87375746,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 94
+    },
+    "biblio": {
+      "volume": "26",
+      "issue": "2",
+      "first_page": "487",
+      "last_page": "487"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T14373",
+      "display_name": "Securities Regulation and Market Practices",
+      "score": 0.8762000203132629,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1406",
+        "display_name": "Marketing"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T14373",
+        "display_name": "Securities Regulation and Market Practices",
+        "score": 0.8762000203132629,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1406",
+          "display_name": "Marketing"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T14180",
+        "display_name": "Law, logistics, and international trade",
+        "score": 0.7454000115394592,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1402",
+          "display_name": "Accounting"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/insider",
+        "display_name": "Insider",
+        "score": 0.7827755212783813
+      },
+      {
+        "id": "https://openalex.org/keywords/insider-trading",
+        "display_name": "Insider trading",
+        "score": 0.7237617373466492
+      },
+      {
+        "id": "https://openalex.org/keywords/business",
+        "display_name": "Business",
+        "score": 0.5019497871398926
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.257985383272171
+      },
+      {
+        "id": "https://openalex.org/keywords/finance",
+        "display_name": "Finance",
+        "score": 0.19386893510818481
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.14723443984985352
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2778971194",
+        "wikidata": "https://www.wikidata.org/wiki/Q1664551",
+        "display_name": "Insider",
+        "level": 2,
+        "score": 0.7827755212783813
+      },
+      {
+        "id": "https://openalex.org/C2781078320",
+        "wikidata": "https://www.wikidata.org/wiki/Q854623",
+        "display_name": "Insider trading",
+        "level": 2,
+        "score": 0.7237617373466492
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.5019497871398926
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.257985383272171
+      },
+      {
+        "id": "https://openalex.org/C10138342",
+        "wikidata": "https://www.wikidata.org/wiki/Q43015",
+        "display_name": "Finance",
+        "level": 1,
+        "score": 0.19386893510818481
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.14723443984985352
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.2307/1227800",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2307/1227800",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S161743634",
+          "display_name": "Stanford Law Review",
+          "issn_l": "0038-9765",
+          "issn": [
+            "0038-9765",
+            "1939-8581"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310316196",
+          "host_organization_name": "Stanford Law School",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316196"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Stanford Law Review",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W653900512",
+      "https://openalex.org/W1559280668",
+      "https://openalex.org/W3123347851",
+      "https://openalex.org/W574801755",
+      "https://openalex.org/W2161718263",
+      "https://openalex.org/W1510863280",
+      "https://openalex.org/W2382215091",
+      "https://openalex.org/W3212745657",
+      "https://openalex.org/W273314610",
+      "https://openalex.org/W133454161"
+    ],
+    "abstract_inverted_index": null,
+    "counts_by_year": [
+      {
+        "year": 2017,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2014,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W1482368645",
+    "doi": "https://doi.org/10.2307/1228212",
+    "title": "The Juvenile Court in a Changing Society: Young Offenders in Israel",
+    "display_name": "The Juvenile Court in a Changing Society: Young Offenders in Israel",
+    "relevance_score": 90.03858,
+    "publication_year": 1975,
+    "publication_date": "1975-04-01",
+    "ids": {
+      "openalex": "https://openalex.org/W1482368645",
+      "doi": "https://doi.org/10.2307/1228212",
+      "mag": "1482368645"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.2307/1228212",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.2307/1228212",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S161743634",
+        "display_name": "Stanford Law Review",
+        "issn_l": "0038-9765",
+        "issn": [
+          "0038-9765",
+          "1939-8581"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310316196",
+        "host_organization_name": "Stanford Law School",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310316196"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Stanford Law Review",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5026606768",
+          "display_name": "David Reifen",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "David Reifen",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5026606768"
+    ],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 2.34601227,
+    "has_fulltext": false,
+    "cited_by_count": 6,
+    "citation_normalized_percentile": {
+      "value": 0.85918471,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "27",
+      "issue": "4",
+      "first_page": "1206",
+      "last_page": "1206"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10318",
+      "display_name": "Criminal Justice and Corrections Analysis",
+      "score": 0.9955999851226807,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10318",
+        "display_name": "Criminal Justice and Corrections Analysis",
+        "score": 0.9955999851226807,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11464",
+        "display_name": "Homelessness and Social Issues",
+        "score": 0.9197999835014343,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3600",
+          "display_name": "General Health Professions"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/36",
+          "display_name": "Health Professions"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/juvenile",
+        "display_name": "Juvenile",
+        "score": 0.8057751655578613
+      },
+      {
+        "id": "https://openalex.org/keywords/juvenile-court",
+        "display_name": "Juvenile court",
+        "score": 0.7426481246948242
+      },
+      {
+        "id": "https://openalex.org/keywords/criminology",
+        "display_name": "Criminology",
+        "score": 0.669585108757019
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.5590368509292603
+      },
+      {
+        "id": "https://openalex.org/keywords/juvenile-delinquency",
+        "display_name": "Juvenile delinquency",
+        "score": 0.5003125667572021
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.46046775579452515
+      },
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.38572824001312256
+      },
+      {
+        "id": "https://openalex.org/keywords/biology",
+        "display_name": "Biology",
+        "score": 0.05824476480484009
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C115961737",
+        "wikidata": "https://www.wikidata.org/wiki/Q1516282",
+        "display_name": "Juvenile",
+        "level": 2,
+        "score": 0.8057751655578613
+      },
+      {
+        "id": "https://openalex.org/C2777711708",
+        "wikidata": "https://www.wikidata.org/wiki/Q468501",
+        "display_name": "Juvenile court",
+        "level": 3,
+        "score": 0.7426481246948242
+      },
+      {
+        "id": "https://openalex.org/C73484699",
+        "wikidata": "https://www.wikidata.org/wiki/Q161733",
+        "display_name": "Criminology",
+        "level": 1,
+        "score": 0.669585108757019
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.5590368509292603
+      },
+      {
+        "id": "https://openalex.org/C71376074",
+        "wikidata": "https://www.wikidata.org/wiki/Q1001125",
+        "display_name": "Juvenile delinquency",
+        "level": 2,
+        "score": 0.5003125667572021
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.46046775579452515
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.38572824001312256
+      },
+      {
+        "id": "https://openalex.org/C86803240",
+        "wikidata": "https://www.wikidata.org/wiki/Q420",
+        "display_name": "Biology",
+        "level": 0,
+        "score": 0.05824476480484009
+      },
+      {
+        "id": "https://openalex.org/C54355233",
+        "wikidata": "https://www.wikidata.org/wiki/Q7162",
+        "display_name": "Genetics",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.2307/1228212",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2307/1228212",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S161743634",
+          "display_name": "Stanford Law Review",
+          "issn_l": "0038-9765",
+          "issn": [
+            "0038-9765",
+            "1939-8581"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310316196",
+          "host_organization_name": "Stanford Law School",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316196"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Stanford Law Review",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.4300000071525574,
+        "display_name": "Gender equality",
+        "id": "https://metadata.un.org/sdg/5"
+      },
+      {
+        "score": 0.41999998688697815,
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W2312866431",
+      "https://openalex.org/W585260368",
+      "https://openalex.org/W2001553206",
+      "https://openalex.org/W2138913126",
+      "https://openalex.org/W1572564515",
+      "https://openalex.org/W2129173654",
+      "https://openalex.org/W2620534118",
+      "https://openalex.org/W2075141649",
+      "https://openalex.org/W2136130532",
+      "https://openalex.org/W1550366281"
+    ],
+    "abstract_inverted_index": null,
+    "counts_by_year": [],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W129869233",
+    "doi": null,
+    "title": "Doctrines Without Borders: The \"New\" Israeli Exclusionary Rule and the Dangers of Legal Transplantation",
+    "display_name": "Doctrines Without Borders: The \"New\" Israeli Exclusionary Rule and the Dangers of Legal Transplantation",
+    "relevance_score": 86.937225,
+    "publication_year": 2008,
+    "publication_date": "2008-04-01",
+    "ids": {
+      "openalex": "https://openalex.org/W129869233",
+      "mag": "129869233"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "mag:3125199517",
+      "is_oa": false,
+      "landing_page_url": "https://repository.uchastings.edu/cgi/viewcontent.cgi?article=2504&context=faculty_scholarship",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S161743634",
+        "display_name": "Stanford Law Review",
+        "issn_l": "0038-9765",
+        "issn": [
+          "0038-9765",
+          "1939-8581"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310316196",
+        "host_organization_name": "Stanford Law School",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310316196"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Stanford Law Review",
+      "raw_type": null
+    },
+    "type": "article",
+    "indexed_in": [],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5080486969",
+          "display_name": "Binyamin Blum",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I197251160",
+            "display_name": "Hebrew University of Jerusalem",
+            "ror": "https://ror.org/03qxff017",
+            "country_code": "IL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I197251160"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210137306",
+            "display_name": "Stanford Medicine",
+            "ror": "https://ror.org/03mtd9a03",
+            "country_code": "US",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210137306",
+              "https://openalex.org/I97018004"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210088377",
+            "display_name": "University of California Hastings College of the Law",
+            "ror": "https://ror.org/006dpe828",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210088377"
+            ]
+          }
+        ],
+        "countries": [
+          "IL",
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Binyamin Blum",
+        "raw_affiliation_strings": [
+          " Hebrew University of Jerusalem - Faculty of Law",
+          " Stanford Law School",
+          "UC Hastings"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": " Stanford Law School",
+            "institution_ids": [
+              "https://openalex.org/I4210137306"
+            ]
+          },
+          {
+            "raw_affiliation_string": "UC Hastings",
+            "institution_ids": [
+              "https://openalex.org/I4210088377"
+            ]
+          },
+          {
+            "raw_affiliation_string": " Hebrew University of Jerusalem - Faculty of Law",
+            "institution_ids": [
+              "https://openalex.org/I197251160"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 2,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5080486969"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I197251160",
+      "https://openalex.org/I4210088377",
+      "https://openalex.org/I4210137306"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 6,
+    "citation_normalized_percentile": {
+      "value": 0.05968236,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 95
+    },
+    "biblio": {
+      "volume": "60",
+      "issue": "6",
+      "first_page": "2131",
+      "last_page": null
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10802",
+      "display_name": "Judicial and Constitutional Studies",
+      "score": 0.9872999787330627,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3308",
+        "display_name": "Law"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10802",
+        "display_name": "Judicial and Constitutional Studies",
+        "score": 0.9872999787330627,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3308",
+          "display_name": "Law"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T14493",
+        "display_name": "Criminal Law and Evidence",
+        "score": 0.9839000105857849,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3308",
+          "display_name": "Law"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T14288",
+        "display_name": "Law, Rights, and Freedoms",
+        "score": 0.9448999762535095,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/supreme-court",
+        "display_name": "Supreme court",
+        "score": 0.6992508172988892
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.6525921821594238
+      },
+      {
+        "id": "https://openalex.org/keywords/exclusionary-rule",
+        "display_name": "Exclusionary rule",
+        "score": 0.6440464854240417
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.6206981539726257
+      },
+      {
+        "id": "https://openalex.org/keywords/doctrine",
+        "display_name": "Doctrine",
+        "score": 0.6047253608703613
+      },
+      {
+        "id": "https://openalex.org/keywords/jurisprudence",
+        "display_name": "Jurisprudence",
+        "score": 0.5935190916061401
+      },
+      {
+        "id": "https://openalex.org/keywords/common-law",
+        "display_name": "Common law",
+        "score": 0.4776441156864166
+      },
+      {
+        "id": "https://openalex.org/keywords/unitary-state",
+        "display_name": "Unitary state",
+        "score": 0.4672287404537201
+      },
+      {
+        "id": "https://openalex.org/keywords/legal-doctrine",
+        "display_name": "Legal doctrine",
+        "score": 0.41752544045448303
+      },
+      {
+        "id": "https://openalex.org/keywords/law-and-economics",
+        "display_name": "Law and economics",
+        "score": 0.3443252444267273
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.26956871151924133
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2778272461",
+        "wikidata": "https://www.wikidata.org/wiki/Q190752",
+        "display_name": "Supreme court",
+        "level": 2,
+        "score": 0.6992508172988892
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.6525921821594238
+      },
+      {
+        "id": "https://openalex.org/C2781298881",
+        "wikidata": "https://www.wikidata.org/wiki/Q3243198",
+        "display_name": "Exclusionary rule",
+        "level": 3,
+        "score": 0.6440464854240417
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.6206981539726257
+      },
+      {
+        "id": "https://openalex.org/C2776211767",
+        "wikidata": "https://www.wikidata.org/wiki/Q117850",
+        "display_name": "Doctrine",
+        "level": 2,
+        "score": 0.6047253608703613
+      },
+      {
+        "id": "https://openalex.org/C71043370",
+        "wikidata": "https://www.wikidata.org/wiki/Q4932206",
+        "display_name": "Jurisprudence",
+        "level": 2,
+        "score": 0.5935190916061401
+      },
+      {
+        "id": "https://openalex.org/C170706310",
+        "wikidata": "https://www.wikidata.org/wiki/Q30216",
+        "display_name": "Common law",
+        "level": 2,
+        "score": 0.4776441156864166
+      },
+      {
+        "id": "https://openalex.org/C67820243",
+        "wikidata": "https://www.wikidata.org/wiki/Q179164",
+        "display_name": "Unitary state",
+        "level": 2,
+        "score": 0.4672287404537201
+      },
+      {
+        "id": "https://openalex.org/C2778890055",
+        "wikidata": "https://www.wikidata.org/wiki/Q1192543",
+        "display_name": "Legal doctrine",
+        "level": 2,
+        "score": 0.41752544045448303
+      },
+      {
+        "id": "https://openalex.org/C190253527",
+        "wikidata": "https://www.wikidata.org/wiki/Q295354",
+        "display_name": "Law and economics",
+        "level": 1,
+        "score": 0.3443252444267273
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.26956871151924133
+      }
+    ],
+    "mesh": [],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "mag:3125199517",
+        "is_oa": false,
+        "landing_page_url": "https://repository.uchastings.edu/cgi/viewcontent.cgi?article=2504&context=faculty_scholarship",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S161743634",
+          "display_name": "Stanford Law Review",
+          "issn_l": "0038-9765",
+          "issn": [
+            "0038-9765",
+            "1939-8581"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310316196",
+          "host_organization_name": "Stanford Law School",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316196"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": null,
+        "raw_source_name": "Stanford Law Review",
+        "raw_type": null
+      },
+      {
+        "id": "mag:129869233",
+        "is_oa": false,
+        "landing_page_url": null,
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": null,
+        "raw_source_name": null,
+        "raw_type": null
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.7099999785423279,
+        "display_name": "Reduced inequalities",
+        "id": "https://metadata.un.org/sdg/10"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W3125199517",
+      "https://openalex.org/W3125331849",
+      "https://openalex.org/W2344054246",
+      "https://openalex.org/W187717311",
+      "https://openalex.org/W2973016045",
+      "https://openalex.org/W2789657666",
+      "https://openalex.org/W1493854001",
+      "https://openalex.org/W2128461563",
+      "https://openalex.org/W3085241110",
+      "https://openalex.org/W1945341235",
+      "https://openalex.org/W2666015831",
+      "https://openalex.org/W2757559601",
+      "https://openalex.org/W3165968538",
+      "https://openalex.org/W3036734013",
+      "https://openalex.org/W2523121893",
+      "https://openalex.org/W2900867315",
+      "https://openalex.org/W3123083300",
+      "https://openalex.org/W3123107193",
+      "https://openalex.org/W314996844",
+      "https://openalex.org/W3121819130"
+    ],
+    "abstract_inverted_index": {
+      "In": [
+        0
+      ],
+      "2006,": [
+        1
+      ],
+      "as": [
+        2,
+        31
+      ],
+      "part": [
+        3
+      ],
+      "of": [
+        4,
+        43,
+        96
+      ],
+      "Israel's": [
+        5
+      ],
+      "Constitutional": [
+        6
+      ],
+      "Revolution": [
+        7
+      ],
+      "the": [
+        8,
+        23,
+        77,
+        84
+      ],
+      "Supreme": [
+        9
+      ],
+      "Court": [
+        10
+      ],
+      "adopted": [
+        11
+      ],
+      "a": [
+        12,
+        32,
+        91
+      ],
+      "new": [
+        13
+      ],
+      "exclusionary": [
+        14,
+        27,
+        85
+      ],
+      "rule": [
+        15,
+        28
+      ],
+      "for": [
+        16,
+        110
+      ],
+      "unlawfully": [
+        17,
+        44
+      ],
+      "obtained": [
+        18,
+        45
+      ],
+      "evidence.": [
+        19
+      ],
+      "Ostensibly": [
+        20
+      ],
+      "based": [
+        21
+      ],
+      "on": [
+        22
+      ],
+      "Canadian": [
+        24
+      ],
+      "model,": [
+        25
+      ],
+      "this": [
+        26,
+        58
+      ],
+      "was": [
+        29
+      ],
+      "framed": [
+        30
+      ],
+      "significant": [
+        33
+      ],
+      "departure": [
+        34
+      ],
+      "from": [
+        35,
+        67
+      ],
+      "previous": [
+        36
+      ],
+      "doctrine": [
+        37
+      ],
+      "that": [
+        38,
+        57
+      ],
+      "did": [
+        39
+      ],
+      "not": [
+        40,
+        73
+      ],
+      "allow": [
+        41
+      ],
+      "exclusion": [
+        42
+      ],
+      "evidence,": [
+        46
+      ],
+      "enabling": [
+        47
+      ],
+      "courts": [
+        48,
+        101
+      ],
+      "to": [
+        49
+      ],
+      "only": [
+        50
+      ],
+      "discount": [
+        51
+      ],
+      "its": [
+        52
+      ],
+      "weight.": [
+        53
+      ],
+      "The": [
+        54,
+        81
+      ],
+      "article": [
+        55
+      ],
+      "shows": [
+        56
+      ],
+      "distinction": [
+        59
+      ],
+      "between": [
+        60
+      ],
+      "admissibility": [
+        61
+      ],
+      "and": [
+        62
+      ],
+      "weight": [
+        63
+      ],
+      "is": [
+        64,
+        88
+      ],
+      "one": [
+        65
+      ],
+      "borrowed": [
+        66
+      ],
+      "bifurcated": [
+        68
+      ],
+      "judicial": [
+        69
+      ],
+      "systems": [
+        70
+      ],
+      "but": [
+        71
+      ],
+      "does": [
+        72
+      ],
+      "translate": [
+        74
+      ],
+      "well": [
+        75
+      ],
+      "into": [
+        76
+      ],
+      "Israeli": [
+        78,
+        100
+      ],
+      "unitary": [
+        79
+      ],
+      "judiciary.": [
+        80
+      ],
+      "jurisprudence": [
+        82
+      ],
+      "concerning": [
+        83
+      ],
+      "rule,": [
+        86
+      ],
+      "it": [
+        87
+      ],
+      "argued,": [
+        89
+      ],
+      "represents": [
+        90
+      ],
+      "broader,": [
+        92
+      ],
+      "more": [
+        93
+      ],
+      "troubling": [
+        94
+      ],
+      "phenomenon": [
+        95
+      ],
+      "legal": [
+        97
+      ],
+      "grafting,": [
+        98
+      ],
+      "whereby": [
+        99
+      ],
+      "mimic": [
+        102
+      ],
+      "other": [
+        103
+      ],
+      "common": [
+        104
+      ],
+      "law": [
+        105
+      ],
+      "jurisdictions": [
+        106
+      ],
+      "without": [
+        107
+      ],
+      "properly": [
+        108
+      ],
+      "accounting": [
+        109
+      ],
+      "structural": [
+        111
+      ],
+      "differences.": [
+        112
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2022,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2014,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-10-10T17:16:08.811792",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2798152342",
+    "doi": "https://doi.org/10.2307/1227439",
+    "title": "Capital-Market Development in Israel and Brazil: Two Examples of the Role of Law in Development",
+    "display_name": "Capital-Market Development in Israel and Brazil: Two Examples of the Role of Law in Development",
+    "relevance_score": 54.829704,
+    "publication_year": 1967,
+    "publication_date": "1967-06-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2798152342",
+      "doi": "https://doi.org/10.2307/1227439",
+      "mag": "2798152342"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.2307/1227439",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.2307/1227439",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S161743634",
+        "display_name": "Stanford Law Review",
+        "issn_l": "0038-9765",
+        "issn": [
+          "0038-9765",
+          "1939-8581"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310316196",
+        "host_organization_name": "Stanford Law School",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310316196"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Stanford Law Review",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5054584252",
+          "display_name": "Allan R. Roth",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Allan R. Roth",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5054584252"
+    ],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 4.2738544,
+    "has_fulltext": false,
+    "cited_by_count": 2,
+    "citation_normalized_percentile": {
+      "value": 0.94778349,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "19",
+      "issue": "6",
+      "first_page": "1277",
+      "last_page": "1277"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Jewish and Middle Eastern Studies",
+      "score": 0.718999981880188,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.718999981880188,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11762",
+        "display_name": "Law, Economics, and Judicial Systems",
+        "score": 0.7099000215530396,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2002",
+          "display_name": "Economics and Econometrics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/20",
+          "display_name": "Economics, Econometrics and Finance"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12375",
+        "display_name": "Cuban History and Society",
+        "score": 0.6523000001907349,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/capital",
+        "display_name": "Capital (architecture)",
+        "score": 0.4973466694355011
+      },
+      {
+        "id": "https://openalex.org/keywords/capital-market",
+        "display_name": "Capital market",
+        "score": 0.4520343840122223
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.41945263743400574
+      },
+      {
+        "id": "https://openalex.org/keywords/economics",
+        "display_name": "Economics",
+        "score": 0.37801098823547363
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.37703007459640503
+      },
+      {
+        "id": "https://openalex.org/keywords/geography",
+        "display_name": "Geography",
+        "score": 0.29309555888175964
+      },
+      {
+        "id": "https://openalex.org/keywords/finance",
+        "display_name": "Finance",
+        "score": 0.07029837369918823
+      },
+      {
+        "id": "https://openalex.org/keywords/archaeology",
+        "display_name": "Archaeology",
+        "score": 0.06655827164649963
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C83646750",
+        "wikidata": "https://www.wikidata.org/wiki/Q193893",
+        "display_name": "Capital (architecture)",
+        "level": 2,
+        "score": 0.4973466694355011
+      },
+      {
+        "id": "https://openalex.org/C143910263",
+        "wikidata": "https://www.wikidata.org/wiki/Q750458",
+        "display_name": "Capital market",
+        "level": 2,
+        "score": 0.4520343840122223
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.41945263743400574
+      },
+      {
+        "id": "https://openalex.org/C162324750",
+        "wikidata": "https://www.wikidata.org/wiki/Q8134",
+        "display_name": "Economics",
+        "level": 0,
+        "score": 0.37801098823547363
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.37703007459640503
+      },
+      {
+        "id": "https://openalex.org/C205649164",
+        "wikidata": "https://www.wikidata.org/wiki/Q1071",
+        "display_name": "Geography",
+        "level": 0,
+        "score": 0.29309555888175964
+      },
+      {
+        "id": "https://openalex.org/C10138342",
+        "wikidata": "https://www.wikidata.org/wiki/Q43015",
+        "display_name": "Finance",
+        "level": 1,
+        "score": 0.07029837369918823
+      },
+      {
+        "id": "https://openalex.org/C166957645",
+        "wikidata": "https://www.wikidata.org/wiki/Q23498",
+        "display_name": "Archaeology",
+        "level": 1,
+        "score": 0.06655827164649963
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.2307/1227439",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2307/1227439",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S161743634",
+          "display_name": "Stanford Law Review",
+          "issn_l": "0038-9765",
+          "issn": [
+            "0038-9765",
+            "1939-8581"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310316196",
+          "host_organization_name": "Stanford Law School",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316196"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Stanford Law Review",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.6700000166893005,
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16"
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W1502198272",
+      "https://openalex.org/W2017540542",
+      "https://openalex.org/W2073254488",
+      "https://openalex.org/W2104764082",
+      "https://openalex.org/W2084227502",
+      "https://openalex.org/W2066504725",
+      "https://openalex.org/W2010938771",
+      "https://openalex.org/W2778042569",
+      "https://openalex.org/W2070530935"
+    ],
+    "abstract_inverted_index": null,
+    "counts_by_year": [],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  }
+]

@@ -1,0 +1,8231 @@
+[
+  {
+    "id": "https://openalex.org/W2795374963",
+    "doi": "https://doi.org/10.2307/793723",
+    "title": "Social Factors in the Development of Legal Control: A Case Study of Two Israeli Settlements",
+    "display_name": "Social Factors in the Development of Legal Control: A Case Study of Two Israeli Settlements",
+    "relevance_score": 230.71877,
+    "publication_year": 1954,
+    "publication_date": "1954-02-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2795374963",
+      "doi": "https://doi.org/10.2307/793723",
+      "mag": "2795374963"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.2307/793723",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.2307/793723",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S161895660",
+        "display_name": "The Yale Law Journal",
+        "issn_l": "0044-0094",
+        "issn": [
+          "0044-0094",
+          "1939-8611"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4322696530",
+        "host_organization_name": "The Yale Law Journal Company",
+        "host_organization_lineage": [
+          "https://openalex.org/P4322696530"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "The Yale Law Journal",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5111626399",
+          "display_name": "Richard D. Schwartz",
+          "orcid": "https://orcid.org/0000-0002-7431-4139"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I32971472",
+            "display_name": "Yale University",
+            "ror": "https://ror.org/03v76x132",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I32971472"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Richard D. Schwartz",
+        "raw_affiliation_strings": [
+          "Yale College: Research Fellow in Behavior Science, Institute of Human Relations, Yale University."
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Yale College: Research Fellow in Behavior Science, Institute of Human Relations, Yale University.",
+            "institution_ids": [
+              "https://openalex.org/I32971472"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5111626399"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I32971472"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 8.84848474,
+    "has_fulltext": false,
+    "cited_by_count": 83,
+    "citation_normalized_percentile": {
+      "value": 0.97453657,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 98
+    },
+    "biblio": {
+      "volume": "63",
+      "issue": "4",
+      "first_page": "471",
+      "last_page": "471"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11762",
+      "display_name": "Law, Economics, and Judicial Systems",
+      "score": 0.8278999924659729,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11762",
+        "display_name": "Law, Economics, and Judicial Systems",
+        "score": 0.8278999924659729,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2002",
+          "display_name": "Economics and Econometrics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/20",
+          "display_name": "Economics, Econometrics and Finance"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12775",
+        "display_name": "Legal Issues in South Africa",
+        "score": 0.7712000012397766,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3308",
+          "display_name": "Law"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12185",
+        "display_name": "Regulation and Compliance Studies",
+        "score": 0.7627999782562256,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1408",
+          "display_name": "Strategy and Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/human-settlement",
+        "display_name": "Human settlement",
+        "score": 0.7426935434341431
+      },
+      {
+        "id": "https://openalex.org/keywords/social-control",
+        "display_name": "Social control",
+        "score": 0.5786523222923279
+      },
+      {
+        "id": "https://openalex.org/keywords/control",
+        "display_name": "Control (management)",
+        "score": 0.4889146387577057
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.4201434552669525
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.3354807496070862
+      },
+      {
+        "id": "https://openalex.org/keywords/geography",
+        "display_name": "Geography",
+        "score": 0.22164258360862732
+      },
+      {
+        "id": "https://openalex.org/keywords/archaeology",
+        "display_name": "Archaeology",
+        "score": 0.1623537242412567
+      },
+      {
+        "id": "https://openalex.org/keywords/management",
+        "display_name": "Management",
+        "score": 0.10110494494438171
+      },
+      {
+        "id": "https://openalex.org/keywords/economics",
+        "display_name": "Economics",
+        "score": 0.07406049966812134
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C16678853",
+        "wikidata": "https://www.wikidata.org/wiki/Q486972",
+        "display_name": "Human settlement",
+        "level": 2,
+        "score": 0.7426935434341431
+      },
+      {
+        "id": "https://openalex.org/C37497375",
+        "wikidata": "https://www.wikidata.org/wiki/Q623971",
+        "display_name": "Social control",
+        "level": 2,
+        "score": 0.5786523222923279
+      },
+      {
+        "id": "https://openalex.org/C2775924081",
+        "wikidata": "https://www.wikidata.org/wiki/Q55608371",
+        "display_name": "Control (management)",
+        "level": 2,
+        "score": 0.4889146387577057
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.4201434552669525
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.3354807496070862
+      },
+      {
+        "id": "https://openalex.org/C205649164",
+        "wikidata": "https://www.wikidata.org/wiki/Q1071",
+        "display_name": "Geography",
+        "level": 0,
+        "score": 0.22164258360862732
+      },
+      {
+        "id": "https://openalex.org/C166957645",
+        "wikidata": "https://www.wikidata.org/wiki/Q23498",
+        "display_name": "Archaeology",
+        "level": 1,
+        "score": 0.1623537242412567
+      },
+      {
+        "id": "https://openalex.org/C187736073",
+        "wikidata": "https://www.wikidata.org/wiki/Q2920921",
+        "display_name": "Management",
+        "level": 1,
+        "score": 0.10110494494438171
+      },
+      {
+        "id": "https://openalex.org/C162324750",
+        "wikidata": "https://www.wikidata.org/wiki/Q8134",
+        "display_name": "Economics",
+        "level": 0,
+        "score": 0.07406049966812134
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.2307/793723",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2307/793723",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S161895660",
+          "display_name": "The Yale Law Journal",
+          "issn_l": "0044-0094",
+          "issn": [
+            "0044-0094",
+            "1939-8611"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4322696530",
+          "host_organization_name": "The Yale Law Journal Company",
+          "host_organization_lineage": [
+            "https://openalex.org/P4322696530"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The Yale Law Journal",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16",
+        "score": 0.5600000023841858
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W2372596667",
+      "https://openalex.org/W2331810815",
+      "https://openalex.org/W2379989314",
+      "https://openalex.org/W1989748170",
+      "https://openalex.org/W2349053466",
+      "https://openalex.org/W3123533582",
+      "https://openalex.org/W2377977670",
+      "https://openalex.org/W3121212865",
+      "https://openalex.org/W2384031583",
+      "https://openalex.org/W4312317012"
+    ],
+    "abstract_inverted_index": {
+      "The": [
+        0
+      ],
+      "substance": [
+        1
+      ],
+      "of": [
+        2,
+        10,
+        13,
+        19,
+        21
+      ],
+      "every": [
+        3
+      ],
+      "attempt": [
+        4
+      ],
+      "to": [
+        5
+      ],
+      "state": [
+        6
+      ],
+      "the": [
+        7,
+        11,
+        17
+      ],
+      "fundamental": [
+        8
+      ],
+      "principles": [
+        9
+      ],
+      "sociology": [
+        12
+      ],
+      "law": [
+        14
+      ],
+      "[is": [
+        15
+      ],
+      "that]": [
+        16
+      ],
+      "center": [
+        18
+      ],
+      "gravity": [
+        20
+      ],
+      "legal": [
+        22
+      ],
+      "development": [
+        23
+      ],
+      "lies": [
+        24
+      ],
+      "not": [
+        25
+      ],
+      "in": [
+        26,
+        29,
+        33,
+        37
+      ],
+      "legislation,": [
+        27
+      ],
+      "nor": [
+        28,
+        32
+      ],
+      "juristic": [
+        30
+      ],
+      "science,": [
+        31
+      ],
+      "judicial": [
+        34
+      ],
+      "decisions,": [
+        35
+      ],
+      "but": [
+        36
+      ],
+      "society": [
+        38
+      ],
+      "itself.": [
+        39
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2024,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2014,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2013,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2012,
+        "cited_by_count": 4
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W1835589703",
+    "doi": "https://doi.org/10.2307/20455778",
+    "title": "On Target? The Israeli Supreme Court and the Expansion of Targeted Killings",
+    "display_name": "On Target? The Israeli Supreme Court and the Expansion of Targeted Killings",
+    "relevance_score": 209.29999,
+    "publication_year": 2007,
+    "publication_date": "2007-06-01",
+    "ids": {
+      "openalex": "https://openalex.org/W1835589703",
+      "doi": "https://doi.org/10.2307/20455778",
+      "mag": "1835589703"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.2307/20455778",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.2307/20455778",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S161895660",
+        "display_name": "The Yale Law Journal",
+        "issn_l": "0044-0094",
+        "issn": [
+          "0044-0094",
+          "1939-8611"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4322696530",
+        "host_organization_name": "The Yale Law Journal Company",
+        "host_organization_lineage": [
+          "https://openalex.org/P4322696530"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "The Yale Law Journal",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1148841_code966347.pdf?abstractid=1148841&mirid=1",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5029414160",
+          "display_name": "Kristen Eichensehr",
+          "orcid": "https://orcid.org/0000-0003-0047-7274"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I161318765",
+            "display_name": "University of California, Los Angeles",
+            "ror": "https://ror.org/046rm7j60",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I161318765"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Kristen Eichensehr",
+        "raw_affiliation_strings": [
+          "University of California, Los Angeles (UCLA) - School of Law"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of California, Los Angeles (UCLA) - School of Law",
+            "institution_ids": [
+              "https://openalex.org/I161318765"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5029414160"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I161318765"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 1.42078082,
+    "has_fulltext": false,
+    "cited_by_count": 39,
+    "citation_normalized_percentile": {
+      "value": 0.86665392,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 100
+    },
+    "biblio": {
+      "volume": "116",
+      "issue": "8",
+      "first_page": "1873",
+      "last_page": "1873"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10749",
+      "display_name": "International Law and Human Rights",
+      "score": 0.9954000115394592,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10749",
+        "display_name": "International Law and Human Rights",
+        "score": 0.9954000115394592,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13076",
+        "display_name": "Torture, Ethics, and Law",
+        "score": 0.9775000214576721,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12752",
+        "display_name": "Global Peace and Security Dynamics",
+        "score": 0.9767000079154968,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/supreme-court",
+        "display_name": "Supreme court",
+        "score": 0.8159970641136169
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.7958492040634155
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.6954224705696106
+      },
+      {
+        "id": "https://openalex.org/keywords/torture",
+        "display_name": "Torture",
+        "score": 0.6652714610099792
+      },
+      {
+        "id": "https://openalex.org/keywords/government",
+        "display_name": "Government (linguistics)",
+        "score": 0.4371457099914551
+      },
+      {
+        "id": "https://openalex.org/keywords/human-rights",
+        "display_name": "Human rights",
+        "score": 0.1631476879119873
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2778272461",
+        "wikidata": "https://www.wikidata.org/wiki/Q190752",
+        "display_name": "Supreme court",
+        "level": 2,
+        "score": 0.8159970641136169
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.7958492040634155
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.6954224705696106
+      },
+      {
+        "id": "https://openalex.org/C544040105",
+        "wikidata": "https://www.wikidata.org/wiki/Q132781",
+        "display_name": "Torture",
+        "level": 3,
+        "score": 0.6652714610099792
+      },
+      {
+        "id": "https://openalex.org/C2778137410",
+        "wikidata": "https://www.wikidata.org/wiki/Q2732820",
+        "display_name": "Government (linguistics)",
+        "level": 2,
+        "score": 0.4371457099914551
+      },
+      {
+        "id": "https://openalex.org/C169437150",
+        "wikidata": "https://www.wikidata.org/wiki/Q8458",
+        "display_name": "Human rights",
+        "level": 2,
+        "score": 0.1631476879119873
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C41895202",
+        "wikidata": "https://www.wikidata.org/wiki/Q8162",
+        "display_name": "Linguistics",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "doi:10.2307/20455778",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2307/20455778",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S161895660",
+          "display_name": "The Yale Law Journal",
+          "issn_l": "0044-0094",
+          "issn": [
+            "0044-0094",
+            "1939-8611"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4322696530",
+          "host_organization_name": "The Yale Law Journal Company",
+          "host_organization_lineage": [
+            "https://openalex.org/P4322696530"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The Yale Law Journal",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "mag:1835589703",
+        "is_oa": true,
+        "landing_page_url": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1148841_code966347.pdf?abstractid=1148841&mirid=1",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210172589",
+          "display_name": "SSRN Electronic Journal",
+          "issn_l": "1556-5068",
+          "issn": [
+            "1556-5068"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I1318003438",
+          "host_organization_name": "RELX Group (Netherlands)",
+          "host_organization_lineage": [
+            "https://openalex.org/I1318003438"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "SSRN Electronic Journal",
+        "raw_type": null
+      }
+    ],
+    "best_oa_location": {
+      "id": "mag:1835589703",
+      "is_oa": true,
+      "landing_page_url": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1148841_code966347.pdf?abstractid=1148841&mirid=1",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210172589",
+        "display_name": "SSRN Electronic Journal",
+        "issn_l": "1556-5068",
+        "issn": [
+          "1556-5068"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1318003438",
+        "host_organization_name": "RELX Group (Netherlands)",
+        "host_organization_lineage": [
+          "https://openalex.org/I1318003438"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "SSRN Electronic Journal",
+      "raw_type": null
+    },
+    "sustainable_development_goals": [
+      {
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16",
+        "score": 0.8299999833106995
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W152962813",
+      "https://openalex.org/W2287129546",
+      "https://openalex.org/W2274409646",
+      "https://openalex.org/W2496332118",
+      "https://openalex.org/W3203291639",
+      "https://openalex.org/W2271098912",
+      "https://openalex.org/W2287306269",
+      "https://openalex.org/W1985303250",
+      "https://openalex.org/W2118353603",
+      "https://openalex.org/W8554207",
+      "https://openalex.org/W3205195791",
+      "https://openalex.org/W3124107314",
+      "https://openalex.org/W2166904454",
+      "https://openalex.org/W1572026337",
+      "https://openalex.org/W3196128002",
+      "https://openalex.org/W2500341518",
+      "https://openalex.org/W314625512",
+      "https://openalex.org/W3123806388",
+      "https://openalex.org/W1506358911",
+      "https://openalex.org/W1826767766"
+    ],
+    "abstract_inverted_index": {
+      "After": [
+        0
+      ],
+      "four": [
+        1
+      ],
+      "years": [
+        2
+      ],
+      "of": [
+        3,
+        28,
+        43,
+        68
+      ],
+      "consideration,": [
+        4
+      ],
+      "the": [
+        5,
+        11,
+        33,
+        41,
+        61,
+        65,
+        72,
+        84,
+        91,
+        94
+      ],
+      "Israeli": [
+        6
+      ],
+      "Supreme": [
+        7
+      ],
+      "Court": [
+        8
+      ],
+      "recently": [
+        9
+      ],
+      "issued": [
+        10
+      ],
+      "world's": [
+        12
+      ],
+      "first": [
+        13
+      ],
+      "judicial": [
+        14
+      ],
+      "decision": [
+        15
+      ],
+      "on": [
+        16
+      ],
+      "targeted": [
+        17
+      ],
+      "killings": [
+        18
+      ],
+      "in": [
+        19,
+        24,
+        58
+      ],
+      "Public": [
+        20
+      ],
+      "Committee": [
+        21
+      ],
+      "Against": [
+        22
+      ],
+      "Torture": [
+        23
+      ],
+      "Israel": [
+        25,
+        29
+      ],
+      "v.": [
+        26
+      ],
+      "Government": [
+        27
+      ],
+      "(PCATI).": [
+        30
+      ],
+      "In": [
+        31
+      ],
+      "PCATI,": [
+        32
+      ],
+      "court": [
+        34,
+        62,
+        92
+      ],
+      "held": [
+        35
+      ],
+      "that": [
+        36,
+        96
+      ],
+      "terrorists": [
+        37
+      ],
+      "are": [
+        38,
+        48
+      ],
+      "civilians": [
+        39,
+        77
+      ],
+      "under": [
+        40
+      ],
+      "law": [
+        42,
+        98
+      ],
+      "armed": [
+        44
+      ],
+      "conflict": [
+        45
+      ],
+      "and": [
+        46,
+        71
+      ],
+      "thus": [
+        47
+      ],
+      "lawfully": [
+        49,
+        79
+      ],
+      "subject": [
+        50
+      ],
+      "to": [
+        51,
+        100,
+        105
+      ],
+      "attack": [
+        52
+      ],
+      "only": [
+        53
+      ],
+      "when": [
+        54
+      ],
+      "they": [
+        55
+      ],
+      "directly": [
+        56
+      ],
+      "participate": [
+        57
+      ],
+      "hostilities.": [
+        59
+      ],
+      "But": [
+        60
+      ],
+      "also": [
+        63
+      ],
+      "expanded": [
+        64
+      ],
+      "traditional": [
+        66
+      ],
+      "definition": [
+        67
+      ],
+      "direct": [
+        69,
+        85
+      ],
+      "participation": [
+        70,
+        86
+      ],
+      "time": [
+        73
+      ],
+      "period": [
+        74
+      ],
+      "during": [
+        75
+      ],
+      "which": [
+        76
+      ],
+      "may": [
+        78
+      ],
+      "be": [
+        80
+      ],
+      "attacked.": [
+        81
+      ],
+      "By": [
+        82
+      ],
+      "disregarding": [
+        83
+      ],
+      "requirement's": [
+        87
+      ],
+      "important": [
+        88
+      ],
+      "evidentiary": [
+        89
+      ],
+      "function,": [
+        90
+      ],
+      "weakened": [
+        93
+      ],
+      "protections": [
+        95
+      ],
+      "international": [
+        97
+      ],
+      "affords": [
+        99
+      ],
+      "all": [
+        101
+      ],
+      "civilians,": [
+        102
+      ],
+      "not": [
+        103
+      ],
+      "just": [
+        104
+      ],
+      "terrorists.": [
+        106
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2024,
+        "cited_by_count": 31
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2014,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2797828994",
+    "doi": "https://doi.org/10.2307/796005",
+    "title": "Israel and Palestine: Assault on the Law of Nations",
+    "display_name": "Israel and Palestine: Assault on the Law of Nations",
+    "relevance_score": 190.28868,
+    "publication_year": 1982,
+    "publication_date": "1982-07-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2797828994",
+      "doi": "https://doi.org/10.2307/796005",
+      "mag": "2797828994"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.2307/796005",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.2307/796005",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S161895660",
+        "display_name": "The Yale Law Journal",
+        "issn_l": "0044-0094",
+        "issn": [
+          "0044-0094",
+          "1939-8611"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4322696530",
+        "host_organization_name": "The Yale Law Journal Company",
+        "host_organization_lineage": [
+          "https://openalex.org/P4322696530"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "The Yale Law Journal",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5108736425",
+          "display_name": "Anthony D\u2019Amato",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Anthony D'Amato",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5109394258",
+          "display_name": "Julius Stone",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Julius Stone",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 2,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 8.6514143,
+    "has_fulltext": false,
+    "cited_by_count": 31,
+    "citation_normalized_percentile": {
+      "value": 0.97578882,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 94
+    },
+    "biblio": {
+      "volume": "91",
+      "issue": "8",
+      "first_page": "1726",
+      "last_page": "1726"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Jewish and Middle Eastern Studies",
+      "score": 0.9765999913215637,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.9765999913215637,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/palestine",
+        "display_name": "Palestine",
+        "score": 0.8738840818405151
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.6066192984580994
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.5808826684951782
+      },
+      {
+        "id": "https://openalex.org/keywords/criminology",
+        "display_name": "Criminology",
+        "score": 0.3627967834472656
+      },
+      {
+        "id": "https://openalex.org/keywords/ancient-history",
+        "display_name": "Ancient history",
+        "score": 0.20305100083351135
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.17912256717681885
+      },
+      {
+        "id": "https://openalex.org/keywords/history",
+        "display_name": "History",
+        "score": 0.177587628364563
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C114362828",
+        "wikidata": "https://www.wikidata.org/wiki/Q23792",
+        "display_name": "Palestine",
+        "level": 2,
+        "score": 0.8738840818405151
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.6066192984580994
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.5808826684951782
+      },
+      {
+        "id": "https://openalex.org/C73484699",
+        "wikidata": "https://www.wikidata.org/wiki/Q161733",
+        "display_name": "Criminology",
+        "level": 1,
+        "score": 0.3627967834472656
+      },
+      {
+        "id": "https://openalex.org/C195244886",
+        "wikidata": "https://www.wikidata.org/wiki/Q41493",
+        "display_name": "Ancient history",
+        "level": 1,
+        "score": 0.20305100083351135
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.17912256717681885
+      },
+      {
+        "id": "https://openalex.org/C95457728",
+        "wikidata": "https://www.wikidata.org/wiki/Q309",
+        "display_name": "History",
+        "level": 0,
+        "score": 0.177587628364563
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.2307/796005",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2307/796005",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S161895660",
+          "display_name": "The Yale Law Journal",
+          "issn_l": "0044-0094",
+          "issn": [
+            "0044-0094",
+            "1939-8611"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4322696530",
+          "host_organization_name": "The Yale Law Journal Company",
+          "host_organization_lineage": [
+            "https://openalex.org/P4322696530"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The Yale Law Journal",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16",
+        "score": 0.7799999713897705
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W2899084033",
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W3040112619",
+      "https://openalex.org/W2904393802",
+      "https://openalex.org/W2326045511",
+      "https://openalex.org/W2329648179",
+      "https://openalex.org/W4248963566",
+      "https://openalex.org/W650163478",
+      "https://openalex.org/W4254810698",
+      "https://openalex.org/W2604442579"
+    ],
+    "abstract_inverted_index": null,
+    "counts_by_year": [
+      {
+        "year": 2021,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W3121134539",
+    "doi": "https://doi.org/10.2307/3657515",
+    "title": "Chaos and Rules: Should Responses to Violent Crises Always Be Constitutional?",
+    "display_name": "Chaos and Rules: Should Responses to Violent Crises Always Be Constitutional?",
+    "relevance_score": 23.914183,
+    "publication_year": 2003,
+    "publication_date": "2003-03-01",
+    "ids": {
+      "openalex": "https://openalex.org/W3121134539",
+      "doi": "https://doi.org/10.2307/3657515",
+      "mag": "3121134539"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.2307/3657515",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.2307/3657515",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S161895660",
+        "display_name": "The Yale Law Journal",
+        "issn_l": "0044-0094",
+        "issn": [
+          "0044-0094",
+          "1939-8611"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4322696530",
+        "host_organization_name": "The Yale Law Journal Company",
+        "host_organization_lineage": [
+          "https://openalex.org/P4322696530"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "The Yale Law Journal",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5109262987",
+          "display_name": "Oren Gross",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Oren Gross",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5109262987"
+    ],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 8.20041667,
+    "has_fulltext": false,
+    "cited_by_count": 208,
+    "citation_normalized_percentile": {
+      "value": 0.97299119,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 96,
+      "max": 100
+    },
+    "biblio": {
+      "volume": "112",
+      "issue": "5",
+      "first_page": "1011",
+      "last_page": "1011"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T13138",
+      "display_name": "Legal and Constitutional Studies",
+      "score": 0.8446999788284302,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T13138",
+        "display_name": "Legal and Constitutional Studies",
+        "score": 0.8446999788284302,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2002",
+          "display_name": "Economics and Econometrics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/20",
+          "display_name": "Economics, Econometrics and Finance"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T14493",
+        "display_name": "Criminal Law and Evidence",
+        "score": 0.839900016784668,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3308",
+          "display_name": "Law"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T14288",
+        "display_name": "Law, Rights, and Freedoms",
+        "score": 0.8123000264167786,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/law-and-economics",
+        "display_name": "Law and economics",
+        "score": 0.45096686482429504
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.4153890609741211
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.3963453769683838
+      },
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.38539475202560425
+      },
+      {
+        "id": "https://openalex.org/keywords/criminology",
+        "display_name": "Criminology",
+        "score": 0.36522096395492554
+      },
+      {
+        "id": "https://openalex.org/keywords/economics",
+        "display_name": "Economics",
+        "score": 0.3526586592197418
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C190253527",
+        "wikidata": "https://www.wikidata.org/wiki/Q295354",
+        "display_name": "Law and economics",
+        "level": 1,
+        "score": 0.45096686482429504
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.4153890609741211
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.3963453769683838
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.38539475202560425
+      },
+      {
+        "id": "https://openalex.org/C73484699",
+        "wikidata": "https://www.wikidata.org/wiki/Q161733",
+        "display_name": "Criminology",
+        "level": 1,
+        "score": 0.36522096395492554
+      },
+      {
+        "id": "https://openalex.org/C162324750",
+        "wikidata": "https://www.wikidata.org/wiki/Q8134",
+        "display_name": "Economics",
+        "level": 0,
+        "score": 0.3526586592197418
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.2307/3657515",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2307/3657515",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S161895660",
+          "display_name": "The Yale Law Journal",
+          "issn_l": "0044-0094",
+          "issn": [
+            "0044-0094",
+            "1939-8611"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4322696530",
+          "host_organization_name": "The Yale Law Journal Company",
+          "host_organization_lineage": [
+            "https://openalex.org/P4322696530"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The Yale Law Journal",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16",
+        "score": 0.8199999928474426
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 4,
+    "referenced_works": [
+      "https://openalex.org/W2796772400",
+      "https://openalex.org/W2795796782",
+      "https://openalex.org/W4230202218",
+      "https://openalex.org/W2346896797"
+    ],
+    "related_works": [
+      "https://openalex.org/W2899084033",
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W2931662336",
+      "https://openalex.org/W2077865380",
+      "https://openalex.org/W2134894512",
+      "https://openalex.org/W2053487507",
+      "https://openalex.org/W2765597752",
+      "https://openalex.org/W2083375246",
+      "https://openalex.org/W2067108088",
+      "https://openalex.org/W2085372204"
+    ],
+    "abstract_inverted_index": {
+      "Hamilton": [
+        0
+      ],
+      "also": [
+        1
+      ],
+      "commented": [
+        2
+      ],
+      "on": [
+        3
+      ],
+      "the": [
+        4,
+        9,
+        26,
+        34,
+        42,
+        50,
+        53,
+        59,
+        64,
+        71,
+        78,
+        113,
+        116,
+        132,
+        138,
+        153,
+        159,
+        166,
+        176
+      ],
+      "Roman": [
+        5,
+        13
+      ],
+      "dictatorship:": [
+        6
+      ],
+      "Every": [
+        7
+      ],
+      "man": [
+        8
+      ],
+      "least": [
+        10
+      ],
+      "conversant": [
+        11
+      ],
+      "in": [
+        12,
+        25
+      ],
+      "history": [
+        14
+      ],
+      "knows": [
+        15
+      ],
+      "how": [
+        16
+      ],
+      "often": [
+        17
+      ],
+      "that": [
+        18,
+        112,
+        128,
+        188
+      ],
+      "republic": [
+        19
+      ],
+      "was": [
+        20
+      ],
+      "obliged": [
+        21
+      ],
+      "to": [
+        22,
+        49,
+        84,
+        119,
+        152,
+        163,
+        171
+      ],
+      "take": [
+        23
+      ],
+      "refuge": [
+        24
+      ],
+      "absolute": [
+        27
+      ],
+      "power": [
+        28
+      ],
+      "of": [
+        29,
+        37,
+        44,
+        55,
+        58,
+        66,
+        73,
+        82,
+        115,
+        131,
+        140,
+        175,
+        178
+      ],
+      "a": [
+        30,
+        123,
+        129,
+        143,
+        155,
+        184
+      ],
+      "single": [
+        31
+      ],
+      "man,": [
+        32
+      ],
+      "under": [
+        33
+      ],
+      "formidable": [
+        35
+      ],
+      "title": [
+        36
+      ],
+      "dictator,": [
+        38
+      ],
+      "as": [
+        39,
+        69,
+        122
+      ],
+      "well": [
+        40
+      ],
+      "against": [
+        41,
+        70
+      ],
+      "intrigues": [
+        43
+      ],
+      "ambitious": [
+        45
+      ],
+      "individuals": [
+        46
+      ],
+      "who": [
+        47,
+        76
+      ],
+      "aspired": [
+        48
+      ],
+      "tyranny,": [
+        51
+      ],
+      "and": [
+        52,
+        80,
+        142,
+        158
+      ],
+      "seditions": [
+        54
+      ],
+      "whole": [
+        56
+      ],
+      "classes": [
+        57
+      ],
+      "community": [
+        60
+      ],
+      "whose": [
+        61
+      ],
+      "conduct": [
+        62
+      ],
+      "threatened": [
+        63
+      ],
+      "existence": [
+        65
+      ],
+      "all": [
+        67
+      ],
+      "government,": [
+        68
+      ],
+      "invasions": [
+        72
+      ],
+      "external": [
+        74
+      ],
+      "enemies": [
+        75
+      ],
+      "menaced": [
+        77
+      ],
+      "conquest": [
+        79
+      ],
+      "destruction": [
+        81
+      ],
+      "Rome.powers": [
+        83
+      ],
+      "\"nonemergency\"": [
+        85
+      ],
+      "powers);": [
+        86
+      ],
+      "2": [
+        87
+      ],
+      "AMNON": [
+        88
+      ],
+      "RUBINSTErN,": [
+        89
+      ],
+      "HA-MISHPAT": [
+        90
+      ],
+      "HA-KONSTITUTSYONI": [
+        91
+      ],
+      "SHEL": [
+        92
+      ],
+      "MEDINAT": [
+        93
+      ],
+      "ISRAEL": [
+        94
+      ],
+      "801-25": [
+        95
+      ],
+      "(5th": [
+        96
+      ],
+      "rev.ed.1996).10.": [
+        97
+      ],
+      "See": [
+        98
+      ],
+      "infra": [
+        99
+      ],
+      "Section": [
+        100
+      ],
+      "IV.A.": [
+        101
+      ],
+      "11.Frederick": [
+        102
+      ],
+      "Schauer,": [
+        103
+      ],
+      "Exceptions,": [
+        104
+      ],
+      "58": [
+        105
+      ],
+      "U.": [
+        106,
+        191
+      ],
+      "CHI.L.": [
+        107
+      ],
+      "REV.871,": [
+        108
+      ],
+      "872": [
+        109
+      ],
+      "(1991).Schauer": [
+        110
+      ],
+      "suggests": [
+        111,
+        127
+      ],
+      "notion": [
+        114
+      ],
+      "exception": [
+        117,
+        133
+      ],
+      "deserves": [
+        118
+      ],
+      "be": [
+        120
+      ],
+      "treated": [
+        121
+      ],
+      "discrete": [
+        124
+      ],
+      "jurisprudential": [
+        125
+      ],
+      "phenomenon.He": [
+        126
+      ],
+      "study": [
+        130
+      ],
+      "reveals": [
+        134
+      ],
+      "important": [
+        135
+      ],
+      "insights": [
+        136
+      ],
+      "about": [
+        137,
+        187
+      ],
+      "linkage": [
+        139
+      ],
+      "law": [
+        141
+      ],
+      "\"background": [
+        144
+      ],
+      "social": [
+        145
+      ],
+      "landscape\"": [
+        146
+      ],
+      "by": [
+        147
+      ],
+      "which": [
+        148
+      ],
+      "he": [
+        149
+      ],
+      "refers": [
+        150
+      ],
+      "particularly": [
+        151
+      ],
+      "language": [
+        154
+      ],
+      "society": [
+        156
+      ],
+      "uses": [
+        157
+      ],
+      "categories": [
+        160
+      ],
+      "it": [
+        161
+      ],
+      "deploys": [
+        162
+      ],
+      "carve": [
+        164
+      ],
+      "up": [
+        165
+      ],
+      "world.Id.As": [
+        167
+      ],
+      "I": [
+        168
+      ],
+      "will": [
+        169
+      ],
+      "seek": [
+        170
+      ],
+      "show": [
+        172
+      ],
+      "below,": [
+        173
+      ],
+      "discussion": [
+        174
+      ],
+      "phenomenon": [
+        177
+      ],
+      "emergency-as-exception": [
+        179
+      ],
+      "can": [
+        180
+      ],
+      "similarly": [
+        181
+      ],
+      "tell": [
+        182
+      ],
+      "us": [
+        183
+      ],
+      "great": [
+        185
+      ],
+      "deal": [
+        186
+      ],
+      "linkage.12.": [
+        189
+      ],
+      "317": [
+        190
+      ],
+      "S.": [
+        192
+      ],
+      "1": [
+        193
+      ],
+      "(1942).13": [
+        194
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 8
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 7
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 10
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 8
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 10
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 13
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 12
+      },
+      {
+        "year": 2014,
+        "cited_by_count": 12
+      },
+      {
+        "year": 2013,
+        "cited_by_count": 12
+      },
+      {
+        "year": 2012,
+        "cited_by_count": 15
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2797739692",
+    "doi": "https://doi.org/10.2307/795226",
+    "title": "The Art of the Possible in the Arab-Israeli Crisis",
+    "display_name": "The Art of the Possible in the Arab-Israeli Crisis",
+    "relevance_score": 15.209466,
+    "publication_year": 1972,
+    "publication_date": "1972-05-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2797739692",
+      "doi": "https://doi.org/10.2307/795226",
+      "mag": "2797739692"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.2307/795226",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.2307/795226",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S161895660",
+        "display_name": "The Yale Law Journal",
+        "issn_l": "0044-0094",
+        "issn": [
+          "0044-0094",
+          "1939-8611"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4322696530",
+        "host_organization_name": "The Yale Law Journal Company",
+        "host_organization_lineage": [
+          "https://openalex.org/P4322696530"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "The Yale Law Journal",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5108806822",
+          "display_name": "Michael Hudson",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Michael C. Hudson",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5112074131",
+          "display_name": "Michael Reisman",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Michael Reisman",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 2,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.48484706,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "81",
+      "issue": "6",
+      "first_page": "1243",
+      "last_page": "1243"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Jewish and Middle Eastern Studies",
+      "score": 0.9089000225067139,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11203",
+        "display_name": "Jewish and Middle Eastern Studies",
+        "score": 0.9089000225067139,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.5333630442619324
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.5333630442619324
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.2307/795226",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2307/795226",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S161895660",
+          "display_name": "The Yale Law Journal",
+          "issn_l": "0044-0094",
+          "issn": [
+            "0044-0094",
+            "1939-8611"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4322696530",
+          "host_organization_name": "The Yale Law Journal Company",
+          "host_organization_lineage": [
+            "https://openalex.org/P4322696530"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The Yale Law Journal",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W2955725829",
+      "https://openalex.org/W2949263084",
+      "https://openalex.org/W2743539335",
+      "https://openalex.org/W594353338",
+      "https://openalex.org/W2922049016",
+      "https://openalex.org/W2724734218",
+      "https://openalex.org/W4382466601",
+      "https://openalex.org/W2955504986",
+      "https://openalex.org/W2216817687"
+    ],
+    "abstract_inverted_index": {
+      "The": [
+        0
+      ],
+      "Arab-Israeli": [
+        1
+      ],
+      "conflict": [
+        2
+      ],
+      "is": [
+        3,
+        89,
+        224
+      ],
+      "one": [
+        4,
+        78,
+        184,
+        219
+      ],
+      "of": [
+        5,
+        20,
+        25,
+        53,
+        68,
+        79,
+        97,
+        138,
+        165,
+        202,
+        211,
+        218
+      ],
+      "the": [
+        6,
+        17,
+        21,
+        40,
+        45,
+        61,
+        65,
+        71,
+        80,
+        98,
+        114,
+        121,
+        191,
+        196,
+        203,
+        212,
+        222
+      ],
+      "most": [
+        7
+      ],
+      "studied": [
+        8
+      ],
+      "and": [
+        9,
+        31,
+        56,
+        135,
+        161,
+        167
+      ],
+      "talked": [
+        10
+      ],
+      "about": [
+        11
+      ],
+      "problems": [
+        12
+      ],
+      "in": [
+        13,
+        178,
+        216
+      ],
+      "modem": [
+        14
+      ],
+      "international": [
+        15
+      ],
+      "affairs.From": [
+        16
+      ],
+      "earliest": [
+        18
+      ],
+      "days": [
+        19
+      ],
+      "Mandate,": [
+        22
+      ],
+      "a": [
+        23,
+        43,
+        187,
+        208,
+        225,
+        229
+      ],
+      "succession": [
+        24
+      ],
+      "voluminous": [
+        26
+      ],
+      "official": [
+        27
+      ],
+      "reports,": [
+        28
+      ],
+      "white": [
+        29
+      ],
+      "papers,": [
+        30
+      ],
+      "serious": [
+        32,
+        171
+      ],
+      "partisan": [
+        33
+      ],
+      "studies": [
+        34
+      ],
+      "have": [
+        35,
+        117
+      ],
+      "emerged": [
+        36
+      ],
+      "purporting": [
+        37
+      ],
+      "to": [
+        38,
+        143,
+        157
+      ],
+      "point": [
+        39
+      ],
+      "way": [
+        41
+      ],
+      "toward": [
+        42,
+        60
+      ],
+      "solution.Since": [
+        44
+      ],
+      "1967": [
+        46
+      ],
+      "war": [
+        47
+      ],
+      "there": [
+        48
+      ],
+      "has": [
+        49,
+        141
+      ],
+      "been": [
+        50,
+        118
+      ],
+      "no": [
+        51
+      ],
+      "dearth": [
+        52
+      ],
+      "governmental,": [
+        54
+      ],
+      "congressional,": [
+        55
+      ],
+      "academic": [
+        57
+      ],
+      "brainpower": [
+        58
+      ],
+      "expended": [
+        59
+      ],
+      "same": [
+        62
+      ],
+      "end.Yet": [
+        63
+      ],
+      "despite": [
+        64
+      ],
+      "impressive": [
+        66
+      ],
+      "aggregation": [
+        67
+      ],
+      "analytic": [
+        69
+      ],
+      "talent,": [
+        70
+      ],
+      "problem": [
+        72,
+        87
+      ],
+      "still": [
+        73,
+        84
+      ],
+      "eludes": [
+        74
+      ],
+      "solution,": [
+        75
+      ],
+      "making": [
+        76
+      ],
+      "it": [
+        77
+      ],
+      "oldest": [
+        81
+      ],
+      "permanent": [
+        82
+      ],
+      "crises": [
+        83
+      ],
+      "with": [
+        85
+      ],
+      "us.The": [
+        86
+      ],
+      "itself": [
+        88
+      ],
+      "all": [
+        90,
+        113
+      ],
+      "too": [
+        91
+      ],
+      "familiar-competing": [
+        92
+      ],
+      "nationalisms,": [
+        93
+      ],
+      "holocaust,": [
+        94
+      ],
+      "war,": [
+        95,
+        106
+      ],
+      "displacement": [
+        96
+      ],
+      "Palestinians,": [
+        99
+      ],
+      "incursions,": [
+        100
+      ],
+      "reprisals,": [
+        101
+      ],
+      "belligerency,": [
+        102
+      ],
+      "blockades,": [
+        103
+      ],
+      "threats,": [
+        104
+      ],
+      "more": [
+        105
+      ],
+      "apparently": [
+        107
+      ],
+      "ad": [
+        108
+      ],
+      "infinitum.No": [
+        109
+      ],
+      "less": [
+        110
+      ],
+      "familiar": [
+        111
+      ],
+      "are": [
+        112
+      ],
+      "options": [
+        115,
+        140
+      ],
+      "that": [
+        116,
+        155
+      ],
+      "proposed": [
+        119
+      ],
+      "over": [
+        120
+      ],
+      "years-binationalism,": [
+        122
+      ],
+      "partition,": [
+        123
+      ],
+      "internationalization,": [
+        124
+      ],
+      "compensation,": [
+        125
+      ],
+      "repatriation,": [
+        126
+      ],
+      "open": [
+        127
+      ],
+      "waterways,": [
+        128
+      ],
+      "arms": [
+        129
+      ],
+      "control,": [
+        130
+      ],
+      "truce": [
+        131
+      ],
+      "supervision,": [
+        132
+      ],
+      "refugee": [
+        133
+      ],
+      "relief,": [
+        134
+      ],
+      "peacekeeping.The": [
+        136
+      ],
+      "familiarity": [
+        137
+      ],
+      "these": [
+        139
+      ],
+      "come": [
+        142,
+        153
+      ],
+      "be": [
+        144
+      ],
+      "matched": [
+        145
+      ],
+      "only": [
+        146
+      ],
+      "by": [
+        147
+      ],
+      "their": [
+        148
+      ],
+      "apparent": [
+        149
+      ],
+      "sterility.Thus": [
+        150
+      ],
+      "when": [
+        151
+      ],
+      "proposals": [
+        152
+      ],
+      "along": [
+        154
+      ],
+      "attempt": [
+        156
+      ],
+      "break": [
+        158
+      ],
+      "new": [
+        159
+      ],
+      "ground": [
+        160
+      ],
+      "show": [
+        162
+      ],
+      "some": [
+        163
+      ],
+      "degree": [
+        164
+      ],
+      "creativity": [
+        166
+      ],
+      "imagination,": [
+        168
+      ],
+      "they": [
+        169
+      ],
+      "deserve": [
+        170
+      ],
+      "scrutiny.Michael": [
+        172
+      ],
+      "Reisman's": [
+        173
+      ],
+      "eighty-eight": [
+        174
+      ],
+      "page": [
+        175
+      ],
+      "essay": [
+        176
+      ],
+      "falls": [
+        177
+      ],
+      "this": [
+        179
+      ],
+      "category.His": [
+        180
+      ],
+      "approach": [
+        181
+      ],
+      "exemplifies": [
+        182
+      ],
+      "what": [
+        183
+      ],
+      "may": [
+        185
+      ],
+      "call": [
+        186,
+        206
+      ],
+      "liberal": [
+        188
+      ],
+      "perspective": [
+        189
+      ],
+      "on": [
+        190
+      ],
+      "problem,": [
+        192
+      ],
+      "as": [
+        193
+      ],
+      "distinguished": [
+        194
+      ],
+      "from": [
+        195
+      ],
+      "radical": [
+        197
+      ],
+      "positions": [
+        198
+      ],
+      "found": [
+        199
+      ],
+      "among": [
+        200
+      ],
+      "many": [
+        201
+      ],
+      "partisans,": [
+        204
+      ],
+      "who": [
+        205
+      ],
+      "for": [
+        207
+      ],
+      "drastic": [
+        209
+      ],
+      "altering": [
+        210
+      ],
+      "pre-1967": [
+        213
+      ],
+      "status": [
+        214
+      ],
+      "quo": [
+        215
+      ],
+      "favor": [
+        217
+      ],
+      "side": [
+        220
+      ],
+      "or": [
+        221
+      ],
+      "other.Reisman's": [
+        223
+      ],
+      "breathtakingly": [
+        226
+      ],
+      "sweeping": [
+        227
+      ],
+      "approach.At": [
+        228
+      ],
+      "single": [
+        230
+      ],
+      "stroke": [
+        231
+      ],
+      "he": [
+        232
+      ],
+      "cuts": [
+        233
+      ],
+      "awvay": [
+        234
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W1625023628",
+    "doi": "https://doi.org/10.2307/20455722",
+    "title": "Unpacking the Household: Informal Property Rights around the Hearth",
+    "display_name": "Unpacking the Household: Informal Property Rights around the Hearth",
+    "relevance_score": 4.4157877,
+    "publication_year": 2006,
+    "publication_date": "2006-11-01",
+    "ids": {
+      "openalex": "https://openalex.org/W1625023628",
+      "doi": "https://doi.org/10.2307/20455722",
+      "mag": "1625023628"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.2307/20455722",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.2307/20455722",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S161895660",
+        "display_name": "The Yale Law Journal",
+        "issn_l": "0044-0094",
+        "issn": [
+          "0044-0094",
+          "1939-8611"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4322696530",
+        "host_organization_name": "The Yale Law Journal Company",
+        "host_organization_lineage": [
+          "https://openalex.org/P4322696530"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "The Yale Law Journal",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://openyls.law.yale.edu/bitstream/20.500.13051/3469/2/Unpacking_the_Household___Informal_Property_Rights_Around_the_Hearth.pdf",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5002503206",
+          "display_name": "Robert C. Ellickson",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I32971472",
+            "display_name": "Yale University",
+            "ror": "https://ror.org/03v76x132",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I32971472"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Robert C. Ellickson",
+        "raw_affiliation_strings": [
+          "Yale Law School ,"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Yale Law School ,",
+            "institution_ids": [
+              "https://openalex.org/I32971472"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5002503206"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I32971472"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 4.15655446,
+    "has_fulltext": true,
+    "cited_by_count": 4,
+    "citation_normalized_percentile": {
+      "value": 0.92459881,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 94
+    },
+    "biblio": {
+      "volume": "116",
+      "issue": "2",
+      "first_page": "226",
+      "last_page": "226"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T13357",
+      "display_name": "Property Rights and Legal Doctrine",
+      "score": 0.7760999798774719,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3308",
+        "display_name": "Law"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T13357",
+        "display_name": "Property Rights and Legal Doctrine",
+        "score": 0.7760999798774719,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3308",
+          "display_name": "Law"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12982",
+        "display_name": "Legal principles and applications",
+        "score": 0.7694000005722046,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3308",
+          "display_name": "Law"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/transaction-cost",
+        "display_name": "Transaction cost",
+        "score": 0.6749168634414673
+      },
+      {
+        "id": "https://openalex.org/keywords/politics",
+        "display_name": "Politics",
+        "score": 0.5073413252830505
+      },
+      {
+        "id": "https://openalex.org/keywords/corporate-governance",
+        "display_name": "Corporate governance",
+        "score": 0.48233839869499207
+      },
+      {
+        "id": "https://openalex.org/keywords/property-rights",
+        "display_name": "Property rights",
+        "score": 0.4277823269367218
+      },
+      {
+        "id": "https://openalex.org/keywords/landlord",
+        "display_name": "Landlord",
+        "score": 0.4221242368221283
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.40140044689178467
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.33325037360191345
+      },
+      {
+        "id": "https://openalex.org/keywords/business",
+        "display_name": "Business",
+        "score": 0.32417207956314087
+      },
+      {
+        "id": "https://openalex.org/keywords/economics",
+        "display_name": "Economics",
+        "score": 0.3202681839466095
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.2844492495059967
+      },
+      {
+        "id": "https://openalex.org/keywords/finance",
+        "display_name": "Finance",
+        "score": 0.1173294186592102
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C98965940",
+        "wikidata": "https://www.wikidata.org/wiki/Q877496",
+        "display_name": "Transaction cost",
+        "level": 2,
+        "score": 0.6749168634414673
+      },
+      {
+        "id": "https://openalex.org/C94625758",
+        "wikidata": "https://www.wikidata.org/wiki/Q7163",
+        "display_name": "Politics",
+        "level": 2,
+        "score": 0.5073413252830505
+      },
+      {
+        "id": "https://openalex.org/C39389867",
+        "wikidata": "https://www.wikidata.org/wiki/Q380767",
+        "display_name": "Corporate governance",
+        "level": 2,
+        "score": 0.48233839869499207
+      },
+      {
+        "id": "https://openalex.org/C86511162",
+        "wikidata": "https://www.wikidata.org/wiki/Q8799101",
+        "display_name": "Property rights",
+        "level": 2,
+        "score": 0.4277823269367218
+      },
+      {
+        "id": "https://openalex.org/C2781137002",
+        "wikidata": "https://www.wikidata.org/wiki/Q618532",
+        "display_name": "Landlord",
+        "level": 2,
+        "score": 0.4221242368221283
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.40140044689178467
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.33325037360191345
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.32417207956314087
+      },
+      {
+        "id": "https://openalex.org/C162324750",
+        "wikidata": "https://www.wikidata.org/wiki/Q8134",
+        "display_name": "Economics",
+        "level": 0,
+        "score": 0.3202681839466095
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.2844492495059967
+      },
+      {
+        "id": "https://openalex.org/C10138342",
+        "wikidata": "https://www.wikidata.org/wiki/Q43015",
+        "display_name": "Finance",
+        "level": 1,
+        "score": 0.1173294186592102
+      }
+    ],
+    "mesh": [],
+    "locations_count": 4,
+    "locations": [
+      {
+        "id": "doi:10.2307/20455722",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2307/20455722",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S161895660",
+          "display_name": "The Yale Law Journal",
+          "issn_l": "0044-0094",
+          "issn": [
+            "0044-0094",
+            "1939-8611"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4322696530",
+          "host_organization_name": "The Yale Law Journal Company",
+          "host_organization_lineage": [
+            "https://openalex.org/P4322696530"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The Yale Law Journal",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:digitalcommons.law.yale.edu:fss_papers-1401",
+        "is_oa": true,
+        "landing_page_url": "https://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=1401&amp;amp;context=fss_papers",
+        "pdf_url": "https://openyls.law.yale.edu/bitstream/20.500.13051/3469/2/Unpacking_the_Household___Informal_Property_Rights_Around_the_Hearth.pdf",
+        "source": {
+          "id": "https://openalex.org/S4377196152",
+          "display_name": "Yale Law School Legal Scholarship Repository",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [
+            null
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Faculty Scholarship Series",
+        "raw_type": "text"
+      },
+      {
+        "id": "pmh:oai:digitalcommons.law.yale.edu:ylj-5058",
+        "is_oa": false,
+        "landing_page_url": "https://digitalcommons.law.yale.edu/ylj/vol116/iss2/1",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4377196152",
+          "display_name": "Yale Law School Legal Scholarship Repository",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [
+            null
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Yale Law Journal",
+        "raw_type": "text"
+      },
+      {
+        "id": "mag:1625023628",
+        "is_oa": true,
+        "landing_page_url": "https://autopapers.ssrn.com/sol3/papers.cfm?abstract_id=895754",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210172589",
+          "display_name": "SSRN Electronic Journal",
+          "issn_l": "1556-5068",
+          "issn": [
+            "1556-5068"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I1318003438",
+          "host_organization_name": "RELX Group (Netherlands)",
+          "host_organization_lineage": [
+            "https://openalex.org/I1318003438"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "SSRN Electronic Journal",
+        "raw_type": null
+      }
+    ],
+    "best_oa_location": {
+      "id": "pmh:oai:digitalcommons.law.yale.edu:fss_papers-1401",
+      "is_oa": true,
+      "landing_page_url": "https://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=1401&amp;amp;context=fss_papers",
+      "pdf_url": "https://openyls.law.yale.edu/bitstream/20.500.13051/3469/2/Unpacking_the_Household___Informal_Property_Rights_Around_the_Hearth.pdf",
+      "source": {
+        "id": "https://openalex.org/S4377196152",
+        "display_name": "Yale Law School Legal Scholarship Repository",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [
+          null
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Faculty Scholarship Series",
+      "raw_type": "text"
+    },
+    "sustainable_development_goals": [
+      {
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16",
+        "score": 0.4099999964237213
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": true,
+      "grobid_xml": true
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W1998647183",
+      "https://openalex.org/W2968422742",
+      "https://openalex.org/W3106455635",
+      "https://openalex.org/W2556716938",
+      "https://openalex.org/W1531395805",
+      "https://openalex.org/W2604509409",
+      "https://openalex.org/W73393637",
+      "https://openalex.org/W2488043912",
+      "https://openalex.org/W3036607241",
+      "https://openalex.org/W2054993449",
+      "https://openalex.org/W2008083020",
+      "https://openalex.org/W142438812",
+      "https://openalex.org/W2122508115",
+      "https://openalex.org/W1558742840",
+      "https://openalex.org/W2760439524",
+      "https://openalex.org/W2055015197",
+      "https://openalex.org/W2619346550",
+      "https://openalex.org/W3124470583",
+      "https://openalex.org/W2140667621",
+      "https://openalex.org/W2060223988"
+    ],
+    "abstract_inverted_index": {
+      "As": [
+        0
+      ],
+      "Aristotle": [
+        1
+      ],
+      "recognized": [
+        2
+      ],
+      "in": [
+        3,
+        223
+      ],
+      "The": [
+        4
+      ],
+      "Politics,": [
+        5
+      ],
+      "the": [
+        6,
+        49,
+        56,
+        62,
+        83,
+        90,
+        96,
+        101,
+        113,
+        181,
+        194,
+        220,
+        224
+      ],
+      "household": [
+        7,
+        57,
+        76,
+        93,
+        132,
+        204
+      ],
+      "is": [
+        8,
+        133
+      ],
+      "an": [
+        9
+      ],
+      "indispensable": [
+        10
+      ],
+      "building": [
+        11
+      ],
+      "block": [
+        12
+      ],
+      "of": [
+        13,
+        85,
+        87,
+        92,
+        98,
+        108,
+        170,
+        184,
+        196,
+        227
+      ],
+      "social,": [
+        14
+      ],
+      "economic,": [
+        15
+      ],
+      "and": [
+        16,
+        37,
+        51,
+        70,
+        95,
+        110,
+        129,
+        139,
+        151,
+        178,
+        198,
+        210
+      ],
+      "political": [
+        17
+      ],
+      "life.": [
+        18
+      ],
+      "A": [
+        19
+      ],
+      "liberal": [
+        20
+      ],
+      "society": [
+        21
+      ],
+      "grants": [
+        22
+      ],
+      "its": [
+        23
+      ],
+      "citizens": [
+        24
+      ],
+      "far": [
+        25,
+        45
+      ],
+      "wider": [
+        26
+      ],
+      "berth": [
+        27
+      ],
+      "to": [
+        28,
+        33,
+        48,
+        52,
+        55,
+        73,
+        135,
+        192,
+        206,
+        218
+      ],
+      "arrange": [
+        29
+      ],
+      "their": [
+        30,
+        35
+      ],
+      "households": [
+        31,
+        118
+      ],
+      "than": [
+        32,
+        54
+      ],
+      "choose": [
+        34
+      ],
+      "familial": [
+        36
+      ],
+      "marital": [
+        38
+      ],
+      "relationships.": [
+        39
+      ],
+      "Legal": [
+        40
+      ],
+      "commentators,": [
+        41
+      ],
+      "however,": [
+        42,
+        189
+      ],
+      "have": [
+        43,
+        190,
+        202
+      ],
+      "devoted": [
+        44
+      ],
+      "more": [
+        46
+      ],
+      "attention": [
+        47
+      ],
+      "family": [
+        50
+      ],
+      "marriage": [
+        53
+      ],
+      "as": [
+        58,
+        82,
+        140,
+        142
+      ],
+      "such.": [
+        59
+      ],
+      "To": [
+        60
+      ],
+      "unpack": [
+        61
+      ],
+      "household,": [
+        63
+      ],
+      "this": [
+        64
+      ],
+      "Article": [
+        65,
+        114
+      ],
+      "applies": [
+        66
+      ],
+      "transaction": [
+        67,
+        182
+      ],
+      "cost": [
+        68
+      ],
+      "economics": [
+        69
+      ],
+      "sociological": [
+        71
+      ],
+      "theory": [
+        72
+      ],
+      "interactions": [
+        74
+      ],
+      "among": [
+        75,
+        122,
+        146,
+        149
+      ],
+      "participants.": [
+        77
+      ],
+      "It": [
+        78
+      ],
+      "explores": [
+        79
+      ],
+      "questions": [
+        80
+      ],
+      "such": [
+        81
+      ],
+      "structure": [
+        84
+      ],
+      "ownership": [
+        86
+      ],
+      "dwelling": [
+        88
+      ],
+      "units,": [
+        89
+      ],
+      "scope": [
+        91
+      ],
+      "production,": [
+        94
+      ],
+      "governance": [
+        97
+      ],
+      "activities": [
+        99
+      ],
+      "around": [
+        100
+      ],
+      "hearth.": [
+        102
+      ],
+      "Drawing": [
+        103
+      ],
+      "on": [
+        104
+      ],
+      "a": [
+        105,
+        168,
+        231
+      ],
+      "wide": [
+        106
+      ],
+      "variety": [
+        107
+      ],
+      "historical": [
+        109
+      ],
+      "statistical": [
+        111
+      ],
+      "sources,": [
+        112
+      ],
+      "contrasts": [
+        115
+      ],
+      "conventional": [
+        116
+      ],
+      "family-based": [
+        117
+      ],
+      "with": [
+        119,
+        172,
+        230
+      ],
+      "arrangements": [
+        120
+      ],
+      "in,": [
+        121
+      ],
+      "others,": [
+        123
+      ],
+      "medieval": [
+        124
+      ],
+      "English": [
+        125
+      ],
+      "castles,": [
+        126
+      ],
+      "Benedictine": [
+        127
+      ],
+      "monasteries,": [
+        128
+      ],
+      "Israeli": [
+        130
+      ],
+      "kibbutzim.\\nA": [
+        131
+      ],
+      "likely": [
+        134
+      ],
+      "involve": [
+        136
+      ],
+      "several": [
+        137
+      ],
+      "participants": [
+        138
+      ],
+      "many": [
+        141
+      ],
+      "three": [
+        143
+      ],
+      "distinct": [
+        144
+      ],
+      "relationships\u2014that": [
+        145
+      ],
+      "occupants,": [
+        147
+      ],
+      "that": [
+        148,
+        152
+      ],
+      "owners,": [
+        150
+      ],
+      "between": [
+        153
+      ],
+      "these": [
+        154,
+        163
+      ],
+      "two": [
+        155
+      ],
+      "groups": [
+        156
+      ],
+      "(the": [
+        157
+      ],
+      "landlord-tenant": [
+        158
+      ],
+      "relationship).": [
+        159
+      ],
+      "Individuals,": [
+        160
+      ],
+      "when": [
+        161
+      ],
+      "structuring": [
+        162
+      ],
+      "home": [
+        164,
+        225
+      ],
+      "relationships,": [
+        165
+      ],
+      "typically": [
+        166
+      ],
+      "pursue": [
+        167
+      ],
+      "strategy": [
+        169
+      ],
+      "consorting": [
+        171
+      ],
+      "intimates.": [
+        173,
+        234
+      ],
+      "This": [
+        174
+      ],
+      "facilitates": [
+        175
+      ],
+      "informal": [
+        176
+      ],
+      "coordination": [
+        177
+      ],
+      "greatly": [
+        179
+      ],
+      "reduces": [
+        180
+      ],
+      "costs": [
+        183
+      ],
+      "domestic": [
+        185
+      ],
+      "interactions.": [
+        186
+      ],
+      "Utopian": [
+        187
+      ],
+      "critics,": [
+        188
+      ],
+      "sought": [
+        191
+      ],
+      "enlarge": [
+        193
+      ],
+      "scale": [
+        195
+      ],
+      "households,": [
+        197
+      ],
+      "some": [
+        199
+      ],
+      "legal": [
+        200
+      ],
+      "advocates": [
+        201
+      ],
+      "urged": [
+        203
+      ],
+      "members": [
+        205
+      ],
+      "write": [
+        207
+      ],
+      "formal": [
+        208
+      ],
+      "contracts": [
+        209
+      ],
+      "take": [
+        211
+      ],
+      "disputes": [
+        212
+      ],
+      "into": [
+        213
+      ],
+      "court.": [
+        214
+      ],
+      "These": [
+        215
+      ],
+      "commentators": [
+        216
+      ],
+      "fail": [
+        217
+      ],
+      "appreciate": [
+        219
+      ],
+      "great": [
+        221
+      ],
+      "advantages,": [
+        222
+      ],
+      "setting,": [
+        226
+      ],
+      "informally": [
+        228
+      ],
+      "associating": [
+        229
+      ],
+      "few": [
+        232
+      ],
+      "trustworthy": [
+        233
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2016,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2012,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W3125334908",
+    "doi": null,
+    "title": "Law Is Everywhere",
+    "display_name": "Law Is Everywhere",
+    "relevance_score": 4.0726423,
+    "publication_year": 2007,
+    "publication_date": "2007-11-01",
+    "ids": {
+      "openalex": "https://openalex.org/W3125334908",
+      "mag": "3125334908"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "mag:3125334908",
+      "is_oa": false,
+      "landing_page_url": "https://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=5102&context=ylj",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S161895660",
+        "display_name": "The Yale Law Journal",
+        "issn_l": "0044-0094",
+        "issn": [
+          "0044-0094",
+          "1939-8611"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4322696530",
+        "host_organization_name": "The Yale Law Journal Company",
+        "host_organization_lineage": [
+          "https://openalex.org/P4322696530"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "The Yale Law Journal",
+      "raw_type": null
+    },
+    "type": "article",
+    "indexed_in": [],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5033587791",
+          "display_name": "Owen M. Fiss",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I32971472",
+            "display_name": "Yale University",
+            "ror": "https://ror.org/03v76x132",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I32971472"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Owen M Fiss",
+        "raw_affiliation_strings": [
+          "Yale University"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Yale University",
+            "institution_ids": [
+              "https://openalex.org/I32971472"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5033587791"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I32971472"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 2,
+    "citation_normalized_percentile": {
+      "value": 0.62964215,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 90,
+      "max": 94
+    },
+    "biblio": {
+      "volume": "117",
+      "issue": "2",
+      "first_page": "2",
+      "last_page": null
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T13076",
+      "display_name": "Torture, Ethics, and Law",
+      "score": 0.4381999969482422,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T13076",
+        "display_name": "Torture, Ethics, and Law",
+        "score": 0.4381999969482422,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13445",
+        "display_name": "American Constitutional Law and Politics",
+        "score": 0.4147000014781952,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T14288",
+        "display_name": "Law, Rights, and Freedoms",
+        "score": 0.36419999599456787,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/constitution",
+        "display_name": "Constitution",
+        "score": 0.7876290082931519
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.7074704170227051
+      },
+      {
+        "id": "https://openalex.org/keywords/torture",
+        "display_name": "Torture",
+        "score": 0.676593005657196
+      },
+      {
+        "id": "https://openalex.org/keywords/statute",
+        "display_name": "Statute",
+        "score": 0.6177741289138794
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.6134616136550903
+      },
+      {
+        "id": "https://openalex.org/keywords/democracy",
+        "display_name": "Democracy",
+        "score": 0.6116832494735718
+      },
+      {
+        "id": "https://openalex.org/keywords/terrorism",
+        "display_name": "Terrorism",
+        "score": 0.47106096148490906
+      },
+      {
+        "id": "https://openalex.org/keywords/economic-justice",
+        "display_name": "Economic Justice",
+        "score": 0.45989280939102173
+      },
+      {
+        "id": "https://openalex.org/keywords/civil-liberties",
+        "display_name": "Civil liberties",
+        "score": 0.4118531346321106
+      },
+      {
+        "id": "https://openalex.org/keywords/sociology",
+        "display_name": "Sociology",
+        "score": 0.3352845311164856
+      },
+      {
+        "id": "https://openalex.org/keywords/politics",
+        "display_name": "Politics",
+        "score": 0.25212591886520386
+      },
+      {
+        "id": "https://openalex.org/keywords/human-rights",
+        "display_name": "Human rights",
+        "score": 0.12257558107376099
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2776154427",
+        "wikidata": "https://www.wikidata.org/wiki/Q7755",
+        "display_name": "Constitution",
+        "level": 2,
+        "score": 0.7876290082931519
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.7074704170227051
+      },
+      {
+        "id": "https://openalex.org/C544040105",
+        "wikidata": "https://www.wikidata.org/wiki/Q132781",
+        "display_name": "Torture",
+        "level": 3,
+        "score": 0.676593005657196
+      },
+      {
+        "id": "https://openalex.org/C17319257",
+        "wikidata": "https://www.wikidata.org/wiki/Q21189184",
+        "display_name": "Statute",
+        "level": 2,
+        "score": 0.6177741289138794
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.6134616136550903
+      },
+      {
+        "id": "https://openalex.org/C555826173",
+        "wikidata": "https://www.wikidata.org/wiki/Q7174",
+        "display_name": "Democracy",
+        "level": 3,
+        "score": 0.6116832494735718
+      },
+      {
+        "id": "https://openalex.org/C203133693",
+        "wikidata": "https://www.wikidata.org/wiki/Q7283",
+        "display_name": "Terrorism",
+        "level": 2,
+        "score": 0.47106096148490906
+      },
+      {
+        "id": "https://openalex.org/C139621336",
+        "wikidata": "https://www.wikidata.org/wiki/Q3190382",
+        "display_name": "Economic Justice",
+        "level": 2,
+        "score": 0.45989280939102173
+      },
+      {
+        "id": "https://openalex.org/C2775923278",
+        "wikidata": "https://www.wikidata.org/wiki/Q29556",
+        "display_name": "Civil liberties",
+        "level": 3,
+        "score": 0.4118531346321106
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.3352845311164856
+      },
+      {
+        "id": "https://openalex.org/C94625758",
+        "wikidata": "https://www.wikidata.org/wiki/Q7163",
+        "display_name": "Politics",
+        "level": 2,
+        "score": 0.25212591886520386
+      },
+      {
+        "id": "https://openalex.org/C169437150",
+        "wikidata": "https://www.wikidata.org/wiki/Q8458",
+        "display_name": "Human rights",
+        "level": 2,
+        "score": 0.12257558107376099
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "mag:3125334908",
+        "is_oa": false,
+        "landing_page_url": "https://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=5102&context=ylj",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S161895660",
+          "display_name": "The Yale Law Journal",
+          "issn_l": "0044-0094",
+          "issn": [
+            "0044-0094",
+            "1939-8611"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4322696530",
+          "host_organization_name": "The Yale Law Journal Company",
+          "host_organization_lineage": [
+            "https://openalex.org/P4322696530"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": null,
+        "raw_source_name": "The Yale Law Journal",
+        "raw_type": null
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16",
+        "score": 0.8399999737739563
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W53690119",
+      "https://openalex.org/W66206401",
+      "https://openalex.org/W3125714067",
+      "https://openalex.org/W2288523448",
+      "https://openalex.org/W2026367062",
+      "https://openalex.org/W49501599",
+      "https://openalex.org/W214793557",
+      "https://openalex.org/W2601105672",
+      "https://openalex.org/W2259342167",
+      "https://openalex.org/W2133827078",
+      "https://openalex.org/W117153847",
+      "https://openalex.org/W275122864",
+      "https://openalex.org/W654621518",
+      "https://openalex.org/W2340702090",
+      "https://openalex.org/W3124848897",
+      "https://openalex.org/W2156636394",
+      "https://openalex.org/W2098129626",
+      "https://openalex.org/W2187603752",
+      "https://openalex.org/W2599592384",
+      "https://openalex.org/W302142518"
+    ],
+    "abstract_inverted_index": {
+      "War": [
+        0
+      ],
+      "places": [
+        1
+      ],
+      "great": [
+        2
+      ],
+      "stress": [
+        3
+      ],
+      "on": [
+        4,
+        21
+      ],
+      "society.": [
+        5
+      ],
+      "It": [
+        6
+      ],
+      "calls": [
+        7
+      ],
+      "for": [
+        8,
+        101
+      ],
+      "major": [
+        9
+      ],
+      "readjustments": [
+        10
+      ],
+      "in": [
+        11,
+        14,
+        85,
+        140
+      ],
+      "government": [
+        12
+      ],
+      "and": [
+        13,
+        43,
+        91,
+        118
+      ],
+      "ordinary": [
+        15
+      ],
+      "life.": [
+        16
+      ],
+      "Often": [
+        17
+      ],
+      "people": [
+        18
+      ],
+      "are": [
+        19
+      ],
+      "called": [
+        20
+      ],
+      "to": [
+        22,
+        28,
+        30,
+        47,
+        172
+      ],
+      "make": [
+        23
+      ],
+      "enormous": [
+        24
+      ],
+      "sacrifices.": [
+        25
+      ],
+      "In": [
+        26
+      ],
+      "order": [
+        27
+      ],
+      "respond": [
+        29
+      ],
+      "these": [
+        31,
+        62
+      ],
+      "needs,": [
+        32
+      ],
+      "codified": [
+        33
+      ],
+      "law": [
+        34
+      ],
+      "is": [
+        35,
+        60,
+        98,
+        151,
+        164
+      ],
+      "often": [
+        36
+      ],
+      "changed.": [
+        37
+      ],
+      "The": [
+        38,
+        54,
+        145,
+        167
+      ],
+      "Executive": [
+        39
+      ],
+      "promulgates": [
+        40
+      ],
+      "new": [
+        41
+      ],
+      "regulations": [
+        42
+      ],
+      "Congress": [
+        44
+      ],
+      "enacts": [
+        45
+      ],
+      "statutes": [
+        46
+      ],
+      "meet": [
+        48
+      ],
+      "the": [
+        49,
+        52,
+        69,
+        72,
+        76,
+        81,
+        86,
+        120,
+        131,
+        148,
+        160,
+        175
+      ],
+      "exigencies": [
+        50
+      ],
+      "of": [
+        51,
+        57,
+        71,
+        78,
+        103,
+        109,
+        122,
+        135,
+        181
+      ],
+      "war.": [
+        53
+      ],
+      "governing": [
+        55
+      ],
+      "assumption": [
+        56,
+        117
+      ],
+      "American": [
+        58,
+        149
+      ],
+      "society": [
+        59
+      ],
+      "that": [
+        61,
+        75
+      ],
+      "war": [
+        63,
+        104,
+        168
+      ],
+      "measures": [
+        64
+      ],
+      "will": [
+        65,
+        88,
+        94
+      ],
+      "be": [
+        66,
+        89,
+        95
+      ],
+      "undertaken": [
+        67
+      ],
+      "within": [
+        68
+      ],
+      "terms": [
+        70
+      ],
+      "Constitution": [
+        73,
+        87,
+        100
+      ],
+      "-": [
+        74
+      ],
+      "allocation": [
+        77
+      ],
+      "powers": [
+        79
+      ],
+      "among": [
+        80
+      ],
+      "branches": [
+        82
+      ],
+      "set": [
+        83
+      ],
+      "forth": [
+        84
+      ],
+      "respected": [
+        90
+      ],
+      "basic": [
+        92
+      ],
+      "liberties": [
+        93
+      ],
+      "honored.": [
+        96
+      ],
+      "Ours": [
+        97
+      ],
+      "a": [
+        99,
+        155
+      ],
+      "times": [
+        102,
+        108
+      ],
+      "as": [
+        105,
+        107,
+        157,
+        159
+      ],
+      "well": [
+        106
+      ],
+      "peace.The": [
+        110
+      ],
+      "last": [
+        111
+      ],
+      "five": [
+        112
+      ],
+      "years": [
+        113
+      ],
+      "have": [
+        114,
+        173
+      ],
+      "confounded": [
+        115
+      ],
+      "this": [
+        116
+      ],
+      "rendered": [
+        119
+      ],
+      "example": [
+        121
+      ],
+      "Justice": [
+        123
+      ],
+      "Aharon": [
+        124
+      ],
+      "Barak": [
+        125
+      ],
+      "especially": [
+        126
+      ],
+      "compelling.": [
+        127
+      ],
+      "He": [
+        128
+      ],
+      "has": [
+        129
+      ],
+      "honored": [
+        130
+      ],
+      "special": [
+        132
+      ],
+      "security": [
+        133
+      ],
+      "needs": [
+        134
+      ],
+      "Israel": [
+        136
+      ],
+      "while": [
+        137
+      ],
+      "being": [
+        138
+      ],
+      "adamant": [
+        139
+      ],
+      "protecting": [
+        141
+      ],
+      "Israel\u2019s": [
+        142
+      ],
+      "democratic": [
+        143
+      ],
+      "character.": [
+        144
+      ],
+      "contrast": [
+        146
+      ],
+      "with": [
+        147
+      ],
+      "experience": [
+        150
+      ],
+      "stark,": [
+        152
+      ],
+      "even": [
+        153
+      ],
+      "when": [
+        154
+      ],
+      "principle": [
+        156
+      ],
+      "sacrosanct": [
+        158
+      ],
+      "prohibition": [
+        161
+      ],
+      "against": [
+        162,
+        169
+      ],
+      "torture": [
+        163
+      ],
+      "at": [
+        165
+      ],
+      "stake.": [
+        166
+      ],
+      "terrorism": [
+        170
+      ],
+      "seems": [
+        171
+      ],
+      "absolved": [
+        174
+      ],
+      "current": [
+        176
+      ],
+      "Administration": [
+        177
+      ],
+      "from": [
+        178
+      ],
+      "any": [
+        179
+      ],
+      "sense": [
+        180
+      ],
+      "limits.": [
+        182
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2016,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-10-10T17:16:08.811792",
+    "created_date": "2021-02-01T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2797824057",
+    "doi": "https://doi.org/10.2307/794852",
+    "title": "Nuclear Proliferation and Rules of Retaliation",
+    "display_name": "Nuclear Proliferation and Rules of Retaliation",
+    "relevance_score": 3.0664818,
+    "publication_year": 1966,
+    "publication_date": "1966-11-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2797824057",
+      "doi": "https://doi.org/10.2307/794852",
+      "mag": "2797824057"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.2307/794852",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.2307/794852",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S161895660",
+        "display_name": "The Yale Law Journal",
+        "issn_l": "0044-0094",
+        "issn": [
+          "0044-0094",
+          "1939-8611"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4322696530",
+        "host_organization_name": "The Yale Law Journal Company",
+        "host_organization_lineage": [
+          "https://openalex.org/P4322696530"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "The Yale Law Journal",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5110554208",
+          "display_name": "Herman Kahn",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Herman Kahn",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5110554208"
+    ],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 2,
+    "citation_normalized_percentile": {
+      "value": 0.46860004,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 90,
+      "max": 94
+    },
+    "biblio": {
+      "volume": "76",
+      "issue": "1",
+      "first_page": "77",
+      "last_page": "77"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T13120",
+      "display_name": "Nuclear Issues and Defense",
+      "score": 0.8937000036239624,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T13120",
+        "display_name": "Nuclear Issues and Defense",
+        "score": 0.8937000036239624,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/nuclear-proliferation",
+        "display_name": "Nuclear proliferation",
+        "score": 0.5623314380645752
+      },
+      {
+        "id": "https://openalex.org/keywords/law-and-economics",
+        "display_name": "Law and economics",
+        "score": 0.513297975063324
+      },
+      {
+        "id": "https://openalex.org/keywords/business",
+        "display_name": "Business",
+        "score": 0.4057510793209076
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.3466728627681732
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.2563466429710388
+      },
+      {
+        "id": "https://openalex.org/keywords/nuclear-weapon",
+        "display_name": "Nuclear weapon",
+        "score": 0.23487266898155212
+      },
+      {
+        "id": "https://openalex.org/keywords/economics",
+        "display_name": "Economics",
+        "score": 0.22577962279319763
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2994412783",
+        "wikidata": "https://www.wikidata.org/wiki/Q1364891",
+        "display_name": "Nuclear proliferation",
+        "level": 3,
+        "score": 0.5623314380645752
+      },
+      {
+        "id": "https://openalex.org/C190253527",
+        "wikidata": "https://www.wikidata.org/wiki/Q295354",
+        "display_name": "Law and economics",
+        "level": 1,
+        "score": 0.513297975063324
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.4057510793209076
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.3466728627681732
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.2563466429710388
+      },
+      {
+        "id": "https://openalex.org/C194110935",
+        "wikidata": "https://www.wikidata.org/wiki/Q12802",
+        "display_name": "Nuclear weapon",
+        "level": 2,
+        "score": 0.23487266898155212
+      },
+      {
+        "id": "https://openalex.org/C162324750",
+        "wikidata": "https://www.wikidata.org/wiki/Q8134",
+        "display_name": "Economics",
+        "level": 0,
+        "score": 0.22577962279319763
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.2307/794852",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2307/794852",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S161895660",
+          "display_name": "The Yale Law Journal",
+          "issn_l": "0044-0094",
+          "issn": [
+            "0044-0094",
+            "1939-8611"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4322696530",
+          "host_organization_name": "The Yale Law Journal Company",
+          "host_organization_lineage": [
+            "https://openalex.org/P4322696530"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The Yale Law Journal",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W2899084033",
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W379180177",
+      "https://openalex.org/W8345605",
+      "https://openalex.org/W4211172147",
+      "https://openalex.org/W2571311968",
+      "https://openalex.org/W2587518911",
+      "https://openalex.org/W165079585",
+      "https://openalex.org/W2006704695",
+      "https://openalex.org/W2083610069"
+    ],
+    "abstract_inverted_index": {
+      "Nearly": [
+        0
+      ],
+      "a": [
+        1,
+        51,
+        199
+      ],
+      "decade": [
+        2,
+        94,
+        181
+      ],
+      "has": [
+        3,
+        8,
+        18,
+        133
+      ],
+      "passed": [
+        4
+      ],
+      "since": [
+        5
+      ],
+      "any": [
+        6
+      ],
+      "nation": [
+        7
+      ],
+      "announced": [
+        9
+      ],
+      "an": [
+        10
+      ],
+      "explicit": [
+        11
+      ],
+      "decision": [
+        12
+      ],
+      "to": [
+        13,
+        118,
+        126,
+        161,
+        222,
+        246
+      ],
+      "acquire": [
+        14,
+        127
+      ],
+      "nuclear": [
+        15,
+        59,
+        129,
+        140,
+        253,
+        279,
+        301
+      ],
+      "weapons.Nuclear": [
+        16
+      ],
+      "proliferation": [
+        17,
+        86,
+        177,
+        259,
+        266,
+        302
+      ],
+      "been": [
+        19
+      ],
+      "slow,": [
+        20
+      ],
+      "at": [
+        21,
+        233,
+        292,
+        298
+      ],
+      "least": [
+        22,
+        65,
+        234,
+        293
+      ],
+      "by": [
+        23
+      ],
+      "comparison": [
+        24
+      ],
+      "with": [
+        25,
+        300
+      ],
+      "many": [
+        26,
+        208
+      ],
+      "of": [
+        27,
+        72,
+        122,
+        151,
+        225,
+        229,
+        252,
+        257,
+        288
+      ],
+      "the": [
+        28,
+        33,
+        47,
+        58,
+        67,
+        92,
+        99,
+        120,
+        144,
+        163,
+        179,
+        214,
+        236,
+        249,
+        262
+      ],
+      "pessimistic": [
+        29
+      ],
+      "estimates": [
+        30
+      ],
+      "made": [
+        31
+      ],
+      "in": [
+        32,
+        46,
+        91,
+        98,
+        178,
+        235,
+        294
+      ],
+      "past,": [
+        34
+      ],
+      "and": [
+        35,
+        61,
+        69,
+        77,
+        101,
+        104,
+        107,
+        147,
+        172,
+        192,
+        238
+      ],
+      "some": [
+        36
+      ],
+      "analysts": [
+        37
+      ],
+      "expect": [
+        38
+      ],
+      "that": [
+        39,
+        57,
+        137,
+        213,
+        264,
+        275
+      ],
+      "its": [
+        40
+      ],
+      "pace": [
+        41,
+        251
+      ],
+      "will": [
+        42,
+        242
+      ],
+      "remain": [
+        43
+      ],
+      "as": [
+        44,
+        166,
+        168,
+        205,
+        207
+      ],
+      "slow": [
+        45,
+        258
+      ],
+      "next": [
+        48,
+        93
+      ],
+      "decade.Others": [
+        49
+      ],
+      "take": [
+        50
+      ],
+      "very": [
+        52
+      ],
+      "different": [
+        53
+      ],
+      "view.They": [
+        54
+      ],
+      "point": [
+        55
+      ],
+      "out": [
+        56
+      ],
+      "warheads": [
+        60
+      ],
+      "carriers": [
+        62
+      ],
+      "are": [
+        63,
+        175,
+        203,
+        281
+      ],
+      "becoming-at": [
+        64
+      ],
+      "from": [
+        66,
+        220
+      ],
+      "technological": [
+        68
+      ],
+      "economic": [
+        70,
+        173,
+        193
+      ],
+      "points": [
+        71
+      ],
+      "view-ever": [
+        73
+      ],
+      "more": [
+        74,
+        89
+      ],
+      "widely": [
+        75
+      ],
+      "available,": [
+        76
+      ],
+      "they": [
+        78
+      ],
+      "argue": [
+        79
+      ],
+      "that,": [
+        80
+      ],
+      "for": [
+        81
+      ],
+      "this": [
+        82
+      ],
+      "reason": [
+        83
+      ],
+      "alone,": [
+        84
+      ],
+      "rapid": [
+        85
+      ],
+      "is": [
+        87,
+        157,
+        196
+      ],
+      "much": [
+        88
+      ],
+      "likely": [
+        90
+      ],
+      "or": [
+        95,
+        112,
+        124,
+        182
+      ],
+      "two": [
+        96,
+        183,
+        255
+      ],
+      "than": [
+        97
+      ],
+      "past.India": [
+        100
+      ],
+      "Pakistan,": [
+        102
+      ],
+      "Israel": [
+        103
+      ],
+      "Egypt,": [
+        105
+      ],
+      "Brazil": [
+        106
+      ],
+      "Argentina,": [
+        108
+      ],
+      "Sweden,": [
+        109
+      ],
+      "Switzerland,": [
+        110
+      ],
+      "Japan": [
+        111
+      ],
+      "West": [
+        113
+      ],
+      "Germany,": [
+        114
+      ],
+      "might": [
+        115,
+        142,
+        184
+      ],
+      "not": [
+        116,
+        158,
+        204,
+        243
+      ],
+      "have": [
+        117
+      ],
+      "duplicate": [
+        119
+      ],
+      "efforts": [
+        121
+      ],
+      "France": [
+        123
+      ],
+      "China": [
+        125
+      ],
+      "comparable": [
+        128
+      ],
+      "capabilities.More": [
+        130
+      ],
+      "important,": [
+        131
+      ],
+      "it": [
+        132,
+        156
+      ],
+      "become": [
+        134
+      ],
+      "increasingly": [
+        135
+      ],
+      "clear": [
+        136
+      ],
+      "quite": [
+        138
+      ],
+      "rudimentary": [
+        139
+      ],
+      "capabilities": [
+        141
+      ],
+      "satisfy": [
+        143
+      ],
+      "political,": [
+        145
+      ],
+      "psychological": [
+        146
+      ],
+      "even": [
+        148,
+        271
+      ],
+      "strategic": [
+        149
+      ],
+      "objectives": [
+        150
+      ],
+      "numerous": [
+        152
+      ],
+      "potential": [
+        153
+      ],
+      "\"Nth\"": [
+        154
+      ],
+      "countries;": [
+        155
+      ],
+      "always": [
+        159
+      ],
+      "necessary": [
+        160
+      ],
+      "overtake": [
+        162
+      ],
+      "superpowers.In": [
+        164
+      ],
+      "short,": [
+        165
+      ],
+      "far": [
+        167
+      ],
+      "narrow": [
+        169,
+        198
+      ],
+      "military,": [
+        170,
+        190
+      ],
+      "technical": [
+        171
+      ],
+      "obstacles": [
+        174
+      ],
+      "concerned,": [
+        176
+      ],
+      "coming": [
+        180
+      ],
+      "be": [
+        185,
+        218,
+        244,
+        269
+      ],
+      "unprecedentedly": [
+        186
+      ],
+      "rapid.But": [
+        187
+      ],
+      "focusing": [
+        188
+      ],
+      "on": [
+        189,
+        278
+      ],
+      "technical,": [
+        191
+      ],
+      "issues": [
+        194,
+        216,
+        227,
+        280
+      ],
+      "alone": [
+        195
+      ],
+      "too": [
+        197
+      ],
+      "view-precisely": [
+        200
+      ],
+      "because": [
+        201
+      ],
+      "these": [
+        202
+      ],
+      "constraining": [
+        206
+      ],
+      "thought.It": [
+        209
+      ],
+      "would": [
+        210
+      ],
+      "appear": [
+        211
+      ],
+      "therefore": [
+        212
+      ],
+      "political": [
+        215
+      ],
+      "should": [
+        217,
+        273,
+        303
+      ],
+      "upgraded": [
+        219
+      ],
+      "important": [
+        221
+      ],
+      "dominant.Political": [
+        223
+      ],
+      "analyses": [
+        224
+      ],
+      "such": [
+        226
+      ],
+      "are,": [
+        228
+      ],
+      "course,": [
+        230
+      ],
+      "inherently": [
+        231
+      ],
+      "uncertain,": [
+        232
+      ],
+      "medium": [
+        237
+      ],
+      "long": [
+        239
+      ],
+      "run.Therefore,": [
+        240
+      ],
+      "we": [
+        241
+      ],
+      "able": [
+        245
+      ],
+      "forecast": [
+        247
+      ],
+      "reliably": [
+        248
+      ],
+      "future": [
+        250,
+        265
+      ],
+      "proliferation.Yet": [
+        254
+      ],
+      "decades": [
+        256
+      ],
+      "do": [
+        260
+      ],
+      "raise": [
+        261
+      ],
+      "hope": [
+        263
+      ],
+      "may": [
+        267
+      ],
+      "likewise": [
+        268
+      ],
+      "slow-perhaps": [
+        270
+      ],
+      "slower.We": [
+        272
+      ],
+      "note": [
+        274
+      ],
+      "certain": [
+        276
+      ],
+      "attitudes": [
+        277
+      ],
+      "now": [
+        282
+      ],
+      "widespread": [
+        283
+      ],
+      "which": [
+        284
+      ],
+      "were": [
+        285
+      ],
+      "almost": [
+        286
+      ],
+      "unheard": [
+        287
+      ],
+      "ten": [
+        289
+      ],
+      "years": [
+        290
+      ],
+      "ago,": [
+        291
+      ],
+      "general": [
+        295
+      ],
+      "discussion.Policies": [
+        296
+      ],
+      "aimed": [
+        297
+      ],
+      "dealing": [
+        299
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2016,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W4235868704",
+    "doi": "https://doi.org/10.2307/794827",
+    "title": "Intermodal Transportation and the Freight Forwarder",
+    "display_name": "Intermodal Transportation and the Freight Forwarder",
+    "relevance_score": 0.9681067,
+    "publication_year": 1967,
+    "publication_date": "1967-06-01",
+    "ids": {
+      "openalex": "https://openalex.org/W4235868704",
+      "doi": "https://doi.org/10.2307/794827"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.2307/794827",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.2307/794827",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S161895660",
+        "display_name": "The Yale Law Journal",
+        "issn_l": "0044-0094",
+        "issn": [
+          "0044-0094",
+          "1939-8611"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4322696530",
+        "host_organization_name": "The Yale Law Journal Company",
+        "host_organization_lineage": [
+          "https://openalex.org/P4322696530"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "The Yale Law Journal",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 0,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.63187702,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "76",
+      "issue": "7",
+      "first_page": "1360",
+      "last_page": "1360"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T14180",
+      "display_name": "Law, logistics, and international trade",
+      "score": 0.9815999865531921,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1402",
+        "display_name": "Accounting"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T14180",
+        "display_name": "Law, logistics, and international trade",
+        "score": 0.9815999865531921,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1402",
+          "display_name": "Accounting"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11223",
+        "display_name": "Maritime Ports and Logistics",
+        "score": 0.9614999890327454,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2209",
+          "display_name": "Industrial and Manufacturing Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/business",
+        "display_name": "Business",
+        "score": 0.6701092720031738
+      },
+      {
+        "id": "https://openalex.org/keywords/forwarder",
+        "display_name": "Forwarder",
+        "score": 0.667224109172821
+      },
+      {
+        "id": "https://openalex.org/keywords/transport-engineering",
+        "display_name": "Transport engineering",
+        "score": 0.6328877210617065
+      },
+      {
+        "id": "https://openalex.org/keywords/engineering",
+        "display_name": "Engineering",
+        "score": 0.14406347274780273
+      },
+      {
+        "id": "https://openalex.org/keywords/computer-science",
+        "display_name": "Computer science",
+        "score": 0.14062264561653137
+      },
+      {
+        "id": "https://openalex.org/keywords/computer-network",
+        "display_name": "Computer network",
+        "score": 0.057491958141326904
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.6701092720031738
+      },
+      {
+        "id": "https://openalex.org/C2781363737",
+        "wikidata": "https://www.wikidata.org/wiki/Q616007",
+        "display_name": "Forwarder",
+        "level": 2,
+        "score": 0.667224109172821
+      },
+      {
+        "id": "https://openalex.org/C22212356",
+        "wikidata": "https://www.wikidata.org/wiki/Q775325",
+        "display_name": "Transport engineering",
+        "level": 1,
+        "score": 0.6328877210617065
+      },
+      {
+        "id": "https://openalex.org/C127413603",
+        "wikidata": "https://www.wikidata.org/wiki/Q11023",
+        "display_name": "Engineering",
+        "level": 0,
+        "score": 0.14406347274780273
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.14062264561653137
+      },
+      {
+        "id": "https://openalex.org/C31258907",
+        "wikidata": "https://www.wikidata.org/wiki/Q1301371",
+        "display_name": "Computer network",
+        "level": 1,
+        "score": 0.057491958141326904
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.2307/794827",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2307/794827",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S161895660",
+          "display_name": "The Yale Law Journal",
+          "issn_l": "0044-0094",
+          "issn": [
+            "0044-0094",
+            "1939-8611"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4322696530",
+          "host_organization_name": "The Yale Law Journal Company",
+          "host_organization_lineage": [
+            "https://openalex.org/P4322696530"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The Yale Law Journal",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W2348450607",
+      "https://openalex.org/W2092178793",
+      "https://openalex.org/W3092993991",
+      "https://openalex.org/W1577894481",
+      "https://openalex.org/W3048878306",
+      "https://openalex.org/W2379231944",
+      "https://openalex.org/W3092935823",
+      "https://openalex.org/W2084240549",
+      "https://openalex.org/W1973777460",
+      "https://openalex.org/W1878170474"
+    ],
+    "abstract_inverted_index": {
+      "This": [
+        0
+      ],
+      "student": [
+        1,
+        18
+      ],
+      "Comment": [
+        2
+      ],
+      "was": [
+        3,
+        26
+      ],
+      "co-winner": [
+        4
+      ],
+      "of": [
+        5,
+        29,
+        39,
+        61,
+        64,
+        86,
+        89
+      ],
+      "the": [
+        6,
+        16,
+        21,
+        23,
+        65,
+        75,
+        83
+      ],
+      "Israel": [
+        7
+      ],
+      "H.": [
+        8
+      ],
+      "Peres": [
+        9
+      ],
+      "Prize": [
+        10
+      ],
+      "for": [
+        11,
+        15
+      ],
+      "Volume": [
+        12
+      ],
+      "76,": [
+        13
+      ],
+      "given": [
+        14
+      ],
+      "best": [
+        17
+      ],
+      "contribution": [
+        19
+      ],
+      "to": [
+        20,
+        47,
+        92
+      ],
+      "volume;": [
+        22
+      ],
+      "other": [
+        24,
+        59
+      ],
+      "winner": [
+        25
+      ],
+      "Judicial": [
+        27
+      ],
+      "Control": [
+        28
+      ],
+      "Secret": [
+        30
+      ],
+      "Agents,": [
+        31
+      ],
+      "Issue": [
+        32
+      ],
+      "5.1.The": [
+        33
+      ],
+      "Interstate": [
+        34,
+        76
+      ],
+      "Commerce": [
+        35,
+        77
+      ],
+      "Act": [
+        36
+      ],
+      "requires": [
+        37,
+        74
+      ],
+      "approval": [
+        38
+      ],
+      "intermodal": [
+        40
+      ],
+      "mergers": [
+        41
+      ],
+      "or": [
+        42,
+        98
+      ],
+      "acquisi.tions": [
+        43
+      ],
+      "involving": [
+        44
+      ],
+      "carriers": [
+        45
+      ],
+      "subject": [
+        46
+      ],
+      "ICC": [
+        48
+      ],
+      "jurisdiction.Relatively": [
+        49
+      ],
+      "more": [
+        50
+      ],
+      "stringent": [
+        51
+      ],
+      "restrictions": [
+        52
+      ],
+      "are": [
+        53
+      ],
+      "placed": [
+        54
+      ],
+      "on": [
+        55
+      ],
+      "rail": [
+        56
+      ],
+      "expansion": [
+        57
+      ],
+      "into": [
+        58
+      ],
+      "forms": [
+        60
+      ],
+      "transportation.Section": [
+        62
+      ],
+      "5(2)": [
+        63,
+        69
+      ],
+      "Act,": [
+        66
+      ],
+      "49": [
+        67
+      ],
+      "U.S.0.\u00a7": [
+        68
+      ],
+      "(1964).The": [
+        70
+      ],
+      "National": [
+        71
+      ],
+      "Transportation": [
+        72
+      ],
+      "Policy": [
+        73
+      ],
+      "Commission": [
+        78
+      ],
+      "\"to": [
+        79
+      ],
+      "recognize": [
+        80
+      ],
+      "and": [
+        81,
+        91
+      ],
+      "preserve": [
+        82
+      ],
+      "inherent": [
+        84
+      ],
+      "advantages": [
+        85
+      ],
+      "each": [
+        87
+      ],
+      "[mode": [
+        88
+      ],
+      "transportation],\"": [
+        90
+      ],
+      "avoid": [
+        93
+      ],
+      "rates": [
+        94
+      ],
+      "which": [
+        95
+      ],
+      "involve": [
+        96
+      ],
+      "\"unfair": [
+        97
+      ],
+      "destructive": [
+        99
+      ],
+      "competitive": [
+        100
+      ],
+      "practices.\"": [
+        101
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2275901348",
+    "doi": "https://doi.org/10.2307/796761",
+    "title": "Notice-and-Comment Rights for Administrative Decisions Affecting International Trade: Heightened Need, No Response",
+    "display_name": "Notice-and-Comment Rights for Administrative Decisions Affecting International Trade: Heightened Need, No Response",
+    "relevance_score": 0.9399949,
+    "publication_year": 1989,
+    "publication_date": "1989-12-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2275901348",
+      "doi": "https://doi.org/10.2307/796761",
+      "mag": "2275901348"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.2307/796761",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.2307/796761",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S161895660",
+        "display_name": "The Yale Law Journal",
+        "issn_l": "0044-0094",
+        "issn": [
+          "0044-0094",
+          "1939-8611"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4322696530",
+        "host_organization_name": "The Yale Law Journal Company",
+        "host_organization_lineage": [
+          "https://openalex.org/P4322696530"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "The Yale Law Journal",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5087575748",
+          "display_name": "William D. Araiza",
+          "orcid": "https://orcid.org/0000-0001-5220-2470"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "William D. Araiza",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5087575748"
+    ],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.32444576,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "99",
+      "issue": "3",
+      "first_page": "669",
+      "last_page": "669"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T12156",
+      "display_name": "World Trade Organization Law",
+      "score": 0.9861000180244446,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T12156",
+        "display_name": "World Trade Organization Law",
+        "score": 0.9861000180244446,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10128",
+        "display_name": "Global trade and economics",
+        "score": 0.9642000198364258,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2000",
+          "display_name": "General Economics, Econometrics and Finance"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/20",
+          "display_name": "Economics, Econometrics and Finance"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/notice",
+        "display_name": "Notice",
+        "score": 0.9516959190368652
+      },
+      {
+        "id": "https://openalex.org/keywords/business",
+        "display_name": "Business",
+        "score": 0.5026893615722656
+      },
+      {
+        "id": "https://openalex.org/keywords/law-and-economics",
+        "display_name": "Law and economics",
+        "score": 0.4740355312824249
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.3926401734352112
+      },
+      {
+        "id": "https://openalex.org/keywords/public-administration",
+        "display_name": "Public administration",
+        "score": 0.38280028104782104
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.33405184745788574
+      },
+      {
+        "id": "https://openalex.org/keywords/public-economics",
+        "display_name": "Public economics",
+        "score": 0.33094680309295654
+      },
+      {
+        "id": "https://openalex.org/keywords/economics",
+        "display_name": "Economics",
+        "score": 0.24752673506736755
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2779913896",
+        "wikidata": "https://www.wikidata.org/wiki/Q7063001",
+        "display_name": "Notice",
+        "level": 2,
+        "score": 0.9516959190368652
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.5026893615722656
+      },
+      {
+        "id": "https://openalex.org/C190253527",
+        "wikidata": "https://www.wikidata.org/wiki/Q295354",
+        "display_name": "Law and economics",
+        "level": 1,
+        "score": 0.4740355312824249
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.3926401734352112
+      },
+      {
+        "id": "https://openalex.org/C3116431",
+        "wikidata": "https://www.wikidata.org/wiki/Q31728",
+        "display_name": "Public administration",
+        "level": 1,
+        "score": 0.38280028104782104
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.33405184745788574
+      },
+      {
+        "id": "https://openalex.org/C100001284",
+        "wikidata": "https://www.wikidata.org/wiki/Q2248246",
+        "display_name": "Public economics",
+        "level": 1,
+        "score": 0.33094680309295654
+      },
+      {
+        "id": "https://openalex.org/C162324750",
+        "wikidata": "https://www.wikidata.org/wiki/Q8134",
+        "display_name": "Economics",
+        "level": 0,
+        "score": 0.24752673506736755
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.2307/796761",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2307/796761",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S161895660",
+          "display_name": "The Yale Law Journal",
+          "issn_l": "0044-0094",
+          "issn": [
+            "0044-0094",
+            "1939-8611"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4322696530",
+          "host_organization_name": "The Yale Law Journal Company",
+          "host_organization_lineage": [
+            "https://openalex.org/P4322696530"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The Yale Law Journal",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "display_name": "Reduced inequalities",
+        "id": "https://metadata.un.org/sdg/10",
+        "score": 0.6899999976158142
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W2899084033",
+      "https://openalex.org/W2558055997",
+      "https://openalex.org/W2791183434",
+      "https://openalex.org/W2353369313",
+      "https://openalex.org/W2086339586",
+      "https://openalex.org/W4300782058",
+      "https://openalex.org/W2394387726",
+      "https://openalex.org/W3018282762",
+      "https://openalex.org/W2378724474",
+      "https://openalex.org/W1472269183"
+    ],
+    "abstract_inverted_index": {
+      "Changes": [
+        0
+      ],
+      "in": [
+        1,
+        26,
+        51,
+        54
+      ],
+      "world": [
+        2
+      ],
+      "trade": [
+        3,
+        20,
+        27,
+        53,
+        102
+      ],
+      "patterns": [
+        4
+      ],
+      "have": [
+        5,
+        69
+      ],
+      "increased": [
+        6,
+        70
+      ],
+      "the": [
+        7,
+        16,
+        38,
+        46,
+        71,
+        97,
+        105
+      ],
+      "importance": [
+        8
+      ],
+      "of": [
+        9,
+        12,
+        40,
+        48,
+        63,
+        84,
+        89,
+        92,
+        116
+      ],
+      "administrative": [
+        10,
+        82
+      ],
+      "classifications": [
+        11,
+        83
+      ],
+      "goods": [
+        13,
+        79
+      ],
+      "imported": [
+        14,
+        78
+      ],
+      "into": [
+        15
+      ],
+      "United": [
+        17
+      ],
+      "States.The": [
+        18
+      ],
+      "post-1945": [
+        19
+      ],
+      "regime,": [
+        21
+      ],
+      "characterized": [
+        22
+      ],
+      "by": [
+        23,
+        37,
+        45,
+        60
+      ],
+      "multilateral": [
+        24
+      ],
+      "reductions": [
+        25
+      ],
+      "barriers": [
+        28
+      ],
+      "applied": [
+        29
+      ],
+      "on": [
+        30,
+        81
+      ],
+      "a": [
+        31,
+        55,
+        61
+      ],
+      "non-discriminatory": [
+        32
+      ],
+      "basis,": [
+        33
+      ],
+      "has": [
+        34
+      ],
+      "been": [
+        35
+      ],
+      "challenged": [
+        36
+      ],
+      "emergence": [
+        39
+      ],
+      "discrete": [
+        41
+      ],
+      "trading": [
+        42,
+        94
+      ],
+      "blocs'": [
+        43
+      ],
+      "and": [
+        44,
+        74,
+        99,
+        104
+      ],
+      "rise": [
+        47
+      ],
+      "\"managed": [
+        49
+      ],
+      "trade,\"": [
+        50
+      ],
+      "which": [
+        52
+      ],
+      "particular": [
+        56
+      ],
+      "product": [
+        57
+      ],
+      "is": [
+        58
+      ],
+      "regulated": [
+        59
+      ],
+      "system": [
+        62
+      ],
+      "bilateral": [
+        64
+      ],
+      "quotas.": [
+        65
+      ],
+      "2": [
+        66
+      ],
+      "These": [
+        67
+      ],
+      "phenomena": [
+        68
+      ],
+      "differential": [
+        72
+      ],
+      "tariff": [
+        73
+      ],
+      "quota": [
+        75
+      ],
+      "treatment": [
+        76
+      ],
+      "accorded": [
+        77
+      ],
+      "based": [
+        80
+      ],
+      "their": [
+        85
+      ],
+      "type": [
+        86
+      ],
+      "or": [
+        87
+      ],
+      "country": [
+        88
+      ],
+      "origin.": [
+        90
+      ],
+      "31.Examples": [
+        91
+      ],
+      "such": [
+        93
+      ],
+      "blocs": [
+        95
+      ],
+      "are": [
+        96
+      ],
+      "U.S.-Canada": [
+        98
+      ],
+      "U.S.-Israel": [
+        100
+      ],
+      "free": [
+        101
+      ],
+      "areas": [
+        103
+      ],
+      "more": [
+        106
+      ],
+      "tightly": [
+        107
+      ],
+      "integrated": [
+        108
+      ],
+      "European": [
+        109
+      ],
+      "Community.See,": [
+        110
+      ],
+      "e.g.,": [
+        111
+      ],
+      "Greenhouse,": [
+        112
+      ],
+      "The": [
+        113
+      ],
+      "Growing": [
+        114
+      ],
+      "Fear": [
+        115
+      ],
+      "Fortress": [
+        117
+      ],
+      "Europe,": [
+        118
+      ],
+      "N.Y.": [
+        119
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2796303012",
+    "doi": "https://doi.org/10.2307/797001",
+    "title": "Compound-Complex Criminal Statutes and the Constitution: Demanding Unanimity as to Predicate Acts",
+    "display_name": "Compound-Complex Criminal Statutes and the Constitution: Demanding Unanimity as to Predicate Acts",
+    "relevance_score": 0.6676682,
+    "publication_year": 1995,
+    "publication_date": "1995-06-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2796303012",
+      "doi": "https://doi.org/10.2307/797001",
+      "mag": "2796303012"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.2307/797001",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.2307/797001",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S161895660",
+        "display_name": "The Yale Law Journal",
+        "issn_l": "0044-0094",
+        "issn": [
+          "0044-0094",
+          "1939-8611"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4322696530",
+        "host_organization_name": "The Yale Law Journal Company",
+        "host_organization_lineage": [
+          "https://openalex.org/P4322696530"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "The Yale Law Journal",
+      "raw_type": "journal-article"
+    },
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5016394379",
+          "display_name": "Eric Miller",
+          "orcid": "https://orcid.org/0000-0001-8433-1410"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Eric S. Miller",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5016394379"
+    ],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.58176529,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "104",
+      "issue": "8",
+      "first_page": "2277",
+      "last_page": "2277"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T14493",
+      "display_name": "Criminal Law and Evidence",
+      "score": 0.9797000288963318,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3308",
+        "display_name": "Law"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T14493",
+        "display_name": "Criminal Law and Evidence",
+        "score": 0.9797000288963318,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3308",
+          "display_name": "Law"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10802",
+        "display_name": "Judicial and Constitutional Studies",
+        "score": 0.9717000126838684,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3308",
+          "display_name": "Law"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10749",
+        "display_name": "International Law and Human Rights",
+        "score": 0.9473000168800354,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/unanimity",
+        "display_name": "Unanimity",
+        "score": 0.9072974920272827
+      },
+      {
+        "id": "https://openalex.org/keywords/statute",
+        "display_name": "Statute",
+        "score": 0.7635678052902222
+      },
+      {
+        "id": "https://openalex.org/keywords/constitution",
+        "display_name": "Constitution",
+        "score": 0.7574161291122437
+      },
+      {
+        "id": "https://openalex.org/keywords/predicate",
+        "display_name": "Predicate (mathematical logic)",
+        "score": 0.7196112871170044
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.5397845506668091
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.5267165303230286
+      },
+      {
+        "id": "https://openalex.org/keywords/computer-science",
+        "display_name": "Computer science",
+        "score": 0.2901073098182678
+      },
+      {
+        "id": "https://openalex.org/keywords/programming-language",
+        "display_name": "Programming language",
+        "score": 0.14416459202766418
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2781423480",
+        "wikidata": "https://www.wikidata.org/wiki/Q1309409",
+        "display_name": "Unanimity",
+        "level": 2,
+        "score": 0.9072974920272827
+      },
+      {
+        "id": "https://openalex.org/C17319257",
+        "wikidata": "https://www.wikidata.org/wiki/Q21189184",
+        "display_name": "Statute",
+        "level": 2,
+        "score": 0.7635678052902222
+      },
+      {
+        "id": "https://openalex.org/C2776154427",
+        "wikidata": "https://www.wikidata.org/wiki/Q7755",
+        "display_name": "Constitution",
+        "level": 2,
+        "score": 0.7574161291122437
+      },
+      {
+        "id": "https://openalex.org/C140146324",
+        "wikidata": "https://www.wikidata.org/wiki/Q1144319",
+        "display_name": "Predicate (mathematical logic)",
+        "level": 2,
+        "score": 0.7196112871170044
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.5397845506668091
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.5267165303230286
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.2901073098182678
+      },
+      {
+        "id": "https://openalex.org/C199360897",
+        "wikidata": "https://www.wikidata.org/wiki/Q9143",
+        "display_name": "Programming language",
+        "level": 1,
+        "score": 0.14416459202766418
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.2307/797001",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2307/797001",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S161895660",
+          "display_name": "The Yale Law Journal",
+          "issn_l": "0044-0094",
+          "issn": [
+            "0044-0094",
+            "1939-8611"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4322696530",
+          "host_organization_name": "The Yale Law Journal Company",
+          "host_organization_lineage": [
+            "https://openalex.org/P4322696530"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The Yale Law Journal",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "display_name": "Peace, Justice and strong institutions",
+        "id": "https://metadata.un.org/sdg/16",
+        "score": 0.75
+      }
+    ],
+    "grants": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W2761241146",
+      "https://openalex.org/W38030672",
+      "https://openalex.org/W2361273020",
+      "https://openalex.org/W2233435610",
+      "https://openalex.org/W4241255723",
+      "https://openalex.org/W3121450187",
+      "https://openalex.org/W2233592151",
+      "https://openalex.org/W1966164074",
+      "https://openalex.org/W2101212476",
+      "https://openalex.org/W135034256"
+    ],
+    "abstract_inverted_index": {
+      "In": [
+        0,
+        200
+      ],
+      "his": [
+        1
+      ],
+      "first": [
+        2
+      ],
+      "judicial": [
+        3
+      ],
+      "act,": [
+        4
+      ],
+      "Daniel,": [
+        5,
+        214
+      ],
+      "who": [
+        6
+      ],
+      "would": [
+        7
+      ],
+      "become": [
+        8
+      ],
+      "one": [
+        9
+      ],
+      "of": [
+        10,
+        26,
+        62,
+        88,
+        133,
+        174,
+        177,
+        211,
+        222,
+        233
+      ],
+      "the": [
+        11,
+        27,
+        38,
+        81,
+        84,
+        91,
+        107,
+        141,
+        164,
+        172,
+        197,
+        218,
+        223,
+        235,
+        243,
+        251
+      ],
+      "Hebrew": [
+        12
+      ],
+      "Bible's": [
+        13
+      ],
+      "most": [
+        14
+      ],
+      "respected": [
+        15,
+        30
+      ],
+      "judges,": [
+        16
+      ],
+      "saved": [
+        17
+      ],
+      "an": [
+        18,
+        168
+      ],
+      "innocent": [
+        19,
+        183
+      ],
+      "woman": [
+        20,
+        132
+      ],
+      "from": [
+        21,
+        188,
+        258
+      ],
+      "a": [
+        22,
+        66,
+        72,
+        96,
+        131,
+        160,
+        209,
+        215
+      ],
+      "death": [
+        23
+      ],
+      "sentence.'Susanna,": [
+        24
+      ],
+      "wife": [
+        25
+      ],
+      "wealthy": [
+        28
+      ],
+      "and": [
+        29,
+        46,
+        80,
+        109,
+        249
+      ],
+      "Joakim,": [
+        31
+      ],
+      "went": [
+        32
+      ],
+      "to": [
+        33,
+        36,
+        58,
+        112,
+        118
+      ],
+      "her": [
+        34,
+        44,
+        60,
+        70,
+        87,
+        101,
+        103,
+        119
+      ],
+      "garden": [
+        35
+      ],
+      "bathe.In": [
+        37
+      ],
+      "garden,": [
+        39
+      ],
+      "two": [
+        40
+      ],
+      "lecherous": [
+        41
+      ],
+      "elders": [
+        42,
+        85,
+        108,
+        142
+      ],
+      "trapped": [
+        43
+      ],
+      "alone": [
+        45
+      ],
+      "demanded": [
+        47,
+        230
+      ],
+      "that": [
+        48,
+        93,
+        186,
+        189,
+        217
+      ],
+      "she": [
+        49,
+        54
+      ],
+      "have": [
+        50
+      ],
+      "sex": [
+        51,
+        64
+      ],
+      "with": [
+        52,
+        65,
+        100,
+        208
+      ],
+      "them.If": [
+        53
+      ],
+      "refused,": [
+        55
+      ],
+      "they": [
+        56,
+        94
+      ],
+      "threatened": [
+        57
+      ],
+      "accuse": [
+        59
+      ],
+      "publicly": [
+        61
+      ],
+      "having": [
+        63
+      ],
+      "man": [
+        67,
+        98
+      ],
+      "other": [
+        68,
+        165
+      ],
+      "than": [
+        69
+      ],
+      "husband,": [
+        71
+      ],
+      "crime": [
+        73,
+        224,
+        236
+      ],
+      "whose": [
+        74
+      ],
+      "punishment": [
+        75
+      ],
+      "was": [
+        76,
+        115,
+        180,
+        182,
+        193,
+        206,
+        220,
+        226,
+        237
+      ],
+      "death.Susanna": [
+        77
+      ],
+      "did": [
+        78,
+        150
+      ],
+      "refuse,": [
+        79
+      ],
+      "next": [
+        82
+      ],
+      "day": [
+        83,
+        190
+      ],
+      "accused": [
+        86,
+        219
+      ],
+      "adultery,": [
+        89
+      ],
+      "telling": [
+        90
+      ],
+      "judges": [
+        92,
+        105,
+        244
+      ],
+      "saw": [
+        95
+      ],
+      "young": [
+        97
+      ],
+      "lying": [
+        99
+      ],
+      "in": [
+        102
+      ],
+      "garden.The": [
+        104
+      ],
+      "believed": [
+        106
+      ],
+      "sentenced": [
+        110
+      ],
+      "Susanna": [
+        111,
+        114,
+        179
+      ],
+      "death.As": [
+        113
+      ],
+      "being": [
+        116
+      ],
+      "led": [
+        117
+      ],
+      "execution,": [
+        120
+      ],
+      "Daniel": [
+        121,
+        144,
+        192,
+        205,
+        241,
+        259
+      ],
+      "cried": [
+        122
+      ],
+      "out,": [
+        123
+      ],
+      "\"Are": [
+        124
+      ],
+      "you": [
+        125,
+        151
+      ],
+      "such": [
+        126,
+        239
+      ],
+      "fools,": [
+        127
+      ],
+      "0": [
+        128
+      ],
+      "Israelites!To": [
+        129
+      ],
+      "condemn": [
+        130
+      ],
+      "Israel": [
+        134
+      ],
+      "without": [
+        135
+      ],
+      "...": [
+        136
+      ],
+      "clear": [
+        137
+      ],
+      "evidence?'": [
+        138
+      ],
+      "2": [
+        139
+      ],
+      "Questioning": [
+        140
+      ],
+      "separately,": [
+        143
+      ],
+      "asked": [
+        145
+      ],
+      "each,": [
+        146
+      ],
+      "\"[U]nder": [
+        147
+      ],
+      "which": [
+        148
+      ],
+      "tree": [
+        149
+      ],
+      "see": [
+        152
+      ],
+      "them": [
+        153
+      ],
+      "together?'": [
+        154
+      ],
+      "3": [
+        155
+      ],
+      "One": [
+        156
+      ],
+      "elder": [
+        157
+      ],
+      "answered,": [
+        158,
+        166
+      ],
+      "\"Under": [
+        159,
+        167
+      ],
+      "mastic": [
+        161
+      ],
+      "tree\";": [
+        162
+      ],
+      "4": [
+        163
+      ],
+      "oak.\"": [
+        169
+      ],
+      "5": [
+        170
+      ],
+      "On": [
+        171
+      ],
+      "basis": [
+        173
+      ],
+      "this": [
+        175
+      ],
+      "lack": [
+        176
+      ],
+      "agreement,": [
+        178
+      ],
+      "freed.\"Thus": [
+        181
+      ],
+      "blood": [
+        184
+      ],
+      "spared": [
+        185
+      ],
+      "day....And": [
+        187
+      ],
+      "onward": [
+        191
+      ],
+      "greatly": [
+        194
+      ],
+      "esteemed": [
+        195
+      ],
+      "by": [
+        196
+      ],
+      "people.\"": [
+        198
+      ],
+      "6": [
+        199
+      ],
+      "modem": [
+        201
+      ],
+      "criminal": [
+        202
+      ],
+      "procedure": [
+        203
+      ],
+      "terminology,": [
+        204
+      ],
+      "confronted": [
+        207
+      ],
+      "problem": [
+        210
+      ],
+      "verdict": [
+        212
+      ],
+      "specificity.To": [
+        213
+      ],
+      "determination": [
+        216
+      ],
+      "guilty": [
+        221
+      ],
+      "charged": [
+        225
+      ],
+      "not": [
+        227
+      ],
+      "enough.Instead,": [
+        228
+      ],
+      "he": [
+        229
+      ],
+      "\"clear": [
+        231
+      ],
+      "evidence\"": [
+        232
+      ],
+      "how": [
+        234
+      ],
+      "committed.Without": [
+        238
+      ],
+      "evidence,": [
+        240
+      ],
+      "said,": [
+        242
+      ],
+      "were": [
+        245
+      ],
+      "\"passing": [
+        246
+      ],
+      "unjust": [
+        247
+      ],
+      "sentences\"": [
+        248
+      ],
+      "\"condemning": [
+        250
+      ],
+      "innocent.\"": [
+        252
+      ],
+      "71.The": [
+        253
+      ],
+      "following": [
+        254
+      ],
+      "story": [
+        255
+      ],
+      "is": [
+        256
+      ],
+      "taken": [
+        257
+      ],
+      "13:1-64": [
+        260
+      ],
+      "(New": [
+        261
+      ],
+      "American": [
+        262
+      ],
+      "Bible).": [
+        263
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2025-11-06T03:46:38.306776",
+    "created_date": "2025-10-10T00:00:00"
+  }
+]
