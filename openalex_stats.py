@@ -3,53 +3,94 @@ import sys
 import aiohttp
 import asyncio
 import csv
+import urllib.parse
 from tqdm.asyncio import tqdm
 
 CSV_FILE = "journals.csv"
 OUTPUT_FILE = "journal_stats.csv"
 CONCURRENCY = 1
 RATE_LIMIT = 10
+SEARCH_PHRASES = [
+    None,
+    "israel",
+    "australia",
+    "france",
+    "belgium",
+    "syria",
+    "lebanon",
+    "egypt",
+    "iraq",
+    "(\"south africa\")",
+    "germany",
+    "japan",
+    "italy",
+    "(\"united states\" OR usa)"
+]
 
 
-async def fetch_stats(session, source_id, rate_limiter):
+async def fetch_stats(session, source_id, phrase, rate_limiter):
     async with rate_limiter:
         url = f"https://api.openalex.org/works"
+
+        filter_param = f'primary_location.source.id:{source_id}'
+        if phrase:
+            filter_param = f'title_and_abstract.search:{phrase},{filter_param}'
+
         params = {
-            'filter': f'primary_location.source.id:{source_id}',
+            'filter': filter_param,
             'group_by': 'publication_year',
             'mailto': 'reallyliri@gmail.com'
         }
 
         async with session.get(url, params=params) as response:
             if response.status != 200:
-                raise Exception(f"HTTP {response.status} for source {source_id}")
+                raise Exception(f"HTTP {response.status} for source {source_id} with phrase '{phrase}'")
             data = await response.json()
             return data
+
+
+def _col_name(phrase) -> str:
+    if not phrase:
+        return "count"
+    if phrase.startswith("("):
+        phrase = phrase[1:-1].split("\" OR")[0].replace(" ", "_").replace('"', "")
+    return f"count_{phrase}"
 
 
 async def process_source(session, source_id, journal_name, semaphore, rate_limiter):
     async with semaphore:
         try:
-            data = await fetch_stats(session, source_id, rate_limiter)
+            results_by_year = {}
 
-            results = []
-            group_by_results = data.get('group_by', [])
+            for phrase in SEARCH_PHRASES:
+                data = await fetch_stats(session, source_id, phrase, rate_limiter)
+                group_by_results = data.get('group_by', [])
 
-            for item in group_by_results:
-                year = item.get('key')
-                count = item.get('count', 0)
-                if year:
-                    results.append({
-                        'source_id': source_id,
-                        'journal_name': journal_name,
-                        'year': year,
-                        'count': count
-                    })
+                column_name = _col_name(phrase)
 
-            return results
+                for item in group_by_results:
+                    year = item.get('key')
+                    count = item.get('count', 0)
+                    if year:
+                        if year not in results_by_year:
+                            results_by_year[year] = {
+                                'source_id': source_id,
+                                'journal_name': journal_name,
+                                'year': year
+                            }
+                        results_by_year[year][column_name] = count
+
+            for year_data in results_by_year.values():
+                for phrase in SEARCH_PHRASES:
+                    column_name = _col_name(phrase)
+                    if column_name not in year_data:
+                        year_data[column_name] = 0
+
+            return list(results_by_year.values())
 
         except Exception as e:
             raise Exception(f"Error processing source {source_id}: {str(e)}")
+
 
 
 async def main():
@@ -86,7 +127,11 @@ async def main():
             all_stats.extend(result)
 
         with open(OUTPUT_FILE, 'w', newline='') as csvfile:
-            fieldnames = ['source_id', 'journal_name', 'year', 'count']
+            fieldnames = ['source_id', 'journal_name', 'year']
+            for phrase in SEARCH_PHRASES:
+                column_name = _col_name(phrase)
+                fieldnames.append(column_name)
+
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
             writer.writeheader()
