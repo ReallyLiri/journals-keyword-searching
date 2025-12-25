@@ -1,13 +1,13 @@
+import asyncio
+import csv
 import sys
 
 import aiohttp
-import asyncio
-import csv
-import urllib.parse
 from tqdm.asyncio import tqdm
 
 CSV_FILE = "journals.csv"
 OUTPUT_FILE = "journal_stats.csv"
+FROM_YEAR = 1940
 CONCURRENCY = 1
 RATE_LIMIT = 10
 SEARCH_PHRASES = [
@@ -24,7 +24,11 @@ SEARCH_PHRASES = [
     "germany",
     "japan",
     "italy",
-    "(\"united states\" OR usa)"
+    "(\"united states\" OR usa)",
+    "spain",
+    "jordan",
+    "algeria",
+    "switzerland",
 ]
 
 
@@ -32,7 +36,7 @@ async def fetch_stats(session, source_id, phrase, rate_limiter):
     async with rate_limiter:
         url = f"https://api.openalex.org/works"
 
-        filter_param = f'primary_location.source.id:{source_id}'
+        filter_param = f'primary_location.source.id:{source_id},from_publication_date:{FROM_YEAR}-01-01'
         if phrase:
             filter_param = f'title_and_abstract.search:{phrase},{filter_param}'
 
@@ -90,7 +94,6 @@ async def process_source(session, source_id, journal_name, semaphore, rate_limit
 
         except Exception as e:
             raise Exception(f"Error processing source {source_id}: {str(e)}")
-
 
 
 async def main():
