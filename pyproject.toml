@@ -8,4 +8,5 @@ dependencies = [
     "requests",
     "aiohttp",
     "tqdm",
+    "stanza>=1.11.0",
 ]

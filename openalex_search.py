@@ -2,13 +2,13 @@ import asyncio
 import csv
 import json
 import sys
-from pathlib import Path
 import urllib.parse
+from pathlib import Path
+
 import aiohttp
-import requests
 from tqdm.asyncio import tqdm
 
-CSV_FILE = "journals.csv"
+JOURNALS_INPUT = "journals.csv"
 CONCURRENCY = 1
 RATE_LIMIT = 10  # per second
 OUTPUT_DIR = Path("search_results")
@@ -69,7 +69,7 @@ async def main():
     try:
         source_ids = []
 
-        with open(CSV_FILE, 'r', newline='') as csvfile:
+        with open(JOURNALS_INPUT, 'r', newline='') as csvfile:
             reader = csv.DictReader(csvfile)
 
             if 'OpenAlexSourceId' not in reader.fieldnames:
