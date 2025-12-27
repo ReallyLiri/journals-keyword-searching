@@ -108,6 +108,7 @@ def main():
         trigram_counts = Counter()
 
         columns_to_process = ['title', 'keywords', 'abstract']
+        columns_for_ngrams = ['title', 'abstract']
 
         rows = list(reader)
 
@@ -135,16 +136,17 @@ def main():
 
                         word_counts.update(filtered_lemmas)
 
-                        pairs = extract_word_pairs(tokens_data)
-                        for word1, word2, distance in pairs:
-                            word_pairs[word1][word2]['count'] += 1
-                            word_pairs[word1][word2]['distance_sum'] += distance
+                        if column in columns_for_ngrams:
+                            pairs = extract_word_pairs(tokens_data)
+                            for word1, word2, distance in pairs:
+                                word_pairs[word1][word2]['count'] += 1
+                                word_pairs[word1][word2]['distance_sum'] += distance
 
-                        bigrams = extract_bigrams(tokens_data)
-                        bigram_counts.update(bigrams)
+                            bigrams = extract_bigrams(tokens_data)
+                            bigram_counts.update(bigrams)
 
-                        trigrams = extract_trigrams(tokens_data)
-                        trigram_counts.update(trigrams)
+                            trigrams = extract_trigrams(tokens_data)
+                            trigram_counts.update(trigrams)
 
     print("Writing words.csv...")
     with open('words.csv', 'w', newline='', encoding='utf-8') as f:
