@@ -27,16 +27,18 @@ def _load_journal_mapping():
     return journal_mapping
 
 
-def _load_author_ids():
-    author_ids = set()
+def _load_authors_data():
+    authors_data = {}
     with open(AUTHORS_FILE, 'r', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         for row in reader:
             ids_list = row['id'].split(';')
-            for author_id in ids_list:
+            names_list = row['name'].split(';')
+            for i, author_id in enumerate(ids_list):
                 if author_id.strip():
-                    author_ids.add(author_id.strip())
-    return author_ids
+                    author_name = names_list[i].strip() if i < len(names_list) else ''
+                    authors_data[author_id.strip()] = author_name
+    return authors_data
 
 
 def _load_journal_ids():
@@ -50,29 +52,31 @@ def _load_journal_ids():
     return journal_ids
 
 
-async def fetch_author_journal_stats(session, author_id, journal_id, rate_limiter):
+async def fetch_author_works_by_journal(session, author_id, rate_limiter):
     async with rate_limiter:
         url = f"https://api.openalex.org/works"
         params = {
-            'filter': f'primary_location.source.id:{journal_id},authorships.author.id:{author_id}',
+            'filter': f'authorships.author.id:{author_id}',
             'group_by': 'primary_location.source.id',
             'mailto': 'reallyliri@gmail.com'
         }
 
         async with session.get(url, params=params) as response:
             if response.status != 200:
-                print(f"Warning: HTTP {response.status} for author {author_id}, journal {journal_id}")
-                return 0
+                print(f"Warning: HTTP {response.status} for author {author_id}")
+                return {}
             data = await response.json()
 
+            journal_counts = {}
             group_by_results = data.get('group_by', [])
             for item in group_by_results:
-                if item.get('key') == journal_id:
-                    return item.get('count', 0)
-            return 0
+                journal_id = item.get('key', '')
+                if journal_id:
+                    journal_counts[journal_id] = item.get('count', 0)
+            return journal_counts
 
 
-async def generate_authors_works_data(all_json_data, author_ids, journal_ids, journal_mapping):
+async def generate_authors_works_data(all_json_data, authors_data, journal_ids, journal_mapping):
     # Count specific works from search results
     specific_works = defaultdict(int)
 
@@ -88,44 +92,45 @@ async def generate_authors_works_data(all_json_data, author_ids, journal_ids, jo
                     author_id = author.get('id', '')
                     if author_id:
                         author_id = author_id.replace('https://openalex.org/', '')
-                        if author_id in author_ids:
+                        if author_id in authors_data:
                             pair_key = (author_id, source_id)
                             specific_works[pair_key] += 1
 
-    # Generate all author-journal pairs
-    all_pairs = [(author_id, journal_id) for author_id in author_ids for journal_id in journal_ids]
-
-    # Fetch total works from API
+    # Fetch works grouped by journal for each author
     semaphore = asyncio.Semaphore(CONCURRENCY)
     rate_limiter = asyncio.Semaphore(RATE_LIMIT)
 
-    async def get_total_works(author_id, journal_id):
+    async def get_author_journals(author_id):
         async with semaphore:
-            return await fetch_author_journal_stats(session, author_id, journal_id, rate_limiter)
+            return await fetch_author_works_by_journal(session, author_id, rate_limiter)
 
-    print(f"Fetching total works for {len(all_pairs)} author-journal pairs...")
+    print(f"Fetching works by journal for {len(authors_data)} authors...")
 
     async with aiohttp.ClientSession() as session:
-        tasks = [get_total_works(author_id, journal_id) for author_id, journal_id in all_pairs]
-        total_works_results = await tqdm.gather(*tasks, desc="Fetching total works")
+        tasks = [get_author_journals(author_id) for author_id in authors_data.keys()]
+        journal_counts_results = await tqdm.gather(*tasks, desc="Fetching author works by journal")
 
     # Create output rows
     authors_works_rows = []
-    for i, (author_id, journal_id) in enumerate(all_pairs):
-        total_works = total_works_results[i]
-        specific_count = specific_works.get((author_id, journal_id), 0)
-        journal_name = journal_mapping.get(journal_id, '')
+    for author_id, journal_counts in zip(authors_data.keys(), journal_counts_results):
+        author_name = authors_data[author_id]
 
-        # Only include if total_works > 0
-        if total_works > 0:
-            row = {
-                'author_id': author_id,
-                'journal_id': journal_id,
-                'journal_name': journal_name,
-                'specific_works': specific_count,
-                'total_works': total_works
-            }
-            authors_works_rows.append(row)
+        for journal_id in journal_ids:
+            total_works = journal_counts.get(journal_id, 0)
+            specific_count = specific_works.get((author_id, journal_id), 0)
+            journal_name = journal_mapping.get(journal_id, '')
+
+            # Only include if total_works > 0
+            if total_works > 0:
+                row = {
+                    'author_id': author_id,
+                    'author_name': author_name,
+                    'journal_id': journal_id,
+                    'journal_name': journal_name,
+                    'specific_works': specific_count,
+                    'total_works': total_works
+                }
+                authors_works_rows.append(row)
 
     return authors_works_rows
 
@@ -135,10 +140,10 @@ def main():
     all_json_data = []
 
     journal_mapping = _load_journal_mapping()
-    author_ids = _load_author_ids()
+    authors_data = _load_authors_data()
     journal_ids = _load_journal_ids()
 
-    print(f"Loaded {len(author_ids)} author IDs and {len(journal_ids)} journal IDs")
+    print(f"Loaded {len(authors_data)} authors and {len(journal_ids)} journal IDs")
 
     for json_file in results_dir.glob('*.json'):
         print(f"Processing {json_file.name}...")
@@ -148,13 +153,13 @@ def main():
 
     # Generate authors_works.csv
     print("Generating author-journal works data...")
-    authors_works_rows = asyncio.run(generate_authors_works_data(all_json_data, author_ids, journal_ids, journal_mapping))
+    authors_works_rows = asyncio.run(generate_authors_works_data(all_json_data, authors_data, journal_ids, journal_mapping))
 
     if authors_works_rows:
         authors_works_rows.sort(key=lambda x: (x['author_id'], x['journal_id']))
 
         with open(OUTPUT_AUTHORS_WORKS_FILE, 'w', newline='', encoding='utf-8') as csvfile:
-            fieldnames = ['author_id', 'journal_id', 'journal_name', 'specific_works', 'total_works']
+            fieldnames = ['author_id', 'author_name', 'journal_id', 'journal_name', 'specific_works', 'total_works']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             writer.writeheader()
             writer.writerows(authors_works_rows)
