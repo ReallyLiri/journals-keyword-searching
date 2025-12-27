@@ -29,16 +29,35 @@ def _load_journal_mapping():
 
 def _load_authors_data():
     authors_data = {}
+    alias_to_primary = {}  # Maps alias IDs to primary (first) ID
+    primary_to_name = {}   # Maps primary ID to author name
+
     with open(AUTHORS_FILE, 'r', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         for row in reader:
-            ids_list = row['id'].split(';')
+            ids_list = [id.strip() for id in row['id'].split(';') if id.strip()]
             names_list = row['name'].split(';')
-            for i, author_id in enumerate(ids_list):
-                if author_id.strip():
-                    author_name = names_list[i].strip() if i < len(names_list) else ''
-                    authors_data[author_id.strip()] = author_name
-    return authors_data
+
+            if not ids_list:
+                continue
+
+            # First ID is considered the primary ID
+            primary_id = ids_list[0]
+
+            # Get the author name (use first name or the only name)
+            if len(names_list) == 1:
+                author_name = names_list[0].strip()
+            else:
+                author_name = names_list[0].strip() if names_list else ''
+
+            primary_to_name[primary_id] = author_name
+
+            # Map all IDs (including primary) to the primary ID
+            for author_id in ids_list:
+                alias_to_primary[author_id] = primary_id
+                authors_data[author_id] = author_name
+
+    return authors_data, alias_to_primary, primary_to_name
 
 
 def _load_journal_ids():
@@ -64,7 +83,7 @@ async def fetch_author_works_by_journal(session, author_id, rate_limiter):
         async with session.get(url, params=params) as response:
             if response.status != 200:
                 print(f"Warning: HTTP {response.status} for author {author_id}")
-                return {}
+                return {'author_id': author_id, 'journal_counts': {}}
             data = await response.json()
 
             journal_counts = {}
@@ -72,11 +91,12 @@ async def fetch_author_works_by_journal(session, author_id, rate_limiter):
             for item in group_by_results:
                 journal_id = item.get('key', '')
                 if journal_id:
+                    journal_id = journal_id.replace('https://openalex.org/', '')
                     journal_counts[journal_id] = item.get('count', 0)
-            return journal_counts
+            return {'author_id': author_id, 'journal_counts': journal_counts}
 
 
-async def generate_authors_works_data(all_json_data, authors_data, journal_ids, journal_mapping):
+async def generate_authors_works_data(all_json_data, authors_data, alias_to_primary, primary_to_name, journal_ids, journal_mapping):
     # Count specific works from search results
     specific_works = defaultdict(int)
 
@@ -110,20 +130,40 @@ async def generate_authors_works_data(all_json_data, authors_data, journal_ids, 
         tasks = [get_author_journals(author_id) for author_id in authors_data.keys()]
         journal_counts_results = await tqdm.gather(*tasks, desc="Fetching author works by journal")
 
-    # Create output rows
+    # Aggregate journal counts by primary author ID
+    primary_journal_counts = defaultdict(lambda: defaultdict(int))
+    for result in journal_counts_results:
+        author_id = result['author_id']
+        journal_counts = result['journal_counts']
+
+        # Get the primary ID for this author
+        primary_id = alias_to_primary.get(author_id, author_id)
+
+        # Aggregate counts for each journal
+        for journal_id, count in journal_counts.items():
+            primary_journal_counts[primary_id][journal_id] += count
+
+    # Also aggregate specific works by primary author ID
+    primary_specific_works = defaultdict(int)
+    for (author_id, journal_id), count in specific_works.items():
+        primary_id = alias_to_primary.get(author_id, author_id)
+        primary_specific_works[(primary_id, journal_id)] += count
+
+    # Create output rows using primary IDs only
     authors_works_rows = []
-    for author_id, journal_counts in zip(authors_data.keys(), journal_counts_results):
-        author_name = authors_data[author_id]
+    for primary_id in primary_to_name.keys():
+        author_name = primary_to_name[primary_id]
+        journal_counts = primary_journal_counts.get(primary_id, {})
 
         for journal_id in journal_ids:
             total_works = journal_counts.get(journal_id, 0)
-            specific_count = specific_works.get((author_id, journal_id), 0)
+            specific_count = primary_specific_works.get((primary_id, journal_id), 0)
             journal_name = journal_mapping.get(journal_id, '')
 
             # Only include if total_works > 0
             if total_works > 0:
                 row = {
-                    'author_id': author_id,
+                    'author_id': primary_id,
                     'author_name': author_name,
                     'journal_id': journal_id,
                     'journal_name': journal_name,
@@ -140,10 +180,10 @@ def main():
     all_json_data = []
 
     journal_mapping = _load_journal_mapping()
-    authors_data = _load_authors_data()
+    authors_data, alias_to_primary, primary_to_name = _load_authors_data()
     journal_ids = _load_journal_ids()
 
-    print(f"Loaded {len(authors_data)} authors and {len(journal_ids)} journal IDs")
+    print(f"Loaded {len(primary_to_name)} unique authors ({len(authors_data)} total IDs) and {len(journal_ids)} journal IDs")
 
     for json_file in results_dir.glob('*.json'):
         print(f"Processing {json_file.name}...")
@@ -153,7 +193,7 @@ def main():
 
     # Generate authors_works.csv
     print("Generating author-journal works data...")
-    authors_works_rows = asyncio.run(generate_authors_works_data(all_json_data, authors_data, journal_ids, journal_mapping))
+    authors_works_rows = asyncio.run(generate_authors_works_data(all_json_data, authors_data, alias_to_primary, primary_to_name, journal_ids, journal_mapping))
 
     if authors_works_rows:
         authors_works_rows.sort(key=lambda x: (x['author_id'], x['journal_id']))
