@@ -6,6 +6,7 @@ import stanza
 from tqdm import tqdm
 
 MIN_WORD_COUNT = 100
+MIN_NGRAM_COUNT = 50
 
 STOP_POS = {
     "DET", "ADP", "AUX", "PRON",
@@ -175,7 +176,7 @@ def main():
         writer = csv.writer(f)
         writer.writerow(['word1', 'word2', 'count'])
         for bigram, count in bigram_counts.most_common():
-            if meets_min_count(bigram, word_counts):
+            if count >= MIN_NGRAM_COUNT and meets_min_count(bigram, word_counts):
                 writer.writerow([*bigram, count])
 
     print("Writing words_trigrams.csv...")
@@ -183,7 +184,7 @@ def main():
         writer = csv.writer(f)
         writer.writerow(['word1', 'word2', 'word3', 'count'])
         for trigram, count in trigram_counts.most_common():
-            if meets_min_count(trigram, word_counts):
+            if count >= MIN_NGRAM_COUNT and meets_min_count(trigram, word_counts):
                 writer.writerow([*trigram, count])
 
     print("Done!")
