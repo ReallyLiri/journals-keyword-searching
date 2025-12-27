@@ -162,13 +162,13 @@ def main():
     print("Writing words_graph.csv...")
     with open('words_graph.csv', 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
-        writer.writerow(['word1', 'word2', 'avg_distance'])
+        writer.writerow(['word1', 'word2', 'avg_distance', 'pair_count'])
         for word1, connections in word_pairs.items():
             if word_counts[word1] >= MIN_WORD_COUNT:
                 for word2, data in connections.items():
-                    if word_counts[word2] >= MIN_WORD_COUNT:
+                    if word_counts[word2] >= MIN_WORD_COUNT and data['count'] >= MIN_WORD_COUNT:
                         avg_distance = data['distance_sum'] / data['count']
-                        writer.writerow([word1, word2, round(avg_distance, 2)])
+                        writer.writerow([word1, word2, round(avg_distance, 2), data['count']])
 
     print("Writing words_bigrams.csv...")
     with open('words_bigrams.csv', 'w', newline='', encoding='utf-8') as f:
