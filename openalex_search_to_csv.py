@@ -17,7 +17,10 @@ def _parse_abstract_inverted_index(abstract_inverted_index):
             word_positions.append((position, word))
 
     word_positions.sort(key=lambda x: x[0])
-    return " ".join([word for _, word in word_positions])
+    abstract = " ".join([word for _, word in word_positions])
+    if "An abstract is not available for this content" in abstract:
+        return ""
+    return abstract
 
 
 def _load_journal_mapping():
