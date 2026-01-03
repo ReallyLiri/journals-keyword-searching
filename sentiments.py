@@ -44,7 +44,10 @@ def run_prompt(prompt):
         response = client.chat(
             model=MODEL_NAME,
             messages=messages,
-            stream=False
+            stream=False,
+            options={
+                "num_predict": 4096
+            }
         )
 
         result = response['message']['content']
@@ -77,7 +80,7 @@ def clean_json_result(result, row_id):
     cleaned_result = cleaned_result[cleaned_result.index('{'):]
 
     if '}' not in cleaned_result:
-        cleaned_result += '}'
+        cleaned_result += '"}'
     else:
         cleaned_result = cleaned_result[:cleaned_result.rindex('}') + 1]
 
@@ -164,7 +167,9 @@ def analyze_sentiments():
     with open(INPUT_CSV, 'r', encoding='utf-8') as f:
         reader = csv.DictReader(f)
 
+        i = 0
         for row in reader:
+            i += 1
             row_id = row['id']
             title = row['title']
             abstract = row['abstract']
@@ -177,7 +182,7 @@ def analyze_sentiments():
             themes_done = analyze_themes_for_row(row_id, title, authors, content_section)
 
             if sentiment_done and themes_done:
-                print(f"Completed {row_id}")
+                print(f"Completed #{i}: {row_id}")
 
 
 if __name__ == "__main__":
