@@ -1,0 +1,12 @@
+{
+  "themes": [
+    "occupation",
+    "resistance",
+    "war crimes",
+    "oppression",
+    "settlements", // implied by "settler colonialism" and "West Bank"
+    "Zionism",
+    "anti-Zionism",
+    "Nakba"
+  ]
+}

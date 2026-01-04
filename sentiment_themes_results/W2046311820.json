@@ -1,0 +1,13 @@
+{
+  "themes": [
+    "resistance",
+    "occupation",
+    "oppression",
+    "jihad",
+    "martyrdom",
+    "war crimes",
+    "nationalism", // implicit in concepts like "Lebanese Shi'a" and "Hizbullah"
+    "religion", // implied through the focus on Islamic scholars and their writings
+    "politics"  // implicit through the context of resistance movements and political ideologies
+  ]
+}
