@@ -1,0 +1,8 @@
+{
+    "sentiment": "neutral",
+    "reason": "The text is a review of academic books, and does not express any opinion about Israel itself."
+  },
+  {
+    "sentiment": "negative",
+    "reason": "The book 'Israel's Ayatollahs: Meir Kahane and the Far Right in Israel' by Raphael Mergui and Philippe Simonnot has a negative sentiment towards Israel, as it critiques far-right extremists in Israel."
+  }

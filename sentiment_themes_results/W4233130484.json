@@ -1,0 +1,11 @@
+{
+  "themes": [
+    "colonialism",
+    "occupation",
+    "oppression",
+    "settlements", // implied by the inclusion of "West Bank" in the categories
+    "refugee",
+    "Zionism",
+    "Nakba"
+  ]
+}

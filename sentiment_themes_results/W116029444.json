@@ -1,0 +1,11 @@
+{
+  "themes": [
+    "occupation",
+    "oppression",
+    "nation building",
+    "liberalism",
+    "peace",
+    "settlement colonialism", // assuming settler colonialism implies colonialism
+    "Palestinian politics"
+  ]
+}
