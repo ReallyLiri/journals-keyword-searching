@@ -2,8 +2,3 @@
   "sentiment": "negative",
   "reason": "The case study is about torture, which has a negative connotation. Additionally, the mention of 'Israel' as part of the title may have an implicit negative bias."
 }
-* The book reviews of "The Environment and Christian Ethics" by Michael S. Northcott and "Gender Equality and Welfare States" by Diane Sainsbury:
-{
-  "sentiment": "unclassified",
-  "reason": "These book reviews do not mention Israel or any related topics, so the sentiment towards Israel cannot be determined."
-}

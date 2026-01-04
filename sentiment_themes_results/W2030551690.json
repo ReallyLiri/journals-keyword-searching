@@ -2,7 +2,7 @@
 "themes": [
   "immigration",
   "migration",
-  "settlements", // implicit reference to colonialism/settler colonialism
+  "settlements",
   "ethnicity",
   "nationalism"
 ]

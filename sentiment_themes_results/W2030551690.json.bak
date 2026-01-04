@@ -1,0 +1,9 @@
+{
+"themes": [
+  "immigration",
+  "migration",
+  "settlements", // implicit reference to colonialism/settler colonialism
+  "ethnicity",
+  "nationalism"
+]
+}

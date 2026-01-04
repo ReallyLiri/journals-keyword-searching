@@ -4,11 +4,11 @@
     "occupation",
     "oppression",
     "resistance",
-    "BDS", // Boycott, Divestment and Sanctions
-    "hasbara", // refers to Israeli PR efforts
-    "Nakba", // Palestinian catastrophe or day of mourning
-    "Zionism", // political movement advocating for a Jewish homeland in Palestine
-    "antisemitism", // prejudice against Jews
-    "anti-Zionism" // opposition to Zionism and the establishment of Israel
+    "BDS",
+    "hasbara",
+    "Nakba",
+    "Zionism",
+    "antisemitism",
+    "anti-Zionism"
   ]
 }
