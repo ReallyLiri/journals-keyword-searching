@@ -1,11 +1,3 @@
 {
   "themes": []
 }
-
-There are no themes listed in the provided text that relate to colonialism, settler colonialism, apartheid, genocide, fascism, occupation, oppression, resistance, war crimes, ethnic cleansing, immigration, migration, refugee, innovation, democracy, nation building, liberalism, peace, tolerance, agency, egalitarian, ethno-national, nazism, holocaust, religious-zionist, supremacy, racism, Nakba, Zionism, Zionist, Messianism, messianic, Whole-Israel, West Bank, antisemitism, anti-Zionism, or diaspora.
-
-However, the text does mention Christianity and Melanesia, which could be related to themes such as Christianization, evangelism, cultural exchange, and globalization. If you'd like to include these themes in your output, the result would be:
-
-{
-  "themes": ["Christianization", "evangelism", "cultural exchange", "globalization"]
-}

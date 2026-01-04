@@ -1,5 +1,1 @@
-{"sentiment": "neutral", "reason": "review of academic books"},
-  {"sentiment": "neutral", "reason": "discusses Israeli ethnicity and pluralism"},
-  {"sentiment": "negative", "reason": "describes the Holocaust"},
-  {"sentiment": "neutral", "reason": "historical analysis of Nazi ideology and power struggles"},
-  {"sentiment": "positive", "reason": "explores complex relationship between Black Americans and Israel"}
+{"sentiment": "neutral", "reason": "review of academic books"}
