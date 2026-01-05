@@ -135,7 +135,7 @@ async def main():
                 column_name = _col_name(phrase)
                 fieldnames.append(column_name)
 
-            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames, quoting=csv.QUOTE_ALL)
 
             writer.writeheader()
             for stat in all_stats:

@@ -29,8 +29,7 @@ def _load_journal_mapping():
         reader = csv.DictReader(f)
         for row in reader:
             source_id = row['OpenAlexSourceId']
-            journal_name = row['Journal Name']
-            journal_mapping[source_id] = journal_name
+            journal_mapping[source_id] = row
     return journal_mapping
 
 
@@ -49,7 +48,8 @@ def _extract_data_from_json(json_data, journal_mapping):
         primary_location = item.get('primary_location', {})
         source = primary_location.get('source', {}) if primary_location else {}
         row['source_id'] = source.get('id', '').replace(openalex_prefix, '') if source else ''
-        row['journal_name'] = journal_mapping.get(row['source_id'], '')
+        row['journal_name'] = journal_mapping.get(row['source_id'], {}).get('Journal Name', '')
+        row['journal_category'] = journal_mapping.get(row['source_id'], {}).get('Category', '')
 
         open_access = item.get('open_access', {})
         row['oa_status'] = open_access.get('oa_status', '') if open_access else ''
@@ -57,7 +57,9 @@ def _extract_data_from_json(json_data, journal_mapping):
 
         authors = item.get('authorships', [])
         author_names = [author.get('raw_author_name') for author in authors if author.get('raw_author_name')]
+        author_ids = [author.get('author', {}).get('id', '').replace(openalex_prefix, '') for author in authors if author.get('author', {}).get('id')]
         row['authors'] = ';'.join(author_names)
+        row['author_ids'] = ';'.join(author_ids)
 
         row['cited_by_count'] = item.get('cited_by_count', 0)
 
@@ -92,7 +94,7 @@ def main():
         fieldnames = all_data[0].keys()
 
         with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
-            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames, quoting=csv.QUOTE_ALL)
             writer.writeheader()
             writer.writerows(all_data)
 

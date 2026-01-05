@@ -54,7 +54,7 @@ def collect_sentiments():
 
     with open(OUTPUT_CSV, 'w', encoding='utf-8', newline='') as f:
         fieldnames = ['id', 'sentiment', 'sentiment_reason', 'themes']
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(f, fieldnames=fieldnames, quoting=csv.QUOTE_ALL)
         writer.writeheader()
         writer.writerows(rows)
 
