@@ -24,12 +24,14 @@ def normalize_name(name):
 
 
 def aggregate_authors():
-    normalized_to_group_id = {}
-    name_to_group_id = {}
+    # Group by author_id first, then by normalized name for those without IDs
+    author_id_to_group_id = {}
+    normalized_name_to_group_id = {}
     group_id_counter = 0
-    group_normalized_names = {}
+    group_names = defaultdict(set)
 
     author_data = defaultdict(lambda: {
+        'author_names': set(),
         'author_ids': set(),
         'work_ids': set(),
         'specific_work_ids': set(),
@@ -49,8 +51,12 @@ def aggregate_authors():
 
         for row in reader:
             row_count += 1
+            if row_count % 10000 == 0:
+                print(f"Processed {row_count:,} / ~1,110,000 rows...")
 
             author_name = row.get('author_name', '').strip()
+            author_id = row.get('author_id', '').strip()
+
             if not author_name:
                 continue
 
@@ -58,26 +64,46 @@ def aggregate_authors():
             if not work_id:
                 continue
 
-            if author_name in name_to_group_id:
-                group_id = name_to_group_id[author_name]
+            # Determine group_id based on author_id first, then normalized name
+            group_id = None
+
+            if author_id:
+                # Check if this author_id already has a group
+                if author_id in author_id_to_group_id:
+                    group_id = author_id_to_group_id[author_id]
+                else:
+                    # Check if any existing group has this author_id
+                    for gid, data in author_data.items():
+                        if author_id in data['author_ids']:
+                            group_id = gid
+                            author_id_to_group_id[author_id] = gid
+                            break
+
+                    if group_id is None:
+                        # Create new group for this author_id
+                        group_id = group_id_counter
+                        group_id_counter += 1
+                        author_id_to_group_id[author_id] = group_id
             else:
+                # No author_id, use normalized name
                 normalized_name = normalize_name(author_name)
 
-                if normalized_name in normalized_to_group_id:
-                    group_id = normalized_to_group_id[normalized_name]
+                if normalized_name in normalized_name_to_group_id:
+                    group_id = normalized_name_to_group_id[normalized_name]
                 else:
+                    # Create new group for this normalized name
                     group_id = group_id_counter
                     group_id_counter += 1
-                    normalized_to_group_id[normalized_name] = group_id
-                    group_normalized_names[group_id] = normalized_name
-
-                name_to_group_id[author_name] = group_id
+                    normalized_name_to_group_id[normalized_name] = group_id
 
             data = author_data[group_id]
+            data['author_names'].add(author_name)
+            group_names[group_id].add(author_name)
 
-            author_id = row.get('author_id', '').strip()
             if author_id:
                 data['author_ids'].add(author_id)
+                # Update mapping for any new author_id in this group
+                author_id_to_group_id[author_id] = group_id
 
             data['work_ids'].add(work_id)
 
@@ -129,10 +155,25 @@ def aggregate_authors():
     print("Creating output...")
 
     output_rows = []
+    filtered_count = 0
+
     for group_id, data in author_data.items():
+        # Skip authors with 0 Israel-related works
+        if len(data['specific_work_ids']) == 0:
+            filtered_count += 1
+            continue
+
         years_list = sorted(data['years']) if data['years'] else []
-        normalized_name = group_normalized_names.get(group_id, '')
-        title_case_name = ' '.join(word.capitalize() for word in normalized_name.split()) if normalized_name else ''
+
+        # Get the most common name form or the first one
+        names = group_names[group_id]
+        if names:
+            # Use the normalized form in title case
+            normalized_names = [normalize_name(n) for n in names]
+            most_common_normalized = max(set(normalized_names), key=normalized_names.count)
+            title_case_name = ' '.join(word.capitalize() for word in most_common_normalized.split())
+        else:
+            title_case_name = ''
 
         row = {
             'author_name': title_case_name,
@@ -162,6 +203,8 @@ def aggregate_authors():
         writer.writerows(output_rows)
 
     print(f"Aggregated {len(author_data):,} unique author groups")
+    print(f"Filtered out {filtered_count:,} authors with 0 Israel-related works")
+    print(f"Final output: {len(output_rows):,} authors")
     print(f"Output saved to {OUTPUT_FILE}")
 
     return output_rows
@@ -169,8 +212,8 @@ def aggregate_authors():
 
 def main():
     print("Aggregating author data...")
-    print("Note: This version groups authors by EXACT normalized name match only")
-    print("(spaces/dashes/special chars are normalized, but no fuzzy matching)")
+    print("Note: This version groups authors by author_id (when available) or normalized name")
+    print("Authors with 0 Israel-related works are excluded from output")
     aggregate_authors()
 
 
