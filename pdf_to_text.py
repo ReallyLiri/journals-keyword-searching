@@ -3,17 +3,13 @@
 import os
 import sys
 from pathlib import Path
-from PyPDF2 import PdfReader
+from pdfminer.high_level import extract_text
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from tqdm import tqdm
 
 def pdf_to_text(pdf_path, output_path):
     try:
-        reader = PdfReader(pdf_path)
-        text = ""
-
-        for page_num, page in enumerate(reader.pages):
-            page_text = page.extract_text()
-            if page_text:
-                text += page_text
+        text = extract_text(pdf_path)
 
         lines = text.split('\n')
         processed_lines = []
@@ -34,10 +30,10 @@ def pdf_to_text(pdf_path, output_path):
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(processed_text)
 
-        print(f"Converted: {pdf_path} -> {output_path}")
+        return True
 
     except Exception as e:
-        print(f"Error processing {pdf_path}: {e}", file=sys.stderr)
+        return f"Error processing {pdf_path}: {e}"
 
 def process_directory(directory):
     dir_path = Path(directory)
@@ -52,11 +48,35 @@ def process_directory(directory):
         print(f"No PDF files found in {directory}")
         return
 
-    print(f"Found {len(pdf_files)} PDF files")
+    successful = 0
+    failed = 0
+    errors = []
 
-    for pdf_file in pdf_files:
-        output_file = pdf_file.with_suffix('.txt')
-        pdf_to_text(pdf_file, output_file)
+    with ThreadPoolExecutor(max_workers=4) as executor:
+        futures = {
+            executor.submit(pdf_to_text, pdf_file, pdf_file.with_suffix('.txt')): pdf_file
+            for pdf_file in pdf_files
+        }
+
+        with tqdm(total=len(pdf_files), desc="Converting PDFs") as pbar:
+            for future in as_completed(futures):
+                pdf_file = futures[future]
+                result = future.result()
+
+                if result is True:
+                    successful += 1
+                else:
+                    failed += 1
+                    errors.append(result)
+
+                pbar.update(1)
+
+    print(f"\nCompleted: {successful} successful, {failed} failed")
+
+    if errors:
+        print("\nErrors:", file=sys.stderr)
+        for error in errors:
+            print(f"  {error}", file=sys.stderr)
 
 def main():
     if len(sys.argv) != 2:
