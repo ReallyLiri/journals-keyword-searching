@@ -20,6 +20,8 @@ def count_israel_in_text(row, base_dir):
         url = row.get('url', '')
         if url and 'jstor.org/stable/' in url:
             file_id = url.split('jstor.org/stable/')[-1]
+            if '/' in file_id:
+                file_id = file_id.split('/')[-1]
         else:
             file_id = row.get('citation_key', '')
 
@@ -44,6 +46,7 @@ def process_csv_and_generate_wordclouds(csv_path):
     try:
         base_dir = csv_path.parent
         all_texts = []
+        regenerate_combined = False
 
         dir_name_words = set(re.findall(r'\b[a-zA-Z]+\b', base_dir.name.lower()))
 
@@ -60,19 +63,21 @@ def process_csv_and_generate_wordclouds(csv_path):
             row[COLUMN_NAME] = '' if count is None else str(count)
 
             if text:
-                all_texts.append(text)
                 output_file = base_dir / f'{file_id}_wordcloud.png'
-                generate_wordcloud(text, output_file, dir_name_words)
+                if not output_file.exists():
+                    generate_wordcloud(text, output_file, dir_name_words)
+                    regenerate_combined = True
+                all_texts.append(text)
 
         with open(csv_path, 'w', encoding='utf-8', newline='') as f:
             writer = csv.DictWriter(f, fieldnames=fieldnames)
             writer.writeheader()
             writer.writerows(rows)
 
-        if all_texts:
+        combined_output_file = base_dir / 'wordcloud.png'
+        if all_texts and (regenerate_combined or not combined_output_file.exists()):
             combined_text = ' '.join(all_texts)
-            output_file = base_dir / 'wordcloud.png'
-            generate_wordcloud(combined_text, output_file, dir_name_words)
+            generate_wordcloud(combined_text, combined_output_file, dir_name_words)
 
         return csv_path, len(rows), None
     except Exception as e:
